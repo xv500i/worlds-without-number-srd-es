@@ -15,7 +15,8 @@ Three are mental attributes.
 - Wisdom, reflecting noticing things, making judgments, reading situations, and intuition.
 - Charisma, reflecting commanding, charming, attracting attention, and being taken seriously.
 
-NPCs do not normally have attributes. If necessary, the GM can choose them as appropriate, but usually they are assumed to have average scores if it's ever relevant.
+NPCs do not normally have attributes.
+If necessary, the GM can choose them as appropriate, but usually they are assumed to have average scores if it's ever relevant.
 
 ### Generating Attributes
 
@@ -27,10 +28,16 @@ If an array is used a score may not be substituted with a 14 later.
 
 ### Attribute Modifiers
 
-Each attribute has a modifier, usually ranging from -2 to +2. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
-An attribute score of 3 has a modifier of -2. A score of 4-7 has a modifier of -1. A score of 8-13 has a modifier of +0. A score of 14-17 has a modifier of +1. A score of 18 has a modifier of +2.
+Each attribute has a modifier, usually ranging from -2 to +2.
+This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
+An attribute score of 3 has a modifier of -2.
+A score of 4-7 has a modifier of -1.
+A score of 8-13 has a modifier of +0.
+A score of 14-17 has a modifier of +1.
+A score of 18 has a modifier of +2.
 
-Some Foci and abilities may add bonuses or penalties to an attribute's base modifier. Such bonuses or penalties cannot increase the modifier above +2 or below -2 unless explicitly indicated.
+Some Foci and abilities may add bonuses or penalties to an attribute's base modifier.
+Such bonuses or penalties cannot increase the modifier above +2 or below -2 unless explicitly indicated.
 Some injuries or character advancements may alter an attribute score; this new score may change the attribute's modifier.
 
 ## Skills
@@ -64,10 +71,13 @@ No character can begin play with skills above level-1.
 
 ### The Skill List
 
-The following skills are standard to most fantasy campaigns. Gms may add or subtract from this list for specialized settings. Some skills may overlap at points in their application; the character may use either skill at their discretion.
+The following skills are standard to most fantasy campaigns.
+Gms may add or subtract from this list for specialized settings.
+Some skills may overlap at points in their application; the character may use either skill at their discretion.
 
 - **Administer**: Keep an organization running smoothly, scribe things well, plan out logistics, identify incompetent or treacherous workers, analyze records or archives, or otherwise do things that an executive or middle-manager would need to do.
-- **Connect**: Find or know people who are useful to your purposes, make friendships or social acquaintances, know who to talk to get favors or services, and call on the help or resources of organizations you belong to. Connect covers your PC's ability to find the people you need, though convincing them to help may require more than this.
+- **Connect**: Find or know people who are useful to your purposes, make friendships or social acquaintances, know who to talk to get favors or services, and call on the help or resources of organizations you belong to.
+  Connect covers your PC's ability to find the people you need, though convincing them to help may require more than this.
 - **Convince**: Persuade a listener that something you are saying is true.
   Naturally, the more implausible the claim or more emotionally repugnant it is to them, the more difficult it is to persuade them.
   Furthermore, how they act on their newfound conviction is up to them and their motivations, and may not be perfectly predictable.
@@ -93,15 +103,18 @@ The following skills are standard to most fantasy campaigns. Gms may add or subt
   Most performers will have a particular field they excel at, though polymaths might exist if the PC's background is appropriate for such versatility.
 - **Pray**: Perform the clerical rites of your religion, and be familiar with the gods, demons, and taboos of major and minor faiths, and identify iconography and persons of religious importance.
   Pray also helps you know the state of local faiths and the important persons in their hierarchies.
-- **Punch**: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools.
+- **Punch**: Fight unarmed or with natural body weaponry.
+  Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools.
   This mode of fighting is inefficient at best without some special Focus to improve it, but it's reliably non-lethal.
 - **Ride**: Ride an animal, drive a cart or carriage, or otherwise deal with land transportation.
   This skill also includes competence at mount care and tending, basic cart or carriage repair, judging good horseflesh, and other skills appropriate to a beast-rider of whatever society the PC comes from.
 - **Sail**: Sail or repair a ship, build small craft, navigate by the stars, read sea weather, manage sailors, and otherwise conduct the business of a professional mariner.
   This skill may apply to more esoteric means of vehicular travel in some societies.
-- **Shoot**: Fire a bow or crossbow or throw a hurled weapon. Maintain ranged weaponry and fletch arrows.
+- **Shoot**: Fire a bow or crossbow or throw a hurled weapon.
+  Maintain ranged weaponry and fletch arrows.
 - **Sneak**: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, defeat traps, or otherwise overcome security measures.
-- **Stab**: Fight with melee weapons or throw a hurled weapon. Maintain and identify weaponry.
+- **Stab**: Fight with melee weapons or throw a hurled weapon.
+  Maintain and identify weaponry.
 - **Survive**: Hunt, fish, navigate by the stars, mitigate environmental hazards, identify plants and wildlife, and craft basic survival tools and shelter.
   A PC's Survive skill is most pertinent to the environments in their background, but the basic principles can be applied in all but the most alien environments.
 - **Trade**: Buy and sell at a profit, identify the worth of goods or treasures, deal with merchants and traders, find black-market goods and services, and know laws regarding smuggling and contraband.
@@ -293,10 +306,12 @@ You have an unusual competence with thrown weapons and melee attacks.
 This Focus' benefits do not apply to unarmed attacks or nonthrown projectile weapons.
 This Focus' bonuses also don't stack with Deadeye or other Foci that add a skill's level to your damage or Shock.
 
-Level 1: Gain Stab as a bonus skill. You can Ready a Stowed melee or thrown weapon as an Instant action.
+Level 1: Gain Stab as a bonus skill.
+You can Ready a Stowed melee or thrown weapon as an Instant action.
 You may add your Stab skill level to a melee or thrown weapon's damage roll or Shock damage, assuming it has any to begin with.
 
-Level 2: The Shock from your melee attacks always treats the target as if they have AC 10. Gain a +1 bonus to hit with all thrown or melee attacks.
+Level 2: The Shock from your melee attacks always treats the target as if they have AC 10.
+Gain a +1 bonus to hit with all thrown or melee attacks.
 
 #### Artisan
 
@@ -316,7 +331,8 @@ You automatically succeed at any attempt to build masterwork gear, and once per 
 
 You are practiced at sudden murder, and have certain advantages in carrying out an Execution Attack.
 
-Level 1: Gain Sneak as a bonus skill. You can conceal an object no larger than a knife from anything less invasive than a strip search.
+Level 1: Gain Sneak as a bonus skill.
+You can conceal an object no larger than a knife from anything less invasive than a strip search.
 You can draw or produce this object as an On Turn action, and your point-blank thrown or melee attacks made during a surprise round with it cannot miss the target.
 
 Level 2: You can take a Move action on the same round as you make an Execution Attack, closing rapidly with a target before you attack.
@@ -348,7 +364,8 @@ Level 1: Gain any combat skill as a bonus skill.
 You can use knifesized thrown weapons in melee without suffering penalties for the proximity of melee attackers.
 You ignore Shock damage from melee assailants, even if you're unarmored at the time, but invoking this benefit disrupts any spellcasting you might do that round due to the need for violently active evasion.
 
-Level 2: The Shock damage from your melee attacks treats all targets as if they were AC 10. The Fighting Withdrawal combat action is treated as an On Turn action for you and can be performed freely.
+Level 2: The Shock damage from your melee attacks treats all targets as if they were AC 10.
+The Fighting Withdrawal combat action is treated as an On Turn action for you and can be performed freely.
 
 #### Connected
 
@@ -403,7 +420,8 @@ Once per scene, as an On Turn action when target shooting at an inanimate, non-c
 
 #### Dealmaker
 
-You have an uncanny ability to sniff out traders and find good deals, licit or otherwise. Even those who might not normally be disposed to bargain with you can sometimes be persuaded to pause and negotiate, if you have something they want.
+You have an uncanny ability to sniff out traders and find good deals, licit or otherwise.
+Even those who might not normally be disposed to bargain with you can sometimes be persuaded to pause and negotiate, if you have something they want.
 
 Level 1: Gain Trade as a bonus skill.
 With a half hour of effort you can find a buyer or seller for any good or service that can be traded in the community, legal or otherwise.
@@ -414,7 +432,9 @@ If it's at all plausible for it to make such terms, it will do so for a price or
 
 #### Developed Attribute
 
-Your hero has a remarkable degree of development to one or more of their attributes. This may be derived from an eldritch bloodline, native brilliance, or sheer, stubborn determination. This Focus cannot be taken by heroes with the Mage or Partial Mage classes.
+Your hero has a remarkable degree of development to one or more of their attributes.
+This may be derived from an eldritch bloodline, native brilliance, or sheer, stubborn determination.
+This Focus cannot be taken by heroes with the Mage or Partial Mage classes.
 
 Level 1: Choose an attribute; its modifier is increased by +1, up to a maximum of +3.
 The actual score does not change, but the modifier increases, and may increase again if later advancement improves the attribute enough.
@@ -498,7 +518,8 @@ This luck does not favor the already-blessed; this Focus can only be taken by a 
 Level 1: Once per week, a blow or effect that would otherwise have left you killed, mortally wounded, or rendered helpless somehow fails to connect or affect you.
 You make any rolls related to games of chance twice, taking the better roll.
 
-Level 2: Once per session, in a situation of need or peril, you can trust to your luck and roll 1d6. On a 2 or more, something fortunate will happen to further your goal, provide an escape from immediate peril, or otherwise give you an advantage you need, if not immediate
+Level 2: Once per session, in a situation of need or peril, you can trust to your luck and roll 1d6.
+On a 2 or more, something fortunate will happen to further your goal, provide an escape from immediate peril, or otherwise give you an advantage you need, if not immediate
 victory.
 On a 1, the situation will immediately grow much worse, as
 the GM sees fit.
@@ -520,7 +541,8 @@ Immunity to a persistent effect lasts for the rest of the scene.
 #### Poisoner
 
 You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals.
-It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a Main Action to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first.
+It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels.
+Blade venoms take a Main Action to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first.
 Detecting poisoned food is a Wis/Notice skill check against 10, or 12 if the diner's not a noble or otherwise normally wary of poison.
 One dose can poison up to a half-dozen diners.
 
@@ -530,7 +552,8 @@ Your toxins inflict 2d6 damage plus your level on a hit or Shock, with a Physica
 Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero hit points are simply incapacitated for an hour.
 
 Level 2: You are immune to poison and can apply a universal antidote to any poisoned ally as a Main Action.
-Any attempt to detect or save against your poisons takes a penalty equal to your Heal skill. Your ingested poisons count as an Execution Attack against unsuspecting targets, with Heal used for the Physical saving throw penalty and 1d6 damage per level done on a success.
+Any attempt to detect or save against your poisons takes a penalty equal to your Heal skill.
+Your ingested poisons count as an Execution Attack against unsuspecting targets, with Heal used for the Physical saving throw penalty and 1d6 damage per level done on a success.
 Such poisons can be non-lethal at your discretion.
 
 #### Polymath
@@ -553,7 +576,8 @@ Level 1: Gain Ride as a bonus skill.
 Your steeds all count as Morale 12 in battle, use your AC if it's higher than theirs, and can travel 50% further in a day than normal for their kind.
 You can intuitively communicate with riding beasts, gaining as much information from it as its intellect can convey.
 
-Level 2: Once per scene, negate a successful attack against your steed as an Instant action. Once per scene, reroll any failed Ride skill check.
+Level 2: Once per scene, negate a successful attack against your steed as an Instant action.
+Once per scene, reroll any failed Ride skill check.
 You can telepathically send and receive simple warnings, thoughts, and commands to and from your steed so long as it's within two hundred feet.
 You can so bond with one steed at a time, taking an hour to do so.
 
@@ -566,7 +590,8 @@ blows don't draw blood.
 Level 1: Gain Punch or Stab as a bonus skill.
 The Shock damage of your weapon treats all targets as if they were AC 10, assuming your weapon is capable of harming the target in the first place and the target is not immune to Shock.
 
-Level 2: In addition, you gain a +2 bonus to the Shock damage rating of all melee weapons and unarmed attacks that do Shock. As usual, regular hits never do less damage than this Shock would do on a miss.
+Level 2: In addition, you gain a +2 bonus to the Shock damage rating of all melee weapons and unarmed attacks that do Shock.
+As usual, regular hits never do less damage than this Shock would do on a miss.
 
 #### Sniper's Eye
 
@@ -597,13 +622,15 @@ You are remarkably talented at a particular skill.
 Whether a marvelous cat burglar, a famed athlete, a brilliant scholar, or some other savant, your expertise is extremely reliable.
 You may take this Focus more than once for different skills.
 
-Level 1: Gain any skill as a bonus, except for Magic, Stab, Shoot, or Punch. Roll 3d6 and drop the lowest die for all skill checks in this skill.
+Level 1: Gain any skill as a bonus, except for Magic, Stab, Shoot, or Punch.
+Roll 3d6 and drop the lowest die for all skill checks in this skill.
 
 Level 2: Roll 4d6 and drop the two lowest dice for all skill checks in this skill.
 
 #### Spirit Familiar
 
-You have a minor spirit, devil, construct, magical beast, or other creature as a devoted companion. While its abilities are limited, it is absolutely loyal to you.
+You have a minor spirit, devil, construct, magical beast, or other creature as a devoted companion.
+While its abilities are limited, it is absolutely loyal to you.
 
 Level 1: Choose a form for your familiar no smaller than a cat nor larger than a human.
 It has the traits and abilities of an entity created by Calculation of the Evoked Servitor but may be summoned or dismissed as a Main Action, appearing within melee range of its owner.
@@ -643,7 +670,8 @@ This ability can be used against any stationary magical effect that's susceptibl
 Your empty hands are more dangerous than swords in the grip of the less gifted.
 Your unarmed attacks are counted as melee weapons when it comes to binding up opponents wielding bows and similar ranged long arms, though you need at least one hand free to do so.
 
-Level 1: Gain Punch as a bonus skill. Your unarmed attacks become more dangerous as your Punch skill increases.
+Level 1: Gain Punch as a bonus skill.
+Your unarmed attacks become more dangerous as your Punch skill increases.
 At level-0, they do 1d6 damage.
 At level-1, they do 1d8 damage.
 At level-2 they do 1d10, level-3 does 1d12, and level-4 does 1d12+1.
@@ -700,11 +728,14 @@ Other gifts may exist.
 You are a bodyguard, shieldbearer, or other gifted defender of others, accustomed to the roil of bloody battle and desperate struggle.
 You have an exceptional ability to shield your allies from the attacks of those who would slay them.
 
-Level 1: Gain Stab or Punch as a bonus skill. Gain a +2 on all skill checks for the Screen Ally combat action. You can screen against one more attacker per round than your skill would normally allow.
+Level 1: Gain Stab or Punch as a bonus skill.
+Gain a +2 on all skill checks for the Screen Ally combat action.
+You can screen against one more attacker per round than your skill would normally allow.
 Once per round, you can Screen Ally against even intangible spells or magical attacks or bodily shield them from an area-effect explosion or magic.
 Such attempts require the usual successful opposing skill check, with the assailant using their Magic skill.
 
-Level 2: The first Screen Ally skill check you make in a round is always successful. Gain +2 AC while screening someone.
+Level 2: The first Screen Ally skill check you make in a round is always successful.
+Gain +2 AC while screening someone.
 You can screen against foes as large as ogres or oxen.
 
 ## Final Character Creation Steps
@@ -716,19 +747,23 @@ The player now records their character's final statistics and chooses their name
 Your character's hit points measure their distance from defeat or death.
 If your character is reduced to zero hit points, they are either dying or incapacitated based on the nature of the injury.
 
-A new character rolls the hit die for their class, adding their Constitution modifier to it. If they have chosen the Die Hard Focus they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
+A new character rolls the hit die for their class, adding their Constitution modifier to it.
+If they have chosen the Die Hard Focus they may add +2 to the roll.
+The final value for a given die cannot be less than 1 hit point.
 
 A character gains hit points as they advance in character level, rerolling their prior levels and taking the new score if it's higher, as explained in the rules section.
 
 ### Record Attack Bonus
 
-Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll.
+Your character has a certain degree of basic combat competence based on their class.
+This bonus increases as you advance in character levels and is added to your attack roll.
 
 A new character's attack bonus is usually +0, though Full Warriors start with a +1 base attack bonus.
 
 ### Record Saving Throws
 
-When faced with unusual dangers such as fireball explosions, toxic darts, pit traps, or magical curses, the character may need to make a saving throw to resist or mitigate the peril. Saving throws are rolled on a d20 and are explained in the rules section.
+When faced with unusual dangers such as fireball explosions, toxic darts, pit traps, or magical curses, the character may need to make a saving throw to resist or mitigate the peril.
+Saving throws are rolled on a d20 and are explained in the rules section.
 
 Physical saving throws are used to resist exhaustion, disease, poison, or other biological harms.
 A new character's Physical save target is equal to 15 minus the better of their Strength or Constitution modifiers.
@@ -750,7 +785,8 @@ A character's save targets all decrease by 1 point each time they advance an exp
 
 Your character has developed some side interest that may be unrelated to your background or class.
 You can pick any one skill of your choice.
-This skill pick is gained at level-0, or level-1 if it's already level-0. You cannot pick a skill that is already at level-1.
+This skill pick is gained at level-0, or level-1 if it's already level-0.
+You cannot pick a skill that is already at level-1.
 
 ### Mages Choose Starting Spells
 
@@ -786,7 +822,8 @@ You add your attribute modifier to both damage rolls and Shock.
 Punch weapons or unarmed attacks can also add your Punch skill.
 
 For your PC's Armor Class, record the AC of the armor you usually wear.
-Unarmored humans have an AC of 10. Armor Class is modified by your Dexterity modifier.
+Unarmored humans have an AC of 10.
+Armor Class is modified by your Dexterity modifier.
 
 ### Choose a Name and Goal
 

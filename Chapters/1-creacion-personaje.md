@@ -283,9 +283,9 @@ They do not have the Masterful Expertise ability, however, as they lack the vers
 #### Partial Mage
 
 A Partial Mage is treated as a Mage, and gains the Arcane Tradition ability, allowing them to pick a magical tradition for their powers.
-That tradition’s abilities will be more limited for Partial Mages, however, as described under each of the paths.
+That tradition's abilities will be more limited for Partial Mages, however, as described under each of the paths.
 
-It’s even possible for a PC to pick the Partial Mage class twice for two different magical traditions, gaining portions of both arcane powers.
+It's even possible for a PC to pick the Partial Mage class twice for two different magical traditions, gaining portions of both arcane powers.
 They then use the usual full Mage chart for hit dice, attack bonus, and Foci, and the spellcasting table for dual casters if both partial classes cast spells.
 
 A Partial Mage must adhere to the restrictions and limits of their magical tradition in order to use its abilities, regardless of whatever other partial class they may have.
@@ -294,7 +294,7 @@ A Partial Mage must adhere to the restrictions and limits of their magical tradi
 
 A Partial Warrior gains certain of the benefits of a full Warrior, including
 the improved hit die and a somewhat improved attack bonus.
-They do not have the Veteran’s Luck special ability or the Killing
+They do not have the Veteran's Luck special ability or the Killing
 Blow power, however, and must trust to their own talents to land
 blows and crush their enemies.
 
@@ -368,7 +368,7 @@ Accursed Blade: As an On Turn action, manifest an occult melee weapon as a one-h
 Both add your Magic skill to the damage roll, have a Shock rating of 2/15, and use Magic as the attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute.
 
 Accursed Bolt: As Accursed Blade, but you launch blasts of occult force instead of meleeing.
-Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit.
+Their damage is 1d8 plus your Magic skill, their range is 200', and the bolts can be thrown in melee at a -4 penalty to hit.
 These bolts need both hands free to hurl them.
 
 Bewitching Distraction: Commit Effort for the day as a Main Action when talking to an intelligent target when not in combat.
@@ -378,7 +378,7 @@ Danger ends the daze but not the forgetting.
 Compelling Shriek: Once per scene, Commit Effort for the day as a Main Action and shout a command of no more than seven words.
 Chosen targets who hear and understand must make a Mental save or perform that action for one round, provided it is not totally contrary to their character.
 
-Devil’s Bargain: As a Main Action, consecrate a deal you’ve made with an uncoerced person.
+Devil's Bargain: As a Main Action, consecrate a deal you've made with an uncoerced person.
 If they violate the deal or its spirit, you know instantly and may inflict 1d6 damage per level on them if desired.
 
 Dire Pact: Foes suffer a penalty equal to your Magic skill on all saves versus your Accursed arts.
@@ -404,7 +404,7 @@ Shadowed Steps: As a Move Action, Commit Effort for the scene and teleport up to
 You cannot bypass walls or physical obstacles, but you can teleport vertically or into high places.
 
 Snaring Speech: Once per round as an Instant action, Commit Effort for the day when failing a skill check to persuade or tempt someone.
-They must make a Mental save or agree with your proposal if it’s something they would normally consider doing.
+They must make a Mental save or agree with your proposal if it's something they would normally consider doing.
 Gain one System Strain when using this art.
 
 Sorcerous Battery: Once per day, as an On Turn action, Commit
@@ -419,7 +419,7 @@ They die instantly.
 You heal 1d6 hit points plus your level and lose one accumulated System Strain.
 
 Tendrils of Night: Commit Effort as an On Turn action.
-While Committed, you exude numerous tentacles or eldritch arms that can manipulate objects with your strength up to 20’ away.
+While Committed, you exude numerous tentacles or eldritch arms that can manipulate objects with your strength up to 20' away.
 You gain no bonus actions, but the arms can melee at range.
 These arms have your AC, and you are damaged if they are hurt.
 
@@ -478,6 +478,146 @@ This art does not stack.
 | 8     | 8d6+16   | +6           |                     |
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
+
+### The Bard
+
+Bards are those who have an uncanny ability to move others through the power of their performance.
+
+#### Benefits of the Bard
+
+The Bard is a partial Expert class that must be joined with a second
+partial class by an Adventurer.
+A Partial Warrior/Bard might be
+a martial skald, a Partial Expert/Bard might be a light-fingered
+troubadour, while a Partial Mage/Bard might mix true magic in
+with their artful performances.
+
+All Bards gain Perform-0 during character creation.
+Their abilities hinge on their power to move a listener, whether that is by song, musicianship, or stirring oratory.
+
+Unlike the normal Partial Expert class, Bards do not get a bonus non-combat Focus at first level, nor do they get a Partial Expert's bonus skill point when advancing a character level.
+One who takes the standard Partial Expert for their other class gains these things normally.
+
+#### Bard Arts
+
+A Bard has an Effort score equal to their Perform skill level plus their Charisma modifier, to a minimum of one point.
+Bard arts may be used in or out of armor, and do not count as magical effects for the purposes of abilities that counter or detect magic.
+Unless specified otherwise, their range is out to normal unaided voice range.
+
+Every Bard gains A Thousand Tongues as a starting art, plus one more of their choice.
+As they advance in levels, they can pick additional arts.
+
+A Thousand Tongues: Your arts that require communication are intuitively understood by all intelligent creatures, whether or not you speak their language.
+You can learn a new language with no more than a week of study with a native speaker.
+
+Battle Cry: Commit Effort for the day as an On Turn action to bolster your allies.
+They gain +1 to hit, saving throws, and damage, including Shock, for one round per level.
+At 4th level this bonus increases to +2, and at 9th, to +3.
+
+Cursed Tune: Commit Effort for the scene as a Main Action while targeting an intelligent creature.
+Your imprecations cause them to falter, inflicting a -1 penalty to their hit, damage, and saving throw rolls for one round per level.
+At 4th level this penalty becomes -2, and at 9th it becomes -3.
+
+Deft Fingers: You're accustomed to juggling your belongings while holding an instrument.
+Your maximum Readied item count increases by two.
+
+Entangle Incantation: Commit Effort for the scene as an Instant action when an foe within 60' incants a spell.
+Your voice tangles with their words, forcing them to make an opposed Int/Magic vs Cha/Perform skill check against you, with a +2 bonus to your roll.
+If you tie or succeed, the spell fizzles and is wasted.
+This art can be used only once per round.
+
+Evoke Emotion: Commit Effort for the day as a Main Action while performing.
+You evoke a desired emotion in listeners, whether intelligent or animal, granting a +1 bonus to relevant social skill checks for the scene for you and your allies.
+If desired, you can force a new Reaction Roll, taking it if it's more favorable than the original.
+This art does not work in combat and can be used only once per scene.
+
+Inspire Dread: Commit Effort for the day as an Instant action when your enemies are forced to make a Morale check.
+You goad their fears, forcing them to make two Morale checks instead of one.
+Those who succeed on both must still make an Instinct check immediately after.
+
+Keen Senses: This art gives you the equivalent of sight out to 60' even if blinded.
+You cannot distinguish colors, but you can perceive physical details as readily as if with your eyes.
+Physically-invisible creatures and objects are obvious to you.
+
+Liberating Song: You are immune to mind- or emotion-controlling effects.
+You can Commit Effort for the scene as an Instant action to grant any ally in range a Mental saving throw to throw off such effects, assuming they allowed a save to begin with.
+If the second save is failed, this art cannot help them.
+
+Rally: Commit Effort for the day as a Main Action to exhort a wounded or fallen ally, removing any Frailty.
+The target regains 2d6 plus your level in hit points, but you incur one System Strain.
+
+Soothe the Savage: Commit Effort for the day as a Main Action.
+For as long as you keep spending a Main Action performing each round, animals and other living bestial creatures will not attack you or your allies unless commanded by their masters or threatened by the party.
+This art can't be triggered once actual combat has begun.
+
+Soothing Graces: Your arts restore and hearten those with you.
+You and your allies lose an extra point of System Strain after each night's comfortable rest.
+This does not stack with similar rest-aiding powers.
+
+Swift Misdirection: Commit Effort for the scene as a Main Action and target one intelligent creature within earshot.
+Tell them something in no more than one sentence; unless what you say is physically impossible or emotionally unendurable, they must make a Mental save or believe it for one round.
+After that, they can judge your words with their normal reason.
+This art can affect a creature only once per scene.
+
+#### Partial Expert / Partial Bard
+
+| Level | Hit Dice | Attack Bonus | Focus Picks        |
+| ----- | -------- | ------------ | ------------------ |
+| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any            |
+| 3     | 3d6      | +1           |                    |
+| 4     | 4d6      | +2           |                    |
+| 5     | 5d6      | +2           | +1 Any             |
+| 6     | 6d6      | +3           |                    |
+| 7     | 7d6      | +3           | +1 Any             |
+| 8     | 8d6      | +4           |                    |
+| 9     | 9d6      | +4           |                    |
+| 10    | 10d6     | +5           | +1 Any             |
+
+#### Partial Mage / Partial Bard
+
+| Level | Hit Dice | Attack Bonus | Focus Picks |
+| ----- | -------- | ------------ | ----------- |
+| 1     | 1d6      | +0           | + 1 Any     |
+| 2     | 2d6      | +1           | + 1 Any     |
+| 3     | 3d6      | +1           |             |
+| 4     | 4d6      | +2           |             |
+| 5     | 5d6      | +2           | +1 Any      |
+| 6     | 6d6      | +3           |             |
+| 7     | 7d6      | +3           | +1 Any      |
+| 8     | 8d6      | +4           |             |
+| 9     | 9d6      | +4           |             |
+| 10    | 10d6     | +5           | +1 Any      |
+
+#### Partial Warrior / Partial Bard
+
+| Level | Hit Dice | Attack Bonus | Focus Picks         |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6+2    | +1           | + 1 Warrior + 1 Any |
+| 2     | 2d6+4    | +2           | + 1 Any             |
+| 3     | 3d6+6    | +2           |                     |
+| 4     | 4d6+8    | +3           |                     |
+| 5     | 5d6+10   | +4           | +1 Any              |
+| 6     | 6d6+12   | +5           |                     |
+| 7     | 7d6+14   | +5           | +1 Any              |
+| 8     | 8d6+16   | +6           |                     |
+| 9     | 9d6+18   | +6           |                     |
+| 10    | 10d6+20  | +7           | +1 Any              |
+
+#### Bard Art Progression
+
+| Level | Arts Gained at This Level    |
+| ----- | ---------------------------- |
+| 1     | A Thousand Tongues + Any One |
+| 2     | Any One                      |
+| 3     |                              |
+| 4     | Any One                      |
+| 5     |                              |
+| 6     | Any One                      |
+| 7     |                              |
+| 8     | Any One                      |
+| 9     |                              |
+| 10    | Any One                      |
 
 ### TODO other classes
 

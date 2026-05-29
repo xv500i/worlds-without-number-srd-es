@@ -619,7 +619,69 @@ This art can affect a creature only once per scene.
 | 9     |                              |
 | 10    | Any One                      |
 
-### TODO other classes
+### The Beastmaster
+
+TODO
+
+### The Blood Priest
+
+TODO
+
+### The Duelist
+
+TODO
+
+### The Elementalist
+
+TODO
+
+### The Expert
+
+TODO
+
+### The Healer
+
+TODO
+
+### The High Mage
+
+TODO
+
+### The Invoker
+
+TODO
+
+### The Mage
+
+TODO
+
+### The Mageslayer
+
+TODO
+
+### The Necromancer
+
+TODO
+
+### The Skinshifter
+
+TODO
+
+### The Thought Noble
+
+TODO
+
+### The Vowed
+
+TODO
+
+### The Warrior
+
+TODO
+
+### The Wise
+
+TODO
 
 ## Foci
 

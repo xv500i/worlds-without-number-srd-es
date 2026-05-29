@@ -132,9 +132,9 @@ When a Background is chosen, a PC immediately gets its free skill at level-0.
 At that point, the player decides whether to gain further skills randomly or to pick specific choices.
 If they choose randomly, they may make three rolls divided between the Growth and Learning tables of their background in any way they wish, including taking all three from just one table.
 If they pick specific choices they can pick any two skills from the Learning table, including picking the same one twice to raise it to level-1.
-They may not pick the “Any Skill” option, if it exists.
-A skill pick of “Any Combat” means the player can pick Shoot, Stab, or Punch.
-A skill roll of “Any Skill” means they can pick any skill from the list above.
+They may not pick the "Any Skill" option, if it exists.
+A skill pick of "Any Combat" means the player can pick Shoot, Stab, or Punch.
+A skill roll of "Any Skill" means they can pick any skill from the list above.
 Some campaigns may involve special magical or psychic skills; these cannot be chose with the Any Skill pick.
 If an attribute bonus is rolled, such as "+2 Physical", the player may apply it to any physical attribute or split the bonus between two physical attributes.
 The same principle applies to Mental attribute increases.
@@ -356,7 +356,7 @@ All Accursed gain Magic-0 during character creation.
 Even those who are not spellcasters must understand the ways of eldritch beings and the subtleties of sorcery.
 
 While the arts of Accursed Blade and Accursed Bolt use Magic as their combat skill, Foci that normally apply to mundane weapons such as Armsmaster or Deadeye also benefit their relevant melee or ranged attacks.
-For these Foci, read “Magic” in place of “Shoot” or “Stab” when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Focus may grant.
+For these Foci, read "Magic" in place of "Shoot" or "Stab" when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Focus may grant.
 
 #### Accursed Arts
 
@@ -781,7 +781,139 @@ This art allows them to temporarily speak as if they had human intellect, though
 
 ### The Blood Priest
 
-TODO
+As the devotee of a sanguinary god, a blood priest has magical
+powers for strengthening and supporting their allies.
+
+#### Blood Priest Benefits
+
+The Blood Priest exists only as a partial Mage class, to be taken by an Adventurer alongside another partial class.
+A Partial Warrior/Blood Priest might be a crusader for their god, wielding steel and terror against the evils of this world.
+A Partial Expert/Blood Priest might be an inquisitor, investigating dubious figures and sifting out the truth of mysterious events.
+
+All Blood Priests gain Pray as a bonus skill, acquiring it at level-0, or level-1 if they already have it at level-0.
+Even a "Blood Priest" who has only learned their abilities through study of their scriptures must master a wide variety of ecclesiastical rites and rituals in order to activate their powers.
+
+#### Blood Priest Arts
+
+Blood Priest Effort is calculated with Pray, with their total maximum Effort being equal to their Pray skill plus the higher of their Wisdom or Charisma modifiers, to a minimum of one point.
+
+At first level, the Blood Priest may choose two of the following miracles to master, and gain more as they advance in levels.
+Once
+chosen, a miracle pick is permanent and cannot be changed later.
+Miracles are not hindered by the wearing of armor and require no gestures or free hand to employ, though usually a prayer must be vocalized as part of the action.
+
+A Thousand Tongues: Commit Effort as an On Turn action; while it remains Committed, you can speak with and understand any sentient creature with a language of their own.
+To any listener, it will seem as if you are perfectly fluent in their own language, even as you speak in your own native tongue.
+This ability does not allow you to read or write unknown languages.
+
+Armor of God: Commit Effort as an On Turn action.
+While the Effort remains Committed, you have a natural Armor Class of 15 plus half your level, rounded down.
+This AC can be modified by shields or your Dexterity modifier, but not by other worn armor.
+Divine Guidance: Commit Effort for the day as a Main Action and meditate upon a choice or potential action before you.
+The GM will tell you whether the likely outcome of that choice is weal, woe, a mix of both, or nothing significant, using their own best estimation.
+This insight cannot perceive likely outcomes more than an hour or so into the future.
+
+Fear No Flame: Commit Effort for the day as an On Turn action while nominating a visible target.
+For the rest of the scene, they are immune to non-magical flame, smoke, or explosive damage, and decrease any sources of such magical damage they take by five points per level of Pray you have.
+
+God Wills It: Commit Effort for the day as an Instant action and loudly call down your god’s blessing on your comrades.
+For the rest of the scene, up to six allies per character level in earshot gain an effective Morale of 12 and a +1 bonus to hit and damage rolls, including any Shock that may be inflicted.
+At fifth level this becomes a +2 bonus, and at tenth level it becomes a +3 bonus.
+
+Merciful Healing: Commit Effort for the day as a Main Action and touch a target within melee range.
+The target receives 1d6+2 points of magical healing.
+If done in combat or used to revive a Mortally Wounded subject, the rushed haste of the healing adds 1 System Strain to the target, but no System Strain is added if it is applied outside of combat.
+At fourth level the healing done increases to 2d6+4 and at eighth level it becomes 4d6+8.
+
+Sanctified Ward: Commit Effort as an On Turn action.
+While the Effort is maintained and until you take some hostile action against a creature, you are immune to Shock damage and gain a +4 bonus to your Armor Class and all saving throws.
+Enemies must pass an Instinct check each round to target you with attacks; on a failure, they may take some other action instead.
+Once this art is ended it cannot be reactivated for the rest of the scene.
+Healing and other indirect support of fighting comrades does not count as a hostile action.
+
+Smite the Wicked: Commit Effort for the day as a On Turn action whenever you attack or take some damaging action toward a single target.
+You gain a +4 bonus to any hit roll, you inflict your character level as automatic damage, and you can roll any damage dice twice and take the higher result.
+This ability can only be used once per scene on a given target.
+
+The Light of Faith: Commit Effort as an On Turn action; while it remains Committed, you can cast a clear, bright radiance that extends up to thirty feet away from you.
+At your discretion, this light is visible only to you and your comrades, including up to a dozen allies.
+
+Transubstantiation: Commit Effort for the day as a Main Action to transform up to a gallon of any liquid into sacred blood.
+A draught of this holy liquid is sufficient to sustain a drinker for a day without further food or drink and will heal 1d6 plus the user’s Pray skill in lost hit points.
+A gallon of blood is sufficient to help a half-dozen people.
+The benefits of this art can be enjoyed only once per day, and any undrunk blood sublimates away within a minute.
+
+Turn False Life: Commit Effort for the day as a Main Action and make the sign of your god before one or more visible targets within sixty feet.
+Roll 2d6 and add your character level; that many hit dice of undead, automatons, or other synthetic, extraplanar, or unnatural life forms must make Mental saving throws or cower for the rest of the scene or until they or their comrades are attacked.
+Cowering enemies will take no hostile action and may flee unless bound to their location.
+This power does not affect foes with twice as many hit dice as the blood priest has levels.
+If the rolled hit die total isn’t enough to fully affect a creature, it is unaffected.
+
+Words of Mercy: Commit Effort for the day as an Instant action to reroll any failed social skill check related to maintaining peace, granting help, or encouraging virtuous acts of compassion, mercy, or truthfulness.
+This art can be used only once on any given skill check.
+
+Wrath of the Most High: Commit Effort for the scene as a Main Action while you rebuke a visible target.
+The first time the target takes damage before the end of the next round, it suffers automatic additional damage equal to 1d8 plus your level.
+
+#### Partial Expert / Partial Blood Priest
+
+| Level | Hit Dice | Attack Bonus | Focus Picks        |
+| ----- | -------- | ------------ | ------------------ |
+| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any            |
+| 3     | 3d6      | +1           |                    |
+| 4     | 4d6      | +2           |                    |
+| 5     | 5d6      | +2           | +1 Any             |
+| 6     | 6d6      | +3           |                    |
+| 7     | 7d6      | +3           | +1 Any             |
+| 8     | 8d6      | +4           |                    |
+| 9     | 9d6      | +4           |                    |
+| 10    | 10d6     | +5           | +1 Any             |
+
+#### Partial Mage / Partial Blood Priest
+
+| Level | Hit Dice | Attack Bonus | Focus Picks |
+| ----- | -------- | ------------ | ----------- |
+| 1     | 1d6-1    | +0           | + 1 Any     |
+| 2     | 2d6-2    | +0           | + 1 Any     |
+| 3     | 3d6-3    | +0           |             |
+| 4     | 4d6-4    | +0           |             |
+| 5     | 5d6-5    | +1           | +1 Any      |
+| 6     | 6d6-6    | +1           |             |
+| 7     | 7d6-7    | +1           | +1 Any      |
+| 8     | 8d6-8    | +1           |             |
+| 9     | 9d6-9    | +1           |             |
+| 10    | 10d6-10  | +2           | +1 Any      |
+
+#### Partial Warrior / Partial Blood Priest
+
+| Level | Hit Dice | Attack Bonus | Focus Picks         |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6+2    | +1           | + 1 Warrior + 1 Any |
+| 2     | 2d6+4    | +2           | + 1 Any             |
+| 3     | 3d6+6    | +2           |                     |
+| 4     | 4d6+8    | +3           |                     |
+| 5     | 5d6+10   | +4           | +1 Any              |
+| 6     | 6d6+12   | +5           |                     |
+| 7     | 7d6+14   | +5           | +1 Any              |
+| 8     | 8d6+16   | +6           |                     |
+| 9     | 9d6+18   | +6           |                     |
+| 10    | 10d6+20  | +7           | +1 Any              |
+
+#### Blood Priest Art Progression
+
+| Level | Arts Gained at This Level |
+| ----- | ------------------------- |
+| 1     | Any Two                   |
+| 2     | Any One                   |
+| 3     |                           |
+| 4     | Any One                   |
+| 5     |                           |
+| 6     | Any One                   |
+| 7     |                           |
+| 8     | Any One                   |
+| 9     |                           |
+| 10    | Any One                   |
 
 ### The Duelist
 
@@ -1052,7 +1184,7 @@ Each such application of healing adds 1 System Strain to the target, and the gif
 You have a distinct knack for picking up lost souls who willingly do your bidding.
 You might induce them with promises of money, power, excitement, sex, or some other prize that you may or may not eventually grant.
 A henchman obtained with this Focus will serve in loyal fashion until clearly betrayed or placed in unacceptable danger.
-Henchmen are not “important” people in their society, and are usually marginal sorts, outcasts, the desperate, or other persons with few options.
+Henchmen are not "important" people in their society, and are usually marginal sorts, outcasts, the desperate, or other persons with few options.
 
 You can use more conventional pay or inducements to acquire additional henchmen, but these extra hirelings are no more loyal or competent than your pay and treatment can purchase.
 

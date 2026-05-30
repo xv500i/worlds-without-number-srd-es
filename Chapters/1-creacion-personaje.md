@@ -85,8 +85,7 @@ Some skills may overlap at points in their application; the character may use ei
   The Craft skill can be used for a wide range of artisan pursuits, though a GM is within their rights to keep the PC from building complex things that are too far away from their past background and experience.
 - **Exert**: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination.
   Even a PC with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
-- **Heal**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of
-  body and mind.
+- **Heal**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
   The Heal skill cannot cure lost hit points directly, but it's a vital skill in stabilizing Mortally Wounded allies or ensuring clean recovery.
 - **Know**: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar.
   While some sages might specialize in particular fields, most learned men and women in this age have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
@@ -292,11 +291,8 @@ A Partial Mage must adhere to the restrictions and limits of their magical tradi
 
 #### Partial Warrior
 
-A Partial Warrior gains certain of the benefits of a full Warrior, including
-the improved hit die and a somewhat improved attack bonus.
-They do not have the Veteran's Luck special ability or the Killing
-Blow power, however, and must trust to their own talents to land
-blows and crush their enemies.
+A Partial Warrior gains certain of the benefits of a full Warrior, including the improved hit die and a somewhat improved attack bonus.
+They do not have the Veteran's Luck special ability or the Killing Blow power, however, and must trust to their own talents to land blows and crush their enemies.
 
 #### Partial Expert / Partial Warrior
 
@@ -407,12 +403,9 @@ Snaring Speech: Once per round as an Instant action, Commit Effort for the day w
 They must make a Mental save or agree with your proposal if it's something they would normally consider doing.
 Gain one System Strain when using this art.
 
-Sorcerous Battery: Once per day, as an On Turn action, Commit
-Effort for the day.
-You or a visible ally refresh the spell slot of a
-spell that has been cast since the start of the prior round.
-Gain one
-System Strain.
+Sorcerous Battery: Once per day, as an On Turn action, Commit Effort for the day.
+You or a visible ally refresh the spell slot of a spell that has been cast since the start of the prior round.
+Gain one System Strain.
 
 Soul Consumption: As an Instant action, Commit Effort for the day when you fell an intelligent target with Accursed Bolt or Accursed Blade.
 They die instantly.
@@ -485,12 +478,8 @@ Bards are those who have an uncanny ability to move others through the power of 
 
 #### Benefits of the Bard
 
-The Bard is a partial Expert class that must be joined with a second
-partial class by an Adventurer.
-A Partial Warrior/Bard might be
-a martial skald, a Partial Expert/Bard might be a light-fingered
-troubadour, while a Partial Mage/Bard might mix true magic in
-with their artful performances.
+The Bard is a partial Expert class that must be joined with a second partial class by an Adventurer.
+A Partial Warrior/Bard might be a martial skald, a Partial Expert/Bard might be a light-fingered troubadour, while a Partial Mage/Bard might mix true magic in with their artful performances.
 
 All Bards gain Perform-0 during character creation.
 Their abilities hinge on their power to move a listener, whether that is by song, musicianship, or stirring oratory.
@@ -628,14 +617,14 @@ Beastmaster Benefits The Beastmaster exists only as a partial Mage class, meant 
 A Partial Warrior/Beastmaster may be a savage barbarian or wood-wise ranger, while a Partial Expert/Beastmaster might be a masterful hunter or zoologist.
 
 All Beastmasters get Survive as a bonus skill at level-0, or at level-1 if they already have it at level-0.
-The amount of time they spend in the wilderness learning of its ways can’t help but teach them how to survive in hard conditions and navigate the perils of an untamed land.
+The amount of time they spend in the wilderness learning of its ways can't help but teach them how to survive in hard conditions and navigate the perils of an untamed land.
 
 #### Beastmaster Companions
 
-Many Beastmaster arts apply to the PC’s animal companion.
+Many Beastmaster arts apply to the PC's animal companion.
 There are a few basic guidelines for such companions that a GM should keep in mind during play.
 
-A companion animal cannot have a number of hit dice greater than the Beastmaster’s level plus one.
+A companion animal cannot have a number of hit dice greater than the Beastmaster's level plus one.
 Thus a 2 hit die wolf is an acceptable companion for a first-level Beastmaster, but a 5 hit die tentacular horror is too potent to be bound to service.
 
 A companion animal cannot have human levels of intelligence.
@@ -650,24 +639,24 @@ It will obey commands from the Beastmaster that are not contrary to its own natu
 If the creature is mistreated or used as mere cannon fodder, it can flee or turn on its former master.
 
 A companion animal must be given a name by the Beastmaster.
-Without a name to focus the PC’s arts, the creature cannot be controlled.
+Without a name to focus the PC's arts, the creature cannot be controlled.
 
 #### The Chosen Friend
 
 Some Beastmasters form a lifelong bond with a single dear companion.
 If a PC chooses this option, they can only ever Bind one companion, but it gains the benefit of the Shared Vitality and Mind Call arts automatically.
-So long as the Beastmaster lives, this chosen friend cannot truly die; if reduced to zero hit points, it disappears, but will manifest again at the Beastmaster’s side the following dawn with its full hit points.
+So long as the Beastmaster lives, this chosen friend cannot truly die; if reduced to zero hit points, it disappears, but will manifest again at the Beastmaster's side the following dawn with its full hit points.
 Of course, the master is expected to treat this companion as the beloved friend it is, and not as mere battle-fodder.
 
 #### Beastmaster Arts
 
-Beastmaster Effort is calculated with Survive, and is equal to the PC’s Survive skill level plus the higher of their Wisdom or Charisma modifiers, to a minimum of one point.
+Beastmaster Effort is calculated with Survive, and is equal to the PC's Survive skill level plus the higher of their Wisdom or Charisma modifiers, to a minimum of one point.
 All Beastmasters start play with the Bind Companion art and one more of their choosing.
 They learn additional arts as they gain experience.
 Unlike some Mage traditions, Beastmasters can use their arts normally while armored.
 
-Bind Companion: With a day’s work in a location you can find and bind a suitable animal companion.
-If looking for a particular type of companion, it must be found in the area and may require a Wis/Survive skill check at a difficulty of 10 or more if it’s a particularly rare creature.
+Bind Companion: With a day's work in a location you can find and bind a suitable animal companion.
+If looking for a particular type of companion, it must be found in the area and may require a Wis/Survive skill check at a difficulty of 10 or more if it's a particularly rare creature.
 If you encounter a suitable animal on an adventure, you may bind it as a Main Action, with the creature allowed a Mental saving throw to resist and become impervious to your powers.
 You may release a companion as a Main Action if you no longer wish its service or want to bind a different beast.
 
@@ -690,7 +679,7 @@ This AC can be modified by shields or Dexterity modifiers, but not by armor.
 Howl of Distant Summons: You can call former animal companions to your side by Committing Effort for the day as a Main Action.
 The howl extends through time as well as space, and the subject will have received the message in time to reach your side within five minutes after you call for it.
 Once summoned, you may bind it again if you have no current companion.
-If the journey is exceptionally dangerous, difficult, or long, you’ll need to make a Cha/Survive skill check against a difficulty of 10 or more; on a failure, the beast could not make the journey and cannot be called by this power for another week.
+If the journey is exceptionally dangerous, difficult, or long, you'll need to make a Cha/Survive skill check against a difficulty of 10 or more; on a failure, the beast could not make the journey and cannot be called by this power for another week.
 
 Know the Weak Spot: Whenever inflicting damage on a beast with a weapon or physical attack, roll the damage twice and take the higher score.
 Optionally, Commit Effort for the scene as an Instant action when an ally within earshot hits a beast; your shouted advice or distracting help allows them to roll damage twice and take the better result as well.
@@ -709,7 +698,7 @@ For the remainder of the scene you are capable of seeing clearly even in pitch b
 
 Shared Vitality: The animal companions you bind have hit dice no lower than your level, even if they normally have far fewer.
 Thus, a 2 hit die beast bound by a 7th level Beastmaster would have 7 hit dice while it remained bound.
-Its hit bonus can’t be less than half its hit dice, rounded up.
+Its hit bonus can't be less than half its hit dice, rounded up.
 A Beastmaster can stabilize a Mortally Wounded companion by Committing Effort for the scene as an Instant action.
 
 Swift Healing: Commit Effort for the day as a Main Action to heal 1d6 damage per character level to a wounded companion.
@@ -781,8 +770,7 @@ This art allows them to temporarily speak as if they had human intellect, though
 
 ### The Blood Priest
 
-As the devotee of a sanguinary god, a blood priest has magical
-powers for strengthening and supporting their allies.
+As the devotee of a sanguinary god, a blood priest has magical powers for strengthening and supporting their allies.
 
 #### Blood Priest Benefits
 
@@ -798,8 +786,7 @@ Even a "Blood Priest" who has only learned their abilities through study of thei
 Blood Priest Effort is calculated with Pray, with their total maximum Effort being equal to their Pray skill plus the higher of their Wisdom or Charisma modifiers, to a minimum of one point.
 
 At first level, the Blood Priest may choose two of the following miracles to master, and gain more as they advance in levels.
-Once
-chosen, a miracle pick is permanent and cannot be changed later.
+Once chosen, a miracle pick is permanent and cannot be changed later.
 Miracles are not hindered by the wearing of armor and require no gestures or free hand to employ, though usually a prayer must be vocalized as part of the action.
 
 A Thousand Tongues: Commit Effort as an On Turn action; while it remains Committed, you can speak with and understand any sentient creature with a language of their own.
@@ -816,7 +803,7 @@ This insight cannot perceive likely outcomes more than an hour or so into the fu
 Fear No Flame: Commit Effort for the day as an On Turn action while nominating a visible target.
 For the rest of the scene, they are immune to non-magical flame, smoke, or explosive damage, and decrease any sources of such magical damage they take by five points per level of Pray you have.
 
-God Wills It: Commit Effort for the day as an Instant action and loudly call down your god’s blessing on your comrades.
+God Wills It: Commit Effort for the day as an Instant action and loudly call down your god's blessing on your comrades.
 For the rest of the scene, up to six allies per character level in earshot gain an effective Morale of 12 and a +1 bonus to hit and damage rolls, including any Shock that may be inflicted.
 At fifth level this becomes a +2 bonus, and at tenth level it becomes a +3 bonus.
 
@@ -839,7 +826,7 @@ The Light of Faith: Commit Effort as an On Turn action; while it remains Committ
 At your discretion, this light is visible only to you and your comrades, including up to a dozen allies.
 
 Transubstantiation: Commit Effort for the day as a Main Action to transform up to a gallon of any liquid into sacred blood.
-A draught of this holy liquid is sufficient to sustain a drinker for a day without further food or drink and will heal 1d6 plus the user’s Pray skill in lost hit points.
+A draught of this holy liquid is sufficient to sustain a drinker for a day without further food or drink and will heal 1d6 plus the user's Pray skill in lost hit points.
 A gallon of blood is sufficient to help a half-dozen people.
 The benefits of this art can be enjoyed only once per day, and any undrunk blood sublimates away within a minute.
 
@@ -847,7 +834,7 @@ Turn False Life: Commit Effort for the day as a Main Action and make the sign of
 Roll 2d6 and add your character level; that many hit dice of undead, automatons, or other synthetic, extraplanar, or unnatural life forms must make Mental saving throws or cower for the rest of the scene or until they or their comrades are attacked.
 Cowering enemies will take no hostile action and may flee unless bound to their location.
 This power does not affect foes with twice as many hit dice as the blood priest has levels.
-If the rolled hit die total isn’t enough to fully affect a creature, it is unaffected.
+If the rolled hit die total isn't enough to fully affect a creature, it is unaffected.
 
 Words of Mercy: Commit Effort for the day as an Instant action to reroll any failed social skill check related to maintaining peace, granting help, or encouraging virtuous acts of compassion, mercy, or truthfulness.
 This art can be used only once on any given skill check.
@@ -929,14 +916,14 @@ All Duelists gain Stab as a bonus skill.
 No Duelist worth the name is entirely incapable of effective use of melee weapons, though the style lends itself heavily to specialization.
 
 The Flaw of Fragility While the canons of the duelist make for an excellent one-on-one combatant, their practitioners spend much less time at raw physical conditioning than their more traditional warrior peers.
-The techniques they use are swift and lethal, but they aren’t as generally applicable to enduring harm as are standard training methods.
+The techniques they use are swift and lethal, but they aren't as generally applicable to enduring harm as are standard training methods.
 
-As such, Partial Warriors/Partial Duelists use 1d6 for their hit dice, rather than the Partial Warrior’s usual 1d6+2.
+As such, Partial Warriors/Partial Duelists use 1d6 for their hit dice, rather than the Partial Warrior's usual 1d6+2.
 Other partial class mixes are unaffected by this flaw.
 
 #### Duelist Arts
 
-Duelist Effort is based on Stab, and is equal to the PC’s Stab skill plus the highest of their Dexterity or Intelligence modifiers, to a minimum of one point.
+Duelist Effort is based on Stab, and is equal to the PC's Stab skill plus the highest of their Dexterity or Intelligence modifiers, to a minimum of one point.
 All Duelists begin with the Favored Weapon art and one more of their choice.
 Additional arts are learned as the PC advances in experience.
 
@@ -945,14 +932,14 @@ The Duelist cannot benefit from any art of this class while wearing medium or he
 Dual-wielding is practiced by some Duelists, but most prefer the defensive advantages of a small offhand shield.
 
 Favored Weapon: Choose one specific type of non-unarmed melee weapon.
-You begin play with such a weapon, and when using this type you may use the Favored Weapon attack bonus column on the Duelist table to determine your base hit bonus, unless it’s already better for some other reason.
-If your second partial class is Partial Warrior, your class’ base hit bonus with the weapon is instead equal to your level.
+You begin play with such a weapon, and when using this type you may use the Favored Weapon attack bonus column on the Duelist table to determine your base hit bonus, unless it's already better for some other reason.
+If your second partial class is Partial Warrior, your class' base hit bonus with the weapon is instead equal to your level.
 You cannot apply this or other Duelist arts to thrown weapons.
 
 #### Other Duelist Arts
 
 Blood for Blood: Commit Effort for the scene as an Instant action when an enemy hits you with a physical attack.
-If you attack that enemy with your favored weapon before the end of the next round, the first blow hits automatically and can do no less damage than was done to you, up to the weapon’s maximum.
+If you attack that enemy with your favored weapon before the end of the next round, the first blow hits automatically and can do no less damage than was done to you, up to the weapon's maximum.
 
 Burst of Speed: Commit Effort for the day as an On Turn action.
 You may move your full normal movement rate as an On Turn action.
@@ -961,7 +948,7 @@ This art can be used only once per round.
 Code Duello: Commit Effort for the day as an On Turn action when engaged with a single foe.
 So long as no other combatant attacks either your target or you, and you attack no one but your target, you gain a +4 bonus to your Armor Class and can roll your hit rolls twice, taking the better result.
 Once the Code Duello has been disrupted or ended, it cannot be invoked again during that scene.
-Crushing Superiority: Your favored weapon gains the Less Lethal quality if it doesn’t already have it.
+Crushing Superiority: Your favored weapon gains the Less Lethal quality if it doesn't already have it.
 Commit Effort for the scene as an Instant action when you hit a target; they must immediately make an Instinct check.
 This ability can be used only once per scene on any given target.
 
@@ -970,16 +957,16 @@ The Move actions you make for the rest of the round can cross vertical surfaces 
 
 Dodge Doom: Commit Effort for the day as an Instant action when caught in some explosion or other burst effect.
 You take half damage, or no damage if the effect allows a save and you succeed at it.
-You can move yourself up to ten feet away from your original location, provided the new location is behind cover or away from the blast’s point of origin.
+You can move yourself up to ten feet away from your original location, provided the new location is behind cover or away from the blast's point of origin.
 
-Forced Engagement: Commit Effort for the scene as an Instant action when making an attack with your favored weapon; you may ignore one foe’s Screen Ally action for that attack.
+Forced Engagement: Commit Effort for the scene as an Instant action when making an attack with your favored weapon; you may ignore one foe's Screen Ally action for that attack.
 
-Gentleman’s Withdrawal: Commit Effort for the scene as a Move action.
+Gentleman's Withdrawal: Commit Effort for the scene as a Move action.
 As part of this, you may move at your full movement rate without being hindered by armed foes unless they completely block your path.
 You count as having made a Fighting Withdrawal against any enemies engaged with you at the time.
 
 Graceful Leap: Commit Effort for the scene as an On Turn action to immediately leap up to ten feet horizontally or vertically, counting it as a Fighting Withdrawal.
-You can’t use this art more than once per round or after you’ve attacked.
+You can't use this art more than once per round or after you've attacked.
 You are immune to falling damage from plunges of less than 30 feet.
 
 Lightning Draw: Commit Effort for the day as an Instant action at the start of hostilities; you win initiative against anyone without a similar ability to act first and may ready a Stowed favored weapon Instantly.
@@ -988,7 +975,7 @@ Piercing Strike: Commit Effort for the scene as an On Turn action and choose a v
 For the rest of the scene, their AC is treated as 10 for purposes of resisting the Shock of your favored weapon.
 
 Spiritual Weapon: You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish.
-Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object’s physical form.
+Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object's physical form.
 To manifest a template, Commit Effort as an Instant action; a ghostly copy of the weapon appears Readied in hand for you until you release the Effort or stop touching the weapon.
 Dual-wielders can summon the same weapon into both hands with one use of this art.
 
@@ -1070,12 +1057,10 @@ While they are capable of using High Magic, their specialist spells focus chiefl
 
 #### Elementalist Benefits
 
-All Elementalists gain Magic as a bonus skill, acquiring it at level-0,
-or level-1 if was already level-0.
+All Elementalists gain Magic as a bonus skill, acquiring it at level-0, or level-1 if was already level-0.
 
 Elementalists can prepare and cast High Magic spells in addition to the spells specific to Elementalists.
-As usual for spellcasters,
-Elementalists can’t cast spells or use arts while armored or holding a shield.
+As usual for spellcasters, Elementalists can't cast spells or use arts while armored or holding a shield.
 
 Elementalists are not as talented at general High Magic research as High Mages are, but their studies still bear fruit in time.
 Each time they advance a level, they can pick a new High Magic spell or an Elementalist spell to add to their spellbook.
@@ -1087,15 +1072,13 @@ Once chosen, an art cannot be changed.
 
 #### Elementalist Arts
 
-Elementalist Effort is calculated as usual, with each PC’s maximum being equal to one plus their Magic skill level plus the better of their Intelligence or Charisma modifiers.
+Elementalist Effort is calculated as usual, with each PC's maximum being equal to one plus their Magic skill level plus the better of their Intelligence or Charisma modifiers.
 Partial Elementalists have a score one point lower than this, albeit not less than one.
 
 Elemental Resilience: You are unharmed by mundane extremes of cold or by heat less than that of a furnace.
 You suffer only half damage from magical or extremely intense flame or frost attacks.
 
-Elemental Sparks: You can conjure petty amounts of flame, water,
-ice, stone, or wind, sufficient to do small tricks, chill drinks, light candles,
-or do other minor things.
+Elemental Sparks: You can conjure petty amounts of flame, water, ice, stone, or wind, sufficient to do small tricks, chill drinks, light candles, or do other minor things.
 Conjured substances last no longer than a scene, and conjured water cannot lastingly quench thirst.
 This art cannot actually be useful in solving a problem or overcoming a challenge more than once per game session.
 
@@ -1111,14 +1094,12 @@ For the rest of the scene, you can see the outlines of solid objects even in per
 Elemental Blast: Commit Effort for the scene as a Main Action to hurl a blast of some elemental force at a visible target within fifty feet per character level.
 The attack is made with Magic as the combat skill, Int, Cha, or Dex as the attribute, and a bonus to hit equal to your character level.
 It is not hindered by melee foes.
-On a hit, the attack does 1d6 damage plus your character level and attribute
-mod.
+On a hit, the attack does 1d6 damage plus your character level and attribute mod.
 The blast may have collateral effects on objects in the case of hurled fire or a torrent of pressurized water, but any conjured matter vanishes at the end of the round.
 
 Flamesight: Commit Effort as an On Turn action.
 While the Effort remains Committed, you can see thermal gradients sufficient to distinguish surfaces and living creatures, even in perfect darkness.
-Optionally,
-you may cause your own eyes to cast a light sufficient to illuminate your surroundings clearly out to a range of 30 feet.
+Optionally, you may cause your own eyes to cast a light sufficient to illuminate your surroundings clearly out to a range of 30 feet.
 
 Pavis of Elements: Commit Effort as an On Turn action to conjure an elemental barrier around yourself.
 The barrier improves your Armor Class by +4 and remains as long as the Effort remains Committed.
@@ -1242,22 +1223,21 @@ This defense lasts only long enough to nullify the single instance of damage.
 ### The Expert
 
 Your hero is an expert at some useful skill.
-Thieves, diplomats, healers,
-scholars, explorers, artisans, and other such heroes should pick the Expert class if they wish to focus on developing their special skills and performing tremendous feats of mastery with them.
+Thieves, diplomats, healers, scholars, explorers, artisans, and other such heroes should pick the Expert class if they wish to focus on developing their special skills and performing tremendous feats of mastery with them.
 
 Experts gain the widest variety of non-combat skills and are the quickest to learn more of them.
 
-An Expert has an uncanny knack for wielding their skills successfully at a crucial moment, whether or not it’s a skill they’ve taken for their specialty.
+An Expert has an uncanny knack for wielding their skills successfully at a crucial moment, whether or not it's a skill they've taken for their specialty.
 Once per scene, the Expert can reroll a failed non-combat skill check, gaining a second chance to yank victory from the jaws of otherwise certain failure.
-Their natural focus on personal development and determined refinement of their skills bleeds through even into those talents they don’t make their special domain.
+Their natural focus on personal development and determined refinement of their skills bleeds through even into those talents they don't make their special domain.
 
 Experts are also capable combatants, fully able to hold their own in the midst of a murderous fray.
-It’s not unknown for some Experts to specialize in professions related to martial pursuits, such as an assassin who relies heavily on their superb powers of stealth and deception to reach their unwary foes.
+It's not unknown for some Experts to specialize in professions related to martial pursuits, such as an assassin who relies heavily on their superb powers of stealth and deception to reach their unwary foes.
 
 #### Class Ability: Masterful Expertise
 
 Once per scene, a Full Expert may reroll any non-combat skill check as an Instant action.
-This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed.
+This allows the Expert to make a roll and then immediately use this ability if the resulting total isn't good enough to succeed.
 In cases where it matters, the better of the two rolls may be used.
 
 Note that the typical ten-minute dungeon exploration turn generally counts as a scene, allowing the Full Expert to use this ability every turn if they so wish.
@@ -1319,45 +1299,38 @@ Partial Experts do receive this ability.
 ### The Healer
 
 The Healer is a partial Mage class that does not use spells.
-Instead,
-they gain specific arts that allow them to mend wounds, cure illnesses,
-and otherwise sustain their allies.
+Instead, they gain specific arts that allow them to mend wounds, cure illnesses, and otherwise sustain their allies.
 
 #### Healer Benefits
 
 The Healer class exists only as a partial Mage class, to be taken by an Adventurer along with another partial class.
-Thus, a Partial Warrior/Partial Healer might be a grizzled combat medic, a Partial Expert/Partial Healer might be an erudite physician gifted in both mundane and magical healing methods, and a Partial Necromancer/
-Partial Healer might be an adept of life and death.
+Thus, a Partial Warrior/Partial Healer might be a grizzled combat medic, a Partial Expert/Partial Healer might be an erudite physician gifted in both mundane and magical healing methods, and a Partial Necromancer/Partial Healer might be an adept of life and death.
 
-All Healers gain Heal as a bonus skill, acquiring it at level-0,
-or level-1 if they already have it at level-0.
+All Healers gain Heal as a bonus skill, acquiring it at level-0, or level-1 if they already have it at level-0.
 A basic grounding in mundane healing techniques is necessary in order to learn their more sophisticated magical arts.
 
 Healers do not learn how to cast spells.
 Instead, they focus on their special arcane healing arts.
 Wielding these arts usually requires nothing more than touching the target and concentrating on the desired effect, and the process is direct and simple enough to perform even when burdened by armor or carrying a shield.
 
-These arts are usually quite subtle, and don’t produce visible or audible indications of their use.
+These arts are usually quite subtle, and don't produce visible or audible indications of their use.
 
 At first level, a Healer gains the Healing Touch art and can pick one more of their choice.
-As they advance in levels afterwards,
-they can learn new arts.
+As they advance in levels afterwards, they can learn new arts.
 Once chosen, an art is permanent and cannot be exchanged.
 
 #### Healer Arts
 
-Healer Effort is calculated with Heal rather than Magic, with each PC’s maximum being equal to their Heal skill level plus the better of their Intelligence or Charisma modifiers, to a minimum of one point.
+Healer Effort is calculated with Heal rather than Magic, with each PC's maximum being equal to their Heal skill level plus the better of their Intelligence or Charisma modifiers, to a minimum of one point.
 
 All Healers are trained in the Healing Touch art, but may develop other techniques with time.
 
-Healing Touch: Commit Effort for the scene as an Instant action;
-for the rest of the scene, you may heal 2d6 damage plus your Heal skill to a touched ally as a Main Action.
+Healing Touch: Commit Effort for the scene as an Instant action; for the rest of the scene, you may heal 2d6 damage plus your Heal skill to a touched ally as a Main Action.
 This healing adds 1 System Strain to the target each time it is applied.
 
 #### Other Healer Arts
 
-Empowered Healer: Your Healing Touch becomes more powerful,
-adding your level to any healing.
+Empowered Healer: Your Healing Touch becomes more powerful, adding your level to any healing.
 
 Facile Healer: Your Healing Touch ability is improved;, and you no longer need to Commit Effort to activate it.
 
@@ -1367,13 +1340,12 @@ Final Repose: Target a visible living creature and Commit Effort for the day as 
 For the rest of the scene, they take a Physical saving throw penalty equal to your Heal skill.
 If they are reduced to zero hit points before the end of the scene, they die with no chance for stabilization or revival.
 
-Healer’s Eye: Commit Effort as an On Turn action; while the Effort remains committed, you can use a Main Action to visually detect diseases and poisons, diagnose creatures flawlessly, perceive their physiology, and learn their current hit point totals.
-As a side effect,
-you can detect living creatures by sight regardless of available light or obscuring mists.
+Healer's Eye: Commit Effort as an On Turn action; while the Effort remains committed, you can use a Main Action to visually detect diseases and poisons, diagnose creatures flawlessly, perceive their physiology, and learn their current hit point totals.
+As a side effect, you can detect living creatures by sight regardless of available light or obscuring mists.
 
 Limb Restoration: Only expert healers can master this art, which cannot be learned earlier than 8th level.
 You must Commit all remaining Effort for the day, a minimum of one point, to regenerate a missing limb or organ for a target you are touching, or efface some dramatic scar or other physical debility.
-The target’s System Strain is automatically maximized.
+The target's System Strain is automatically maximized.
 
 Purge Ailment: Commit Effort for the day as a Main Action.
 An ally you are touching is cured of one poison or disease.
@@ -1381,16 +1353,16 @@ Creatures killed by poison can be revived by this art if it is used within six m
 Magical poisons and diseases may require a Wis/Heal or Cha/Heal skill check against a difficulty of 8 or more.
 At seventh level, you need only Commit Effort for the scene to use this ability.
 
-Refined Restoration: You and up to a dozen allies you tend before they sleep will all lose 2 System Strain from a good night’s rest instead of 1.
+Refined Restoration: You and up to a dozen allies you tend before they sleep will all lose 2 System Strain from a good night's rest instead of 1.
 
 Revive the Fallen: Only expert healers are capable of mastering this art, which cannot be learned earlier than 8th level.
 Commit Effort for the day as a Main Action to revive a recently-slain living creature that you are touching.
 This ability must be used on a target within one minute per caster level of their death, and will not work on a corpse that has been dismembered, incinerated, or otherwise disjected.
-The target’s System Strain is automatically maximized and they’ll be unconscious for twenty-four hours after their restoration before awakening with 1 hit point.
+The target's System Strain is automatically maximized and they'll be unconscious for twenty-four hours after their restoration before awakening with 1 hit point.
 
 Swift Healer: Your Healing Touch ability is improved, and may be used as an On Turn action once per day per character level, though not more than once per round on any given target.
 
-The Healer’s Knife: Your Healing Touch ability is altered, and may be used to inflict damage to a living target instead of healing it.
+The Healer's Knife: Your Healing Touch ability is altered, and may be used to inflict damage to a living target instead of healing it.
 The damage done is equivalent to the healing that would normally be done, albeit you receive 1 System Strain instead of the target.
 Using this power in melee requires a successful Punch attack with a hit bonus equal to your Heal skill, with the damage added to any done by the blow, or simply touching an unwary target.
 Ranged use with Far Healer is impossible with this art.
@@ -1465,7 +1437,175 @@ This ability cannot undo damage you intentionally inflict on yourself via some p
 
 ### The High Mage
 
-TODO
+High Mages represent the default spellcaster in most campaigns.
+
+Their spells tend to be generalist in nature rather than focusing on particular specific themes, but their arts make them extremely skilled at manipulating and augmenting the magics they use.
+
+#### High Mage Benefits
+
+All High Mages gain Magic as a bonus skill, acquiring it at level-0, or level-1 if was already level-0.
+Every High Mage is well-educated in the principles of magic as understood by the sorcerers of this world.
+
+High Mages can prepare and cast High Magic spells, and have a number of arts dedicated to improving their use of these incantations.
+
+As usual for spellcasters, they cannot wear bulky clothing or armor while casting or using arts, nor use shields.
+Mages who have trained to overcome these limits with the Armored Magic Focus have more latitude.
+
+High Mages conduct extensive experimentation and study as part of their daily activities.
+Each time they advance a level, they may pick two High Magic spells from the list in this book to add to their repertoire.
+These spells must be of a level they can cast.
+
+High Mages also gain arts specific to their tradition.
+At first level, a full High Mage picks two arts and a partial High Mage picks one.
+As they gain levels and experience, they'll learn additional arts from the adjacent list.
+Once picked, an art cannot be changed.
+
+#### High Mage Arts
+
+High Mage Effort is calculated as usual, with each PC's maximum being equal to one plus their Magic skill level plus the better of their Intelligence or Charisma modifiers.
+Partial High Mages have a score one point lower than this, albeit not less than one.
+
+Arcane Lexicon: Commit Effort for the scene.
+For the rest of the scene, you can read any script that was not intentionally obfuscated or encoded by its writer.
+Extremely esoteric or nonhuman scripts may not be comprehensible this way; the "plain meaning" of the text might be utterly foreign to human logic.
+
+Counter Magic: Commit Effort for the day as an Instant action when a visible enemy mage casts a spell.
+Both of you make opposed Int/Magic or Cha/Magic skill checks; if you win, their spell fizzles and is wasted.
+This art only works on actual spellcasters and not creatures that merely activate magical powers.
+You can use this art no more than once per round.
+
+Empowered Sorcery: Commit Effort for the day as an Instant action to re-roll any variable die roll associated with a spell's effects, such as a damage roll; take the roll you prefer.
+
+Hang Sorcery: Commit Effort for the scene as an Instant action when casting a spell.
+The spell does not go off, but remains "hung" and waiting to be triggered as an On Turn action, with details of targeting and effect determined at that time.
+Damage does not disrupt a hung spell, but no additional spells can be cast until the hung spell is released or allowed to dissipate.
+
+Inexorable Effect: Commit Effort for the day as an Instant action to force an enemy to re-roll a successful saving throw and take the worse result.
+You may use this art only once per scene.
+
+Iron Resolution: Commit Effort for the day when injured or disturbed in combat; you may make a Physical saving throw to resist spell disruption and ignore the damage for purposes of spellcasting.
+
+Preparatory Countermagic: Commit Effort for the scene when you are affected by a spell you have prepared, including when you are standing in the area of effect of one of your own damaging spells.
+
+You are unaffected by the spell's direct effects.
+
+Psychic Conversion: Once per day as an On Turn action, expend one casting slot to remove one point of accrued System Strain and heal 2 hit points per level.
+
+Restrained Casting: Commit Effort for the day as an Instant action when casting a High Magic spell.
+You may do so in perfect silence and without need for somatic gestures, though damage will still disrupt the casting.
+
+Retain Sorcery: Commit Effort for the day as an On Turn action after casting a spell; it does not count against your casting limits for the day.
+You can use this art no more than once per day, and the stress of using it prevents you from casting another spell before the end of your next turn.
+
+Sense Magic: Commit Effort as an Instant action; while it remains committed, you can visually perceive magical energy and get a one-sentence description of the effect of any standing magics or magical items you inspect.
+The ambient magical energies in most areas allow you to see clearly even in conditions of perfect darkness.
+
+Suppress Magic: Commit Effort for the day as an On Turn action and target a visible or known magical effect within one hundred feet.
+The effect is suppressed as if by the Extirpate Arcana spell for 1d6 rounds plus the caster's character level.
+Spells cast by more powerful casters may not be successfully suppressed, as noted in the spell description.
+
+The caster can attempt to suppress an effect only once.
+
+Swift Casting: Once per scene, you may Commit Effort for the day to turn a spell that normally requires a Main Action to cast into an On Turn action.
+You can cast no other spell this round and you can't use this art if you've already cast a spell this round or been injured or otherwise disqualified from casting.
+
+Ward Allies: Commit Effort for the day as an Instant action to omit up to six allies from the effects of an area-effect spell you cast, allowing them to avoid any damage or other negative effect that would be directly produced by the spell.
+This does not protect them from indirect consequences, however, such as destroying the building they are standing in.
+
+Wizard's Grandeur: Commit Effort as an On Turn action.
+As long as it remains Committed, you will not become dirty, sweaty, stained, or rumpled regardless of the circumstances.
+Noxious substances will slide off you without staining and you will remain comfortable regardless of your attire in any normal climate.
+You may sleep comfortably without shelter or bedding as per the privation rules.
+
+#### Full High Mage
+
+| Level | Hit Dice | Attack Bonus | Focus Picks |
+| ----- | -------- | ------------ | ----------- |
+| 1     | 1d6-1    | +0           | + 1 Any     |
+| 2     | 2d6-2    | +0           | + 1 Any     |
+| 3     | 3d6-3    | +0           |             |
+| 4     | 4d6-4    | +0           |             |
+| 5     | 5d6-5    | +1           | +1 Any      |
+| 6     | 6d6-6    | +1           |             |
+| 7     | 7d6-7    | +1           | +1 Any      |
+| 8     | 8d6-8    | +1           |             |
+| 9     | 9d6-9    | +1           |             |
+| 10    | 10d6-10  | +2           | +1 Any      |
+
+#### Full High Mage Arts and Spells
+
+| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level |
+| ----- | --------------- | ----------- | --------------- | ------------------------- |
+| 1     | 1               | 1           | 3               | Any Two                   |
+| 2     | 1               | 1           | 3               | Any One                   |
+| 3     | 2               | 2           | 4               |                           |
+| 4     | 2               | 2           | 5               | Any One                   |
+| 5     | 3               | 3           | 6               |                           |
+| 6     | 3               | 3           | 7               | Any One                   |
+| 7     | 4               | 4           | 8               |                           |
+| 8     | 4               | 4           | 9               | Any One                   |
+| 9     | 5               | 5           | 10              |                           |
+| 10    | 5               | 6           | 12              | Any One                   |
+
+#### Partial Expert / Partial High Mage
+
+| Level | Hit Dice | Attack Bonus | Focus Picks        |
+| ----- | -------- | ------------ | ------------------ |
+| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any            |
+| 3     | 3d6      | +1           |                    |
+| 4     | 4d6      | +2           |                    |
+| 5     | 5d6      | +2           | +1 Any             |
+| 6     | 6d6      | +3           |                    |
+| 7     | 7d6      | +3           | +1 Any             |
+| 8     | 8d6      | +4           |                    |
+| 9     | 9d6      | +4           |                    |
+| 10    | 10d6     | +5           | +1 Any             |
+
+#### Partial Mage / Partial High Mage
+
+| Level | Hit Dice | Attack Bonus | Focus Picks |
+| ----- | -------- | ------------ | ----------- |
+| 1     | 1d6-1    | +0           | + 1 Any     |
+| 2     | 2d6-2    | +0           | + 1 Any     |
+| 3     | 3d6-3    | +0           |             |
+| 4     | 4d6-4    | +0           |             |
+| 5     | 5d6-5    | +1           | +1 Any      |
+| 6     | 6d6-6    | +1           |             |
+| 7     | 7d6-7    | +1           | +1 Any      |
+| 8     | 8d6-8    | +1           |             |
+| 9     | 9d6-9    | +1           |             |
+| 10    | 10d6-10  | +2           | +1 Any      |
+
+#### Partial Warrior / Partial High Mage
+
+| Level | Hit Dice | Attack Bonus | Focus Picks         |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6+2    | +1           | + 1 Warrior + 1 Any |
+| 2     | 2d6+4    | +2           | + 1 Any             |
+| 3     | 3d6+6    | +2           |                     |
+| 4     | 4d6+8    | +3           |                     |
+| 5     | 5d6+10   | +4           | +1 Any              |
+| 6     | 6d6+12   | +5           |                     |
+| 7     | 7d6+14   | +5           | +1 Any              |
+| 8     | 8d6+16   | +6           |                     |
+| 9     | 9d6+18   | +6           |                     |
+| 10    | 10d6+20  | +7           | +1 Any              |
+
+#### Partial High Mage Arts and Spells
+
+| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level |
+| ----- | --------------- | ----------- | --------------- | ------------------------- |
+| 1     | 1               | 1           | 2               | Any One                   |
+| 2     | 1               | 1           | 3               | Any One                   |
+| 3     | 1               | 1           | 3               | Any One                   |
+| 4     | 1               | 2           | 4               |                           |
+| 5     | 2               | 2           | 5               |                           |
+| 6     | 2               | 3           | 6               | Any One                   |
+| 7     | 2               | 3           | 7               |                           |
+| 8     | 2               | 3           | 7               |                           |
+| 9     | 3               | 4           | 8               | Any One                   |
+| 10    | 3               | 4           | 9               |                           |
 
 ### The Invoker
 
@@ -1596,8 +1736,7 @@ If you succeed, they will comply with the request, provided it is not significan
 
 Level 2: Those who follow you are fired with confidence.
 Any NPC being directly led by you gains a Morale and hit roll bonus equal to your Lead skill and a +1 bonus on all skill checks.
-Your followers and henchmen will not act against your interests unless under extreme
-pressure.
+Your followers and henchmen will not act against your interests unless under extreme pressure.
 
 #### Close Combatant
 
@@ -1702,8 +1841,7 @@ The deal must be for something specific and time-limited, and not an open-ended 
 You have an unusual gift for saving Mortally Wounded allies and quickening the natural recovery of the wounded in your care.
 
 Level 1: Gain Heal as a bonus skill.
-You may attempt to stabilize one Mortally Wounded adjacent person per round as an On Turn
-action.
+You may attempt to stabilize one Mortally Wounded adjacent person per round as an On Turn action.
 When rolling Heal skill checks, roll 3d6 and drop the lowest die.
 You heal twice as many hit points as usual when applying first aid after a battle.
 
@@ -1763,10 +1901,8 @@ Level 1: Once per week, a blow or effect that would otherwise have left you kill
 You make any rolls related to games of chance twice, taking the better roll.
 
 Level 2: Once per session, in a situation of need or peril, you can trust to your luck and roll 1d6.
-On a 2 or more, something fortunate will happen to further your goal, provide an escape from immediate peril, or otherwise give you an advantage you need, if not immediate
-victory.
-On a 1, the situation will immediately grow much worse, as
-the GM sees fit.
+On a 2 or more, something fortunate will happen to further your goal, provide an escape from immediate peril, or otherwise give you an advantage you need, if not immediate victory.
+On a 1, the situation will immediately grow much worse, as the GM sees fit.
 
 #### Nullifier
 
@@ -1776,8 +1912,7 @@ This Focus cannot be taken by Mages or Partial Mages.
 
 Level 1: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects.
 As an On Turn action, you can feel the presence or use of magic within twenty feet of you, though you can't discern details about it or the specific source.
-The first failed saving throw against a magical effect you suffer in a day is turned
-into a success.
+The first failed saving throw against a magical effect you suffer in a day is turned into a success.
 
 Level 2: Once per day, as an Instant action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn't normally allow a saving throw.
 Immunity to a persistent effect lasts for the rest of the scene.
@@ -1828,8 +1963,7 @@ You can so bond with one steed at a time, taking an hour to do so.
 #### Shocking Assault
 
 You're extremely dangerous to enemies around you.
-The ferocity of your melee attacks stresses and distracts enemies even when your
-blows don't draw blood.
+The ferocity of your melee attacks stresses and distracts enemies even when your blows don't draw blood.
 
 Level 1: Gain Punch or Stab as a bonus skill.
 The Shock damage of your weapon treats all targets as if they were AC 10, assuming your weapon is capable of harming the target in the first place and the target is not immune to Shock.
@@ -2013,12 +2147,10 @@ Physical saving throws are used to resist exhaustion, disease, poison, or other 
 A new character's Physical save target is equal to 15 minus the better of their Strength or Constitution modifiers.
 
 Evasion saving throws are used to avoid explosions, traps, or other dangers requiring fast reactions.
-A new character's Evasion save target is equal to 15 minus the better of their Intelligence or
-Dexterity modifiers.
+A new character's Evasion save target is equal to 15 minus the better of their Intelligence or Dexterity modifiers.
 
 Mental saving throws are used to resist intangible spells, mental attacks, or other tests of willpower or self-control.
-A new character's Mental save target is equal to 15 minus the better of their Wisdom
-or Charisma modifiers.
+A new character's Mental save target is equal to 15 minus the better of their Wisdom or Charisma modifiers.
 
 Luck saving throws are rolled when facing a danger that only blind chance can spare them from, such as landslide, bridge collapse, or a sniper's random choice of victims.
 A new character's Luck save target is always 15.

@@ -2231,12 +2231,7 @@ Once per day, it can refresh one point of Committed Effort for you.
 Level 2: Pick two benefits from the list below for your familiar.
 This level may be taken more than once, adding two additional options each time.
 
-- It has hit points equal to three times your level
-- It gains the ability to attack with a hit bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no Shock
-- It gains a +1 skill check bonus and can apply it to a range of situations equivalent to one normal human background
-- It gains another shape of your choice which it can adopt or discard as an On Turn action
-- It can hover or fly at its usual movement rate
-- It can communicate freely with others in any language you know
+- It has hit points equal to three times your level - It gains the ability to attack with a hit bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no Shock - It gains a +1 skill check bonus and can apply it to a range of situations equivalent to one normal human background - It gains another shape of your choice which it can adopt or discard as an On Turn action - It can hover or fly at its usual movement rate - It can communicate freely with others in any language you know
 
 #### Trapmaster
 

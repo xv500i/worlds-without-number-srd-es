@@ -1830,6 +1830,21 @@ For the rest of the scene, you gain the benefits of the Apprehend the Arcane For
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
+#### Mageslayer Art Progression
+
+| Level | Arts Gained at this level |
+| ----- | ------------------------- |
+| 1     | Antimage, Magebane        |
+| 2     | Witchfinder, Spellshield  |
+| 3     | Disrupt Sorcery           |
+| 4     | Know Your Prey            |
+| 5     | Share the Pain            |
+| 6     | Dispel Enchantment        |
+| 7     | Ward Ally                 |
+| 8     | Immaculate Body           |
+| 9     | Immaculate Mind           |
+| 10    | Absolute Negation         |
+
 ### The Necromancer
 
 TODO

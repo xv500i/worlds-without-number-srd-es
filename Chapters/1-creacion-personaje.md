@@ -1175,7 +1175,7 @@ This defense lasts only long enough to nullify the single instance of damage.
 | 9     | 9d6      | +4           |                    |
 | 10    | 10d6     | +5           | +1 Any             |
 
-#### Partial Mage / Partial Elementalist
+#### Partial Other Mage / Partial Elementalist
 
 | Level | Hit Dice | Attack Bonus | Focus Picks |
 | ----- | -------- | ------------ | ----------- |
@@ -1562,7 +1562,7 @@ You may sleep comfortably without shelter or bedding as per the privation rules.
 | 9     | 9d6      | +4           |                    |
 | 10    | 10d6     | +5           | +1 Any             |
 
-#### Partial Mage / Partial High Mage
+#### Partial Other Mage / Partial High Mage
 
 | Level | Hit Dice | Attack Bonus | Focus Picks |
 | ----- | -------- | ------------ | ----------- |
@@ -2164,7 +2164,7 @@ It can see up to sixty feet while underwater even in the absence of normal light
 | 9     | 9d6      | +4           |                    |
 | 10    | 10d6     | +5           | +1 Any             |
 
-#### Partial Mage / Partial Skinshifter
+#### Partial Other Mage / Partial Skinshifter
 
 | Level | Hit Dice | Attack Bonus | Focus Picks |
 | ----- | -------- | ------------ | ----------- |

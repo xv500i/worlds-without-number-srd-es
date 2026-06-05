@@ -5,5 +5,6 @@
 - [Reglas](Capitulos/2-reglas.md)
 - [Equipo, Armas y Armaduras](Capitulos/3-equipo-armas-y-armaduras.md)
 - [Monstruos y Adversarios](Capitulos/5-monstruos-y-adversarios.md)
+- [Facciones](Capitulos/6-facciones.md)
 - [Proyectos](Capitulos/7-proyectos.md)
 - [Hoja de Personaje](AyudasDeJuego/charactersheet.html)

@@ -796,6 +796,7 @@ This ability does not allow you to read or write unknown languages.
 Armor of God: Commit Effort as an On Turn action.
 While the Effort remains Committed, you have a natural Armor Class of 15 plus half your level, rounded down.
 This AC can be modified by shields or your Dexterity modifier, but not by other worn armor.
+
 Divine Guidance: Commit Effort for the day as a Main Action and meditate upon a choice or potential action before you.
 The GM will tell you whether the likely outcome of that choice is weal, woe, a mix of both, or nothing significant, using their own best estimation.
 This insight cannot perceive likely outcomes more than an hour or so into the future.
@@ -948,6 +949,7 @@ This art can be used only once per round.
 Code Duello: Commit Effort for the day as an On Turn action when engaged with a single foe.
 So long as no other combatant attacks either your target or you, and you attack no one but your target, you gain a +4 bonus to your Armor Class and can roll your hit rolls twice, taking the better result.
 Once the Code Duello has been disrupted or ended, it cannot be invoked again during that scene.
+
 Crushing Superiority: Your favored weapon gains the Less Lethal quality if it doesn't already have it.
 Commit Effort for the scene as an Instant action when you hit a target; they must immediately make an Instinct check.
 This ability can be used only once per scene on any given target.
@@ -2383,7 +2385,7 @@ Adepts of fist and bodily discipline, the Vowed are a partial Mage class dedicat
 The Vowed class exists only as a partial Mage class, to be taken by an Adventurer along with another partial class.
 Thus, a Partial Warrior/Partial Vowed might be a hardened temple warrior-monk, a Partial Expert/Partial Vowed might be a sage teacher of religious or philosophical truths, and a Partial Elementalist/Partial Vowed might be a mountain sage who wields the elemental forces of nature.
 
-Regardless of classes, a Vowed’s hit dice can’t be worse than 1d6 per level thanks to Martial Style.
+Regardless of classes, a Vowed's hit dice can't be worse than 1d6 per level thanks to Martial Style.
 
 All Vowed gain a non-combat bonus skill appropriate to their order, acquiring it at level-0, or level-1 if they already have it at level-0.
 Orders that focus on physical training might grant Exert, while scholarly ones might give Know, religious ones Pray, or occult sects grant Magic.
@@ -2399,12 +2401,12 @@ Further advancement will grant additional arts.
 
 #### Vowed Arts
 
-Vowed Effort is based on the skill they chose to represent their order’s main focus of study, whether Exert, Know, Magic, Pray, or some more esoteric skill.
+Vowed Effort is based on the skill they chose to represent their order's main focus of study, whether Exert, Know, Magic, Pray, or some more esoteric skill.
 
 Their maximum Vowed Effort is equal to this skill level plus their best attribute modifier, whatever it may be, to a minimum of one point.
 All Vowed automatically gain the Martial Style, Unarmed Might, and Unarmored Defense arts as part of their training.
 
-Martial Style: Regardless of class, your hit die can’t be worse than 1d6 per level.
+Martial Style: Regardless of class, your hit die can't be worse than 1d6 per level.
 When attacking with the Punch skill, your class hit bonus can be no worse than that of an Expert of your same character level.
 At third level, any attack using the Punch skill counts as a magic weapon.
 
@@ -2432,7 +2434,7 @@ For as long as it remains Committed, you are mystically aware of your surroundin
 Leap of the Heavens: Commit Effort for the scene as a Move action to leap up to your full Move action horizontally or half that vertically.
 You may also Commit Effort for the scene as an Instant action to negate falling damage, no matter the distance.
 
-Master’s Vigor: Your body retains its vigor and youthful vitality to the full normal span of your life.
+Master's Vigor: Your body retains its vigor and youthful vitality to the full normal span of your life.
 You regain two lost hit points per hour due to your natural restorative powers.
 
 Mob Justice: As an Instant action, Commit Effort for the day to become impervious to the Make a Swarm Attack maneuver.
@@ -2529,12 +2531,12 @@ Once per scene, you may Commit Effort for the day as an Instant action to reroll
 The Warrior is a hero born to the blade, a man or woman gifted with a superb capacity for physical violence.
 Savage barbarians, hardened mercenaries, courageous young farm boys, and ordinary laborers who just happen to have an undiscovered capacity for massive bloodshed all might qualify as Warriors.
 
-Warriors aren’t all formal soldiers or recognized veterans of the blade.
+Warriors aren't all formal soldiers or recognized veterans of the blade.
 Any adventurer who excels in dealing with their problems through violence might qualify as a Warrior, however peaceful their background.
-It’s possible that their very talent for killing was what forced them out of their old life after some terrible event or awful encounter compelled them to recognize their gifts.
+It's possible that their very talent for killing was what forced them out of their old life after some terrible event or awful encounter compelled them to recognize their gifts.
 
 Warriors have more hit points than heroes of other class, and are capable of surviving wounds and hardships that would kill an ordinary man.
-They’re also gifted with a superior attack bonus, and a native ability to inflict more damage than other PCs.
+They're also gifted with a superior attack bonus, and a native ability to inflict more damage than other PCs.
 Full Warriors even have the ability to ensure a hit or force a miss by an enemy once per scene, making them lethal foes to common combatants.
 
 #### Class Ability: Killing Blow
@@ -2546,7 +2548,7 @@ Combined with Foci meant to improve Shock attacks such as Armsmaster, Close Comb
 
 Partial Warriors do not get this ability.
 
-#### Class Ability: Veteran’s Luck
+#### Class Ability: Veteran's Luck
 
 Once per scene, as an Instant action, the Warrior may turn a missed attack they have made into a hit.
 Alternately, they may turn a successful attack against them into a miss, also as an Instant action.
@@ -2607,7 +2609,7 @@ Partial Warriors do not get this ability.
 
 ### The Wise
 
-Some low-magic settings have a particular place for concepts that aren’t exactly magical, but have some special place in society.
+Some low-magic settings have a particular place for concepts that aren't exactly magical, but have some special place in society.
 
 Whether a mundane priest of the dominant faith, a feared forest warlock, or a sacred oracle of the gods, these Wise have a special role to fill.
 
@@ -2617,9 +2619,9 @@ In general, the Wise class is usually only viable in a low- or no-magic setting 
 If standard magic exists in your campaign the Wise may not offer enough to appeal to players.
 
 Benefits of the Wise The Wise is a partial Expert class that must be taken by an Adventurer with another partial class.
-It’s generally suited for low-magic campaigns, but strictly mundane versions of it may pass muster for a no-magic setting.
+It's generally suited for low-magic campaigns, but strictly mundane versions of it may pass muster for a no-magic setting.
 
-While the Wise count as a partial Expert class for other purposes, they do not gain the advantage of the partial Expert’s Quick Learner class ability or the bonus non-combat Focus that a partial Expert normally gets at first level.
+While the Wise count as a partial Expert class for other purposes, they do not gain the advantage of the partial Expert's Quick Learner class ability or the bonus non-combat Focus that a partial Expert normally gets at first level.
 An Adventurer who is a standard partial Expert/partial Wise does get these perks, however.
 
 All Wise gain level-0 in a bonus skill appropriate to their concept, be it Pray, Know, Magic, Survive, or some other skill that makes sense to the GM.
@@ -2651,7 +2653,7 @@ Erudite: You are uncommonly learned.
 Once per day, reroll a failed skill check related to intellectual pursuits or things a scholar would know about.
 
 Folk-Friend: Commoners and other lower-class natives consider you a useful healer and helper.
-Once per day, get a modest favor from a commoner who doesn’t hate you in exchange for a blessing or bit of advice.
+Once per day, get a modest favor from a commoner who doesn't hate you in exchange for a blessing or bit of advice.
 
 Healer: You are a trained and capable healer.
 Gain a +1 on all Heal skill checks; once per day, as an On Turn action, automatically succeed at a skill check to stabilize a Mortally Wounded subject.
@@ -2670,7 +2672,7 @@ This art may be taken more than once.
 ##### Divination Arts
 
 Compel Truth: The diviner compels a person to drink a particular brew, participate in a specific ritual, or otherwise undergo a scenelong ordeal.
-Afterwards, the diviner may ask the target a single question and the GM secretly rolls a Cha/Magic skill check against a difficulty of the target’s Morale+1, or level+6 for PCs.
+Afterwards, the diviner may ask the target a single question and the GM secretly rolls a Cha/Magic skill check against a difficulty of the target's Morale+1, or level+6 for PCs.
 On a success, the subject must answer the question truthfully and fully.
 On a failure, they may give any answer they wish.
 The same or substantially same question may not be asked twice with this art.
@@ -2708,7 +2710,7 @@ The bringing of fortune or ill fate is not a trivial thing.
 A given creature can be cursed or blessed by one of these arts only once a day.
 
 Auspicious Undertaking: As a Main Action, bless a particular plan or undertaking currently sought by the target.
-During the plan’s execution or while seeking the desired end, the blessed subject can reroll one failed skill check or one missed hit roll.
+During the plan's execution or while seeking the desired end, the blessed subject can reroll one failed skill check or one missed hit roll.
 The blessing lasts until it is used, the plan is finished, or one day per caster level has passed.
 Only one plan can be blessed at a time.
 
@@ -2718,7 +2720,7 @@ You can now use these arts as an Instant action, albeit still only one such art 
 Ill Fate: As a Main Action, curse a visible target.
 You may specify a particular kind of undertaking or apply the curse to anything they may do.
 The next pertinent skill check they make is made at a -1 penalty.
-If their raw die roll is equal or less than the PC’s Magic skill plus one their effort goes disastrously wrong.
+If their raw die roll is equal or less than the PC's Magic skill plus one their effort goes disastrously wrong.
 The curse lasts until the next relevant skill check.
 
 Luck Blessing: As a Main Action, confer a blessing on a visible target.
@@ -2728,7 +2730,7 @@ Only one luck blessing can be in place for a creature at a time.
 
 War Curse: As a Main Action, curse a visible enemy.
 They suffer a -2 penalty to hit rolls, damage rolls, and Shock damage for the rest of the scene.
-If they miss an attack with a raw to-hit die roll less than the Wise’s Magic skill, they accidentally hurt themselves for normal damage.
+If they miss an attack with a raw to-hit die roll less than the Wise's Magic skill, they accidentally hurt themselves for normal damage.
 Only one war curse can be applied at a time.
 
 #### Partial Expert / Partial Wise

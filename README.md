@@ -20,8 +20,10 @@ Contributors names and contact info
 - TODO2  
 
 ## Version History
-### 0.1
-- Initial Release
+
+### 0.5
+
+- Original text in english
 
 ## License
 

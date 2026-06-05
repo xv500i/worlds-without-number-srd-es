@@ -4,6 +4,7 @@
 - [Creación de Personaje](Capitulos/1-creacion-personaje.md)
 - [Reglas](Capitulos/2-reglas.md)
 - [Equipo, Armas y Armaduras](Capitulos/3-equipo-armas-y-armaduras.md)
+- [Magia y Conjuración](Capitulos/4-magia-y-conjuracion.md)
 - [Monstruos y Adversarios](Capitulos/5-monstruos-y-adversarios.md)
 - [Facciones](Capitulos/6-facciones.md)
 - [Proyectos](Capitulos/7-proyectos.md)

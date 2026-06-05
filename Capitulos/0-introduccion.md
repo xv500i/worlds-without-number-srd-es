@@ -42,7 +42,7 @@ These uses apply to both personal and commercial uses of the following document,
 - You may explicitly advertise your products as being compatible
   with Worlds Without Number or other Sine Nomine
   RPGs if, in your opinion, the product is compatible.
-- You may not represent your products as “official” Sine
+- You may not represent your products as "official" Sine
   Nomine offerings or as otherwise licensed, produced, associated
   with, or approved by Sine Nomine Publishing.
 - You may not replicate text or setting material included in the Worlds Without Number free or deluxe game but not included in the following document.

@@ -20,21 +20,21 @@ In addition to spells, mages commonly have access to arts, magical techniques th
 Most mages learn one or two arts as an apprentice and gradually master more as they advance in skill.
 
 Every tradition has its own body of arts, and only members of that tradition can ever learn them.
-Adventurers who take dual Mage classes can learn arts from both, but each class must choose its arts individually; a Partial High Mage/Partial Healer couldn’t use his High Mage art picks to choose Healer arts, or vice-versa.
+Adventurers who take dual Mage classes can learn arts from both, but each class must choose its arts individually; a Partial High Mage/Partial Healer couldn't use his High Mage art picks to choose Healer arts, or vice-versa.
 
 ## Preparing and Casting Spells
 
 Each spellcaster must first learn a spell before they can cast it.
-They may be taught by a mage who already knows the spell, even if they’re from a different tradition, or they must find a grimoire laying out the fine details of the incantation.
+They may be taught by a mage who already knows the spell, even if they're from a different tradition, or they must find a grimoire laying out the fine details of the incantation.
 Specialist spells specific to a tradition cannot be learned by mages outside that tradition.
 
 ### Learning a Spell
 
-Learning a spell requires one week per spell level, less one week per level of the learner’s Magic skill, down to a minimum of one day.
-At the end of this time the student will either have mastered the contents of a written copy of the spell or created such a copy from their master’s tutelage.
+Learning a spell requires one week per spell level, less one week per level of the learner's Magic skill, down to a minimum of one day.
+At the end of this time the student will either have mastered the contents of a written copy of the spell or created such a copy from their master's tutelage.
 They must continue to retain access to this written document if they are to prepare the spell later, as it is an actual thaumaturgically- attuned artifact in itself.
 Without its formulas, attunement tables, and enchanted diagrams the mage will be unable to prepare the spell for later use.
-The full collection of these documents is generally known as the mage’s "grimoire" or "spellbook", though some texts actually take the form of teaching artifacts or physical models.
+The full collection of these documents is generally known as the mage's "grimoire" or "spellbook", though some texts actually take the form of teaching artifacts or physical models.
 
 If this spellbook is lost, the mage can re-create it, but it takes as much time to re-scribe each spell as it would to learn it in the first place.
 No special costs are required in silver or materials.
@@ -42,23 +42,23 @@ No special costs are required in silver or materials.
 A mage must be able to actually cast the spell in order to learn it.
 
 A novice mage can cast only first level spells, so they can learn only first level spells as well, even if they somehow come into possession of a grimoire with a more potent incantation.
-They’ll need to wait until their own enlightenment is sufficient to cast the spell before they can finally master it.
+They'll need to wait until their own enlightenment is sufficient to cast the spell before they can finally master it.
 
 ### Preparing a Spell
 
 Once the spellbook is prepared, the mage must perform the necessary attunements and propitiations to prepare the spell for casting.
 
 The number of spells a mage can prepare at once varies with their experience level, from as few as two or three at first level to as many as twelve when at tenth level.
-The mage may prepare any spell they have in their spellbook; there’s no obligation to prepare a certain number of low-level spells should the mage wish to fill all their available "slots" with their most powerful magics and run the risk of lacking some lesser, yet more useful spell.
+The mage may prepare any spell they have in their spellbook; there's no obligation to prepare a certain number of low-level spells should the mage wish to fill all their available "slots" with their most powerful magics and run the risk of lacking some lesser, yet more useful spell.
 
-Preparing a new set of spells takes an hour, and can only be done after a good night’s rest, when the mage’s mind is most fresh and malleable.
+Preparing a new set of spells takes an hour, and can only be done after a good night's rest, when the mage's mind is most fresh and malleable.
 Once spells have been prepared they remain so indefinitely until replaced with a different set of magics.
 
 ### Casting Prepared Spells
 
 Once a set of spells is prepared, the mage may then cast them at their leisure.
 Casting a spell usually requires a Main Action and at least one free hand, along with vocalizations at least as loud as clear normal conversation.
-The arcane gesticulations and vocal incantations are quite obviously occult to any onlookers, but it’s usually impossible to tell which spell a mage is casting merely by looking at them.
+The arcane gesticulations and vocal incantations are quite obviously occult to any onlookers, but it's usually impossible to tell which spell a mage is casting merely by looking at them.
 
 Casting a spell requires focus and undisturbed concentration.
 If a mage has taken hit point damage or has been severely jostled in a round, they cannot cast magic that round.
@@ -68,7 +68,7 @@ Spells cannot normally be cast while wearing armor or restrictive clothing.
 The profane materials, restrictive fit, and unsalutary occult configurations of armor spoil the necessary flow of energy, as does the bulk and clumsiness of a shield.
 The same hindrances usually also spoil the use of any arts the tradition may teach, and not just spellcasting itself.
 
-A mage can cast only so many spells each day before needing a full night’s rest to recover.
+A mage can cast only so many spells each day before needing a full night's rest to recover.
 Novices can cast only one spell, while masters can manage six.
 The spell to be cast may be selected from any prepared by the mage; the same power can be used to invoke a mighty fifth-level spell or a relatively modest first-level incantation.
 
@@ -77,20 +77,20 @@ The same spell may be cast more than once, if the mage has multiple castings lef
 Adventurers who take the Partial Mage class are more limited than more focused specialists.
 They are able to cast fewer spells each day and the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage.
 The total spells they can prepare for the day are also often somewhat fewer than that of a full Mage.
-When they cast the spells, however, any level-based effects also use their full level, so a third-level Partial Necromancer’s invocation of The Coruscating Coffin does 3d8 damage, just as a full Necromancer would.
+When they cast the spells, however, any level-based effects also use their full level, so a third-level Partial Necromancer's invocation of The Coruscating Coffin does 3d8 damage, just as a full Necromancer would.
 
 ### Creatures, Targets, and Visibility
 
 Many spells or powers specify particular targets or creatures, or require that a target be visible.
 For purposes of these spells, "creature"
 means any animate entity, whether living, undead, or synthetic.
-Plants do not qualify as creatures unless they’re some sort of plant monster.
+Plants do not qualify as creatures unless they're some sort of plant monster.
 
 A spell that can be aimed or used on one or more targets can include the caster as one such potential target, unless the spell indicates otherwise.
 If a spell specifies that it applies only to "chosen targets", the mage can pick and choose; otherwise all in the area are affected indiscriminately.
 
 A "visible" target is a target the mage can see or whose exact location is obvious to the caster.
-If a maximum range isn’t given, assume it’s can be no more than a bowshot away from the wizard.
+If a maximum range isn't given, assume it's can be no more than a bowshot away from the wizard.
 
 ## Dual Partial Spellcasters
 
@@ -102,7 +102,7 @@ PCs who pick one spellcaster partial and one non-spellcaster, like a Necromancer
 
 | Level | Max Level | Spells Cast | Spells Prepared | Arts Gained                                                           |
 | ----- | --------- | ----------- | --------------- | --------------------------------------------------------------------- |
-| 1     | 1         | 1           | 3               | As per both partial classes, gaining each level’s art picks as usual. |
+| 1     | 1         | 1           | 3               | As per both partial classes, gaining each level's art picks as usual. |
 | 2     | 1         | 1           | 4               |                                                                       |
 | 3     | 1         | 2           | 5               |                                                                       |
 | 4     | 2         | 2           | 6               |                                                                       |
@@ -128,7 +128,7 @@ Any spells the caster or other allies cast can affect only their own group, and 
 A brief incantation transforms one visible, willing target per caster level into a perfect simulacrum of any humanoid creature the caster has seen before, whether a specific individual or a general type.
 
 No special abilities are granted by this transformation, but the target will perfectly resemble a chosen individual, including in voice and scent.
-Their non-magical clothing will transform to whatever clothing is appropriate to the target, and they will gain an intuitive ability to speak and understand the target’s native tongue.
+Their non-magical clothing will transform to whatever clothing is appropriate to the target, and they will gain an intuitive ability to speak and understand the target's native tongue.
 The spell lasts until dawn of the day after casting it, whereupon the targets and any transformed clothing revert back to their original seeming.
 
 ### Apprehending the Arcane Form Level 1
@@ -155,22 +155,22 @@ Dead or escaped creatures appear in the nearest clear space to their original de
 
 ### Calculation of the Evoked Servitor Level 2
 
-This spell conjures up an intelligent familiar for the caster, one with one hit point per caster level, an AC of 14, a ground movement rate of 30’ per action, saving throws the same as the caster, a +0 skill modifier, and no effective attack.
-The familiar always adopts the same shape for the same caster, though the initial casting can set this to any shape the caster wishes provided it’s no larger than a small human.
+This spell conjures up an intelligent familiar for the caster, one with one hit point per caster level, an AC of 14, a ground movement rate of 30' per action, saving throws the same as the caster, a +0 skill modifier, and no effective attack.
+The familiar always adopts the same shape for the same caster, though the initial casting can set this to any shape the caster wishes provided it's no larger than a small human.
 The familiar retains a telepathic connection with its creator and will obey any command it is given, including suicidal ones.
 It can perform any action that a competent human servant could.
 If the familiar is slain, it fades away, but can be called forth again by the spell.
-The familiar retains its memories of what happens while it’s summoned, and can develop its own personality in time.
-The familiar remains in existence until dawn following the spell’s casting or until dismissed by the caster.
+The familiar retains its memories of what happens while it's summoned, and can develop its own personality in time.
+The familiar remains in existence until dawn following the spell's casting or until dismissed by the caster.
 
 ### Calculation of the Phantasmal Eidolon Level 4
 
 The caster conjures up a semi-real phantasmal creature in any shape or appearance they desire, provided it is no larger than an ox.
-The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 effective hit dice, 20 hit points, AC 15, a movement rate of 30’ per action, a +1 skill modifier, saves of 13+, and a +6/1d8 damage melee attack with 2/AC 15 Shock.
+The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 effective hit dice, 20 hit points, AC 15, a movement rate of 30' per action, a +1 skill modifier, saves of 13+, and a +6/1d8 damage melee attack with 2/AC 15 Shock.
 
 As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 hit point.
-The caster may pick one special quality for the creature when it is summoned: the ability to fly at a rate of 30’/
-move, the perfect duplication of a particular person they’ve seen, the ability to form a telepathic speech connection with the caster, or the ability to effectively use normal weaponry and armor.
+The caster may pick one special quality for the creature when it is summoned: the ability to fly at a rate of 30'/
+move, the perfect duplication of a particular person they've seen, the ability to form a telepathic speech connection with the caster, or the ability to effectively use normal weaponry and armor.
 The servitor lasts until destroyed or the dawn after the spell is cast.
 
 ### Casting Forth the Inner Eye Level 2
@@ -187,8 +187,8 @@ This spell lasts until the caster performs some action other than focusing on th
 
 The mage targets a visible, normal, non-magical animal or insect, obtaining temporary control of the beast and the ability to share its senses.
 The animal gains a telepathic bond with the caster, obeying any non-suicidal command and allowing the mage to perceive everything it perceives.
-The beast will not fight for the caster, but can perform complex actions entirely out of character for it while under the mage’s control.
-The mage must focus to share the beast’s senses, requiring a Main Action and leaving the mage unable to act physically while so focused.
+The beast will not fight for the caster, but can perform complex actions entirely out of character for it while under the mage's control.
+The mage must focus to share the beast's senses, requiring a Main Action and leaving the mage unable to act physically while so focused.
 The spell lasts until the mage releases the beast, it is dispelled, or it is cast again.
 
 ### Conjunct the Vital Viscera Level 3
@@ -201,7 +201,7 @@ Assimilated subjects can continue to see and hear what goes on outside their car
 A given subject can absorb up to five other human-sized targets.
 The spell lasts until dispelled, released, or one hour per caster level has passed, though transferred hit points or afflictions do not return to their original subject.
 If a subject is killed while "borrowing"
-another’s body parts, those parts do not return.
+another's body parts, those parts do not return.
 
 ### Conjunction of the Inexorable Step Level 2
 
@@ -225,18 +225,18 @@ The spell cannot be blocked by non-magical intervening barriers, provided the ca
 ### Damnation of the Sense Level 1
 
 The caster targets a visible creature within two hundred feet.
-The target gets a Mental saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the scene, while a success leaves them bound only for the next round.
+The target gets a Mental saving throw to resist; on a failure, one sense of the caster's choice is entirely under the caster's control for the rest of the scene, while a success leaves them bound only for the next round.
 
 Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened.
 Distracting tactile sensations can force the victim to make a Physical saving throw in order to act each round.
-Blinded creatures can’t make ranged attacks and roll all melee hit rolls twice, taking the worst result.
+Blinded creatures can't make ranged attacks and roll all melee hit rolls twice, taking the worst result.
 If a creature thinks itself in mortal peril its excitement allows it to make a Mental save to throw off the spell at the end of each round.
 
 ### The Dazzling Prismatic Hemicycle Level 5
 
 A blinding fan of impossible colors cascades over all targets in front of the caster in an area equal to a cone a hundred feet long and a hundred feet wide at the end.
 Each creature within that area must make a Physical saving throw; those who fail roll 1d6.
-On a 1, they are unharmed, on a 2 they collapse into a handful of dust, on a 3 they fall unconscious for an hour, on a 4 they go violently insane for the next hour and attack all around them, on a 5 they turn to stone, and on a 6 they become utterly enthralled to the caster’s commands for the next hour, as if under the effect of an Ineluctable Shackles of Volition spell.
+On a 1, they are unharmed, on a 2 they collapse into a handful of dust, on a 3 they fall unconscious for an hour, on a 4 they go violently insane for the next hour and attack all around them, on a 5 they turn to stone, and on a 6 they become utterly enthralled to the caster's commands for the next hour, as if under the effect of an Ineluctable Shackles of Volition spell.
 
 ### Decree of Ligneous Dissolution Level 1
 
@@ -266,7 +266,7 @@ The caster can tighten the radius down to a minimum of 20 feet, but cannot be se
 The caster may invoke this spell as an Instant action on any single creature within one hundred feet.
 Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
 
-This spell is only useful on targets that are currently taking their round’s actions; once they’ve finished for the round and another creature has started acting, it is too late to benefit from this spell.
+This spell is only useful on targets that are currently taking their round's actions; once they've finished for the round and another creature has started acting, it is too late to benefit from this spell.
 If the target is unwilling to roll back their action, they may make a Mental saving throw to resist the spell.
 
 ### The Earth as Clay Level 5
@@ -275,13 +275,13 @@ The caster molds the soil and stone of the land around them, raising hills, digg
 Once cast, the mage may psychically mold the terrain within three hundred feet per caster level, shifting it slowly over the course of an hour to form whatever shape they desire out of it, provided the material used can actually maintain such a shape.
 Simple buildings and walls may be created out of bedrock or available stone, and tunnels and caves may be shaped up to 50 feet down from the caster, while hills may be raised up to 200 feet above the prevailing grade.
 
-This spell cannot work within a thousand feet of stone or earth that has been significantly worked by intelligent creatures, though the use of this spell by the same caster doesn’t count as working the earth on further castings.
+This spell cannot work within a thousand feet of stone or earth that has been significantly worked by intelligent creatures, though the use of this spell by the same caster doesn't count as working the earth on further castings.
 
 ### Evert the Inwardness Level 4
 
-A single visible target is selected, whereupon whatever contents that target may possess are extracted and placed in the caster’s hands.
+A single visible target is selected, whereupon whatever contents that target may possess are extracted and placed in the caster's hands.
 If used on a cabinet, backpack, pocket, or other such container it can be no larger than an armoire, and the caster can choose whether or not to receive any particular object from inside it, being instantly appraised of its contents when the spell is cast.
-If used on a creature, it attempts to tear out the subject’s innards; if the subject has equal or fewer hit dice than the caster, it must make a Physical save or die instantly.
+If used on a creature, it attempts to tear out the subject's innards; if the subject has equal or fewer hit dice than the caster, it must make a Physical save or die instantly.
 Whether or not it perishes, it suffers 1d10 damage per caster level, with a Physical save for half.
 
 ### The Excellent Transpicuous Transformation Level 1
@@ -309,7 +309,7 @@ Otherwise, a contested Int/Magic or Cha/Magic skill roll must be made, with high
 This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to have any chance to even temporarily suppressing them.
 If successful, the effect is negated for 1d6 rounds.
 
-If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
+If cast on a very large enchantment, only the portion within the spell's zone of effect is suppressed.
 
 ### Foresightful Apprehension Level 3
 
@@ -323,7 +323,7 @@ This spell calls forth a floating set of colored glass chimes.
 The caster alone may strike them, producing sounds of great subtlety and penetration.
 
 The caster may allow anyone in the desired range to hear the music, or may make it inaudible to anyone save specific targets within range.
-Such is the expressiveness of the chimes that those who hear them may instantly understand the caster’s desired message, however abstract.
+Such is the expressiveness of the chimes that those who hear them may instantly understand the caster's desired message, however abstract.
 If the caster strikes the chimes violently as a Main Action, they may shatter them, causing a deafening clamor that does 3d6 damage to all non-deaf targets within forty feet except for the caster.
 The maximum range of the chimes is ten miles per caster level, and they persist until shattered or the scene ends.
 
@@ -331,7 +331,7 @@ The maximum range of the chimes is ten miles per caster level, and they persist 
 
 A single visible living creature is struck with a grim geas, forcing it to comply with a particular command or else suffer a progressively- worse affliction.
 The caster may lay one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with.
-Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
+Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master's arbitrary commands.
 If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their hit rolls and -1 to skill checks for each week that passes and halving their maximum hit points.
 If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
 An active target can make a Mental save to resist this spell, but they cannot if they are restrained, unconscious, or otherwise subdued.
@@ -346,8 +346,8 @@ If used in a space less than 40 feet in width, the explosion is channeled throug
 ### Imperceptible Cerebral Divulgence Level 1
 
 The mage focuses on a visible living creature within 100 feet per caster level.
-For the rest of the scene, they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
-The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful.
+For the rest of the scene, they immediately receive an impression of the target's surface thoughts and interests, understanding them regardless of any lack of a shared language.
+The caster may ask one question of the target's memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful.
 
 These questions can only query memories, not compel any exercise of judgment or extrapolation.
 This spell is very subtle in its casting, and can be invoked without any visible gestures or audible incantations.
@@ -355,21 +355,21 @@ This spell is very subtle in its casting, and can be invoked without any visible
 ### Ineluctable Shackles of Volition Level 1
 
 The mage targets a visible living creature within 100 feet.
-The subject must immediately make a Mental saving throw at a penalty equal to the caster’s Magic skill or become enthralled to the caster’s will.
+The subject must immediately make a Mental saving throw at a penalty equal to the caster's Magic skill or become enthralled to the caster's will.
 Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their murder.
 The caster cannot order the creature to answer questions or perform acts that require independent judgment, nor to use non-physical abilities or spells, but it will fight for the caster or to defend its own life.
 Enchanted victims appear torpid and dazed, and will act only to defend themselves or satisfy their needs.
 The spell lasts until dispelled, or until the caster dies or releases them.
 Every time this spell is cast, however, all prior subjects get an immediate unmodified Mental saving throw to throw it off.
-If the creature has more hit dice than the caster, it gets an unmodified saving throw to end the effect the first time each day it’s ordered to do something it finds strongly objectionable.
+If the creature has more hit dice than the caster, it gets an unmodified saving throw to end the effect the first time each day it's ordered to do something it finds strongly objectionable.
 
 ### The Inexorable Imputation Level 2
 
 The caster makes a single one-sentence statement as part of casting this spell, a process which is subtle enough to appear as no more than ordinary conversation.
 All who hear the caster speak within a forty-foot radius must make a Mental saving throw or come to immediately believe the statement is true unless it seems physically impossible to them or it is emotionally intolerable to believe.
-The listeners must be able to understand the caster’s language, and the caster may exempt up to two targets per caster level from this delusion when casting the spell, so as to avoid beguiling their companions.
+The listeners must be able to understand the caster's language, and the caster may exempt up to two targets per caster level from this delusion when casting the spell, so as to avoid beguiling their companions.
 
-The spell’s effects linger for one hour per caster level, after which the believers will be no more persuaded of the fact than events or their own common sense would allow.
+The spell's effects linger for one hour per caster level, after which the believers will be no more persuaded of the fact than events or their own common sense would allow.
 
 ### Invocation of the Invincible Citadel Level 5
 
@@ -404,7 +404,7 @@ If cast on himself, the mage cannot end it before the full duration expires.
 ### Mantle of Disjecting Dissection Level 2
 
 A visible willing creature within thirty feet is surrounded by a whirl of razor-sharp energy shards.
-Anyone who attempt to touch the target or make a melee attack against them must make an Evasion saving throw or suffer 1d6 damage plus the caster’s level before resolving their attack.
+Anyone who attempt to touch the target or make a melee attack against them must make an Evasion saving throw or suffer 1d6 damage plus the caster's level before resolving their attack.
 The field of blades is indiscriminate and will affect even allies trying to touch the target.
 The blades remain as long as the target gives up a Move Action each round in order to avoid disrupting them from within, up to a maximum of one scene.
 
@@ -412,7 +412,7 @@ The blades remain as long as the target gives up a Move Action each round in ord
 
 This spell can only be applied to a helpless or restrained living victim, who gets a Mental saving throw to resist it and be forever after immune to its effects.
 On a failure, the target becomes hopelessly subject to the caster via a series of psychic fetters, obediently carrying out their will.
-The target must be able to understand the caster’s wishes, but will obey them to the best of its intelligence, capability, and initiative.
+The target must be able to understand the caster's wishes, but will obey them to the best of its intelligence, capability, and initiative.
 
 They must make a Mental saving throw to resist performing even suicidal acts.
 The spell lasts until it is dispelled or the caster releases the target.
@@ -441,10 +441,10 @@ Only one target point may be prepared for this spell at a time, and there is a 1
 ### Phantasmal Mimesis Level 1
 
 The mage creates a phantasmal seeming at a visible location within 100 feet per caster level.
-The illusion can occupy a number of 10-foot cubes equal to the caster’s level and can include visual, audible, olfactory, and even tactile elements.
+The illusion can occupy a number of 10-foot cubes equal to the caster's level and can include visual, audible, olfactory, and even tactile elements.
 If onlookers have no reason to believe the illusion is false, they will unconsciously move and perceive so as to conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by phantasmal flames.
-The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than a hundred feet from where it was conjured.
-Phantasmal monsters fight with the caster’s hit bonus, do 1d8 damage, have AC 10, and vanish if struck.
+The illusion will behave and act on its own in accordance with the caster's intentions for it, but it cannot go more than a hundred feet from where it was conjured.
+Phantasmal monsters fight with the caster's hit bonus, do 1d8 damage, have AC 10, and vanish if struck.
 There can be no more than one active illusionary attacker per two caster levels.
 Foes brought to zero hit points fall unconscious and wake up ten minutes later with 1 hit point.
 
@@ -457,8 +457,8 @@ This spell may be cast as an Instant action, even if another spell has been cast
 It can only be used in immediate response to an injury that reduces the target to zero hit points.
 When it does, the target suffers dramatic and ostentatiously obvious death, with mortal blows cleaving them asunder or gorily butchering them.
 They are dead to all mundane or magical examination.
-Up to two hours later however, at the target’s discretion, the various remains of the target flow back together and restore their body with two hit points per caster level and two additional System Strain points gained.
-If the target’s remains are intentionally scattered widely, incinerated, or entirely eaten, however, they cannot revive.
+Up to two hours later however, at the target's discretion, the various remains of the target flow back together and restore their body with two hit points per caster level and two additional System Strain points gained.
+If the target's remains are intentionally scattered widely, incinerated, or entirely eaten, however, they cannot revive.
 The subject is aware of their surroundings while "dead".
 
 ### Phobic Storm Level 3
@@ -491,13 +491,13 @@ This spell severely taxes those who take advantage of it, adding 1 System Strain
 The caster and up to one visible ally per caster level are briefly granted the ability to move in three dimensions, being able to walk and run upward into the air as easily as along flat ground.
 For the rest of the scene, those affected can move in such a way, remaining suspended in the air after their movement for the round.
 When the spell ends, either naturally or upon being dispelled, all affected targets float gently to the ground.
-Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s Magic skill or be forced to land as they had fallen half the distance they had descended.
+Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster's Magic skill or be forced to land as they had fallen half the distance they had descended.
 For the rest of the scene, such creatures remain grounded and unable to fly.
 
 ### Sigil of Aeolian Auctoritas Level 4
 
 A fierce gust of wind may be conjured in a line a hundred feet long and thirty feet wide.
-All creatures of man-size or smaller must make Physical saves or be bowled over and blown back thirty feet, losing their next round’s Main Action and suffering 1d6 damage.
+All creatures of man-size or smaller must make Physical saves or be bowled over and blown back thirty feet, losing their next round's Main Action and suffering 1d6 damage.
 Light wooden constructions or similar structures are flattened by the wind.
 
 If used outdoors, the spell can instead control the local weather, transforming the quarter-mile around the caster into any climate found normally at that location at any point during the year.
@@ -517,15 +517,15 @@ If the creature has fewer hit dice than the caster has levels, a single failed s
 
 The caster touches a solid non-magical barrier when casting this spell.
 
-A 10 foot cube of the barrier then becomes perfectly transparent on the caster’s side, allowing them to see and hear whatever lies on the other side as if it were well-lit and visible.
+A 10 foot cube of the barrier then becomes perfectly transparent on the caster's side, allowing them to see and hear whatever lies on the other side as if it were well-lit and visible.
 Optionally, the caster may make the barrier insubstantial for one round per caster level, allowing anyone to pass or shoot through it from either side.
 The barrier always appears solid and opaque from the other side, even while the caster is peering through.
-If someone is caught within the barrier when it becomes solid again, they’re spat out on the nearest clear side and suffer 2d10 damage.
+If someone is caught within the barrier when it becomes solid again, they're spat out on the nearest clear side and suffer 2d10 damage.
 The spell ends when the caster ceases to touch the barrier or immediately after it has been made insubstantial.
 
 ### Vallation of Specified Exclusion Level 3
 
-The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor.
+The caster must form some sort of line as part of this spell's invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor.
 In extremis, the caster can make such a line as part of a Move action, tracing it out or scattering powder as they go.
 The line itself may be no longer than twenty feet per caster level, and may be straight or curved as the caster wishes.
 Once it has been drawn, this spell may be cast, empowering the line with the ability to ward off a particular target and prevent them or their powers from crossing or being made to cross the line, as if it were a physical wall.
@@ -545,7 +545,7 @@ The spell lasts for the remainder of the scene and adds 1 System Strain to those
 
 A vast wall of thick, heavy vines and other plant life blooms from a visible point within one hundred feet per caster level.
 The wall is up to twenty feet high and three feet thick and runs for as much as twenty feet in width per caster level.
-The vine wall can be shaped as the caster wishes within the spell’s area of effect, so long as it’s contiguous, and may be laid horizontally if a bridge or roof is desired.
+The vine wall can be shaped as the caster wishes within the spell's area of effect, so long as it's contiguous, and may be laid horizontally if a bridge or roof is desired.
 Enemies must inflict five hit points of damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm.
 The vines may be optionally covered in long, vicious thorns to discourage climbing, inflicting 2d6 damage on any creature who tries to climb over it.
 If the vine wall is summoned from earth that could plausibly support plant life, it remains until dispelled or until it dies naturally.
@@ -561,10 +561,10 @@ This spell lasts for one hour per caster level.
 
 This spell may be cast in two different forms.
 If it targets a creature within 200 feet, the target becomes partially immune to physical weapons; any weapon hit on them requires the attacker make a successful Physical save or the hit is negated.
-This effect lasts for one round per two caster levels, rounded up, and can’t target the caster.
+This effect lasts for one round per two caster levels, rounded up, and can't target the caster.
 
 If it targets a visible weapon within two hundred feet, that weapon is rendered entirely harmless and unable to inflict damage for the rest of the scene, with no saving throw.
-The spell may only affect a given target or weapon once per scene and natural body weapons aren’t affected.
+The spell may only affect a given target or weapon once per scene and natural body weapons aren't affected.
 
 ### The Wind of the Final Repose Level 1
 
@@ -589,7 +589,7 @@ Only the caster or magical dispelling can stop it under those circumstances.
 
 The elementalist becomes aware of the approximate locations of all open flames within thirty feet per caster level.
 They may choose one of those flames as a focus for the scrying, allowing them to see and hear everything around the flame as if they were present.
-The spell’s duration lasts for as long as the elementalist remains motionlessly focused on it; during this duration, they may switch their focus between the various flames in range as they wish.
+The spell's duration lasts for as long as the elementalist remains motionlessly focused on it; during this duration, they may switch their focus between the various flames in range as they wish.
 
 ### Elemental Favor Level 1
 
@@ -623,16 +623,16 @@ A sample of flame no larger than the caster is made effectively eternal.
 
 It no longer consumes the object it burns, though it can still be used to burn or heat other things, and it resists all extinguishing save being buried or wholly immersed in water.
 The elementalist can temporarily extinguish it at will.
-A number of such flames can be created equal to the elementalist’s level; beyond that, special ingredients and fuels are needed that cost 500 silver pieces per flame.
+A number of such flames can be created equal to the elementalist's level; beyond that, special ingredients and fuels are needed that cost 500 silver pieces per flame.
 If used as a weapon, it adds +2 damage to a successful hit, albeit nothing to Shock.
 The flame lasts until dispelled, extinguished, or the elementalist releases it.
 
 ### Pact of Stone and Sea Level 2
 
 The elementalist chooses earth, water, fire, or wind when casting this spell and selects a visible target to be affected.
-For the rest of the scene, the target is immune to injury caused by mundane manifestations of that substance; stone weapons don’t harm them, water doesn’t drown them, fire doesn’t burn them, and wind doesn’t topple them.
+For the rest of the scene, the target is immune to injury caused by mundane manifestations of that substance; stone weapons don't harm them, water doesn't drown them, fire doesn't burn them, and wind doesn't topple them.
 
-This affects secondary effects of the material as well; a fire-pacted mage couldn’t be boiled in a pot, and an earth-pacted one won’t be suffocated if buried alive.
+This affects secondary effects of the material as well; a fire-pacted mage couldn't be boiled in a pot, and an earth-pacted one won't be suffocated if buried alive.
 
 ### Elemental Vallation Level 3
 
@@ -640,9 +640,9 @@ A wall of a chosen churning elemental force can be called up by the elementalist
 The barrier is ten feet long per character level, with a height of ten feet and a thickness of one foot.
 The barrier must rest on solid ground but may be bent or shaped as desired so long as no part of it is more than two hundred feet from the caster.
 Earthen walls are impervious to anything but mining-appropriate tools or rock-shattering strength, taking 20 HP of damage to knock a mansized hole in them.
-Fire walls inflict 3d6 damage plus the elementalist’s level on anyone who passes through them.
+Fire walls inflict 3d6 damage plus the elementalist's level on anyone who passes through them.
 Water walls spin and hurl creatures of ox-size or less who pass through them, ejecting them at a random point on the far side of the wall and doing 2d6 damage from the buffeting.
-Air walls are invisible, inaudible, and twenty feet in height; those who cross them suffer 1d6 plus the elementalist’s level in electrical damage.
+Air walls are invisible, inaudible, and twenty feet in height; those who cross them suffer 1d6 plus the elementalist's level in electrical damage.
 The walls vanish at the end of the scene.
 
 ### Like the Stones Level 3
@@ -658,7 +658,7 @@ If fire, they inflict 1d6 damage to all creatures in melee range at the start of
 ### Wind Walking Level 3
 
 A visible target creature and their possessions are briefly transformed into a misty, insubstantial cloud.
-Only sources of harm that could conceivably disrupt a cloud of mist can harm them, and until the spell’s end they may pass freely into any area that a vapor could reach.
+Only sources of harm that could conceivably disrupt a cloud of mist can harm them, and until the spell's end they may pass freely into any area that a vapor could reach.
 They may move freely in all three dimensions at their normal movement rate, though they cannot physically manipulate objects.
 
 The spell lasts until the end of the scene or until the target or the caster choose to end it.
@@ -676,8 +676,8 @@ If the Physical saving throw is made successfully by a creature, the target is t
 
 The elementalist imbues a human-sized mass of earth, water, fire, or air with a crude awareness and an eagerness to defend them.
 
-Whatever the substance used, it now has 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale 12, and a melee attack of +6/1d10 with no Shock.
-If called from earth, it has 6 hit dice, albeit its other stats don’t change.
+Whatever the substance used, it now has 4 HD, AC 15, a Move of 40'/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale 12, and a melee attack of +6/1d10 with no Shock.
+If called from earth, it has 6 hit dice, albeit its other stats don't change.
 If called from fire, it does 5/- Shock damage.
 If summoned from water, it has an AC of 18, and if called from air, it can fly at its usual movement rate.
 It has a human degree of intelligence, can communicate with others and manipulate objects, and serves with suicidal devotion.
@@ -695,8 +695,8 @@ The molten remnants of the spell remain after this duration, a hazard for whomev
 ### Tremors of the Depths Level 5
 
 The elementalist calls up a deep, rolling tremor from within the earth, centering it on a visible point and affecting all structures in a radius of up to five hundred feet.
-This spell’s effects build slowly, requiring five minutes to fully manifest, but they can successfully topple or destroy any structures, tunnels, or caves within the affected area unless such structures are magically reinforced.
-The effects are negated if the spell is dispelled within a minute after it was cast; after that, it’s too late to stop the effect.
+This spell's effects build slowly, requiring five minutes to fully manifest, but they can successfully topple or destroy any structures, tunnels, or caves within the affected area unless such structures are magically reinforced.
+The effects are negated if the spell is dispelled within a minute after it was cast; after that, it's too late to stop the effect.
 
 ## Necromancer Spells
 
@@ -706,7 +706,7 @@ Only Full and Partial Necromancers have the necessary background to learn or cas
 
 The necromancer exerts their will over a number of hit dice worth of undead equal to twice their character level.
 These undead must be visible and within one hundred feet of the caster.
-Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster’s Magic skill.
+Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster's Magic skill.
 Creatures only partially-bewitched by the spell due to their excess hit dice merely stand dazed for a round.
 Those fully within the hit die cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
 Regardless of how often the caster uses this spell, they may have no more than twice their level worth of hit dice bound at any one time, with the oldest-enchanted being first released.
@@ -716,7 +716,7 @@ Regardless of how often the caster uses this spell, they may have no more than t
 This spell requires a corpse with largely-intact organs of communication.
 
 The corpse cannot have been dead for more than one day per caster level.
-Once sorceled, the corpse will answer up to one question per caster level, with the caster understanding the answers regardless of the creature’s natural language.
+Once sorceled, the corpse will answer up to one question per caster level, with the caster understanding the answers regardless of the creature's natural language.
 Corpses are laconic, and generally answer in no more than one or two sentences; their replies will be truthful, but tend to be literal and they have no power to hypothesize or make judgments.
 This spell may not be used twice on the same corpse.
 
@@ -724,21 +724,21 @@ This spell may not be used twice on the same corpse.
 
 The necromancer conjures a blast of dispelling force at a point within one hundred feet per caster level, affecting an area up to 20 feet in radius.
 All hostile undead within that area immediately suffer 1d10 damage per caster level.
-Undead with hit dice equal or less than the caster’s level must make a Physical save or be destroyed outright.
+Undead with hit dice equal or less than the caster's level must make a Physical save or be destroyed outright.
 
-The necromancer may Commit Effort for the day immediately before casting this spell; if so, its casting does not count against the Necromancer’s available spell slots for the day.
+The necromancer may Commit Effort for the day immediately before casting this spell; if so, its casting does not count against the Necromancer's available spell slots for the day.
 
 ### Terrible Liveliness Level 1
 
 A necromancer can give an undead creature the semblance of a healthy, normal living being with this spell.
 The target appears as it did in life, at any point in its lifespan that the necromancer so desires, and is capable of performing all normal human activities that its cognition allows it to perform.
-The spell uses the creature’s nature as a template for its effects, so the disguise is tangible and physically real until dispelled or the necromancer drops the effect.
+The spell uses the creature's nature as a template for its effects, so the disguise is tangible and physically real until dispelled or the necromancer drops the effect.
 A necromancer can maintain only one such disguise per level, and it does not work on sentient unwilling targets.
 
 ### Augment Mortal Vitality Level 2
 
 The necromancer may refine and enhance the natural flow of vitality within a willing visible target.
-For the rest of the scene, all Physical saving throws they make gain a bonus equal to the necromancer’s Magic skill and they automatically stabilize when Mortally Wounded.
+For the rest of the scene, all Physical saving throws they make gain a bonus equal to the necromancer's Magic skill and they automatically stabilize when Mortally Wounded.
 
 Once during the scene, as an Instant action, they can immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 The recipient of this spell gains one System Strain.
@@ -758,7 +758,7 @@ After each failed instance of healing, a target can make a Physical save to thro
 ### Raise Corpse Level 2
 
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
-Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, and a Morale of 12.
+Whatever the creature's attributes were in life, it now has 1 HD, an AC of 13, a Move of 30'/round, a +0 skill bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, and a Morale of 12.
 Such corpses may be equipped with weapons or armor.
 Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator.
 The corpse has no natural volition, but will obey commands with a human degree of intelligence.
@@ -770,9 +770,9 @@ A necromancer cannot have more active subjects of this spell than their characte
 
 ### Compel Flesh Level 3
 
-A visible living creature or physically-bodied undead within 100 feet is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster’s will.
+A visible living creature or physically-bodied undead within 100 feet is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster's will.
 The target becomes paralyzed unless commanded by the caster as an On Turn action; once given a command, their body will dutifully carry it out on their next turn.
-The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal.
+The user's mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal.
 The target may make a Physical saving throw at the start of each of their turns to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
 If not thrown off earlier, the spell lasts until the end of the scene.
 
@@ -783,7 +783,7 @@ The subject begins to rot, fester, and decay in whatever ways the necromancer th
 Food tastes like ashes, water does not quench thirst, and their body is numb to all physical pleasures.
 They suffer a -2 penalty to all social skill checks due to their repugnance.
 
-This transformation does not inflict physical injury, but it makes the target’s life an utterly joyless misery until it is dispelled or the necromancer lifts the curse.
+This transformation does not inflict physical injury, but it makes the target's life an utterly joyless misery until it is dispelled or the necromancer lifts the curse.
 Creatures with more hit dice than the necromancer has levels can make a Physical save to resist the curse.
 
 ### Forgetting the Grave Level 3
@@ -791,7 +791,7 @@ Creatures with more hit dice than the necromancer has levels can make a Physical
 A necromancer can temporarily suspend the mortality of a willing target within sight.
 For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries.
 Those reduced to zero hit points lose their Move action each turn but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
-At the spell’s end targets reduced to zero hit points are Mortally Wounded; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
+At the spell's end targets reduced to zero hit points are Mortally Wounded; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
 
 ### Merge Souls Level 3
 
@@ -806,8 +806,8 @@ The power ends at daybreak; if dispelled sooner, the remaining pool is split pro
 
 The clay of flesh and bone run obediently to the will of the necromancer.
 
-Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work.
-Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes.
+Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour's work.
+Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer's wishes.
 Perfect imitation of a particular creature requires a Dex/Magic skill check against difficulty 10.
 This spell is limited in the physical changes it can effect; a bonus of +1 can be added to modifier of Charisma or a physical attribute at the cost of a -1 penalty to the modifier of one of the same attributes, to a maximum of +2 or -2.
 This spell lasts until the necromancer lifts it or it is dispelled.
@@ -815,9 +815,9 @@ This spell lasts until the necromancer lifts it or it is dispelled.
 ### Raise Grave Knight Level 4
 
 The corpse used for this spell must be of a relatively powerful creature with at least four hit dice or levels.
-The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale of 12, and a melee attack of +6/1d10, assuming it doesn’t use a normal weapon.
+The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40'/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale of 12, and a melee attack of +6/1d10, assuming it doesn't use a normal weapon.
 It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life.
-A grave knight regains all lost hit points at dusk each day, assuming it’s not destroyed.
+A grave knight regains all lost hit points at dusk each day, assuming it's not destroyed.
 A caster may have only one grave knight active at a time.
 One that has been reduced to zero hit points is destroyed and can only be rebuilt with a month of painstaking repair and re-enchantment.
 
@@ -834,12 +834,12 @@ Any special defenses they may have against mundane weapons or certain types of i
 
 The spell may be triggered as an Instant action by the caster, imparting a burst of unquenchable life force to all allied creatures within 50 feet.
 For the next five rounds, no affected ally can be reduced below 1 hit point, regardless of the damage inflicted upon them.
-At the end of the spell’s effect, the caster’s own life energy is exhausted, leaving them with only 1 hit point.
+At the end of the spell's effect, the caster's own life energy is exhausted, leaving them with only 1 hit point.
 A creature can benefit from this spell no more than once per day.
 
 ## Developing New Spells
 
-To research a new spell, the wizard’s player first writes up the spell they want to develop.
+To research a new spell, the wizard's player first writes up the spell they want to develop.
 The GM then judges its appropriateness for the campaign.
 If it passes, an appropriate level is assigned to the spell and the PC can begin the research process.
 Researching a spell requires a properly-equipped laboratory, raw materials, and time.
@@ -847,9 +847,9 @@ Researching a spell requires a properly-equipped laboratory, raw materials, and 
 ### Preparing To Develop a Spell
 
 The laboratory must be established in a secure, serviceable room or building.
-A lab sufficient for researching a level 1 or 2 spell can fit into a room, one for a 3rd level spell can fit into a house, one for a 4th level spell can fit into a wizard’s tower, and a lab suitable for devising a new 5th level spell needs its own subterranean research complex or similar edifice.
+A lab sufficient for researching a level 1 or 2 spell can fit into a room, one for a 3rd level spell can fit into a house, one for a 4th level spell can fit into a wizard's tower, and a lab suitable for devising a new 5th level spell needs its own subterranean research complex or similar edifice.
 The cost for the lab is given on the adjacent table; this does not include the price for the building itself.
-The necessary materials for a lab can generally be acquired in any major city, provided it’s not hostile to sorcerers.
+The necessary materials for a lab can generally be acquired in any major city, provided it's not hostile to sorcerers.
 
 The raw materials must also be purchased in a city or gathered from ransacked lairs by adventurers.
 They include occult materials, esoteric creature body parts, specialized lab equipment, and obscure monographs and grimoires.
@@ -858,7 +858,7 @@ These materials are used up in the process of research.
 The time required for researching a spell varies with its complexity, as given on the table.
 A wizard can halve this time by spending twice as much on raw materials, and adventuring for certain lost grimoires or special ingredients might further decrease the time required.
 
-A wizard can adventure and perform other tasks during their research time, including the development of Workings or the construction of magical items, but they can’t simultaneously research two spells at once.
+A wizard can adventure and perform other tasks during their research time, including the development of Workings or the construction of magical items, but they can't simultaneously research two spells at once.
 Wizards kept entirely away from their labs for weeks or months at a time might suffer a halt to the work until they can get back to it.
 
 #### Spell Research
@@ -878,15 +878,15 @@ If they have apprentices to assist them, they can add +1 to their skill check.
 Specialist mages researching spells in their own field add an additional +1 to the skill check, so an Elementalist researching an Elementalist spell would get the bonus, as would a Necromancer researching a spell about undeath.
 Special resources or uniquely apposite grimoires gathered on an adventure might add an additional bonus to the roll.
 
-If the roll is successful, the spell is perfected and added to the caster’s grimoire.
+If the roll is successful, the spell is perfected and added to the caster's grimoire.
 They can teach it to other wizards if they wish, or keep it to themselves.
-Specialist magic can only be learned by wizards of the same tradition; if they took the spell research skill check bonus, it’s a specialist spell.
+Specialist magic can only be learned by wizards of the same tradition; if they took the spell research skill check bonus, it's a specialist spell.
 Spells devised by High Mages are almost inevitably rediscovered High Magic and can be learned by any mage capable of casting such.
 
 If the roll is a failure, the wizard has a choice.
 They can abandon their research and start over from scratch, expending new resources and time, or they can roll on the formula flaw table.
 This flaw becomes part of their spell, as adjusted by the GM.
-Some flaws might not be problematic at all; a spell only ever designed to affect the caster isn’t much hindered by only being usable on willing targets.
+Some flaws might not be problematic at all; a spell only ever designed to affect the caster isn't much hindered by only being usable on willing targets.
 Other flaws might make the spell worthless or force the PC to start over.
 If the caster decides to live with the flaw and continue research, they can spend half the required research time and make a new skill check at a cumulative +1 bonus, with no need to spend additional resources.
 
@@ -936,17 +936,17 @@ Thus, if some 10-point major effect also had a 3-point trivial effect and 8-poin
 
 This difficulty is then multiplied by the area the Working will affect.
 
-If the magic spring merely pours a small stream of water into the kitchen cellar, the area might only be that of a Room; if the stream was meant to provide a moat around a wizard’s keep, it would affect a Building, or perhaps even a Village-sized area.
+If the magic spring merely pours a small stream of water into the kitchen cellar, the area might only be that of a Room; if the stream was meant to provide a moat around a wizard's keep, it would affect a Building, or perhaps even a Village-sized area.
 If the spring was to irrigate miles of surrounding countryside, it would affect a whole Region, and would probably be a great Working to boot, if not supreme.
 
-The difficulty total is multiplied by the given multiplier of the biggest area affected, so if the 16-point example above affected the whole wizard’s tower, its final difficulty would be 64 points.
+The difficulty total is multiplied by the given multiplier of the biggest area affected, so if the 16-point example above affected the whole wizard's tower, its final difficulty would be 64 points.
 
 The architect must then demonstrate that they can actually design such a Working.
 A given designer multiplies their character level by their Magic skill level times two.
 Thus, a 6th level High Mage with Magic-3 skill would have a total of 36.
-If this total is equal or greater than the Working’s difficulty, they can establish it alone.
-If it’s at least half the difficulty, they can build it if they can find other mages to help them and make up the missing points.
-If it’s less than half the difficulty, the whole enterprise is too difficult for them to envision.
+If this total is equal or greater than the Working's difficulty, they can establish it alone.
+If it's at least half the difficulty, they can build it if they can find other mages to help them and make up the missing points.
+If it's less than half the difficulty, the whole enterprise is too difficult for them to envision.
 
 ### Building the Working
 
@@ -985,11 +985,11 @@ The spell is then cast, with details of targeting and focus determined by the us
 
 Releasing a scroll safely requires a clear understanding of its magic.
 
-A user must have a Magic skill no more than one less than the suspended spell’s level in order to safely trigger it.
-If a wielder doesn’t have a high enough Magic skill, they can attempt to use the item anyway, albeit at considerable risk.
+A user must have a Magic skill no more than one less than the suspended spell's level in order to safely trigger it.
+If a wielder doesn't have a high enough Magic skill, they can attempt to use the item anyway, albeit at considerable risk.
 An Int/Magic or Cha/Magic skill check is needed against a difficulty of 8 plus the spell level.
 If it fails by one or two points, the spell fizzles and is wasted.
-If it fails by more than two points, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion.
+If it fails by more than two points, it goes off, but at the wrong target or with the wrong effect at the GM's discretion.
 If the check succeeds, the spell goes off as intended.
 
 Spellcasters can create their own scrolls for later use, creating them as single-use items.
@@ -1001,12 +1001,12 @@ While a scroll takes only a week to inscribe, the process is exhausting, and a w
 Some magical effects can be contained in an ounce or two of liquid, oil, incense, or other consumable substance.
 Using a potion requires that it be Readied and a Main Action be used to consume it.
 
-Apprehending the Arcane Form can give a one-sentence description of the potion’s intended effect.
-Touching a single drop of the fluid against a user’s tongue can sometimes give a hint as well, with a tiny flicker of its effect impressed on the user.
-Aside from these, someone with the Magic skill can spend a full day in careful analysis of the potion, rolling Wis/Magic or Int/Magic against the potion’s creation difficulty to identify its purpose.
+Apprehending the Arcane Form can give a one-sentence description of the potion's intended effect.
+Touching a single drop of the fluid against a user's tongue can sometimes give a hint as well, with a tiny flicker of its effect impressed on the user.
+Aside from these, someone with the Magic skill can spend a full day in careful analysis of the potion, rolling Wis/Magic or Int/Magic against the potion's creation difficulty to identify its purpose.
 A given investigator can make only one attempt to identify it.
 
-Wizards can create potions as single-use magic items, with the base cost and difficulty varying depending on the nature of the potion’s effect.
+Wizards can create potions as single-use magic items, with the base cost and difficulty varying depending on the nature of the potion's effect.
 
 ### Magic Weapons and Armor
 
@@ -1026,7 +1026,7 @@ It is usually prohibitively difficult to recharge such devices.
 
 All permanent magical items are difficult to make.
 Even if the item is nothing more than a tankard that keeps its contents perpetually chilled, making that tankard is every bit as difficult as forging an enchanted sword.
-As a consequence, very few sorcerers bother to make petty items; if it’s going to be as hard to make a trifling token as a significant one, why make trifles?
+As a consequence, very few sorcerers bother to make petty items; if it's going to be as hard to make a trifling token as a significant one, why make trifles?
 Magical items are exceedingly expensive to build.
 The rare components, expensive rituals, and costly processes involved eat up vast amounts of silver and great labor on the part of the mage.
 These components must be bought at some major city or salvaged from the dungeons or ruins that the PCs are exploring.
@@ -1034,52 +1034,52 @@ They form many of the same components that are used in building Workings or rese
 
 Magical items are also complex and difficult to create.
 A novice mage cannot fashion them and even an expert might find it difficult to get an item to come out just right.
-Flaws can creep into the construction process, forcing the PC to either start over or cope with an item that isn’t exactly what was intended.
+Flaws can creep into the construction process, forcing the PC to either start over or cope with an item that isn't exactly what was intended.
 
 ### Designing the Item
 
 To build a magic item, the player first describes what it is that the item is supposed to do.
-It’s up to the GM to decide whether or not the item fits with their campaign and is an acceptable introduction.
+It's up to the GM to decide whether or not the item fits with their campaign and is an acceptable introduction.
 
-For item designs, it’s recommended that the GM be careful not to allow magic items that simply solve whole categories of problems.
+For item designs, it's recommended that the GM be careful not to allow magic items that simply solve whole categories of problems.
 A set of magic earplugs that make it impossible to hear lies may seem clever, but it also immediately solves any challenge revolving around detecting deceit.
-Boots that grant perpetual flight, apotropaic wands that banish specific types of creatures, and other items that simply remove certain problems from the party’s concerns should probably be denied.
-Even if they’re charged or limit-use items, they’ll probably be available whenever the party really needs them, which means those challenges that would otherwise be the most critical become the ones they most easily bypass.
+Boots that grant perpetual flight, apotropaic wands that banish specific types of creatures, and other items that simply remove certain problems from the party's concerns should probably be denied.
+Even if they're charged or limit-use items, they'll probably be available whenever the party really needs them, which means those challenges that would otherwise be the most critical become the ones they most easily bypass.
 
-A GM should also be careful about items that simply add bonuses to the PC’s rolls, whether skill checks or combat rolls.
+A GM should also be careful about items that simply add bonuses to the PC's rolls, whether skill checks or combat rolls.
 Magical weapons and armor do exist, and there are some items that do simply add numbers to the PC, but these should be avoided in other cases.
 
-There’s a reason that most veteran Warriors are eager to find a magical weapon; such a weapon simply makes them better at their most important function.
+There's a reason that most veteran Warriors are eager to find a magical weapon; such a weapon simply makes them better at their most important function.
 If other items exist that simply increase critical numbers, then the other players will feel obligated to hunt them down.
 
-If the item’s concept passes muster, the GM should compare it to the adjacent table to see what kind of price and minimum difficulty level should be required to make it.
+If the item's concept passes muster, the GM should compare it to the adjacent table to see what kind of price and minimum difficulty level should be required to make it.
 Spellcasting wizards can generally make any kind of magic item, while non-casters such as Vowed or Healers are usually restricted to making items appropriate to their particular concepts, whether those are magical scriptures or healing elixirs.
-A GM should always feel free to adjust prices and difficulties to reflect their own sense of what’s appropriate for their campaign.
+A GM should always feel free to adjust prices and difficulties to reflect their own sense of what's appropriate for their campaign.
 
 In addition to the minimum level and money involved, permanent magic items always require at least one adventure to acquire the necessary components.
 The wizard will have researched the item sufficiently to know where they need to go and what they need to fetch, but it will always be dangerous and difficult to do so.
-Very capable underlings or hired adventurers might be able to fetch the required component, but it’s up to the GM whether such efforts are successful.
+Very capable underlings or hired adventurers might be able to fetch the required component, but it's up to the GM whether such efforts are successful.
 
-From a GM’s perspective, this required adventure is to ensure that a wizard who makes a permanent magic item provides at least one session worth of adventure grist in exchange for the new gear, and it also ensures that not too many permanent magic items will be made unless the party agrees to constantly be out adventuring for parts.
+From a GM's perspective, this required adventure is to ensure that a wizard who makes a permanent magic item provides at least one session worth of adventure grist in exchange for the new gear, and it also ensures that not too many permanent magic items will be made unless the party agrees to constantly be out adventuring for parts.
 
 ### Creating the Item
 
 If the creator is capable, the coin is at hand, and any adventuring components have been fetched, the mage can attempt to make the item.
 They spend the time given on the adjacent table and then make an Int/Magic skill check against the appropriate difficulty.
-If they’re making a batch of limited-use items, such as a batch of magic potions, they can make two doses for a +1 difficulty or four doses for a +2 difficulty.
+If they're making a batch of limited-use items, such as a batch of magic potions, they can make two doses for a +1 difficulty or four doses for a +2 difficulty.
 If they have an apprentice to aid them, they can add +1 to their skill check.
 
 If the check is a success, the item is made.
-If it’s a failure, they have a choice; they can start over from the beginning, spending the money and time anew, though not needing to repeat any adventure the item might have required.
+If it's a failure, they have a choice; they can start over from the beginning, spending the money and time anew, though not needing to repeat any adventure the item might have required.
 They can then make a second attempt at creating the item.
-If they are reluctant to do this, the item incurs some kind of flaw or unfortunate side effect to its power, suffering that hindrance to the item’s eventual effect as adjusted by the GM.
-If that flaw isn’t intolerable, they may spend half the time they originally took to make another skill check to make the item at a cumulative +1 bonus.
+If they are reluctant to do this, the item incurs some kind of flaw or unfortunate side effect to its power, suffering that hindrance to the item's eventual effect as adjusted by the GM.
+If that flaw isn't intolerable, they may spend half the time they originally took to make another skill check to make the item at a cumulative +1 bonus.
 No additional coin need be paid.
 They can repeat this process, adding a new flaw each time and paying half the original time, until they either succeed or the flaws become intolerable.
 
-A mage can generally keep adventuring while crafting a magic item, as the work doesn’t eat up all their spare time.
+A mage can generally keep adventuring while crafting a magic item, as the work doesn't eat up all their spare time.
 Particularly massive or powerful magic items might require the use of a dedicated laboratory, forcing the wizard to remain there while the work is underway lest the process be spoiled.
-Any special tools or resources such a laboratory requires are assumed to be part of the item’s creation cost.
+Any special tools or resources such a laboratory requires are assumed to be part of the item's creation cost.
 
 #### Magic Item Creation Costs
 

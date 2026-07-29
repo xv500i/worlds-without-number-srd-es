@@ -1,28 +1,28 @@
-# Monsters and Foes
+# Monsters y Foes
 
-The following page includes a list of example stat lines for various kinds of people and creatures.
+The following page includes a list of example stat lines for various kinds of people y creatures.
 These are not universal truths for every being in the campaign setting, but they're good baselines for what to expect from a given creature.
-As a first step in building a creature a GM should pick the stat line that fits best the type of foe they need, and then modify it to suit their own purposes.
+As a first step in building a creature a GM should pick the stat line that fits best the type of foe they need, y then modify it to suit their own purposes.
 
 Note that there's nothing stopping you from putting a guaranteed party-slaughterer in your campaign.
 If the situation logically requires that such a creature be present, then it ought to be there.
-If logic requires its existence, however, you should take pains to ensure that the PCs are not forced to actually fight the thing.
+If logic requires its existence, however, you should take pains to ensure that the PJs are not forced to actually fight the thing.
 They need to be able to get forewarnings of its presence, or opportunities to flee it, or some means to negotiate with it or hide from it.
-It's not unfair to populate your world with the creatures that ought to live in it, but it's decidedly unfun to shove hapless PCs face-first into certain death.
+It's not unfair to populate your world with the creatures that ought to live in it, but it's decidedly unfun to shove hapless PJs face-first into certain death.
 
-## Monster and NPC Statistics
+## Monster y PNJ Statistics
 
 The table of example stat lines has several columns, each one listing a particular statistic for the creature.
 
-Hit dice are a measure of the creature's general power, not unlike a level rating for PCs.
+Hit dice are a measure of the creature's general power, not unlike a level rating for PJs.
 For each hit die a creature has, it rolls 1d8 for its hit points.
 Most ordinary humans have only one hit die, while veterans of bloody struggle or ruthless court intrigue might have two, or three, or even more for the most heroic among them.
 
 AC is for the creature's Armor Class.
 The higher this number, the harder it is to meaningfully hurt the thing.
-Monsters and wild beasts have an Armor Class appropriate to their agility and the toughness of their hide; 12 or 13 for quick things with leathery skins, up to 15 for very well-armored beasts, or even up to 20 for things with supernatural hardihood.
-Humans and other sentients usually have whatever Armor Class is granted by the armor they wear.
-Some creatures have an "a" annotation with their AC; this just means that the creature wears armor and the AC given is what their usual armor is worth.
+Monsters y wild beasts have an Armor Class appropriate to their agility y the toughness of their hide; 12 or 13 for quick things with leathery skins, up to 15 for very well-armored beasts, or even up to 20 for things with supernatural hardihood.
+Humans y other sentients usually have whatever Armor Class is granted by the armor they wear.
+Some creatures have an "a" annotation with their AC; this just means that the creature wears armor y the AC given is what their usual armor is worth.
 
 Atk is the creature's usual total attack bonus for its hit rolls in combat.
 For most creatures, this is equal to its hit dice, possibly with a bonus if it's well-trained, exceptionally vicious, or supernaturally powerful.
@@ -33,7 +33,7 @@ Dmg is the damage done by a successful hit by the creature.
 If the listing says "Wpn", then it does whatever damage is usual for the weapon that it's wielding.
 A creature will never do less damage on a hit than it would do with its Shock score, if Shock would apply to the target.
 
-Shock is the Shock damage inflicted by the creature and the maximum AC it affects.
+Shock is the Shock damage inflicted by the creature y the maximum AC it affects.
 Thus, "3/13" means that the creature inflicts a minimum of 3 points of Shock damage on a miss to any foe with an AC of 13 or less.
 "Wpn" means the usual Shock damage of the weapon being used is applied.
 Exceptionally powerful or savage creatures might automatically apply Shock regardless of the AC of the foe; such creatures have a dash listed for the maximum AC, such as "3/-".
@@ -44,112 +44,112 @@ Some creatures may fly, others swim, or still stranger means of locomotion may a
 
 ML is the creature's Morale score.
 Whenever a Morale check is forced by a situation, the creature must roll 2d6.
-If the total is greater than its Morale score, it loses its taste for the fight and will retreat, surrender, or otherwise take whatever actions seem best to get it safely away.
+If the total is greater than its Morale score, it loses its taste for the fight y will retreat, surrender, or otherwise take whatever acciones seem best to get it safely away.
 
 Inst is the creature's Instinct score.
 When confused, infuriated, or goaded in combat, it runs the risk of behaving according to its instincts rather than martial prudence.
 
-Skill is the creature's total Skill bonus for any skill checks it makes that are in line with its talents and abilities.
+Skill is the creature's total Skill bonus for any skill checks it makes that are in line with its talents y habilidades.
 If the creature ought to be good at something, it can add its Skill bonus to the base 2d6 skill check.
 If not, it adds +0, or might even take a penalty if it seems like something it would be exceptionally bad at doing.
 
-Save is the saving throw target used by the creature whenever it's called upon to make a Physical, Mental, Evasion, or Luck saving throw.
-Unlike PCs, creatures only have a single save target, usually equal to 15 minus half its hit dice, rounded down.
-Thus, a foe with 3 hit dice usually rolls 14+ to succeed at any saving throw.
-This score can't be less than 2+, as a 1 on a saving throw always fails.
+Save is the tirada de salvación target used by the creature whenever it's called upon to make a Physical, Mental, Evasion, or Luck tirada de salvación.
+Unlike PJs, creatures only have a single save target, usually equal to 15 minus half its hit dice, rounded down.
+Thus, a foe with 3 hit dice usually rolls 14+ to succeed at any tirada de salvación.
+This score can't be less than 2+, as a 1 on a tirada de salvación always fails.
 
 ### Powerful Foes
 
 These statistics are only a bare framework for most ordinary creatures.
 
 An entity of special power, such as a heroic knight or monstrous beast, should likely have at least one special ability related to their skills or nature.
-Potent enemies without a significant number of special defenses and powerful attack modes can often be chewed down rapidly by a PC party.
-Granting major enemies multiple actions per round and a good selection of special powers is generally necessary to make them a worthy opponent for a veteran party.
+Potent enemies without a significant number of special defenses y powerful attack modes can often be chewed down rapidly by a PC party.
+Granting major enemies multiple acciones per ronda y a good selection of special poderes is generally necessary to make them a worthy opponent for a veteran party.
 
-## Reaction Rolls and Parleying
+## Reaction Rolls y Parleying
 
 These rules do not encourage constant combat encounters.
-Heroes are fragile, foes are dangerous, and almost every fight runs some risk of downing at least one PC.
+Heroes are fragile, foes are dangerous, y almost every fight runs some risk of downing at least one PC.
 GMs or players who arrange their games as a curated sequence of battles are going to rapidly run out of luck.
 
 GMs need to constantly recall the fact that not every hostile encounter needs to end in a massacre.
-The denizens of this world are just as aware of their own mortality as the PCs are, and they will not pick chance fights that they do not expect to win decisively.
+The denizens of this world are just as aware of their own mortality as the PJs are, y they will not pick chance fights that they do not expect to win decisively.
 Even intrinsically hostile creatures will take a moment to size up a situation.
 
-Unless the situation is so patently destined for bloodshed that all negotiation is futile, a GM should always make a reaction roll whenever the PCs encounter another creature or group, whether friendly or hostile.
-This roll will indicate the general mood of the encounter, and whether the subjects are likely to be amenable to negotiations.
+Unless the situation is so patently destined for bloodshed that all negotiation is futile, a GM should always make a reaction roll whenever the PJs encounter another creature or group, whether friendly or hostile.
+This roll will indicate the general mood of the encounter, y whether the subjects are likely to be amenable to negotiations.
 
 ### Making a Reaction Roll
 
-To make a reaction roll, roll 2d6 and compare it to the adjacent table.
-If a PC is in a position to greet the targets, add their Charisma modifier to the roll.
+To make a reaction roll, roll 2d6 y compare it to the adjacent table.
+If a PC is in a position to greet the targets, add their Carisma modifier to the roll.
 
-The higher the reaction roll, the friendlier and more helpful the NPCs will be.
-This doesn't mean that goblin raiders will invite the PCs to drink with them, but it does mean that otherwise violent groups might decide to demand a bribe instead, or back off rather than risk losing lives to the heroes.
-Conversely, a low roll means that the group is more hostile and unhelpful than they might be expected to be.
+The higher the reaction roll, the friendlier y more helpful the PNJs will be.
+This doesn't mean that goblin raiders will invite the PJs to drink with them, but it does mean that otherwise violent groups might decide to demand a bribe instead, or back off rather than risk losing lives to the heroes.
+Conversely, a low roll means that the group is more hostile y unhelpful than they might be expected to be.
 
-Once a roll is made, the GM should clearly clue the PCs into its general results.
-If the bandits are feeling sociable, the GM needs to let the players know that they're looking relaxed and leaning on their spears.
-If the wild beast is getting ready to attack, it should be described as crouching and snarling as it begins to creep forward.
+Once a roll is made, the GM should clearly clue the PJs into its general results.
+If the bandits are feeling sociable, the GM needs to let the players know that they're looking relaxed y leaning on their spears.
+If the wild beast is getting ready to attack, it should be described as crouching y snarling as it begins to creep forward.
 
-This information needs to be given before the PCs choose their initial actions, or else a lot of potential parleys are going to be erased by the immediate and judicious drawing of swords.
+This information needs to be given before the PJs choose their initial acciones, or else a lot of potential parleys are going to be erased by the immediate y judicious drawing of swords.
 
 A reaction roll applies to non-martial encounters as well.
 Determining the initial mood of a government clerk, the temper of a merchant, or the attitude of a noble patron can all be done by a reaction roll.
 
-This attitude will likely color the difficulty and nature of any negotiations or social skill checks the PCs might try to conduct with the target.
+This attitude will likely color the difficulty y nature of any negotiations or social skill checks the PJs might try to conduct with the target.
 
 Reaction rolls are only the start of an encounter, not the end.
-Clever words, persuasive arguments, or prudent gifts can all shift the attitude of an NPC, as can insults, threats, and looking excessively tender and delicious.
-Provided the NPCs aren't the sort to simply attack, the PCs always have a chance to salvage a meeting.
+Clever words, persuasive arguments, or prudent gifts can all shift the attitude of an PNJ, as can insults, threats, y looking excessively tender y delicious.
+Provided the PNJs aren't the sort to simply attack, the PJs always have a chance to salvage a meeting.
 
 ### Peaceful Encounter Reactions
 
-Suppose a GM's just rolled a 12 for the PCs' roadside encounter with a band of zealous blood cultists.
-The GM knows that the cultists are vicious but have no pressing reason to immediately attack the PCs, so what does "friendly" mean in such a situation? If you find yourself having to figure out plausible reactions for otherwise-hostile groups, here are some suggestions.
+Suppose a GM's just rolled a 12 for the PJs' roadside encounter with a band of zealous blood cultists.
+The GM knows that the cultists are vicious but have no pressing reason to immediately attack the PJs, so what does "friendly" mean in such a situation? If you find yourself having to figure out plausible reactions for otherwise-hostile groups, here are some suggestions.
 
 They demand a bribe.
 They'll take money, gear, food, booze, praise to their dark god, or some other currency for peace.
 
 They back off.
-If they aren't defending their lair or carrying out some critical task, they may just decide to back away and keep their distance as the groups pass by.
+If they aren't defending their lair or carrying out some critical task, they may just decide to back away y keep their distance as the groups pass by.
 They may bring word of the adventurers to their comrades, but a fight under the present terms might look like a bad deal to them.
 
 They ask for favors.
 Maybe they have an enemy they want killed, or a task they need done.
-They may trade offers of ignoring the PCs while they remain in the area in exchange for the help, or offer an outright bribe to the PCs to get them to cooperate.
+They may trade offers of ignoring the PJs while they remain in the area in exchange for the help, or offer an outright bribe to the PJs to get them to cooperate.
 Even the most hostile raider group might be willing to let a few targets go in exchange for some profitable work being done.
 
 They offer tribute.
-They've looked at the PCs and decided that their own lives are in danger.
-They'll offer wealth, information, services, or other inducements to get the PCs to leave them alone.
-This reaction grows more possible if the PCs have been carving a bloody swath through their surroundings.
+They've looked at the PJs y decided that their own lives are in danger.
+They'll offer wealth, information, services, or other inducements to get the PJs to leave them alone.
+This reaction grows more possible if the PJs have been carving a bloody swath through their surroundings.
 
 They willingly socialize.
-Maybe the bandits have been out here so long that they're lonely for civilized conversation, and the PCs look too dangerous to engage.
-The goblin raiders might've mistaken them for allied marauders and invite them to share their camp.
+Maybe the bandits have been out here so long that they're lonely for civilized conversation, y the PJs look too dangerous to engage.
+The goblin raiders might've mistaken them for allied marauders y invite them to share their camp.
 The vile necromancer might consider herself a perfectly respectable person who loves good dinner conversation.
-However it's sliced, the NPC could be willing just to have a nice chat.
+However it's sliced, the PNJ could be willing just to have a nice chat.
 
-| 2d6  | NPC Reaction                                                                    |
-| ---- | ------------------------------------------------------------------------------- |
-| 2-   | As aggressively hostile as the situation allows                                 |
-| 3–5  | More unfriendly and hostile than they'd be expected to be in the given situatio |
-| 6–8  | As predictably hostile or friendly as they'd usually be in this situation       |
-| 9–11 | More friendly and benign than you'd expect them to be, given the circumstances  |
-| 12+  | As friendly and helpful as their nature and the situation permits them to be    |
+| 2d6  | PNJ Reaction                                                                  |
+| ---- | ----------------------------------------------------------------------------- |
+| 2-   | As aggressively hostile as the situation allows                               |
+| 3–5  | More unfriendly y hostile than they'd be expected to be in the given situatio |
+| 6–8  | As predictably hostile or friendly as they'd usually be in this situation     |
+| 9–11 | More friendly y benign than you'd expect them to be, given the circumstances  |
+| 12+  | As friendly y helpful as their nature y the situation permits them to be      |
 
-## Morale Checks and Fleeing
+## Morale Checks y Fleeing
 
 Sometimes, however, combat is inevitable.
 The raiders swoop down on the heroes, the savage beast pounces, or the vile necromancer runs out of small talk.
-Even after blades are drawn, however, the hostile NPCs might come to think better of their choices when they fail a Morale check.
+Even after blades are drawn, however, the hostile PNJs might come to think better of their choices when they fail a Morale check.
 
 ### Making a Morale Check
 
-A Morale check is made by rolling 2d6 and comparing it to the creature's Morale score.
-If the roll is greater than the score, the creature loses heart and will seek to flee or stop the battle.
-PCs never make Morale checks and will fight on until they decide to flee.
+A Morale check is made by rolling 2d6 y comparing it to the creature's Morale score.
+If the roll is greater than the score, the creature loses heart y will seek to flee or stop the battle.
+PJs never make Morale checks y will fight on until they decide to flee.
 
 A Morale check is usually made under certain circumstances, though the GM can add to these whenever they think the situation calls for one.
 More than one Morale check may be needed in a fight if more than one condition occurs.
@@ -159,43 +159,43 @@ More than one Morale check may be needed in a fight if more than one condition o
 - When the group starts to visibly lose the fight or see their odds of victory considerably shrink.
 - When the group faces some terrifying work of magic, a horrendous slaughter, or a vastly superior foe.
 
-The consequences of a failed Morale check will vary based on the situation and the creatures being tested.
-Non-combatants and undisciplined fighters will generally flee madly, dropping shields and abandoning burdens as they try to escape their doom.
+The consequences of a failed Morale check will vary based on the situation y the creatures being tested.
+Non-combatants y undisciplined fighters will generally flee madly, dropping shields y abandoning burdens as they try to escape their doom.
 
-Trained and experienced warriors will usually make a fighting withdrawal, trying to pull away from their enemies and escape back to safety with as many of their comrades as they can.
+Trained y experienced warriors will usually make a fighting withdrawal, trying to pull away from their enemies y escape back to safety with as many of their comrades as they can.
 Of course, in the face of truly devastating situations they may flee just as readily as their green compatriots.
 
-If flight seems impossible or prohibitively dangerous, they might throw down their weapons and beg for mercy, if they think they have any chance of receiving it from their assailants.
+If flight seems impossible or prohibitively dangerous, they might throw down their weapons y beg for mercy, if they think they have any chance of receiving it from their assailants.
 If that seems hopeless, they might just collapse in terrified despair as they pray to their gods, or fight with a renewed frenzy in a desperate attempt to cut their way out of the trap.
 Some may offer bribes or favors to win their lives.
 
 In all cases, once a side has failed its Morale check, it's not going to be in a condition to fight those foes until it's had some time to recover its courage.
 
-The Importance of Morale It's very important that GMs keep Morale checks in mind and use them regularly during combat.
+The Importance of Morale It's very important that GMs keep Morale checks in mind y use them regularly during combat.
 Only truly abnormal creatures such as mindless undead, unthinking vermin, or command-bound automatons will fight relentlessly onward regardless of the situation.
-If every goblin warrior is a Spartan at Thermopylae, the PCs are going to lose a lot of comrades cleaning up fights that were clearly won five rounds ago.
+If every goblin warrior is a Spartan at Thermopylae, the PJs are going to lose a lot of comrades cleaning up fights that were clearly won five rondas ago.
 
-Aside from that, warriors are not fools, and they will not linger to fight battles that cannot be won and are not worth their lives.
+Aside from that, warriors are not fools, y they will not linger to fight battles that cannot be won y are not worth their lives.
 Even if they never fail a Morale check, they will not stay to die to the last man if there's no pressing reason for them to do so.
 Once they see that victory is a vain hope, they'll try to withdraw or to cut some kind of deal with their enemies.
 
 Of course, not all beaten sides respond rationally.
-The terror of battle, the confusion of melee, and a misunderstanding of the situation might leave some few warriors battling on even when all is lost, simply because they haven't realized that all their friends are dead yet.
+The terror of battle, the confusion of melee, y a misunderstanding of the situation might leave some few warriors battling on even when all is lost, simply because they haven't realized that all their friends are dead yet.
 Green troops are notorious for sometimes achieving military goals that veterans never could, because veterans would recognize certain failure much earlier.
 The same can sometimes apply to frenetic barbarians, savage mobs, or single-minded marauders.
 
-### Fleeing and Esca pe
+### Fleeing y Esca pe
 
-Whether from a failed Morale check or the PCs deciding on a prudent retreat, sometimes a side decamps the field.
-If pursued, the rules for chases and pursuit given in the rules section of this document can be used to judge the likelihood of success.
+Whether from a failed Morale check or the PJs deciding on a prudent retreat, sometimes a side decamps the field.
+If pursued, the rules for chases y pursuit given in the rules section of this document can be used to judge the likelihood of success.
 
-GMs should be charitable about allowing PCs to run away.
-Most pursuers have little reason to be particularly relentless, and a party should be taught that running away is a viable option and not an excuse to die tired.
+GMs should be charitable about allowing PJs to run away.
+Most pursuers have little reason to be particularly relentless, y a party should be taught that running away is a viable option y not an excuse to die tired.
 
 ## Instinct Checks
 
 Very few creatures are capable of engaging in desperate, life-ordeath struggles without losing some amount of their rationality.
-Terror, fury, excruciating pain, and situational blindness can sometimes make a combatant do something genuinely stupid, even if they would never have made such a mistake in calmer circumstances The Instinct check is the game's way of helping a GM take this situational chaos into account.
+Terror, fury, excruciating pain, y situational blindness can sometimes make a combatant do something genuinely stupid, even if they would never have made such a mistake in calmer circumstances The Instinct check is the game's way of helping a GM take this situational chaos into account.
 
 ### Making an Instinct Check
 
@@ -204,30 +204,30 @@ If the number rolled is equal or less than a combatant's Instinct score, measure
 Instinct checks are rolled separately for individual combatants, though the GM can simply decide that an appropriate percentage of large groups automatically fail the check.
 If the creatures have an Instinct of 3, for example, the GM might just decide that 30% of them fail the check rather than dicing for every one.
 
-PCs never make Instinct checks.
+PJs never make Instinct checks.
 Even in the grip of terror or traumatic injury they remain in control of their own choices.
 Heroically well-trained or tactically-expert enemies with an Instinct score of zero might likewise be immune to Instinct checks.
 Even martial paragons might be susceptible to Instinct, however, if they're so proud, blase, or contemptuous of their foes that they fail to fight them with their utmost cunning.
 
 When an Instinct check is failed, a creature will do something thoughtless or sub-optimal that is in line with their natural instincts.
 
-The adjacent tables offer example suggestions for various types of creatures, but a GM can simply decide the most reasonable reaction based on the situation and the combatants.
+The adjacent tables offer example suggestions for various types of creatures, but a GM can simply decide the most reasonable reaction based on the situation y the combatants.
 A GM should use these instances as opportunities to show off the nature of an enemy or the instincts of a bestial foe, or to set up some battlefield situation that isn't necessarily tactically-optimal for the enemy but is still troublesome for the heroes.
-Actions taken as a result of a failed Instinct check will usually only occupy one round worth of the creature's efforts.
+Actions taken as a result of a failed Instinct check will usually only occupy one ronda worth of the creature's efforts.
 
-Actions forced by an Instinct check failure won't necessarily be entirely useless, but they won't be the wisest or most effective use of the creature's abilities.
-Blindly attacking sub-optimal targets, recklessly using unarmed attacks rather than the weapon in hand, or aiming spells or shots at targets of lesser importance might all be actions taken as a result of a failed Instinct check.
+Actions forced by an Instinct check failure won't necessarily be entirely useless, but they won't be the wisest or most effective use of the creature's habilidades.
+Blindly attacking sub-optimal targets, recklessly using unarmed attacks rather than the weapon in hand, or aiming spells or shots at targets of lesser importance might all be acciones taken as a result of a failed Instinct check.
 
-Instinct checks are always optional and at the discretion of the GM.
-Some GMs might choose not to use them at all, judging actions strictly on what seems reasonable to them.
+Instinct checks are always optional y at the discretion of the GM.
+Some GMs might choose not to use them at all, judging acciones strictly on what seems reasonable to them.
 In all cases it's the GM's final call as to whether or not to roll one.
 
 ### When to Make an Instinct Check
 
 As a general guide, a GM might make an Instinct check for a creature whenever any of the situations below are applicable, or any time the GM thinks the creature might be confused or indecisive.
 
-- The second round of combat for mobs and undisciplined fighters.
-  The creature could think clearly before starting the fray, but the fear and exhilaration of mortal combat might confuse it.
+- The second ronda of combat for mobs y undisciplined fighters.
+  The creature could think clearly before starting the fray, but the fear y exhilaration of mortal combat might confuse it.
 - The creature has just had to make a Morale check for any reason.
   Terror might cloud its thoughts.
 - The enemy just did something confusing or disorienting.
@@ -241,20 +241,20 @@ When the situation is strange, the creature might fall back on instinct.
 
 Other situations might force Instinct checks as well at the GM's discretion.
 Indeed, some situations might be so compelling as to cause automatic check failure.
-Depending on the situation, the GM might decide a particular response is the only reasonable one, and not bother to randomly pick it from a table.
+Depending on the situation, the GM might decide a particular response is the only reasonable one, y not bother to randomly pick it from a table.
 
 ### Assigning Instinct Scores For non-sentient beasts, a creature's Instinct score should usually be about 5.
 
 Such beasts act largely by instinct in a fight- often very violent instincts.
 
-For non-combatant sentients and those unfamiliar with battle, Instinct should be 5 to 7.
+For non-combatant sentients y those unfamiliar with battle, Instinct should be 5 to 7.
 They are extremely likely to become confused or useless.
 
 Ordinary intelligent veterans should have an Instinct of 3 or 4.
 
-They might get caught up in the confusion of battle and make some poor calls, but they're unlikely to lose their head entirely.
+They might get caught up in the confusion of battle y make some poor calls, but they're unlikely to lose their head entirely.
 
 Hardened, battle-tested fighters might have an Instinct of only 1 or 2, being very unlikely to forget themselves in the chaos of battle.
 
-The coldest, calmest killers would have an Instinct of 1, and may not have to make Instinct checks at all outside of the most disorienting situations.
-They'll fight according to the plan and won't lose track of the battle.
+The coldest, calmest killers would have an Instinct of 1, y may not have to make Instinct checks at all outside of the most disorienting situations.
+They'll fight according to the plan y won't lose track of the battle.

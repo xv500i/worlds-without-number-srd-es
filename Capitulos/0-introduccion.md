@@ -46,7 +46,7 @@ These uses apply to both personal and commercial uses of the following document,
   Nomine offerings or as otherwise licensed, produced, associated
   with, or approved by Sine Nomine Publishing.
 - You may not replicate text or setting material included in the Worlds Without Number free or deluxe game but not included in the following document.
-  Setting details such as the default setting, the Latter Earth as described, or particular NPCs, places, or events are reserved as intellectual property and have been intentionally omitted from the following text, as have the bulk of the GM tools and other non-trivial creative content.
+  Setting details such as the default setting, the Latter Earth as described, or particular PNJs, places, or events are reserved as intellectual property and have been intentionally omitted from the following text, as have the bulk of the GM tools and other non-trivial creative content.
   These elements are actual creative works, and so I do not consider them free for common public use.
   Note that this does not apply to the basic concepts involved in the GM tools; while I keep my world tag text to myself, for example, I have no objection to someone else writing their own tags with the same enemy/friend/complication/thing/place structure, or creating one-roll tables with their own text.
 

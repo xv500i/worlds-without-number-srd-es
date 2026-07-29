@@ -561,19 +561,20 @@ The requirements listed below are for "fast" campaigns, where PCs advance in lev
 Individual GMs may alter these rates to suit their table's needs.
 Experience points do not reset on leveling up; the totals listed are total points accumulated.
 
-Experience Point Requirements
+### Experience Point Requirements
+
 | Level | Fast | Slow |
 | ----- | ---- | ---- |
-| 1 | 0 | 0 |
-| 2 | 3 | 6 |
-| 3 | 6 | 15 |
-| 4 | 12 | 24 |
-| 5 | 18 | 36 |
-| 6 | 27 | 51 |
-| 7 | 39 | 69 |
-| 8 | 54 | 87 |
-| 9 | 72 | 105 |
-| 10 | 93 | 139 |
+| 1     | 0    | 0    |
+| 2     | 3    | 6    |
+| 3     | 6    | 15   |
+| 4     | 12   | 24   |
+| 5     | 18   | 36   |
+| 6     | 27   | 51   |
+| 7     | 39   | 69   |
+| 8     | 54   | 87   |
+| 9     | 72   | 105  |
+| 10    | 93   | 139  |
 
 ### Advancement Benefits
 

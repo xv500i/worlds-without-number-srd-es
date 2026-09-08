@@ -24,10 +24,10 @@ Monsters y wild beasts have an Armor Class appropriate to their agility y the to
 Humans y other sentients usually have whatever Armor Class is granted by the armor they wear.
 Some creatures have an "a" annotation with their AC; this just means that the creature wears armor y the AC given is what their usual armor is worth.
 
-Atk is the creature's usual total attack bonus for its hit rolls in combat.
+Atk is the creature's usual total attack bonus for its hit rolls in combate.
 For most creatures, this is equal to its hit dice, possibly with a bonus if it's well-trained, exceptionally vicious, or supernaturally powerful.
 Some creatures have more than one attack, indicated by an "x2" or "x3" notation.
-This means the creature can attack two or three times with a single Main Action, directing them all at a single creature or splitting them up among nearby foes within reach.
+This means the creature can attack two or three times with a single Acción Principal, directing them all at a single creature or splitting them up among nearby foes within reach.
 
 Dmg is the damage done by a successful hit by the creature.
 If the listing says "Wpn", then it does whatever damage is usual for the weapon that it's wielding.
@@ -39,21 +39,21 @@ Thus, "3/13" means that the creature inflicts a minimum of 3 points of Shock dam
 Exceptionally powerful or savage creatures might automatically apply Shock regardless of the AC of the foe; such creatures have a dash listed for the maximum AC, such as "3/-".
 Such damage is always applied unless the foe is immune to Shock.
 
-Move is the distance the creature can move with a single Move action.
+Move is the distance the creature can move with a single Acción de Movimiento.
 Some creatures may fly, others swim, or still stranger means of locomotion may apply depending on the beast's nature.
 
-ML is the creature's Morale score.
-Whenever a Morale check is forced by a situation, the creature must roll 2d6.
-If the total is greater than its Morale score, it loses its taste for the fight y will retreat, surrender, or otherwise take whatever acciones seem best to get it safely away.
+ML is the creature's Moral score.
+Whenever a Moral check is forced by a situation, the creature must roll 2d6.
+If the total is greater than its Moral score, it loses its taste for the fight y will retreat, surrender, or otherwise take whatever acciones seem best to get it safely away.
 
 Inst is the creature's Instinct score.
-When confused, infuriated, or goaded in combat, it runs the risk of behaving according to its instincts rather than martial prudence.
+When confused, infuriated, or goaded in combate, it runs the risk of behaving according to its instincts rather than martial prudence.
 
-Skill is the creature's total Skill bonus for any skill checks it makes that are in line with its talents y habilidades.
-If the creature ought to be good at something, it can add its Skill bonus to the base 2d6 skill check.
+Skill is the creature's total Skill bonus for any pruebas de habilidad it makes that are in line with its talents y talentos.
+If the creature ought to be good at something, it can add its Skill bonus to the base 2d6 prueba de habilidad.
 If not, it adds +0, or might even take a penalty if it seems like something it would be exceptionally bad at doing.
 
-Save is the tirada de salvación target used by the creature whenever it's called upon to make a Physical, Mental, Evasion, or Luck tirada de salvación.
+Save is the tirada de salvación target used by the creature whenever it's called upon to make a Física, Mental, Evasion, or Luck tirada de salvación.
 Unlike PJs, creatures only have a single save target, usually equal to 15 minus half its hit dice, rounded down.
 Thus, a foe with 3 hit dice usually rolls 14+ to succeed at any tirada de salvación.
 This score can't be less than 2+, as a 1 on a tirada de salvación always fails.
@@ -68,7 +68,7 @@ Granting major enemies multiple acciones per ronda y a good selection of special
 
 ## Reaction Rolls y Parleying
 
-These rules do not encourage constant combat encounters.
+These rules do not encourage constant combate encounters.
 Heroes are fragile, foes are dangerous, y almost every fight runs some risk of downing at least one PC.
 GMs or players who arrange their games as a curated sequence of battles are going to rapidly run out of luck.
 
@@ -97,7 +97,7 @@ This information needs to be given before the PJs choose their initial acciones,
 A reaction roll applies to non-martial encounters as well.
 Determining the initial mood of a government clerk, the temper of a merchant, or the attitude of a noble patron can all be done by a reaction roll.
 
-This attitude will likely color the difficulty y nature of any negotiations or social skill checks the PJs might try to conduct with the target.
+This attitude will likely color the difficulty y nature of any negotiations or social pruebas de habilidad the PJs might try to conduct with the target.
 
 Reaction rolls are only the start of an encounter, not the end.
 Clever words, persuasive arguments, or prudent gifts can all shift the attitude of an PNJ, as can insults, threats, y looking excessively tender y delicious.
@@ -139,27 +139,27 @@ However it's sliced, the PNJ could be willing just to have a nice chat.
 | 9–11 | More friendly y benign than you'd expect them to be, given the circumstances  |
 | 12+  | As friendly y helpful as their nature y the situation permits them to be      |
 
-## Morale Checks y Fleeing
+## Chequeos de Moral y Huída
 
-Sometimes, however, combat is inevitable.
+Sometimes, however, combate is inevitable.
 The raiders swoop down on the heroes, the savage beast pounces, or the vile necromancer runs out of small talk.
-Even after blades are drawn, however, the hostile PNJs might come to think better of their choices when they fail a Morale check.
+Even after blades are drawn, however, the hostile PNJs might come to think better of their choices when they fail a Moral check.
 
-### Making a Morale Check
+### Making a Moral Check
 
-A Morale check is made by rolling 2d6 y comparing it to the creature's Morale score.
+A Moral check is made by rolling 2d6 y comparing it to the creature's Moral score.
 If the roll is greater than the score, the creature loses heart y will seek to flee or stop the battle.
-PJs never make Morale checks y will fight on until they decide to flee.
+PJs never make Moral checks y will fight on until they decide to flee.
 
-A Morale check is usually made under certain circumstances, though the GM can add to these whenever they think the situation calls for one.
-More than one Morale check may be needed in a fight if more than one condition occurs.
+A Moral check is usually made under certain circumstances, though the GM can add to these whenever they think the situation calls for one.
+More than one Moral check may be needed in a fight if more than one condition occurs.
 
 - When a non-combatant civilian is first faced with the prospect of serious physical harm.
 - When the first member of a group is killed or rendered incapacitated.
 - When the group starts to visibly lose the fight or see their odds of victory considerably shrink.
 - When the group faces some terrifying work of magic, a horrendous slaughter, or a vastly superior foe.
 
-The consequences of a failed Morale check will vary based on the situation y the creatures being tested.
+The consequences of a failed Moral check will vary based on the situation y the creatures being tested.
 Non-combatants y undisciplined fighters will generally flee madly, dropping shields y abandoning burdens as they try to escape their doom.
 
 Trained y experienced warriors will usually make a fighting withdrawal, trying to pull away from their enemies y escape back to safety with as many of their comrades as they can.
@@ -169,14 +169,14 @@ If flight seems impossible or prohibitively dangerous, they might throw down the
 If that seems hopeless, they might just collapse in terrified despair as they pray to their gods, or fight with a renewed frenzy in a desperate attempt to cut their way out of the trap.
 Some may offer bribes or favors to win their lives.
 
-In all cases, once a side has failed its Morale check, it's not going to be in a condition to fight those foes until it's had some time to recover its courage.
+In all cases, once a side has failed its Moral check, it's not going to be in a condition to fight those foes until it's had some time to recover its courage.
 
-The Importance of Morale It's very important that GMs keep Morale checks in mind y use them regularly during combat.
+The Importance of Moral It's very important that GMs keep Moral checks in mind y use them regularly during combate.
 Only truly abnormal creatures such as mindless undead, unthinking vermin, or command-bound automatons will fight relentlessly onward regardless of the situation.
 If every goblin warrior is a Spartan at Thermopylae, the PJs are going to lose a lot of comrades cleaning up fights that were clearly won five rondas ago.
 
 Aside from that, warriors are not fools, y they will not linger to fight battles that cannot be won y are not worth their lives.
-Even if they never fail a Morale check, they will not stay to die to the last man if there's no pressing reason for them to do so.
+Even if they never fail a Moral check, they will not stay to die to the last man if there's no pressing reason for them to do so.
 Once they see that victory is a vain hope, they'll try to withdraw or to cut some kind of deal with their enemies.
 
 Of course, not all beaten sides respond rationally.
@@ -184,9 +184,9 @@ The terror of battle, the confusion of melee, y a misunderstanding of the situat
 Green troops are notorious for sometimes achieving military goals that veterans never could, because veterans would recognize certain failure much earlier.
 The same can sometimes apply to frenetic barbarians, savage mobs, or single-minded marauders.
 
-### Fleeing y Esca pe
+### Huída y Esca pe
 
-Whether from a failed Morale check or the PJs deciding on a prudent retreat, sometimes a side decamps the field.
+Whether from a failed Moral check or the PJs deciding on a prudent retreat, sometimes a side decamps the field.
 If pursued, the rules for chases y pursuit given in the rules section of this document can be used to judge the likelihood of success.
 
 GMs should be charitable about allowing PJs to run away.
@@ -215,7 +215,7 @@ The adjacent tables offer example suggestions for various types of creatures, bu
 A GM should use these instances as opportunities to show off the nature of an enemy or the instincts of a bestial foe, or to set up some battlefield situation that isn't necessarily tactically-optimal for the enemy but is still troublesome for the heroes.
 Actions taken as a result of a failed Instinct check will usually only occupy one ronda worth of the creature's efforts.
 
-Actions forced by an Instinct check failure won't necessarily be entirely useless, but they won't be the wisest or most effective use of the creature's habilidades.
+Actions forced by an Instinct check failure won't necessarily be entirely useless, but they won't be the wisest or most effective use of the creature's talentos.
 Blindly attacking sub-optimal targets, recklessly using unarmed attacks rather than the weapon in hand, or aiming spells or shots at targets of lesser importance might all be acciones taken as a result of a failed Instinct check.
 
 Instinct checks are always optional y at the discretion of the GM.
@@ -226,9 +226,9 @@ In all cases it's the GM's final call as to whether or not to roll one.
 
 As a general guide, a GM might make an Instinct check for a creature whenever any of the situations below are applicable, or any time the GM thinks the creature might be confused or indecisive.
 
-- The second ronda of combat for mobs y undisciplined fighters.
-  The creature could think clearly before starting the fray, but the fear y exhilaration of mortal combat might confuse it.
-- The creature has just had to make a Morale check for any reason.
+- The second ronda of combate for mobs y undisciplined fighters.
+  The creature could think clearly before starting the fray, but the fear y exhilaration of mortal combate might confuse it.
+- The creature has just had to make a Moral check for any reason.
   Terror might cloud its thoughts.
 - The enemy just did something confusing or disorienting.
 

@@ -217,7 +217,7 @@ Some heroic changes might require several such adventures, with failure meaning 
 If the tyrant is not slain, he might escape into exile to foment further trouble, or he might flee to a province he still can control.
 
 Once the change is successfully achieved, the GM should take a little while to consider the larger ramifications of the event.
-Who in the surrounding area is going to take notice of the events, y what are they likely to do about it? What allies of the PJs might be strengthened by the change y able to push their own agendas further? What are the longer-term consequences of their acciones, y how might these show up during future adventures?
+Who in the surrounding area is going to take descubrir of the events, y what are they likely to do about it? What allies of the PJs might be strengthened by the change y able to push their own agendas further? What are the longer-term consequences of their acciones, y how might these show up during future adventures?
 The ultimate point of changes like these is not simply to make marks on the campaign map, but to create the seeds of future adventures y future events.
 The acciones of the characters create reactions, y the deeper they involve themselves in the campaign setting, the more that setting is going to involve itself with them.
 This is ultimately a virtuous circle for the GM y the group, as it helps to generate adventures y events that matter to the players y spares the GM from confusion or uncertainty over what kind of adventuring grist to generate.
@@ -263,7 +263,7 @@ Sometimes the effect is so graven on the world that it continues unsupported, bu
 In the worst cases, the magic goes rampant y terrible consequences are born from its uncontrolled fury.
 As a consequence, most nations are highly averse to the construction of large-scale magical infrastructure, even when they can afford to do so.
 
-## Player-Run Factions y Major Projects
+## Player-Correr Factions y Major Projects
 
 PJs who have the friendship or control of factions can leverage them to assist in their grand plans.
 A faction can assist on a project only once per faction turn, y this help counts as its action for the turn.

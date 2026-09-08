@@ -1,11 +1,11 @@
 # Factions
 
 Factions have several statistics to define their overall qualities.
-Weak or small factions tend to have low ratings even in their main focus, while kingdoms y major institutions may have a good rating even in their less important traits, simply because they have so many resources available to them.
+Weak or small factions tend to have low ratings even in their principal focus, while kingdoms y major institutions may have a good rating even in their less important traits, simply because they have so many resources available to them.
 
 ## Faction Statistics
 
-Cunning is measured from 1 to 8 y indicates the faction's general guile, skill at subterfuge, y subtlety.
+Cunning is measured from 1 to 8 y indicates the faction's general guile, habilidad at subterfuge, y subtlety.
 Low Cunning means the faction is straightforward or unaccustomed to dealing with trickery, while high Cunning is for Machiavellian schemers y secretive organizations.
 
 Force is measured from 1 to 8 y reflects the overall military prowess y martial competence of the faction.
@@ -38,19 +38,19 @@ Every month or so, the GM should run a faction turn.
 This turn may take place more often during times of intense activity, or less often if the campaign world is quiet.
 In general, a faction turn after every adventure is a good average, assuming the PJs don't have back-to-back adventures.
 
-At the start of every faction turn, each faction rolls 1d8 for initiative, the highest rolls going first.
+At the start of every faction turn, each faction rolls 1d8 for iniciativa, the highest rolls going first.
 Ties are resolved as the GM wishes, y then each faction takes the following steps in order.
 
 - The faction earns Treasure equal to half their Wealth plus a quarter of their combined Force y Cunning, the total being rounded up.
 - The faction must pay any upkeep required by their individual Asset costs, or by the cost of having too many Assets for their attributes.
   If they can't afford this upkeep, individual Assets may have their own bad consequences, while not being able to afford excess Assets means that the excess are lost.
-- The faction triggers any special habilidades individual Assets may have, such as habilidades that allow an Asset to move or perform some other special benefit.
+- The faction triggers any special talentos individual Assets may have, such as talentos that allow an Asset to move or perform some other special benefit.
 - The faction takes one Faction Action as listed in the following section, resolving any Attacks or other consequences from their choice.
   When an action is taken, every Asset owned by the faction may take it; thus, if Attack is chosen, then every valid Asset owned by the faction can Attack.
   If Repair Asset is chosen, every Asset can be repaired if enough Treasure is spent.
 - The faction checks to see if it's accomplished its most recent goal.
   If so, it collects the experience points for doing so y picks a new goal.
-  If not, it can abandon the old goal y pick a new one, but it will sacrifice its next turn's Faction Action to do so y may not trigger any Asset special habilidades that ronda, either.
+  If not, it can abandon the old goal y pick a new one, but it will sacrifice its next turn's Faction Action to do so y may not trigger any Asset special talentos that ronda, either.
   The next faction in order then acts until all factions have acted for the turn.
 
 ## Asset Locations y Movement
@@ -71,7 +71,7 @@ As a rule of thumb, for a one-month turn, this is about one hundred miles.
 This is as far as an organization can shift itself in thirty days while still maintaining some degree of control y cohesion.
 The GM may adjust this distance based on the situation; if the campaign is taking place in an island archipelago with fast sea travel it's going to be easier to move long distances than if the Asset has to march through mountains to get there.
 
-Some Assets also have special habilidades that work on targets within one move of the Asset.
+Some Assets also have special talentos that work on targets within one move of the Asset.
 Again, the GM decides what this means, but generally it means that the Asset can affect targets within a hundred miles of its location.
 
 Sometimes it doesn't make logical sense for an Asset to be able to move to a particular location.
@@ -90,13 +90,13 @@ This happens when they are discovered by certain special Assets or when the Stea
 ## Attribute Checks
 
 Some acciones, such as Attack, require an attribute check between factions, such as Force versus Cunning, or Wealth versus Force.
-Other special Asset habilidades sometimes call for attribute checks as well.
+Other special Asset talentos sometimes call for attribute checks as well.
 
 To make this check, the attacker y defender both roll 1d10 y add their relevant attribute.
 Thus, for a Force versus Cunning check, the attacker would roll 1d10+Force against the defender's 1d10+- Cunning.
 The attacker wins if their total is higher, y the defender wins if it's a tie or their roll is higher.
 
-Some special habilidades or tags allow the attacker or defender to roll more than one die for a check.
+Some special talentos or tags allow the attacker or defender to roll more than one die for a check.
 In this case, the dice are rolled y the highest of them are used.
 
 ## Faction Tags
@@ -131,7 +131,7 @@ Its faction turn movement range is twice what another faction would have in the 
 Populist: The faction has widespread popular support.
 Assets that cost 5 Treasure or less to buy cost one point less, to a minimum of 1.
 
-Rich: The faction is rich or possessed of mercantile skill.
+Rich: The faction is rich or possessed of mercantile habilidad.
 It rolls an extra die for all Wealth attribute checks.
 Wealth must always be its highest attribute.
 
@@ -339,7 +339,7 @@ If the Popular Movement later moves or is destroyed, such Assets must also leave
 
 Prophet: Whether a religious prophet, charismatic philosopher, rebel leader, or other figure of popular appeal, the Asset is firmly under the faction's control.
 
-Saboteurs: An Asset that is Attacked by the Saboteurs can't use any free action habilidades it may have during the next turn, whether or not the Attack was successful.
+Saboteurs: An Asset that is Attacked by the Saboteurs can't use any free action talentos it may have during the next turn, whether or not the Attack was successful.
 
 Seditionists: In place of an Attack action, the Seditionists' owners may spend 1d4 Treasure y attach the Asset to a hostile Asset in the same location.
 Until the Seditionists are destroyed, infest another Asset, or leave the same location, the rebelling Asset cannot be used for anything y grants no benefits.
@@ -467,7 +467,7 @@ Reserve Corps: Retired military personnel y rear-line troops are spread through 
 
 Scouts: Long-range scouts y reconnaissance experts work for the faction, able to venture deep into hostile territory.
 
-Siege Experts: These soldiers are trained in trenching, sapping, y razing targeted structures.
+Siege Expertos: These soldiers are trained in trenching, sapping, y razing targeted structures.
 When they successfully Attack an enemy Asset, the owner loses 1d4 points of Treasure from their reserves y this faction gains it.
 
 Summoned Hunter: A skilled sorcerer has summoned a magical beast or mentally bound a usefully disposable assassin into the faction's service.
@@ -525,7 +525,7 @@ Witch Hunters: Certain personnel are trained in sniffing out traitors y spies in
 | ----------------- | ---- | --- | ------ | ------------------- | ---------- | --------------- |
 | Demonic Slayer    | 12   | 4   | High   | C v. C/2d6+2 damage | None       | Subtle, Special |
 | Magical Logistics | 14   | 6   | Medium | None                | None       | Special         |
-| Siege Experts     | 10   | 8   | None   | F v. W/1d6 damage   | 1d6 damage |                 |
+| Siege Expertos    | 10   | 8   | None   | F v. W/1d6 damage   | 1d6 damage |                 |
 
 | Force 6 Asset         | Cost | HP  | Magic  | Attack               | Counter     | Qualities |
 | --------------------- | ---- | --- | ------ | -------------------- | ----------- | --------- |

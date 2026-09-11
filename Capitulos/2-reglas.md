@@ -1,909 +1,895 @@
-# The Rules of the Game
+# Reglas del Juego
 
-This section summarizes the rules of the game.
-They are intended to be functional for the average play group with typical needs; individual GMs may find it useful to alter them based on the specific interests or makeup of their own player group.
+Esta sección resume las reglas del juego.
+Las reglas están diseñadas para ser funcionales para el típico grupo de juego.
+Sin embargo, los GMs pueden alterar cualquier cosa para adaptar los intereses de su grupo.
 
-## Scenes, Rounds, and Mission Time
+## Escenas, Rondas, y Turnos
 
-During play, three special measures of time are used: scenes, rounds, and mission time.
+Existen tres tipos de medidas de tiempo: escenas, rondas, y turnos.
 
-### Scenes
+### Escenas
 
-A scene is a time measurement used to determine how often certain abilities or actions can be taken.
-Some powers can be triggered only so many times per scene, while some special abilities only work once per scene.
+Una escena sirve para determinar la frecuencia con la que se pueden usar las talentos o las acciones.
+Algunos poderes o talentos solo se pueden usar un número limitado de veces por escena.
 
-A scene is one particular fight, event, activity, or effort that usually doesn't take more than ten or fifteen minutes.
-A fight is a scene.
-A chase is a scene.
-A tense backroom negotiation is a scene.
-So long as the PCs are doing the same general activity in the same general location, it's probably one scene.
-Most scenes don't last more than fifteen minutes, though a GM can stretch this if it seems logical.
+Una escena puede ser una pelea, un evento, una actividad o un esfuerzo que no tome más de 15 minutos.
+Un combate es una escena.
+Una persecución es una escena.
+Una negociación tensa en un despacho es una escena.
+Mientras los PJs estén haciendo alguna cosa en la misma localización, probablemente sea una escena.
+Aunque la mayoría de escenas no duren más de 15 minutos, se puede ajustar si tiene lógica.
 
-### Rounds
+### Rondas
 
-Combat is made up of rounds, each one lasting approximately six seconds.
-A single combat may involve multiple rounds of action.
-A round begins with the actions of the side that wins initiative and ends after the actions of the side that lost initiative.
+El combate se divide en rondas.
+Cada una dura aproximadamente 6 segundos.
+Un combate puede involucrar varias rondas con acciones.
+En una ronda el bando que gana la iniciativa empieza con sus acciones y luego el bando que perdió realiza las suyas.
 
-### Turns
+### Turnos
 
-Sometimes it's important to track the time of a more complex operation, like exploring a dungeon or navigating the trackless depths of some ancient ruin.
-In such cases, the turn is a common measure of time.
-Each turn lasts ten minutes and is equivalent to one scene for those situations when it matters.
+A veces es importante controlar el paso del tiempo durante una actividad compleja como explorar una mazmorra o explorar las profundidades de unas ruinas antiguas.
+Es estos casos, los turnos son una medida de tiempo útil.
+Cada turno dura unos 10 minutos y se considera equivalente a una escena para las situaciones donde sea importante.
 
-## Saving Throws
+## Tiradas de Salvación
 
-Saving throws are rolled to resist some unusual danger or chance hazard.
-To make a saving throw, a person rolls 1d20 and tries to get equal or higher than their saving throw target.
-Sometimes a save might have bonuses or penalties applied to the roll, but a natural roll of 1 on the die always fails the save, and a natural roll of 20 is always a success.
+Las tiradas de salvación se usan para evitar un peligro.
 
-There are four types of saving throws.
-Usually it will be obvious which type is most appropriate for a threat, but the GM can decide in marginal situations.
+Para hacer una tirada de salvación, se tira 1d20 para intentar superar el número objetivo de su tirada de salvación.
+A veces, las tiradas de salvación pueden tener bonos o penalizaciones aplicadas al resultado de la tirada, pero una tirada natural de 1 es un fracaso y una tirada natural de 20 es un éxito.
 
-Physical saves resist exhaustion, poisons, diseases, or other bodily afflictions.
-A PC's Physical saving throw target is equal to 16 minus their character level and the highest of their Strength or Constitution modifiers.
+Hay 4 tipos de tiradas de salvación.
+La situación usualmente dejará claro qué tirada usar, pero el GM puede decidir en caso de duda.
 
-Evasion saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence.
-A PC's Evasion saving throw target is equal to 16 minus their character level and the highest of their Dexterity or Intelligence modifiers.
+Las salvaciones físicas se oponen a la extenuación, venenos, enfermedades u otras aflicciones del cuerpo.
+El número objetivo para una tirada de salvación física de un PJ es 16 menos el nivel del PJ y menos el modificador más alto entre Fuerza o Constitución.
 
-Mental saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards.
-A PC's Mental saving throw target is equal to 16 minus their character level and the highest of their Wisdom or Charisma modifiers.
+Las salvaciones de evasión se usan para esquivar explosiones, evitar trampas, reaccionar a un peligro repentino o cualquier situación donde la velocidad sea esencial.
+El número objetivo para una tirada de salvación de evasión de un PJ es 16 menos el nivel del PJ y menos el modificador más alto entre Destreza o Inteligencia.
 
-Luck saves are used when only blind chance can save a PC, regardless of their native abilities.
-A PC's Luck saving throw target is equal to 16 minus their character level, unmodified by their attributes.
+Las salvaciones mentales aplican cuando se resisten ataques mentales, hechizos mágicos, trauma psicológico u otros peligros que afecten la mente.
+El número objetivo para una tirada de salvación mental de un PJ es 16 menos el nivel del PJ y menos el modificador más alto entre Sabiduría o Carisma.
 
-### NPC Saving Throws
+Las salvaciones de suerte se usan cuando solo una probabilidad puede salvar a un PC independientemente de sus talentos.
+El número objetivo para una tirada de salvación mental de un PJ es 16 menos el nivel del PJ.
 
-NPCs have a single saving throw target equal to 15 minus half their rounded-down hit dice.
-Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
-The GM may modify this in special circumstances, but it's usually not worth tracking more closely.
+### Tiradas de Salvación de los PNJ
 
-## Skill Checks
+Los PNJs tienen un único número objetivo para las tiradas de salvación que se calcula como 15 menos la mitad (redondeando hacia abajo) de sus dados de golpe.
+Por ejemplo: un PNJ con 3 DG tendría número objetivo de 14+ para cualquier salvación.
+El GM puede modificar el número objetivo bajo circumstancias especiales, pero normalmente no es necesario tanto detalle.
 
-Most characters are skilled, competent men and women who are perfectly capable of carrying out the ordinary duties of their role.
+## Pruebas de Habilidad
 
-Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
+La mayoría de PJ son habilidosos, hombres y mujeres competentes que son perfectamente capaces de llevar a cabo las tareas de su rol.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier.
-If the total is equal or higher than the check's difficulty, the check is a success.
-On a failure, the PC either can't accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication.
-The GM determines the specific consequence of a failure.
+A veces, se enfrentarán a un desafío que va más allá de su tareas habituales y el GM pedirá un prueba de habilidad.
 
-If the character doesn't even have level-0 in the pertinent skill, they suffer a -1 penalty to the roll.
-In the case of particularly technical or esoteric skills they might not even be able to attempt the skill check at all.
+Para realizar un prueba de habilidad, tira 2d6 y añade el nivel de la habilidad más relevante y un modificador de atributo.
+Si el total es igual o superior a la dificultad del prueba, el prueba es un éxito.
+Si el prueba falla, el PC no puede realizar la hazaña, tiene mala suerte o lo consigue con un coste que le añade una complicación.
+El GM determina las consecuencias del fallo.
 
-The GM is always the one who calls for a skill check, and they do so at their discretion.
-The player simply describes what their PC is attempting to do, and the GM will tell them what skill and attribute combination to roll.
-If multiple skills or attributes might plausibly fit the action, the player can pick the one most favorable to them.
-If the combination is only marginally relevant, but still reasonably plausible, it might suffer a -1 or -2 penalty at the GM's discretion.
+Si un PJ ni siquiera tiene nivel-0 en la habilidad, resta 1 a la tirada.
+En el caso de que el prueba requiera habilidades esotericas o muy técnicas, puede ser que no tengan ni la oportunidad de realizar el prueba.
 
-### Skill Check Difficulties
+El GM es siempre el que pide la prueba de habilidad bajo su propio criterio.
+El jugador simplemente describe qué hace su PJ y el GM le dirá qué habilidad y qué atributo debe usar en la tirada.
+Si hay múltiples habilidades o atributos que encajan en la acción, el jugador puede elegir los más favorables.
+Si la combinación es marginalmente relevante pero aún plausible, el GM puede penalizar la tirada con 1 o 2.
 
-The following difficulties ratings reflect common challenges.
+### Dificultad de la Prueba de Habilidad
 
-Helpful or hostile circumstances can modify a skill check by -2 to +2.
-Usually, no combination of situational modifiers should alter the roll by more than this, or else it becomes a near-foregone conclusion.
+Las siguientes clases de dificultad reflejan las situaciones más comunes.
 
-This does not include modifiers applied by gear mods, magic items, or PC aid.
+Circumstancias beneficiosas o perjudiciales puede modificar la tirada desde -2 a +2.
 
-| Difficulty | Skill Check                                                                                                                                                                   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6          | A relatively simple task that is still more than the PC would usually be expected to manage in their regular background. Anything easier than this isn't worth a skill check. |
-| 8          | A significant challenge to a competent professional that they'd still succeed at more often than not.                                                                         |
-| 10         | Something too difficult to be expected of anyone but a skilled expert, and even they might fail.                                                                              |
-| 12         | Only a true master could expect to carry this off with any degree of reliability.                                                                                             |
-| 14+        | Only a true master has any chance of achieving this at all, and even they will probably fail.                                                                                 |
+Idealmente, intenta que la combinación de modificadores nunca altere la tirada por encima de lo anterior o el resultado será demasiado predecible.
+Esto no incluye modificadores aplicados por modificaciones de equipo, objetos mágicos o la ayuda de otro PJ.
 
-### NPC Skill Checks
+| Dificultad | Prueba de Habilidad                                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6          | Una tarea simple the cualquier PJ podría realizar dentro de su campo de aprendizaje. Tiradas con dificultad menor a esto no suelen valer la pena. |
+| 8          | Un desafío para un profesional competente que superará la mayoría de veces.                                                                       |
+| 10         | Algo demasiado difícil para alguien que no sea experto. Un experto aún podría fallar.                                                             |
+| 12         | Sólo un auténtico maestro puede hacer esto de forma habitual.                                                                                     |
+| 14+        | Sólo un auténtico maestro puede intentar realizarlo, fallando algunas veces.                                                                      |
 
-When an NPC needs to make a skill check, they roll 2d6 and add their listed skill modifier if their action is something they ought reasonably to be good at.
-If it isn't, they roll at +0, or even at -1 if it seems like something they'd be particularly bad at doing.
-If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
+### Pruebas de Habilidad de los PNJ
 
-### Aiding a Skill Check
+Cuando un PNJ necesita una prueba de habilidad, tira 2d6 y suma su modificador de habilidad si su acción sería algo que se le daría bien.
+Si no, tiran con un +0 o incluso -1 si es algo que no se les daría bien.
+Si el PNJ es suficientemente especial como para tener atributos y habilidades, puedes usar esos en vez de lo anterior.
 
-To aid a comrade's skill check, a player explains what their PC is doing to help.
-If the GM agrees that it's plausible, they may roll a relevant skill and attribute modifier against the same difficulty as the check they are aiding.
-If they succeed, their ally gains a +1 on their skill check.
-If they fail, no harm is done.
-Multiple PCs can try to aid if their actions are plausible, but the total bonus can't exceed +1.
+### Ayudar en una Prueba de Habilidad
 
-Aiding a comrade is usually done in ways that let the aiding PC leverage their own special talents or skills.
-A PC may not have the skills to attempt to Sneak past a vigilant guard, for example, but they might have a good Perform skill they can use to create a distraction that helps their comrade skulk past.
+Para ayudar a otro PJ en una prueba de habilidad, el jugador explica qué hace su PJ para ayudar.
+Si el GM está de acuerdo, pueden hacer una prueba de habilidad contra la misma dificultad que la prueba a la que están ayudando.
+Si tienen éxito, le dan al aliado un +1 en su prueba de habilidad.
+Si fallan, no provocan ninguna penalización.
+Múltiples PJs pueden ayudar a la vez, pero el bono total que dan al aliado no puede superar +1.
 
-### Opposed Skill Checks
+Ayudar a un aliado spermite combinar las habilidades de dos PJs.
+Un PC puede que no tenga la habilidad para escabullirse de un guardia, pero pueden tener una habilidad para distraer que crearía una distracción para ayudar a su aliado.
 
-When skills oppose each other, each participant makes a skill check and the winner is the one who rolls higher.
-In cases of ties, the PC wins.
-Thus, a PC trying to sneak past a guard might roll 2d6 plus their Dex/Sneak against the guard's 2d6 plus their skill modifier.
-If the guard was significant enough to actually have attributes and skill levels, it might be a Dex/Sneak challenge versus their Wis/Notice.
+### Pruebas de Habilidad Opuestas
 
-## Combat
+Cuando se opongan las habilidades de 2 PJ o PNJ, cada participante hace una prueba de habilidad y el ganador es el que obtenga el resultado más alto.
+Si empatan, el PJ gana.
 
-Violence is inevitable in most fantasy campaigns.
-The rules below handle its most common manifestations.
+Por ejemplo, si un PJ intenta pasar desapercibido por un guardia, puede tirar 2d6 +Des/Sigilo contra la tirada del guardia de 2d6 + su bono de habilidad.
+Si el guardia fuera un PNJ importante como para tener atributos y habilidades, podría hacer una prueba de Sab/Descubrir.
 
-### The Combat Sequence
+## Combate
 
-When combat begins, the fight progresses in the following sequence.
+La violencia es inevitable en la mayoría de campañas de fantasía.
+Las reglas que siguen pretenden cubrir los casos más comunes.
 
-The sections below explain each step in the process.
+### La Secuencia de Combate
 
-First, each participating side rolls for initiative.
-The side that rolled highest acts first.
+Antes de empezar, se decide la iniciativa de cada bando.
 
-Second, each member of a side gets to take their actions.
-Members of a side act in whatever order they wish.
-NPC sides act in whatever order the GM wishes.
+Cada miembro del bando puede usar sus acciones.
+Los miembros de cada bando actuan en el órden que prefieran.
+El GM decide el orden de los PNJ dentro de sus bandos.
 
-Third, once every member of a side has acted, the side that rolled next-highest gets to act.
-If NPCs have taken losses or are facing defeat, they may need to roll a Morale check as explained in [section](./5-monstruos-y-adversarios.md#morale-checks-and-fleeing).
-PCs never check Morale.
+Cuando cada miembro del bando ha actuado, le sigue el siguiente bando en orden de mayor a menor iniciativa.
+Si los PNJs han sufrido bajas o van perdiendo, deben superar un [chequeo de Moral](./5-monstruos-y-adversarios.md#chequeos-de-moral-y-huída)
+Los PJs nunca hacen chequeos de Moral.
 
-Fourth, once every side has acted the process repeats from the top in the same order.
-Initiative is not re-rolled.
+Cuando cada bando ha actuado, el proceso se repite usando el mismo orden (sin recalcular la iniciativa).
 
-### Combat Initiative
+### Iniciativa en el Combate
 
-When combat begins, each side involved in it rolls initiative, rolling 1d8 and adding their group's best Dexterity modifier.
-NPCs usually add nothing.
-The groups then act in order from highest to lowest rolls, with PC sides winning ties.
-When the slowest group has acted, the round ends and a new round starts in the same initiative order.
-Members of a side can act in any order the group agrees upon when it is that side's turn to act, performing their allowed actions as explained in the section below.
+Cuando empieza un combate, cada bando tira por iniciativa con 1d8 y le suma el mejor modificador de Destreza del grupo.
+Los PNJ no suman nada.
 
-#### Individual Initiative
+Los bandos actuan en orden de mayor a menor resultado.
+Si hay empate, los PJs van primero.
 
-As an optional rule, the GM may use individual initiative.
-In this case, each combatant rolls 1d8 individually, adding their Dexterity modifier, and acting in order from highest to lowest with PCs winning ties.
+Cuando el último bando ha actuado, la ronda termina y empieza una nueva con el mismo orden de iniciativa.
 
-This leaves a group less likely to be caught flat-footed by enemies, but makes it harder for a group to coordinate actions.
+Los miembros de cada bando pueden actuar en cualquier orden que el grupo decida realizando las acciones que se explican a continuación.
 
-#### Surprise
+#### Iniciativa Individual
 
-If a group is caught entirely unawares they may suffer surprise, automatically granting their enemies a full free round of action before initiative can be rolled.
-The GM decides when surprise applies, possibly calling for an opposed Dex/Sneak skill check versus the target's Wis/Notice.
-Groups cannot be surprised if they are actively anticipating the possibility of combat; at most, they might suffer an initiative penalty at the GM's discretion.
+Opcionalmente, el GM puede usar iniciativas individuales.
+En este caso, cada combatiente calcula su iniciativa individualmente (añadiendo su modificador de Destreza).
+Los combatientes actuan en orden de mayor a menor resultado (los PJs van primero en caso de empate).
 
-#### Automatic Initiative Powers
+Esta regla hace que un bando no quede completamente desprevenido, pero hace más difícil que puedan coordinar sus acciones.
 
-A PC with certain Foci or abilities may be immune to surprise or gain automatic initiative.
-In such cases they automatically act first during a combat round, even if the rest of their side is slower.
-If multiple combatants have these powers, they roll initiative normally amongst themselves to see which of them acts first.
+#### Sorpresa
 
-### Combat Action Types
+Si un bando está desprevenido, puede sufrir una sorpresa.
+En ese caso, los enemigos tienen una ronda gratuíta de acciones antes de que se tire la iniciativa.
+El GM decide cuando se aplica la sorpresa, probablemente usando una prueba de habilidad opuesta de Des/Sigilo y Sab/Descubrir.
+Un bando no puede ser soprendido si están anticipando un combate.
+Como mucho, se les podría dar un penalizador a la tirada de iniciativa según crea el GM.
 
-Attacks, movement, spellcasting, and other combat activities all require one of the following four types of actions.
+#### Modificación de la Iniciativa
 
-Main actions are a character's primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than six seconds to do.
-A combatant gets one Main action per round.
+Hay algunos Focos o Talentos que impiden que un combatiente quede sorprendido o les dan prioridad en la iniciativa.
+En ese caso, actúan primero durante la ronda de combate, aunque el resto de su bando actue luego.
+Si hay más de un combatiente con estos poderes, tiran iniciativa entre ellos para ver quien actua primero.
 
-Move actions involve moving the character's normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone.
-A combatant gets one Move action per round, but can spend their main action to get a second.
+### Combate Action Types
 
-On Turn actions are brief, simple acts that require only a moment's concentration.
-Activating certain abilities or speaking a few words might constitute an On Turn action.
-A character can take as many On Turn actions on their round as the GM finds plausible.
+Los ataques, el movimiento, el lanzamiento de hechizos y otras actividades del combate requiren de uno o más tipos acciones.
 
-Instant actions are special, most being provided only by certain powers or certain special actions.
-Instant actions can be performed even when it's not your turn in the round, even after the dice have already been rolled.
-The Veteran's Luck class ability provides one such Instant action, allowing the PC to treat a missed attack roll as an automatic hit.
-A PC can use as many Instant actions in a round as the GM finds plausible.
-Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
+Las acciones principales toman unos 6 segundos.
+Cada combatiente tiene 1 acción principal por ronda.
 
-### Common Combat Actions
+Ejemplos:
 
-The actions listed below are merely some of the most common taken in combat.
+- Atacar a un enemigo.
+- Dar primeros auxilios a un aliado.
+- Lanzar un hechizo.
+- Esquivar una lluvia de proyectiles.
 
-Make a Melee Attack (Main Action): Attack a target in melee range with an unarmed attack or melee weapon.
-Such weapons use either the Punch or the Stab skill, depending on the type of attack.
+La acción de movimiento se usa para mover el personaje usando su rango de movimiento normal (30 pies) o para realizar alguna acción rápida con tu cuerpo como levantarse del suelo.
+Cada combatiente tiene 1 acción de movimiento por ronda.
+Se puede convertir 1 acción principal en una de movimiento.
 
-Make a Ranged Attack (Main Action): Attack a target with a bow or thrown weapon.
-The Shoot skill is used for these attacks, though Stab or Exert can optionally be used for thrown weapons.
-If there is an enemy attacker in melee range, one-handed ranged weapons and thrown weapons suffer a -4 penalty to hit, while bows and other two-handed ranged weapons cannot be fired at all.
+Las acciones rápidas son actividades que solo requiren un momento de concentración.
+Hablar o activar ciertos talentos cuesta una acción rápida.
+Un combatiente tiene tantas acciones rápidas como el GM considere plausible.
 
-Make a Snap Attack (Instant Action): As an Instant action, give up your Main Action and either Make a Melee Attack or Make a Ranged Attack at a -4 penalty to hit.
-As an Instant action, you can Make a Snap Attack even when it's not your turn, but you must not have taken your Main Action this round yet.
-Only well-trained and disciplined NPCs have enough focus to Make a Snap Attack.
+Las acciones instantáneas son especiales y las otorgan ciertos poderes o acciones especiales.
+Estas acciones se pueden realizar incluso cuando no es tu turno en la ronda, incluso después de que se tiren los dados.
+Por ejemplo, el rasgo de clase "Suerte del Veterano" otorga una acción instantánea que permite convertir un fallo en una tirada de ataque en un acierto.
+Un combatiente puede usar tantas acciones rápidas como el GM considere plausible.
+Si dos acciones instantáneas se disparan a la vez, el GM adjudica cualquier ambigüedad.
 
-Make a Swarm Attack (Main Action): Target an enemy within range of your weapon and take this action until up to four allies have Made a Swarm Attack on that target this round.
-At that point or any point beforehand, one of these assailants can Make a Melee Attack or Make a Ranged Attack on the target with a +2 bonus to hit and +1 bonus to damage for every other assailant, up to a maximum bonus of +6 to hit and +3 damage.
-This bonus damage does not add to the attack's Shock and cannot make it do more than its usual maximum damage.
-Any Shock inflicted by this attack is always applicable, however, even if the target's AC is too high, they're using a shield, or have some power that makes them immune to Shock; the damage a Swarm Attack does isn't really Shock, but a reflection of the inevitable hazards of being swarmed by numerous armed foes.
+### Acciones Comunes de Combate
 
-Charge (Special Action): Spend both your Main Action and your Move action to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit.
-You must be able to charge at least 3 meters to build up sufficient momentum and you suffer a -2 penalty to your Armor Classes until the end of the round.
+Las acciones listadas son algunos ejemplos de las más comunes en un combate.
 
-Screen an Ally (Move Action): Move up to your normal movement rate to get adjacent to an ally.
-You then physically block attacks against them until the start of your next turn, provided they remain within 3 meters of you.
-Enemies who attack your ward must make a successful opposed combat skill check against you using either Str or Dex and the most applicable combat skill.
-If the enemy succeeds, their attack targets your ward normally.
-If you succeed, their attack instead targets you.
-You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level-1 in a combat skill to successfully screen.
-Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender.
-You can only screen against attacks you could feasibly physically parry or body-block.
+Ataque Cuerpo a Cuerpo (Acción Principal): Ataca un objetivo a rango de combate cuerpo a cuerpo con un ataque desarmado o una arma cuerpo a cuerpo.
+Estas armas pueden usar las habilidades de Golpear o Cortar dependiendo del tipo de ataque.
 
-Total Defense (Instant Action): Give up your Main Action to focus entirely on dodging and evading incoming perils.
-Your Melee and Ranged Armor Classes increase by +2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack.
-You cannot take this action if you have already spent your Main Action for the round.
+Ataque a Distancia (Acción Principal): Ataca a un objetivo con un arco o una arma arrojadiza.
+Estos ataques usan la habilidad de Disparar, aunque Cortar o Atletismo podría usarse para armas arrojadizas.
+Si hay enemigos a distancia de cuerpo a cuerpo, las armas a distancia de una mano y las armas arrojadizas sufren una penalización de -4 a impactar, mientras que los arcos y otras armas a distancia a dos manos no se pueden usar.
 
-Run (Move Action): Move your normal movement rate in combat, which is 30 feet for an ordinary human.
-If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee.
-To avoid this, you must make a Fighting Withdrawal first.
+Ataque Preparado (Acción Instantánea): Pierde tu Acción Principal y prepara un Ataque Cuerpo a Cuerpo o un Ataque a Distancia con un penalizador de -4.
+Como Acción Instantánea, puedes realizar el ataque que hayas preparado incluso cuando no es tu turno.
+No puedes realizar el ataque si ya has usado la Acción Principal en esta ronda.
+Sólo PNJs entrenados y disciplinados son capaces de usar un Ataque Preparado.
 
-Make a Fighting Withdrawal (Main Action): Disengage from an adjacent melee attacker, allowing you to move away from them without incurring a free attack as you retreat.
-You do not actually leave melee range with this action alone, and your enemy can simply re-engage you next round if you don't actually take a move action to retreat.
+Ataque Conjunto (Acción Principal): Elige un enemigo a rango de tu arma. Hasta 4 de tus aliados pueden participar en un Ataque Conjunto contra ese mismo objetivo.
+Cuando (usualmente el último) un aliado que acabe de participar en el Ataque Conjunto, realiza un Ataque Cuerpo a Cuerpo o un Ataque a Distancia contra el objetivo con un bono de +2 a impactar y +1 al daño por cada otro participante (hasta un máximo de +6 para impactar y +3 al daño).
+Este bonus al daño no se suma al Shock del ataque y no puede hacer que se haga más daño que el máximo que haría el ataque individualmente.
+El daño de Shock de este ataque no se puede evitar ni con una CA alta, ni con escudo ni con poderes que te hagan inmune al daño de Shock; simplemente te están masacrando.
 
-Use a Skill (Main Action): Perform first aid on a downed comrade, cry out an appeal for parley, or otherwise use a skill that wouldn't normally take more than six seconds.
+Carga (Acción Especial): Gasta tu Acción Principal y tu Acción de Movimiento para moverte en una línea recta hasta tu rango de movimiento.
+Luego haz un ataque cuerpo a cuerpo o con una arma arrojadiza con un bono de +2 para impactar.
+Debes haber cargado duranto 3 metros para coger suficiente velocidad.
+Sufres un penalizador de -2 a tu CA hasta el final de la ronda.
 
-Ready or Stow an Item (Main Action): A character can Ready an item for use from their pack or stowage or Stow it, as per the encumbrance rules.
-Sheathing or holstering a Readied weapon without actually Stowing it does not require this action, though the GM may disallow rapid weapon swaps if they start to become implausible.
+Proteger Aliado (Acción de Movimiento): Mueve hasta tu rango normal de movimiento para ponerte adyacente a un aliado.
+Bloqueas todos los ataques dirigidos hacia él hasta el inicio de tu próximo turno.
+Si el aliado se aleja a más de 3 metros, dejas de protegerle.
+Los enemigos que ataquen al aliado protegido deben hacer una prueba de combate opuesta usando Fue o Des y la habilidad de combate adecuada.
+Si el enemigo gana, atacan al aliado protegido.
+Si tu ganas, te atacan a tí.
+Puedes proteger a un aliado de un número de atacantes igual a tu habilidad de combate más alta.
+Consecuentemente, necesitas una habilidad de nivel-1 para proteger de 1 enemigo.
+Varios personajes pueden proteger a un aliado a la vez.
+En ese caso, la prueba de habilidad opuesta se compara con todos los defensores y recibe el ataque el que haya ganado con el peor resultado.
+Sólo puedes proteger de ataques que puedas bloquear razonablemente con el arma o tu cuerpo.
 
-Reload a Weapon (Main Action): Reload a crossbow from a Readied case of quarrels.
-Bows and crossbows may be reloaded as an On Turn action if the shooter has at least Shoot-1 skill; otherwise it's a Move action to nock a new arrow in a bow.
+Defensa Total (Acción Instantánea): Gasta tu Acción Principal para evadir y esquivar peligros.
+Tu CA para ataques cuerpo a cuerpo y a distancia se incremente en +2 y eres inmune al daño de Shock hasta el inicio de tu próximo turno (incluyendo el daño del Ataque Conjunto).
+No puedes usar ésta acción si ya has gastado tu Acción Principal en esta ronda.
 
-Drop an Item (Instant Action): Drop an item you are holding.
-This may be done at any time to free up a hand.
+Correr (Acción de Movimiento): Mueve hasta tu rango de movimiento de combate (usualmente 30 pies).
+Si empiezas a moverte cuando estás adyacente a un enemigo armado, pueden usar un Ataque Cuerpo a Cuerpo gratuíto contra ti.
+Para evitar eso, puedes hacer una Retirada de Combate.
 
-Pick up an Item (Move Action): Scoop up a dropped item within melee range, leaving it Readied in your hand.
+Retirada de Combate (Acción Principal): Te destrabas de un enemigo cuerpo a cuerpo para alejarte sin recibir un ataque gratuíto.
+La acción no te mueve, así que el enemigo puede volverse a trabar en su turno si no te mueves de otra manera.
 
-Stand Up (Move Action): Rise from a prone position, picking up any dropped items as you do so.
+Usar Habilidad (Acción Principal): Dar primeros auxilios a un aliado, pedir parlamento o cualquier uso de una habilidad que no tome más de 6 segundos.
 
-Go Prone (On Turn Action): Fall prone, applying a -2 penalty to ranged attacks against you and a +2 bonus to melee-range attacks against you.
-Your normal movement rate is halved while you remain prone.
+Preparar o Guardar Objeto (Acción Principal): Puedes preparar un objeto guardado o guardarlo respetando las reglas de Impedimenta.
+Desenfundar o enfundar una arma Preparada sin guardarla no requiere esta acción, aunque el GM puede desaprobar intercambios de armas que no sean plausibles.
 
-Hold An Action (Move Action): Spend your Move action to delay acting on your side's turn.
-You may trigger the rest of your turn's actions as an Instant action at any point until the end of the round, after which they are lost.
-If your held action is taken in response to someone else's action, yours resolves first.
+Recargar Arma (Acción Principal o de Movimiento): Recarga una ballesta con virotes Preparados mediante una Acción Principal.
+Recarga un arco con flechas Preparadas mediante una Acción de Movimiento.
+Los arcos y las ballestas pueden recargarse mediante una Acción Rápida si tienes como mínimo Disparar-1.
 
-### Combat Attac k Rolls
+Soltar Objeto (Acción Instantánea): Suelta un objeto que lleves en las manos.
+Puedes hacer esto en cualquier momento para liberar una mano.
 
-When an assailant makes an attack, they roll 1d20 and add their base attack bonus, the weapon's relevant attribute modifier, and their relevant combat skill level.
-If they lack even level-0 in the appropriate combat skill, they apply a -2 penalty to the roll.
-If the total is equal or greater than the target's relevant Melee or Ranged Armor Class, they hit.
-If less, they miss.
+Recoger Objeto (Acción de Movimiento): Recoge un objeto desatendido a rango cuerpo a cuerpo.
+El objeto pasa a estar Preparado y en tu mano.
 
-Every weapon listed in the equipment section is listed as using one or more attributes, such as either Str or Dex for a dagger.
-The attacker may choose either attribute for modifying the weapon's attack and damage rolls.
+Levantarse (Acción de Movimiento): Levántate del suelo, aprovechando para recoger objetos del suelo.
 
-#### NPC Attac k Rolls
+Tumbarse (Acción Rápida): Te tiras al suelo.
+Los Ataques Cuerpo a Cuerpo contra ti reciben un bono de +2 para impactar mientras que los Ataques a Distancia contra ti reciben un penalizador de -2 para impactar.
+Tu rango normal de movimiento se reduce a la mitad mientas estés en el suelo.
 
-NPCs usually do not have attribute modifiers or skill levels.
-Instead, the attack bonus of a trained NPC combatant is usually equal to their hit dice, often with an additional bonus to reflect particularly good training or talent.
+Esperar (Acción de Movimiento): Gasta tu Acción de Movimiento para retrasar tu actuación en la ronda.
+Puedes usar el resto de tus acciones en cualquier momento hasta el final de la ronda.
+Si no los gastas hasta entonces, se pierden.
+Si la acción preparada se desencadena en respuesta a la acción de otro personaje, la tuya va primero.
 
-#### Attac k Roll Modifiers
+### Tiradas de Ataque
 
-Some common situations can modify an attack roll, granting a bonus or penalty.
-GMs may add others depending on the situation.
+Cuando un combatiente realiza un ataque, tira 1d20 y añade su bono de ataque básico, el modificador de atributo según el arma y su modificador de habilidad correspondiente.
+Si no tienes ni siquiera nivel-0 con la habilidad para el arma que usas, aplica un penalizador de -2 a la tirada.
+Si el total es igual o superior a la CA cuerpo a cuerpo o a distancia, el golpe impacta.
+Si no, el golpe falla.
 
-| Situation                                                                                   | Mod |
-| ------------------------------------------------------------------------------------------- | --- |
-| Shooting at a distant prone foe                                                             | -2  |
-| Attacking an adjacent prone foe                                                             | +2  |
-| Melee attacking while prone                                                                 | -4  |
-| Your target is past your bow or thrown weapon's normal range, up to its maximum long range. | -2  |
-| The target is at least half behind cover                                                    | -2  |
-| The target is almost completely in cover                                                    | -4  |
-| Making a thrown attack while in melee                                                       | -4  |
-| Throwing a weapon while in melee                                                            | -4  |
-| Shooting a bow or crossbow while in melee                                                   | N/A |
-| You are shooting at a target you can't see but you know where they are.                     | -4  |
-| You are shooting at a target you can't see and don't know their exact position.             | N/A |
+Cada arma usa uno o más atributos, como Fue o Des en el caso de una daga.
+El atacante puede elegir qué atributo aplicar en las tiradas para impactar y de daño.olls.
 
-### Damag e and Shock
+#### Tiradas de Ataque de PNJ
 
-If an attack hits, it inflicts hit point damage equal to the weapon's damage die plus the weapon's relevant attribute modifier.
-Special weapon mods or abilities may increase this damage.
+Los PNJs no suelen tener modificadores de atributo o niveles de habilidad.
+En cambio, el bono de ataque de un PNJ entrenado para el combate es igual a sus dados de golpe.
+Se puede incrementar este valor para reflejar un entrenamiento superior o un talento natural.
 
-#### Non-Lethal Damage
+#### Modificadores de la Tirada de Ataque
 
-You may attack non-lethally with an appropriate weapon or unarmed attack.
-Your attacks will only incapacitate the target if you reduce them to zero hit points.
+Algunas situaciones pueden modificar la tirada de ataque.
+El GM puede improvisar según la situación.
 
-#### Punch Weapon Damage
+| Situación                                                                                                                     | Modificador |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Disparar a un oponente tumbado.                                                                                               | -2          |
+| Atacar cuerpo a cuerpo un oponente tumbado.                                                                                   | +2          |
+| Atacar cuerpo a cuerpo cuando estás tumbado.                                                                                  | -4          |
+| Disparar a un objetivo que está más lejos que el rango normal de tu arma a distancia o arrojadiza (pero menos que la máxima). | -2          |
+| El objetivo está parcialmente en covertura.                                                                                   | -2          |
+| El objetivo está casi completamente en covertura.                                                                             | -4          |
+| Usar una arma arrojadiza mientras estás cuerpo a cuerpo.                                                                      | -4          |
+| Disparar un arco o una ballesta mientras estás cuerpo a cuerpo.                                                               | N/A         |
+| Disparar a un objetivo que no puedes ver pero sabes donde está.                                                               | -4          |
+| Disparar a un objetivo que no puedes ver ni sabes donde está.                                                                 | N/A         |
 
-If you are making a purely unarmed attack you may add your Punch skill to the damage.
-You may not add the skill to the damage done by artificial weaponry that uses the Punch skill.
+### Daño y Shock
 
-#### Trauma
+Cuando un ataque impacta, inflinje daño en los puntos de golpe igual al resultado de tirar el dado del arma y sumar el modificador de atributo.
+Modificaciones de armas o talentos pueden añadir más daño.
 
-Trauma Dice are optional in the typical fantasy setting of this game, though GMs may choose to use them if they wish to further increase the peril of combat.
-Statistics for weapon Trauma Dice and armor Trauma Target improvements are given in the Cities Without Number SRD.
+#### Daño no Letal
 
-If you use this rule, then when you hit with a weapon or lethally-intended unarmed attack, roll the weapon's associated Trauma Die.
+Puedes atacar de forma no letal siempre que tenga sentido.
+Si reduces a tu oponente a 0 puntos de golpe con este daño, solo lo incapacitarás.
 
-If it equals or exceeds the victim's Trauma Target, which is usually 6 for a normal unarmored human, you have inflicted a Traumatic Hit.
+#### Daño de un Impacto sin Armas
 
-Traumatic Hits multiply the total damage of the hit by the weapon's listed Trauma Rating.
-Thus, if a shotgun with a x3 Trauma Rating would normally have done 9 damage in total, it instead does 27.
-If this damage or any later damage in the same fight reduces the victim to zero hit points, they risk a Major Injury.
-
-Some abilities or heavy armor may increase a subject's Trauma Target.
-Some other abilities might grant a bonus to the Trauma Die roll.
-To speed the process, it's generally best to roll the Trauma Die at the same time as the attack or damage roll.
-
-Vehicles and other inanimate objects are immune to Traumatic Hits from weapons that could not reasonably inflict catastrophic structural damage on them.
+Si estás realizando un ataque sin armas, puedes añadir tu nivel de habilidad de Golpear al daño.
+No puedes añadir este daño cuando usas una arma que use esta misma habilidad.
 
 #### Shock
 
-Some melee weapons inflict Shock on a missed attack roll.
-This damage reflects the inevitable harm a poorly-armored combatant suffers when engaging in armed combat.
-Shock for a weapon is recorded as a point value and target Armor Class, such as "Shock 2/15".
-If the wielder misses a target with this weapon that has a Melee Armor Class equal or less than the weapon's Shock rating, they suffer the listed amount of damage anyway.
-Thus, if that weapon were to miss a victim with Melee AC 13, it would still do 2 points of damage.
+Algunas armas cuerpo a cuerpo inflinjen Shock cuando fallan la tirada de ataque.
+Este daño refleja el castigo inevitable de un combate en el que no vas bien protegido.
+El Shock se define por un valor seguido de una CA (p.e.: "Shock 2/15").
+Si fallas una tirada de impactar con una arma que produce Shock y el oponente tiene una CA igual o inferior a la CA del shock, recibe igualmente un daño igual al valor del Shock (p.e.: si fallas contra un oponente con CA 13, le provocarías 2 de daño).
 
-Some attacks apply Shock on a miss regardless of the target's Armor Class.
-This benefit may be granted by certain abilities, or it may be part of a dangerous NPC's talents.
-Such Shock ratings are recorded with "-" as the affected AC, such as "Shock 5/-".
-This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
+Algunos talentos o PNJ poderosos aplican Shock independientemente de la CA.
+Este Shock se define con una CA "-" (p.e.: "Shock 5/-").
+Este Shock se puede negar como normalmente mediante el uso de escudos o talentos que den inmunidad al Shock.
 
-The only modifiers that add to Shock damage are the wielder's relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock.
-Thus, the Killing Blow class ability adds to Shock because it specifically says so, while a weapon mod that merely says it adds +2 damage would not.
+El daño provocado por el Shock se incrementa con el modificador de atributo del arma y cualquier bonificador que se aplique específicamente al Shock.
+Por ejemplo, el rasgo de clase Golpe Mortal se añade al Shock porque lo dice explícitamente, mientras que un modificador de arma que suma +2 al daño, no se sumaría.
 
-A person using a shield can ignore the first source of Shock they would normally suffer in a round.
-Some other Foci or special actions such as Total Defense can also render a subject immune to Shock.
+Un combatiente que use un escudo, puede ignorar la primera fuente de Shock en cada ronda.
+Algunos Focos o acciones especiales como Defensa Total pueden hacerte inmune al Shock.
 
-An attack that hits can never do less damage than the Shock that would have been inflicted on a miss.
-If using the Trauma rules, damage inflicted by Shock cannot cause a Traumatic Hit.
+Un ataque que impacta, nunca puede hacer menos daño que el Shock que provocaría si fallara.
 
-### Special Combat Maneuvers
+### Maniobras de Combate
 
-There are certain special maneuvers or activities that commonly arise in combat.
+Existen ciertas maniobras especiales que puedes usar en combate.
 
-#### Shoving and Grappling
+#### Empujar y Apresar
 
-To shove a target the attacker must make a successful melee attack.
+Para empujar un objetivo, el atacante debe hacer una tirada de ataque cuerpo a cuerpo.
 
-This attack does no damage, but forces an opposed Str/Exert or Str/
-Punch skill check.
-If the attacker wins, the target is shoved back up to 3 meters or knocked prone at the attacker's discretion.
+El ataque no hace daño, pero fuerza al oponente a realizar una prueba de habilidad opuesta de Fue/Atletismo o Fue/Golpear.
+Si gana el atacante, este decide si el objetivo retrocede 3 metros o se cae al suelo.
 
-To grapple, the attacker must make a successful unarmed melee attack while having both hands free.
-This attack does no damage but forces an opposed Str/Punch skill check.
-If the attacker wins, the victim is grappled.
-A grappled victim remains so until they take a Main Action to perform a successful opposed Str/Punch skill check against their assailant.
+Para apresar, el atacante debe hacer una tirada de ataque cuerpo a cuerpo desarmado teniendo las dos manos libres.
 
-While grappled, neither the assailant or the target can move from their location, nor can they fight with anything but unarmed attacks, including fangs or claws for creatures equipped with such.
-At the end of each round, a grappled victim automatically suffers damage as if hit by their assailant's unarmed attack.
+El ataque no hace daño pero fuerza al oponente a realizar una prueba de habilidad opuesta de Fue/Golpear.
+Si gana el atacante, el objetivo queda apresado.
+Una víctima queda apresada hasta que usa una Acción Principal para superar una prueba de habilidad opuesta con su apresador de Fue/Golpear.
 
-If the attacker wishes to move the grappled target, they must spend a Main Action and make an opposed Str/Punch skill check.
-On a success, they move the target up to 10 feet along with them or throw them 5 feet and leave them prone.
-On a loss or tie, the target escapes.
+Mientras estés apresado, ninguno de los dos se puede mover y sólo pueden pelear sin armas (o garras y dientes).
+Al final de cada ronda, la víctima apresada recibe daño como si la hubiera impactado un Ataque sin Armas del apresador.
 
-An attacker can grapple only one target at a time, but a defender can be grappled by multiple assailants, within reason.
-Any skill checks forced on a multiply-grappled target are compared against all assailants, and win only if all assailant rolls are beaten.
+Si el atacante decide mover a su presa, debe usar su Acción Principal y hacer una prueba de habilidad opuesta de Fue/Golpear.
+Si tiene éxito, se puede mover junto con su presa 10 pies o tirar a su presa a 5 pies dejándola tumbada.
+Si empata o pierde, su presa se escapa.
 
-These rules assume both assailant and target are relatively human- sized.
-Grappling or shoving humanoid but substantially larger targets is done with a -2 penalty on all skill checks, while trying to handle quadrupeds or those only barely plausible to wrestle is done at a -4 penalty.
+Un combatiente solo puede apresar a un objetivo a la vez, pero un combatiente puede ser apresado por diferentes asaltantes.
+Cualquier prueba opuesta que se realice en una presa múltiple solo tiene éxito si se supera a todos los apresadores.
 
-#### Dual-Wielding Weapons
+Estas reglas asumen que los dos combatientes tienen relativamente el mismo tamaño.
+Empujar o apresar objetivos mayores impone un penalizador de -2 a las pruebas de habilidad, mientras que hacerlo contra objetivos más complicados (p.e.: cuadrúpedos) impone un -4.
 
-Some attackers prefer to use two weapons at once.
-PCs who wish to do so must have at least level-1 in the relevant weapon skills, such as Stab-1 and Shoot-1 for dual-wielding a knife and hand crossbow.
+#### Pelear con Múltiples Armas
 
-When making an attack while dual-wielding, the attacker chooses which weapon they wish to use, rolling the attack roll accordingly.
+Algunos combatientes prefieren usar 2 armas a la vez.
+Los PJs que quieran combatir con múltiples armas deberán tener nivel-1 o superior en la habilidad de las armas (p.e.: Cortar-1 y Disparar-1 para usar un cuchillo y una ballesta).
 
-On a hit, the weapon does +2 damage so long as the target is within range of both wielded weapons.
-This bonus does not add to Shock.
+Cuando realices un ataque con múltiples armas, el atacante decide qué arma usar y hace la tirada de ataque normalmente.
 
-Managing two weapons at once is difficult, and applies a -1 penalty to all hit rolls.
+Si impacta, el ataque hace +2 de daño siempre que el objetivo pueda ser golpeado por ambas armas.
+Este bono no se añade al Shock.
 
-#### Execution Attac ks
+Usar dos armas a la vez es complicado y aplica un penalizador de -1 a las tiradas de ataque.
 
-A target that is entirely unsuspecting of danger is subject to execution attacks.
-A subject that is expecting danger or alert to potential harm cannot be targeted by an execution attack.
+#### Golpe de Gracia
 
-A ranged execution attack requires one full minute of aiming, waiting, and adjusting on the part of the would-be sniper.
-Any disturbance during this time will spoil the shot.
-After spending this time, the assassin may make a Dex/Shoot skill check.
-The difficulty is 6 for an attack within two meters, 8 for an attack within the weapon's normal range, or 10 for one at the weapon's long range.
-On a success, the attack hits; the victim's Armor Class is ignored.
+Un objetivo que no sospeche del peligro es vulnerable a un golpe de gracia.
+Si el sujeto espera peligro o está en alerta, no puede ser objetivo de un golpe de gracia.
 
-A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim.
-If this time is granted, the assassin may make a melee attack, automatically hitting.
+Un golpe de gracia a distancia requiere 1 minuto para apuntar, esperar y ajustar el tiro.
+Cualquier distracción durante este tiempo, impide el golpe de gracia.
+Después de este tiempo, el asesino puede hacer una prueba de habilidad Des/Disparar.
+Si es un éxito, el ataque impacta (la CA de la víctima se ignora).
 
-When a target is hit with an execution attack they must make a Physical saving throw at a penalty equal to the assailant's combat skill.
-On a failure, they are immediately reduced to zero hit points and Mortally Wounded, or knocked unconscious if the weapon was non-lethal.
+Un golpe de gracia cuerpo a cuerpo require 1 minuto cerca del objetivo para encontrar una oportunidad.
+Después de ese tiempo, el asesino hace un Ataque Cuerpo a Cuerpo impactando automáticamente.
 
-If they succeed on the save, they still take maximum damage from the hit.
-If using the Trauma rules, damage is rolled normally but successful execution attacks always count as Traumatic Hits, so the ensuing multiplied damage or Major Injury may be enough to kill in of itself.
+Cuando un objetivo recibe un golpe de gracia, debe hacer una prueba de salvación Física con un penalizador igual a la habilidad usada por el asesino.
+Si falla la salvación, pierde todos los puntos de golpe y pasa a estar Herido Mortalmente o inconsciente si el arma es no letal.
+Si pasa la salvación, reciben el daño máximo del ataque.
 
-## Injury , Healing, and System Strain
+## Heridas, Curación y Estrés Corporal
 
-Injury is almost inevitable in an adventurer's career.
-Some forms of it can be longer-lasting than others.
+Las Heridas son practicamente inevitables en la carrera del aventurero.
+Algunas Heridas pueden durar más que otras.
 
-### Mortal Injury and Stabilization
+### Heridas Mortales y Estabilización
 
-When a PC is reduced to zero hit points by a lethal attack, they are Mortally Injured.
-They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability.
+Cuando un PC pierde todos los puntos de vida debido a un ataque letal, pasan a estar Herido Mortalmente.
+El PC morirá al final de la 6a ronda después de que lo incapaciten a menos que lo estabilice un aliado o efecto.ial ability.
 
-A Mortally Wounded character is helpless, and can take no actions and do nothing useful.
+Un personaje Herido Mortalmente está indefenso y no puede realizar acciones ni hacer nada útil.
 
-Stabilizing an ally is usually a Main Action that requires a Dex/
-Heal or Int/Heal skill check.
-The difficulty is 8 plus the number of full rounds since the target fell.
-If the medic lacks a healer's kit or other tools, this difficulty is increased by 2.
-Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
+Para estabilizar un aliado, usa una Acción Principal para hacer una prueba de habilidad de Des/Curar or Int/Curar.
+La dificultad de la prueba es 8 más el número de rondas que lleva inconsciente.
+Si el médico no tiene un Kit de Curación, la dificultad se incrementa en 2.
+Sólo un aliado puede intentar estabilizar a una víctima por ronda, aunque puede recibir ayuda.
+Se pueden repetir intentos en otras rondas hasta que la víctima siga viva.
 
-Once stabilized the victim remains incapacitated for ten minutes before recovering with 1 hit point and the Frail condition.
-They may act normally after they recover, but if they are reduced to zero hit points again while still Frail, they die instantly.
-Frailty is removed by a week of bed rest and medical care.
-A physician can also make one attempt to remove Frailty with a healer's kit and an hour of work, rolling a Dex/Heal or Int/Heal skill check against difficulty 10.
+Una vez estabilizada, la víctima permanece incapacitada durante 10 minutos hasta que se recupera con 1 punto de golpe y pasa a estar Frágil.
+Puede actuar normalmente después de recuperarse, pero si pierde sus puntos de golpe estando Frágil, muere instantáneamente.
+El estado Frágil se puede quitar mediante descanso en una cama y cuidados médicos durante una semana.
+Un médico puede hacer una única prueba de habilidad de Des/Curar or Int/Curar con un Kit de Curación durante una hora con dificultad 10 para quitar el estado Frágil.
+Las vícitimas del estado Frágil que no reciban atención médica deben hacer una salvación Física al final de la semana; si fallan, mueren en la siguiente semana, si tienen éxito, pierden el estado Frágil después de un mes de descanso.
 
-#### NPCs and Mortal Injury
+#### PNJs y Heridas Mortales
 
-NPCs who aren't important enough to merit a name usually die instantly when reduced to zero hit points.
+Los PNJs que no son importantes como para tener un nombre mueren directamente cuando pierden sus puntos de golpe.
 
-#### Catastrophic Damage
+#### Daño Catastrófico
 
-Targets reduced to zero hit points by some injury or cause that could not be reasonably survivable are instantly killed.
-An arrow hole might be patched; a direct hit with a house-sized boulder or a plunge off a thousand-foot precipice is less survivable.
-What counts as "not reasonably survivable" may vary with inhumanly durable targets.
+Objetivos reducidos a 0 puntos de golpe por un efecto que no se podría sobrevivir son directamente muertos.
+Una herida de flecha se puede arreglar, pero un golpe directo de una piedra gigante no se puede sobrevivir.
+Algunos personajes inhumanos pueden desafiar esta regla.
 
-#### Non-Lethal Incapac itation
+#### Incapacitación por Daño no Letal
 
-If a target is brought to zero hit points by a non-lethal attack, they are incapacitated for ten minutes before regaining 1 hit point.
-They do not become Frail.
+Si un objetivo pierde todos sus puntos de golpe por un ataque no letal, queda incapacitado durante 10 minutos sin recibir el estado Frágil.
+Después, se recuperan con 1 punto de golpe.
 
-### System Strain
+### Estrés Corporal
 
-Magical forms of healing or use of powerful augmenting magic can take a toll on a user's physiology.
-Their System Strain total reflects the total amount of stress their body has undergone.
+Fuentes de curación o transmutaciones mágicas pueden alterar la fisiología de los personajes.
+El Estrés Corporal refleja el castigo que sus cuerpos reciben.
 
-A healthy character normally starts at zero System Strain and has their Constitution score as their allowed maximum.
-A character cannot accumulate more than this maximum in System Strain.
+Un personaje empieza con 0 Estrés Corporal y puede acumular hasta su valor de Constitución.
 
-Magical healing and certain spells and abilities will add to a subject's System Strain.
-If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability.
-If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for at least an hour.
+La curación mágica, los conjuros y algunos talentos añadirán Estrés Corporal.
+Si este incremento de Estrés Corporal no es posible, el efecto no funciona.
+Si un efecto le fuerza a sobrepasar el límite de Estrés Corporal, el personaje cae inconsciente durante 1 hora o más.hour.
 
-Characters lose one point of accumulated System Strain after each night's rest, assuming they are warm, fed, and comfortable and can get at least eight uninterrupted hours of sleep.
-Cold camps, stony bedding, and other sources of privation prevent this recuperation.
+Los personajes pierden 1 punto de Estrés Corporal después de cada descanso nocturno, asumiendo que pueden mantener buena temperatura, están alimentados, hidratados y pueden dormir 8 horas ininterrumpidamente.
+Dormir con frío, sobre unas piedras o cosas similares puede prevenir esta recuperación.
 
-### Natural Healing
+### Curación Natural
 
-A wounded creature can recover hit points by getting a good night's rest and adequate food.
-Provided they are warm, fed, and comfortable, they regain hit points each morning equal to their experience level, or equal to their hit dice if they are NPCs.
-Characters suffering some form of privation do not recover hit points through sleep.
+Una criatura herida puede recuperar puntos de golpe perdidos durante un descanso nocturo y comida.
+Si está a buena temperatura, alimentado, hidratado y cómodo, la criatura recupera tantos puntos de golpe como su nivel de experiencia (o sus dados de golpe en el caso de PNJs).
 
-Frail creatures do not recover hit points through natural healing.
+Las criaturas con el estado Frágil no recuperan puntos de golpe con la Curación Natural.
+Deben eliminar esta condición o usar consumibles recuperar puntos de golpe.
 
-They must cure their Frail condition first or rely on pharmaceuticals.
+### Primeros Auxilios
 
-Removing the Frail condition requires a full week of bed rest and the medical attention of someone with at least Heal-0 skill and a healer's kit.
-Frail victims without this level of medical care must make a Physical save after a week; on a failure they die sometime in the next week, while success means they lose their Frailty after another month's rest.
+Si pasa 1 minuto atendiento a un aliado con un Kit de Curación, el curandero puede curar 1d6 puntos de golpe más su nivel en la habilidad de Curar.
+Si no tienen habilidad de Curar, solo restauran 1d6-1 puntos de golpe.
+Cada uso de primeros auxilios añade 1 Estrés Corporal al objetivo.
 
-### First Aid
+Los primerox auxilios pueden restaurar puntos de golpe a un objetivo Frágil, pero no pueden retirar esta condición.
 
-Healers can patch up victims in a hurry, albeit at a cost to their physical resilience.
-By spending one minute patching up an ally with a healer's kit, a healer can heal 1d6 points of damage plus their Heal skill.
-If they lack any Heal skill at all, they restore 1d6-1 points.
-Each such application of first aid adds one System Strain to the target.
+Durante un turno de 10 minutos, un curandero puede aplicar primeros auxilios a todo el grupo.
 
-First aid can restore hit points to a Frail target, but it cannot remove their Frailty.
+### Venenos y Enfermedades
 
-One ten-minute turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
+La mayoría de toxinas requiren que la víctima realize una tirada de salvación Física para resistirse a sus efectos.
+Si el veneno es débil, puedes dar un bonificador hasta +4 a la tirada de salvación, mientras que venenos fuertes dan un penalizador de hasta -1.
 
-### Poisons and Diseases
+Si la tirada de salvación falla, el veneno o enfermedad empieza a actuar.
+La mayoría de venenos son rápidos, provocando daño en los puntos de golpe, Estrés Corporal u otras penalizaciones duraderas.
+Las Enfermedades pueden tener un tiempo de inicio más largo pero suelen aplicar efectos similares a los venenos.
 
-Most toxins force a victim to make a Physical saving throw to resist their effects or mitigate their harm.
-Weak perils might grant as much as a +4 to the saving throw, while dire threats might apply a -4 penalty.
+Un médico que atienda a una persona envenada antes de un minuto puede usar un Kit de Curación para proporcionar una mejor probabilidad de resistir.
+La víctima del veneno suma 2 veces la habilidad de Curar del médico a su tirada de salvación (o +1 si sólo tiene Curar-0).
+Antitoxinas especializadas pueden neutralizar completamente los venenos.
 
-If the save is failed, the poison or disease takes hold.
-Most poisons act quickly, inflicting hit point damage, adding System Strain to the target, or applying long-lasting penalties.
-Diseases can have a slower onset but often apply the same sort of harms.
+## Huídas y Persecuciones
 
-A medic who gets to a poisoned person within a minute of the poisoning can use a healer's kit to give them a better chance to resist.
+Los aventureros tienen la manía de perseguirse los unos a los otros.
+Las reglas que se usan dependen de si la persecución es a pie o montados.unted pursuit.
 
-They may add twice their Heal skill level to the victim's saving throw roll, or +1 if they have only Heal-0 skill.
-Specialized antitoxins may be able to neutralize such poisons entirely.
+### Huídas a Pie
 
-## Chases and Pursuit
+El miembro del grupo que huye que tenga mejor Des/Atletismo o Con/Atletismo realiza una prueba de habilidad.
+Este resultado es la velocidad de huída, ya que ayudan a los demás y se encargan de los miembros más lentos.
 
-Adventurers have a habit of chasing after others and being chased in turn.
-The specific rules used vary depending on whether it's a foot chase or mounted pursuit.
+Los otros miembros del grupo pueden realizar acciones para ralentizar a sus perseguidores.
+Algunas veces esto requerirá una prueba de habilidad aunque el GM puede decidir que algo simplemente funciona.
+Cada acción exitosa añade un bono de +1 a la velocidad de huída hasta un máximo de +3.
+Las acciones que fracasen o sean desastrosas dan un penalizador de -1 a la velocidad de huída.
 
-### Foot Chases
+Si el grupo que huye está compuesto por PNJs, el GM adjudica si tratan de hacer algo para retrasar los PJs.
 
-The group member in the fleeing party with the best Dex/Exert or Con/Exert total rolls a skill check.
-Their result is the fleeing group's pace, as they help and encourage the slower members.
+El grupo que persigue hace una sola prueba de habilidad Des/Atletismo o Con/Atletismo modificada por la tabla que sigue.
+Si obtienen un resultado mejor que la velocidad de huída, les consiguen atrapar.
+Si no, el grupo que huye escapa.
 
-Other fleeing group members then hinder pursuit in whatever ways they think are helpful.
-Sometimes a skill check is needed, while other times a GM will simply decide it works.
-Each successful effort adds a +1 bonus to the pace, up to +3 maximum.
-Botched efforts are either unhelpful or apply a -1 penalty if they're actively harmful.
+| Situacion                                             | Modificador |
+| ----------------------------------------------------- | ----------- |
+| Hay más gente persiguiendo que huyendo                | -1          |
+| Los que huyen no tubieron tiempo de empezar a correr  | +2          |
+| Los que huyen tienen una ronda de ventaja             | +1          |
+| Los que huyen tienen menos de un minuto de ventaja    | +0          |
+| Los que huyen tienen más de un minuto de ventaja      | -2          |
+| Quién conoce mejor el terreno por el que se corre?    | -2 to +2    |
+| Los perseguidores no tienen muchas ganas de perseguir | -1          |
+| Los perseguidores están enfadados o buscan venganza   | +1          |
 
-If the fleeing group is made up of NPCs, it's the GM's judgment as to whether any of them try to do something clever to stall the PCs.
+### Huídas con Monturas
 
-The pursuing group then makes a single Dex/Exert or Con/Exert skill check, modified by the table below.
-If they beat the fleeing group's total they catch up to them, and if they tie or roll less the fleeing party has escaped immediate pursuit.
+Para huídas con Monturas o vehículos, el conductor hace una prueba de Habilidad de Des/Montar.
+Este resultado es la velocidad de huída.
 
-| Situation                                 | Mod      |
-| ----------------------------------------- | -------- |
-| There are more pursuers than pursued      | -1       |
-| The pursued have no head start at all     | +2       |
-| " have one round's head start             | +1       |
-| " have less than a minute's head start    | +0       |
-| " have more than a minute's head start    | -2       |
-| Who knows the local terrain better?       | -2 to +2 |
-| The pursuit is half-hearted or obligatory | -1       |
-| The pursuers are enraged or vengeful      | +1       |
+Cada perseguidor hace su prueba de Des/Montar modificada por la tabla que sigue.
+Los que no superen la velocidad de huída se quedan atrás.
+Los que la superen, llegan hasta su presa y pueden iniciar un combate mientras montan hasta que la víctima intente escapar otra vez o la batalla decida otra conclusión.
 
-### Mounted Chases
+Los perseguidores sin montura generalmente no tienen opción de perseguir personas huyendo montadas.
 
-For mounted or vehicular chases, the fleeing rider makes a Ride skill check, usually modified by Dexterity.
-This is the fleeing mount's pace.
+| Situacion                                                   | Modificador |
+| ----------------------------------------------------------- | ----------- |
+| Los perseguidores no pueden ver a los perseguidos           | -2          |
+| Los perseguidores vuelan y los perseguidos no               | +3          |
+| Los perseguidos vuelan pero los perseguidores no            | -3          |
+| Un explorador está revelando la posición de los perseguidos | +1          |
+| Quién conoce mejor el terreno?                              | -2 to +2    |
+| Los perseguidores no tienen muchas ganas de perseguir       | -1          |
+| Los perseguidores están enfadados o buscan venganza         | +1          |
 
-Each pursuer then makes its own Dex/Ride skill check to catch up with the quarry, modified by the table below.
-Any of them who don't equal or exceed the fleeing mount's pace fall behind and are lost from the pursuit.
-Any of them who do make the roll catch up to the mount, and it usually becomes a matter of combat until the quarry can make another escape attempt or win the ensuing battle.
+## Avance de Personaje
 
-Unmounted pursuers cannot generally hope to catch up with mounted evaders over a short-term chase.
+Los personajes acumulan puntos de experiencia durante sus aventuras u otras actividades relevantes para la campaña.
+Por defecto, los PJs ganan 3 puntos de experiencia por misión exitosa.
+Cuando acumulen suficientes puntos de experiencia, pueden avanzar al siguiente nivel.
+Los PJs recién creados empiezan al nivel 1 y pueden llegar hasta nivel 10. the default rules.
 
-| Situation                                   | Modifier |
-| ------------------------------------------- | -------- |
-| The pursuer can't directly see the pursued  | -2       |
-| The pursuer is flying but the pursued isn't | +3       |
-| The pursued is flying but the pursuer isn't | -3       |
-| A spotter is relaying the target's position | +1       |
-| Who knows the local terrain better?         | -2 to +2 |
-| The pursuit is half-hearted or obligatory   | -1       |
-| The pursuers are enraged or vengeful        | +1       |
+La siguiente tabla muestra dos velocidades para avanzar los PJs.
+El GM puede alterar los números para sus necesidades.
+Los puntos de experiencia no se pierden al subir de nivel; se listan los puntos totales acumulados necesarios.
 
-## Character Advancement
+### Tabla de niveles de PJs
 
-Characters accumulate experience points through successful adventure completion or other activities appropriate to the campaign's focus.
-By default, PCs gain three experience points for an average successful mission.
-When enough experience points have been accumulated, they advance an experience level.
-New characters begin at first level and can rise to a maximum of tenth under the default rules.
+| Nivel | Rápido | Lento |
+| ----- | ------ | ----- |
+| 1     | 0      | 0     |
+| 2     | 3      | 6     |
+| 3     | 6      | 15    |
+| 4     | 12     | 24    |
+| 5     | 18     | 36    |
+| 6     | 27     | 51    |
+| 7     | 39     | 69    |
+| 8     | 54     | 87    |
+| 9     | 72     | 105   |
+| 10    | 93     | 139   |
 
-The requirements listed below are for "fast" campaigns, where PCs advance in level relatively rapidly, and "slow" campaigns, where the advancement is more measured.
-Individual GMs may alter these rates to suit their table's needs.
-Experience points do not reset on leveling up; the totals listed are total points accumulated.
+### Beneficios del Avance
 
-### Experience Point Requirements
+Cuando un personaje sube de nivel obtiene los siguientes beneficios.
 
-| Level | Fast | Slow |
-| ----- | ---- | ---- |
-| 1     | 0    | 0    |
-| 2     | 3    | 6    |
-| 3     | 6    | 15   |
-| 4     | 12   | 24   |
-| 5     | 18   | 36   |
-| 6     | 27   | 51   |
-| 7     | 39   | 69   |
-| 8     | 54   | 87   |
-| 9     | 72   | 105  |
-| 10    | 93   | 139  |
+#### Puntos de Golpe Addicionales
 
-### Advancement Benefits
+Para determinar sus nuevos puntos de golpe máximos, tiran tantos dados de golpe como niveles, añadiendo su bonificador de Constitución a cada dado.
+Ningún dado puede reducirse a menos de 1 ni con un bonificador de Constitución muy bajo.
+Si la tirada es superior a su máximo actual, lo sustituyen por el valor de la tirada.
+Si es menor o igual, incrementan sus puntos de golpe máximos en 1.
 
-Whenever a character advances a level, they obtain certain benefits.
+#### Tiradas de Salvación Mejoradas
 
-#### Additional Hit Points
+La dificultad de las tiradas de salvación se decrementa en 1, haciendo más fácil el éxito.
+Un personaje de primer nivel tiene una tirada de salvación de 15 (uno de segundo nivel, 14).
+Las salvaciones se modifican con los atributos pertinentes.
 
-To determine their new maximum hit points, they roll their hit die for each level they now possess, adding their Constitution modifier to each die, and a further +2 if they have the Die Hard Focus.
-No individual die can be reduced below 1 point, even with a Constitution penalty.
-If the total roll is greater than their current maximum hit points, they take the roll.
-If less or equal, their maximum hit points increase by one.
+#### Bono de Ataque Mejorado
 
-#### Improved Saving Throw
+El bonificador de ataque base mejora según el nivel y la clase del PJ.
 
-Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it.
-As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
+#### Adquirir y Gastar Puntos de Habilidad
 
-#### Improved Attac k Bonus
+Un PJ que sube de nivel gana 3 puntos de habilidad que puede invertir o guardar.
+Los Expertos y Expertos Parciales con el rasgo Aprendiz Rápido ganan 1 punto de habilidad extra.
 
-A PC's base attack bonus improves according to their level and their chosen class.
+Las habilidades adquiridas o mejoradas se asume que se han practicado o perfeccionado durante las aventuras.
+Es posible necesitar entrenadores u otros métodos en el caso de que no sea posible desarollar una habilidad.
 
-#### Gaining and Spending Skill Points
+El coste para adquirir habilidades está en la tabla siguiente.
+Cada nivel de habilidad se tiene que adquirir en orden (para adquirir Nivel-1 en una habilidad, debes pagar 1 punto por el Nivel-0 y luego 2 puntos por el Nivel-1).
+Un PJ debe respetar el requisito de nivel mínimo antes de subir la habilidad.
 
-A PC who advances a level gains three skill points they can spend on improving their skills or save to spend later.
-Experts and Partial Experts with the Quick Learner class ability gain an extra bonus skill point to spend, giving them four points each time they advance.
+Un PJ no puede desarollar habilidades por encima de Nivel-4.
 
-Skills that are gained or improved immediately on gaining a level are assumed to have been perfected over the past level and require no training time or teaching.
-If they save their skill points to spend them later then they'll need to find some teacher or other explanation for developing them in the meanwhile.
+| Nivel de Habilidad | Cost de Puntos | Nivel Mínimo del PJ |
+| ------------------ | -------------- | ------------------- |
+| 0                  | 1              | 1                   |
+| 1                  | 2              | 1                   |
+| 2                  | 3              | 3                   |
+| 3                  | 4              | 6                   |
+| 4                  | 5              | 9                   |
 
-The cost for improving a skill is listed below.
-Every skill level must be purchased in order; to gain level-1 in a skill you need to pay one point for level-0 and then two points for level-1.
-A PC must be the requisite minimum level to increase a skill to certain levels.
-Less hardened adventurers simply don't have the focus and real-life experience to attain such a pitch of mastery.
+#### Mejora de Atributos
 
-A PC cannot "partially buy" a skill level.
-If they don't have enough skill points to buy a new level, they need to save them up until they can.
-A PC cannot develop skills beyond level-4.
+Un PJ puede invertir sus puntos de habilidad en mejorar las puntuaciones de sus atributos.
 
-| Skill Level | Point Cost | Min. Character Level |
-| ----------- | ---------- | -------------------- |
-| 0           | 1          | 1                    |
-| 1           | 2          | 1                    |
-| 2           | 3          | 3                    |
-| 3           | 4          | 6                    |
-| 4           | 5          | 9                    |
+La primera mejora de un atributo específico cuesta 1 punto.
+La segunda mejora del mismo atributo cuesta 2 puntos, la tercera 3, etc.
+Cada mejora añade un +1 a la puntuación del atributo, potencialmente cambiando su modificador.
 
-#### Improving Attributes
+Un personaje solo puede hacer 5 mejoras de atributos en total independientemente de que sean atributos diferentes.
 
-A PC may optionally choose to use their new skill points to improve their attribute scores.
+La tercera mejora se puede adquirir a partir del nivel 3, la cuarta a partir del nivel 6 y la quinta a partir del nivel 9.
 
-The first time a PC improves an attribute, it costs 1 skill point and adds +1 to an attribute of their choice.
-The second improvement to their attributes costs 2 skill points, the third 3, and so forth.
-Each improvement adds +1 to the attribute, potentially improving its modifier.
+#### Elige un Foco
 
-A PC can only ever make five such improvements total; not five per attribute.
+A niveles 2, 5, 7, y 10, un PJ puede añadir un nivel a un Foco que ya tenga o elegir el primer nivel de uno nuevo.
 
-PCs must be third level before buying their third boost, sixth level before buying their fourth boost, and ninth level before buying their fifth boost.
-No more than five attribute boosts can ever be purchased by a PC.
+Cuando se elige un Foco por primera vez, puede que también otorgue un nivel de habilidad.
+Durante la creación de personajes, esta habilidad extra se trata como si hubiera sido una opción de habilidad elegida como las demás.
+Si el Foco se elige como parte de un avance, otorga 3 puntos de habilidad para incrementarla.
 
-#### Choosing a new Focus
+Esto es suficiente para subir una habilidad nueva directamente a nivel-1 o subir una habilidad nivel-1 a nivel-2.
+No tengas en cuenta los límites de nivel para subir la habilidad de esta forma.
 
-Finally, the PC might be eligible to pick an additional level in a Focus.
+Si los puntos de habilidad recibidos no son suficientes para subir el nivel, se conservan para futuros avances.
+Si los puntos de habilidad recibidos son de una habilidad ya al nivel-4, el PJ puede usar esos 3 puntos en cualquier otra habilidad.
 
-At levels 2, 5, 7, and 10 a PC can add a level to an existing Focus or pick up the first level in a new Focus.
+#### Aprendiendo nuevos Conjuros y Artes
 
-If this is the first level they've taken in the Focus, they might be granted a skill as a free bonus pick, depending on the Focus' benefits.
+Personajes Mago capaces de lanzar conjuros aprenden nuevos conjuros cuando avanzan de nivel.
+Los Altos Magos y Invocadores No Parciales aprenden 2 nuevos conjuros de Alta Magia que puedan lanzar.
+Los otros personajes Mago aprenden 1 conjuro que puedan lanzar de Alta Magia o de su lista especialista de conjuros.
 
-During character creation, this bonus skill pick is treated like any other skill pick.
-If the Focus is taken as part of advancement, however, it instead counts as three skill points spent toward increasing the skill.
+Los Magos que usen artes también pueden elegir uno nuevo, dependiendo de su clase.
+Cada clase tiene una tabla que explica cuando se ganan nuevos artes.
 
-This is enough to raise a nonexistent skill to level-1, or boost a level-1 skill to level-2.
-They may do this even if they aren't high-enough level to normally qualify for a skill level that high.
+## Fabricar y Modificar Equipo
 
-If the skill points aren't quite enough to raise the skill to a new level, they remain as credit toward future advances.
-If applied to a skill that is already at level-4, the PC can spend the three skill points on any other skill of their choice.
+Un PC Experto or Experto Parcial que tenga mínimo la habilidad Fabricar-1 o tenga el Foco Artesano puede modificar equipo con chatarra antigua.
+Su conocimiento en fabricación no tiene porqué estar relacionado con el equipo que van a modificar.
+Los principios básicos del uso de chatarra antigua se comparten con todas las disciplinas.
 
-#### Learning New Spells and Arts
+### Fabricar Equipo
 
-Mage characters capable of spellcasting learn new spells when they advance a level.
-High Mages and Full Invokers learn two new High Magic spells they are capable of casting.
-All other spellcasting mages learn one spell they can cast, either from High Magic or their own specialist spells.
+Un artesano necesita algo que pueda fabricar el objeto en cuestión de forma razonable.
+Esto puede ser simplemente un cuchillo afilado o un laboratorio de alquímia.
+También necesitan las partes de lo que quieren fabricar.
+En una ciudad o sitio donde haya chatarra, las partes se pueden conseguir facilmente mientras que en un viaje por lo salvaje podría ser más complicado.
 
-Mages who use arts may also gain a new art pick, depending on their class.
-Each such class has a table that lists the schedule for gaining new arts.
+Fabricar el equipo lleva un mes para un vehículo del tamaño de una vagoneta y una semana para una arma, armadura o dispositivo complejo.
+Objetos muy simples se pueden construir más rápido a discreción del GM.
 
-## Crafting and Modifying Gear
+Los objetos que se fabriquen tienen 3 niveles de calidad.
 
-Any Expert or Partial Expert PC with at least Craft-1 skill, or any PC with the Artisan Focus, can modify equipment with ancient salvage.
+Los Apaños solo toman la mitad del tiempo y las partes cuestan una cuarta parte de su precio de mercado.
+Si dispones de chatarra, se puede construir sin coste pero con el tiempo habitual.
+Como se trata de un dispositivo improvisado, necesita Fabricar-0 para mantenerlo funcional, como se explica en las reglas de mantenimiento de modificadores.
+Si pasan 24 horas sin mantenimiento, dejarán de funcionar.
+Los apaños no se pueden modificar.
 
-Their crafting background does not need to precisely match the gear they're modifying; the basic principles of using ancient salvage are the same among all disciplines.
+Los dispositivos Normales cuestan lo mismo en partes que su coste de mercado y toman el tiempo normal para fabricarse.
+No se pueden construir con chatarra a menos que el GM decida que la chatarra es ideal para hacerlo.
+Objetos consumibles como antorchas deben ser fabricadas en esta calidad.
 
-### Crafting Gear
+Los dispositivos de Calidad Superior cuestan 10 veces su coste de mercado en partes y toman el doble de tiempo para fabricarse.
+Son la opción adecuada para instalar modificaciones porque el primer modificador no requiere mantenimiento.
+Las armas de Calidad Superior otorgan un +1 a impactar.
+Las armaduras de Calidad Superior tienen 1 punto menos de impedimenta (mínimo 1).
+Esta reducción de impedimenta no cambia los efectos de una armadura con respecto al Foco Magia Con Armadura.
 
-An artisan requires a workshop that could plausibly build the gear in question.
-This may be nothing more than a sharp knife for a simple device, or a full-fledged alchemy lab for others.
-They also require a plausible source of parts for the device.
-This is usually a given if in a city or other salvage-rich area, but it may not be practical in a wilderness.
+### Modificar Equipo
 
-Building gear takes a month for a wagon-sized vehicle or a week for a weapon, suit of armor, or other portable complex device.
-Very simple devices may be built faster at the GM's discretion.
+El equipo fabricado o comprado puede ser modificado por un artesano.
 
-Crafted gear is made at three levels of quality.
-Jury-rigged gear takes one-half the time to build and costs one-quarter the market cost in parts.
-If scrap salvage is available it can be built at no cost but normal build times.
-As an improvised device, it counts as a mod requiring Craft-0 to keep functional, as explained below in the mod maintenance rules.
-If it goes 24 hours without maintenance, it stops functioning.
-Jury-rigged devices cannot be further modded.
+Fabricar modificaciones require un mínimo de la habilidad Fabricar.
+Si no se dispone de la habilidad necesaria, no se podrá mantener ni instalar la modificación.
 
-Normal devices cost the same amount in parts as the market cost and take the normal amount of time to build.
-They cannot be built with salvaged parts unless the GM decides the salvage is perfectly suited for it.
-Consumable devices such as torches must be crafted as normal devices rather than jury-rigged or mastercrafted ones.
+Fabricar e instalar modificaciones tiene un coste en plata y, a veces, en componentes mágicos.
+Los componentes mágicos se componen de partes de monstruos raros, materiales esotéricos y exóticos que no se pueden comprar en un mercado habitual.
+Estos componentes deben ser adquiridos mediante la aventura o mediante un pago de un patrón.
+Los componentes mágicos son genéricos en el sentido que se pueden usar para cualquier modificador.
 
-Mastercrafted devices cost ten times as much in parts as the usual market cost and take twice as long to build.
-They are ideal platforms for an artisan's mods, however, and the first mod their creator installs in them requires no maintenance.
-Mastercrafted weapons grant a +1 to hit.
-Mastercrafted armor counts as 1 fewer point of encumbrance, down to a minimum of 1 point.
-This lightening does not affect the armor's suitability for a user of the Armored Magic Focus.
+Las fabricaciones y la instalaciones de modificadores toman 1 semana por nivel de habilidad que requieran.
+Por ejemplo, si el modificador requiere Fabricar-1, fabricarlo toma 1 semana y instalarlo otra.
+Si el artesano tiene un ayudante que disponga de Fabricar-0, reduce el tiempo a la mitad.
+Si no hacen nada salvo comer, dormir y trabajar, se reduce el tiempo a la mitad otra vez.
 
-### Modifying Gear
+### Mantenimiento de Modificadores
 
-Crafted or purchased gear can be modified by a skilled artisan.
+Los modificadores necesitan mantenimiento para seguir funcionando.
+Un artesano solo puede mantener un número limitado de modificadores y debe tener habilidad suficiente para hacerlo.
 
-Crafting mods also requires a minimum Fix skill.
-Without this skill level the tech cannot install the mod or maintain it afterwards.
+La cantidad máxima de modificadores que puede mantener es igual a la suma de sus modificadores de Inteligencia y Constitución y 3 veces su nivel de habilidad de Fabricar.
+Por ejemplo, un artesano con modificador de Inteligencia +1, Constitución -1 y Fabricar-1 podría mantener 3 modificadores a la vez.
 
-Crafting and installing mods has a cost in silver and sometimes in arcane salvage.
-The latter consists of rare monster parts, esoteric materials, and exotic components that cannot normally be bought on the open market, but must be acquired by adventuring or in payment from patrons.
-Arcane salvage is generic in nature; a given piece can be used in any mod that requires salvage.
+El mantenimiento sucede durante el tiempo libre y no requiere de componentes muy caros.
+Si el artesano trabaja 16 horas en los modificadores, puede doblar la cantidad que usualmente podría mantener.
 
-It takes one week per minimum skill level of the mod to build and install it.
-Thus, if the mod requires Craft-1 skill, it takes one week.
-If the artisan has an assistant with at least Craft-0 skill, this time is halved.
-If they do nothing but eat, sleep, and work, this time is further halved.
+Si un modificador deja de mantenerse durante 24 horas, deja de funcionar.
+Si no se mantiene durante una semana, el objeto al que está instalado deja de funcionar, es peligroso o no es efectivo.
+Para recuperar el mantenimiento de un modificador desatendido hace falta 1 hora.
 
-### Maintaining Mods
+### Ejemplos de Modificaciones
 
-Mods normally require maintenance to keep functioning correctly, and a given artisan can maintain only so many mods at once.
-An artisan can only maintain mods they have the requisite skill levels to build.
+Los modificadores que hay aquí solo son ejemplos de uso de la chatarra ancestral.
+Estos modificadores nunca están a la venta en mercados normales.
+Deberán ser encontrados durante la aventura o como recompensa.
 
-An artisan's maximum maintenance score is equal to the total of their Intelligence and Constitution modifiers plus three times their Craft skill level.
-Thus, a tech with a +1 Intelligence mod, a -1 Constitution mod and Craft-1 could maintain up to three mods at any one time.
+Múltiples modificaciones se pueden apilar pero no pueden bonificar la tirada de impacto, la CA o el daño por encima de +3.
+En el caso de que mejore una habilidad, solo puede hasta +1.
+Las armas y armaduras mágicas se pueden modificar pero no se pueden apilar beneficios superiores a los mencionados.
 
-Maintenance is assumed to take place during downtime and does not require any significantly expensive components.
-If an artisan does nothing but maintain mods, they can double their allowed number.
+Tormenta de Proyectiles (Fabricar-2): Un arco u otra arma de proyectiles genera automáticamente la munición (desaparece en una ronda tras dispararse).
+Este modificador no cambia el tiempo de recarga.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Such work assumes sixteen-hour workdays.
+Accesorio del Asesino (Fabricar-2): Una arma de una mano se modifica para cambiar su forma a una joya o adorno.
+Se puede convertir en la forma original o viceversa mediante una acción Rápida.
+Coste: 1 chatarra y 1000 piezas de plata.
 
-If a mod goes without maintenance for 24 hours, it stops working.
-If it goes without maintenance for a week, the item it's attached to stops working, becoming dangerous or ineffective to use.
-A maintenance backlog on an item can be cleared by an hour's work by an artisan capable of maintaining it.
+Equipo Aumentado (Fabricar-1): Una herramienta, kit de medicina o cualquier equipo se aumenta para un propósito expecífico.
+Las pruebas de habilidad realizadas para ese propósito reciben un +1 en la habilidad.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-### Example Modifica tions
+Recarga Automática (Fabricar-2): Un arcabuz se puede modificar para que se recargue a si mismo mientras haya munición.
+Una vez por escena, el arcabuz se puede recargar usando una Acción Rápida.n.
+Coste: 2 chatarra y 10000 piezas de plata.
 
-The mods listed here are merely some of the possibilities for using ancient salvage or large amounts of costly mundane materials.
-These mods are almost never available on the open market due to the rarity of usable salvage and the difficulty of maintaining the gear.
-Acquiring the salvage needed to make them usually means finding it as part of an adventure, receiving it in payment from a patron, or setting out on specific expeditions to find it.
+Personalizada (Fabricar-1): La arma o armadura se personaliza para un usuario concreto.
+Para ese usuario, otorga un +1 a impactar si es una arma o +1 a la Clase de Armadura si es una armadura.
+Los escudos no se pueden personalizar.
+Coste: 1000 piezas de plata.
 
-Multiple modifications can stack, but cannot increase a hit, AC, or damage bonus above +3, or a skill check bonus above +1.
-Magical and masterwork weapons and armor can be modified, but mods can't improve them above this cap.
+Cuchilla Voladora (Fabricar-1): Una arma arrojadiza se imbuye con materiales esotéricos, permitiéndole volver a la mano del lanzador.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Arrow Storm (Craft-2): A bow or other projectile weapon automatically generates its own ammunition, albeit the conjured projectiles vanish a round after firing.
-This mod does not increase reload speed.
+Aegis Harmonizado (Fabricar-3): Una armadura se altera para harmonizarse con los conjuros de un aliado.
+Si el portador y el aliado tienen 10 minutos para establecer la protección, el portador resulta afectado por los efectos dañinos de los hechizos del aliado.
+Coste: 1 chatarra y 10000 piezas de plata.
 
-Cost: One unit of salvage and 5,000 silver pieces.
+Largo Alcance (Fabricar-2): Una arma a distancia o arrojadiza se modifica para duplicar su rango normal y máximo.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Assassin's Trinket (Craft-2): A one-handed weapon is modified to adopt the shape of some item of jewelry or adornment.
-It can be shifted to or from this shape by the owner as an On Turn action.
-Cost:
-One unit of salvage and 1,000 silver pieces.
+Manifold Mail (Fabricar-2): Una armadura se modifica para permitir tener la apariencia de hasta 6 formas (otras armaduras o vestidos) mediante una Acción Rápida.
+La Impedimenta de la armadura no varía.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Augmented Gear (Craft-1): A tool, medical kit, or other item of equipment is improved for a specific purpose chosen at the time of augmentation.
-Skill checks made for that purpose gain a +1 skill bonus with the item.
-Cost: One unit of salvage and 5,000 silver pieces.
+Puntería Premonitoria (Fabricar-2): Componentes esotéricos mejoran una arma a distancia o arrojadiza añadiendo un +1 a sus tiradas de impactar.
+Coste: 4000 piezas de plata.
 
-Automatic Reload (Craft-2): A hurlant can be modified to reload itself, if ammunition is available.
-Once per scene, a man-portable hurlant can be reloaded as an On Turn action.
-Cost: Two units of salvage and 10,000 silver pieces.
+Preservación de la Gracia (Fabricar-1): Una ropa o armadura se modifica para preservar a su portador.
+Una vez por semana, cuando el portador sea Herido Mortalmente, se estabiliza automáticamente.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Customized (Craft-1): The weapon or suit of armor has been carefully tailored for a specific user.
-When used by them, they gain a +1 to hit with the weapon or +1 Armor Class with the armor.
-This mod doesn't work with shields.
-Cost: 1,000 silver pieces.
+Filo Afilado (Fabricar-2): Se afila una arma o se instala un sistema de pesos que añade +2 al daño y al Shock que produce.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Flying Razor (Craft-1): A throwing weapon is imbued with various esoteric materials, allowing it to return to the hand of its thrower after each attack.
-Cost: One unit of salvage and 5,000 silver pieces.
+Arnés (Fabricar-2): Una pieza de armadura se ajusta para un portador concreto disminuyendo su impedimenta en 1 cuando la lleva puesta.
+Esto solo disminuye el peso pero no se tiene en cuenta con las penalizaciones de pruebas de habilidad o el Foco Magia Con Armadura.
+Coste: 5000 piezas de plata.
 
-Harmonized Aegis (Craft-3): A suit of armor is altered to harmonize with the dangerous sorceries of allied casters.
-Provided the wearer and the caster have had ten minutes to coordinate the protection, the wearer is unharmed by the caster's harmful spells for the rest of the day, even if caught in their area of effect.
-Cost: One unit of salvage and 10,000 silver pieces.
+Hoja Sedienta (Fabricar-3): La arma se imbuye con el destino de provocar daño añadiendo +1 a las tiradas para impactar.
+Coste: 2 chatarra y 10000 piezas de plata.
 
-Long Arm (Craft-2): A ranged or thrown weapon is modified to double its normal and maximum ranges.
-Cost: One unit of salvage and 5,000 silver pieces.
+## Impedimenta
 
-Manifold Mail (Craft-2): A suit of armor is augmented to allow it to shift its appearance to any of five or six pre-set choices, mimicking normal clothing or other armor types as an On Turn action.
-The armor's Encumbrance or other statistics are not altered.
-Cost: One unit of salvage, 5,000 silver pieces.
+El equipo tiene un valor de Impedimenta.
+Cuanto más difícil de llevar o más voluminosos sea, el equipo tendrá un valor más alto de Impedimenta.
+El GM puede adjudicar en casos inciertos.
 
-Omened Aim (Craft-2): Occult components improve a ranged or thrown weapon's targeting, adding +1 to hit rolls.
-Cost: 4,000 silver pieces.
+| Equipo                                  | Impedimenta                                        |
+| --------------------------------------- | -------------------------------------------------- |
+| Cabe en un bolsillo pequeño             | 0 (Puede llevarse en cualquier cantidad razonable) |
+| Se puede llevar en una mano             | 1                                                  |
+| Requiere 2 manos para llevarse o usarse | 2                                                  |
+| Requiere todo el cuerpo para cargarlo   | 5+                                                 |
+| Arrastrar un compañero inconsciente     | 12                                                 |
 
-Preserving Grace (Craft-1): A suit of clothing or armor is specially altered to preserve the wearer.
-Once per week, when the wearer is Mortally Wounded, they will automatically stabilize.
-Cost: One unit of salvage and 5,000 silver pieces.
+El equipo puede estar Guardado o Preparado.
+El equipo Guardado está almacenado en bolsillos, bolsas y arneses.
+Así es más fácil llevarlo pero no se puede acceder rápidamente.
+Utilizar un equipo guardado requiere de una Acción Principal para sacarlo antes de usarlo.
+El equipo Preparado se lleva en las manos, cinturones o bolsillos de rápido acceso y puede usarse sin ninguna preparación.
 
-Razor Edge (Craft-2): A weapon has been given an improved edge or shifting weight system, adding +2 to the damage and Shock it does, albeit requiring far more care.
-Cost: One unit of salvage and 5,000 silver pieces.
+Un personaje puede llevar un total de objetos Guardados cuya impedimenta no supere su puntuación de Fuerza.
+También pueden llevar un total de objetos Preparados cuya impedimenta no supere la mitad (redondeando hacia abajo) de su puntuación de Fuerza.
+Por ejemplo, un PC con puntuación de Fuerza 11 puede llevar 11 puntos de Impedimenta de objetos Guardados y 5 de Preparados.
 
-Tailored Harness (Craft-2): A suit of armor is altered to perfectly fit a single wearer, decreasing its effective Encumbrance by 1 for them only.
-This does not affect skill check penalties or the Armored Magic Focus.
-Cost: 5,000 silver pieces.
+Los PJs pueden forzar estos límites cargando con incrementos de Impedimenta (hasta 2 equipos Preparados y 4 Guardados adicionales por cada incremento).
+Por el primer incremento, su movimiento se reduce un 33%.
+Por un segundo incremento, su movimiento se reduce un 66%.
+Más peso que esto no se puede llevar a distancias significativas.
 
-Thirsting Blade (Craft-3): A weapon is imbued with a fated inclination to harm, adding +1 to hit rolls.
-Cost: Two units of salvage and 10,000 silver pieces.
+### Equipo Empaquetado
 
-## Encumbrance
+Objetos pequeños y apilables como frascos de aceite, pociones, raciones y antorchas se pueden agrupar en paquetes.
 
-Gear has encumbrance, measured in points, as exampled in the table below.
-The more awkward or bulky the object, the greater the encumbrance.
-The GM adjudicates ambiguous objects.
+Cada 3 objetos se pueden empaquetar para que cuenten como solo 1 en Impedimenta.
+Desempaquetar los objetos toma una Acción Principal extra.
 
-| Gear                                    | Encumbrance                              |
-| --------------------------------------- | ---------------------------------------- |
-| Portable in a small pocket              | 0 (Any reasonable number can be carried) |
-| Portable in one hand                    | 1                                        |
-| Requires two hands to carry or use it   | 2                                        |
-| Requires a whole-body effort to haul it | 5+                                       |
-| Dragging an unconscious teammate        | 12                                       |
+### Impedimenta de Peso
 
-Gear is either Stowed or Readied.
-Stowed gear is packed away carefully in pockets, packs, and harnesses.
-It's easier to carry but harder to quickly access.
-Using Stowed gear requires that the bearer take a Main Action to pull it out before using it.
-Readied gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places.
-It can be used as part of an action without any further preparation.
+Algunos PJ necesitarán transportar bultos que se miden en libras.
+Cuando sea necesario convertir de peso a Impedimenta, asume que 50 libras equivale a 10 puntos de Impedimenta si se puede llevar en la espalda.
 
-A character can carry a total number of Stowed encumbrance points equal to their Strength score.
-They can carry a number of Readied points equal to half their Strength, rounded down.
-Thus, a PC with a Strength score of 11 could carry 11 points of Stowed gear and 5 points of Readied.
+En el caso de juzgar si un vehículo puede transportar un peso, se asume que puede mientras sea razonable.
 
-PCs can haul much heavier objects if necessary.
-If they push their limits for longer terms, they can carry an additional two Ready and four Stowed items.
-The first time they do this, their Move speed is cut by 30%, from 30 feet to 20 feet.
-The second time, it's cut by 50%, from 20 feet to 10 feet.
-More weight than this can't be practically hauled over significant distances.
+### Jugar sin Impedimenta
 
-### Bundled Gear
+No todos los grupos disfrutan de respetar la Impedimenta y las logísticas de las expediciones.
+En ese caso, el GM juzga lo que los PJs pueden llevar razonablemente.
 
-Small, regularly-shaped objects such as oil flasks, potion bottles, rations, and torches can be wrapped into bundles for easier portability.
+## Caídas y Otros Peligros
 
-Three such items can be tied into a bundle that only counts as one item of encumbrance.
-Breaking into this bundle takes an extra Main Action, however.
+Las aventuras no están libres de peligros.
+Algunos de ellos se detallan a continuación.
 
-### Bulk Weights
+Caer: La mayoría de criaturas reciben 1d6 de daño por cada 10 pies de caída, hasta 20d6.
+Estacas u otro terreno peligros añadirá 1d6 al total.
+Una criatura que sale intencionadamente de forma controlada puede hacer una prueba de Des or Fue/Atletismo con dificultad 7 + 1 por cada 10 pies de caída.
+Si la supera, el daño de caída se calcula con la mitad de la distancia.
 
-Sometimes the PCs need to transport bulk amounts of goods that are measured in pounds.
-When it's necessary to convert these weights into encumbrance points, a GM can just assume that fifty pounds is worth about ten points of encumbrance to a PC hauling a pack out on their back.
+Ahogamiento: Las criaturas pueden actuar o pelear sin aire una ronda por cada punto de Constitución.
+La mayoría de aguantan 10 rondas.
+Cuando se quedan sin aire, deben hacer salvaciones Físicas cada ronda o perder 1 punto de golpe por cada DG o nivel. have.
 
-When judging the ability of a vehicle to carry encumbrance points of cargo, it can be assumed that a wagon can carry as much as the PCs need it to carry, within reason.
+Venenos: Los venenos típicos de mazmorras requieren una tirada de salvación Física o perder la mitad de los puntos de golpe máximos.
 
-### Games Without Encumbrance
+Los venenos muy pontentes pueden matar a la víctima directamente.
+Los que mueren del veneno tienen 1d6 minutos de convalescencia aunque están desprotegidos mientras.
+Un antídoto aplicado durante este tiempo puede resucitar la víctima con 1 punto de golpe.
+Un curandero experto puede intentar contrarestar la toxina mediante una prueba de habilidad Int/Curar con una dificultad de 10 (mayoría) o 12 para las más peligrosas.
 
-Not all groups like to track encumbrance or deal with the logistics of an adventuring expedition.
-If the GM so elects, then PCs can carry and Ready whatever amount of gear the GM thinks is reasonable.
-In such cases the GM should check over character sheets before each adventure to make sure reason is not outraged.
+A parte de los puntos de golpe, el veneno también puede provocar efectos secundarios pasajeros como penalizadores a impactar, pruebas de habilidad o perder las acciones de movimiento.
+Algunos también pueden añadir Estrés Corporal a la víctima.
 
-## Falling and Other Hazards
+Una víctima que supere el máximo de Estrés Corporal se desmayará y morirá en 10 minutos si no se neutraliza el veneno.
 
-Some perils occur with some regularity for adventurers.
-A few of the most common are detailed here.
+## Viajes
 
-Falling: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum.
-Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total.
-A creature that intentionally leaps or skids down in a controlled way may make a Dex or Str/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+Los Pjs pueden viajar durante 10 horas en la mayoría de casos.
+El resto de tiempo duermen, acampan y realizan actividades de mantenimiento.
 
-Suffocation: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs.
-If they don't move, they can quadruple this time.
-Once they run out of air, they must make a Physical save each round or take 1 hit point of damage per HD or level they have.
+Por cada hora de viaje pueden moverse tantas millas como las que indica la tabla siguiente.
+Este viaje asume que los PJs están moviéndose directamente a su destino y no toman ningún tiempo para explorar el área o los puntos de interés.
 
-Poisons: Typical dungeon poisons found crusted on needle traps force a Physical save or a loss of half the victim's maximum hit points.
+La velocidad de viaje asume que los PJs van a pie o en carruajes.
+Los caballos pueden usarse para incrementar la velocidad temporalmente como en las huídas pero no incrementen la velocidad del viaje a gran escala.
 
-Very potent ones might kill a victim outright.
-Those who die due to poison damage usually take at least 1d6 minutes to actually expire, but are helpless in the meanwhile.
-An antidote applied during this time can revive them with 1 hit point.
-A skilled healer can try to counteract the toxin with an Int/Heal skill check at a difficult of at least 10 for most poisons, or 12 or more for truly fearsome ones.
+Por cada día de viaje y cada noche de acampada, el GM tira un dado para hacer un chequeo de encuentro errante.
+El dado que se usa depende del terreno.
+Cuanto más pacífica sea la zona, mayor será el dado.
+Si sale un 1, los PJs se encuentran una situación que requiere atención.
 
-Aside from any hit point damage a poison does, many also have lingering side effects, such as penalties to hit rolls or skill checks, or the loss of Move actions for a certain period of time.
-Some also add System Strain to the victim due to the stress they put on their bodies.
+Excepto cuando no sucede una emboscada en una zona oscura, los grupos se detectan a la máxima distancia visible.
+Se puede usar una prueba opuesta de Sab/Descubrir para decidir quién ve al otro primero.
+El grupo que detecte primero suele tener la posibilidad de evitar el encuentro.
 
-A victim forced above their maximum System Strain will collapse and die in minutes if the poison is not neutralized.
+Los PJs que viajen en una caravana bien abastecida no necesitan preocuparse por comida, bebida y cobijo pero los PJs que planean en hacer viajes solos deben consultar las reglas de viajes.
 
-## Overland Travel
+### Viaje Naval
 
-PCs can generally travel for ten hours a day in most seasons, the rest being absorbed in rest, camp construction, and incidental activities.
+Un barco con velas puede navegar 6 millas por hora mientras evita las costas y otros peligros.
+Una galera con remos puede ir a la misma velocidad pero sin depender del viento pero debe tener en cuenta que la tripulación suele remar unas 8 horas al día.
 
-For each hour of travel they can cross as many miles of a given terrain as listed in the table.
-This travel presumes that the PCs are moving directly toward their destination and not taking any particular time to scout the area for points of interest or investigate their surroundings.
+Encuentros en el mar son muy raros pero potencialmente letales.
+El GM tira por día y noche 1d10 o 1d12.
+Si sale un 1, algunas criaturas han topado con el barco, un viento o una tormenta acecha, algo se ha roto en el barco o se complica el viaje.
 
-This rate of travel also assumes average walking or wagon speeds;
-horses can be used by their riders for quick bursts of speed to chase or avoid others, but don't increase the average travel rate much.
+Algunos encuentros se pueden vencer con un buen plan y una prueba de habilidad Surcar mientras que otros requieren respuestas más sangrientas.
 
-For every day of travel and every night of camping outdoors, the GM rolls one die for a wandering encounter check.
-The die used will depend on the terrain, with safer or more peaceful lands using a larger die size.
-On a 1, the PCs come upon creatures or a situation that requires their attention.
+| Tipo de Terreno                       | Millas por Hora |
+| ------------------------------------- | --------------- |
+| Llanuras o Savanas                    | 3               |
+| Bosque despejado o desierto           | 2               |
+| Bosque denso o Sierras                | 1.5             |
+| Pantano o Marismas                    | 1               |
+| Montañas o Tierras Baldías            | 0.5             |
+| Hay un camino en el terreno           | x2\*            |
+| Mal tiempo, lluvia torrencial o barro | x0.5            |
+| Nieve profunda                        | x0.1            |
 
-Assuming it's not an ambush or a sudden encounter in an obscured area, the groups usually encounter each other at maximum sight range.
-An opposed Wis/Notice check can be used to determine who spots who first; PCs who get the edge can usually avoid the other group automatically if they have sufficient cover.
-
-PCs traveling with a caravan or riding a well-stocked travel wagon need not concern themselves with details of food, drink, and shelter, but PCs who plan on making an overland expedition without these ready comforts should consult the rules for overland exploration for details on the supplies and difficulties involved.
-
-### Sea Travel
-
-A ship can usually manage about six miles an hour of travel when under sail, and can sail around the clock if far from coasts and other perils.
-Oar-powered galleys average the same speed, but are heedless of the winds.
-An ordinary crew can only row for eight hours a day, however.
-
-Encounters at sea are rarer but potentially more hazardous; the GM should roll daily and nightly checks on 1d10 or 1d12.
-On a 1, some creature has come across the ship, a troublesome wind or storm has sprung up, something has been damaged on the ship or gone awry with the crew, or otherwise complicated the vessel's journey.
-
-Some such encounters can be overcome with a good plan and a decent Sail skill check, while others may require bloodier answers.
-
-| Terrain Type                        | Miles per Hour |
-| ----------------------------------- | -------------- |
-| Plains or savannas                  | 3              |
-| Light forest or desert              | 2              |
-| Dense forest or rugged hills        | 1.5            |
-| Swamp or marsh                      | 1              |
-| Mountains or dire wastelands        | 0.5            |
-| There is a road through the terrain | x2\*           |
-| Foul weather, mud, or heavy rain    | x0.5           |
-| Deep snow on the ground             | x0.1           |
-
-\* Good roads cannot increase the party's marching speed above three miles per hour.
+\* Los caminos no pueden incrementar la velocidad a más de 3 millas por hora.

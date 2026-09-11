@@ -637,259 +637,259 @@ No tengas en cuenta los límites de nivel para subir la habilidad de esta forma.
 Si los puntos de habilidad recibidos no son suficientes para subir el nivel, se conservan para futuros avances.
 Si los puntos de habilidad recibidos son de una habilidad ya al nivel-4, el PJ puede usar esos 3 puntos en cualquier otra habilidad.
 
-#### Learning New Spells y Arts
+#### Aprendiendo nuevos Conjuros y Artes
 
-Mage characters capable of spellcasting learn new spells when they advance a level.
-High Mages y Full Invokers learn two new High Magic spells they are capable of casting.
-All other spellcasting mages learn one spell they can cast, either from High Magic or their own specialist spells.
+Personajes Mago capaces de lanzar conjuros aprenden nuevos conjuros cuando avanzan de nivel.
+Los Altos Magos y Invocadores No Parciales aprenden 2 nuevos conjuros de Alta Magia que puedan lanzar.
+Los otros personajes Mago aprenden 1 conjuro que puedan lanzar de Alta Magia o de su lista especialista de conjuros.
 
-Mages who use arts may also gain a new art pick, depending on their class.
-Each such class has a table that lists the schedule for gaining new arts.
+Los Magos que usen artes también pueden elegir uno nuevo, dependiendo de su clase.
+Cada clase tiene una tabla que explica cuando se ganan nuevos artes.
 
-## Crafting y Modifying Gear
+## Fabricar y Modificar Equipo
 
-Any Expert or Parciales Expert PC with at least Craft-1 habilidad, or any PC with the Artisan Foco, can modify equipment with ancient salvage.
+Un PC Experto or Experto Parcial que tenga mínimo la habilidad Fabricar-1 o tenga el Foco Artesano puede modificar equipo con chatarra antigua.
+Su conocimiento en fabricación no tiene porqué estar relacionado con el equipo que van a modificar.
+Los principios básicos del uso de chatarra antigua se comparten con todas las disciplinas.
 
-Their crafting background does not need to precisely match the gear they're modifying; the basic principles of using ancient salvage are the same among all disciplines.
+### Fabricar Equipo
 
-### Crafting Gear
+Un artesano necesita algo que pueda fabricar el objeto en cuestión de forma razonable.
+Esto puede ser simplemente un cuchillo afilado o un laboratorio de alquímia.
+También necesitan las partes de lo que quieren fabricar.
+En una ciudad o sitio donde haya chatarra, las partes se pueden conseguir facilmente mientras que en un viaje por lo salvaje podría ser más complicado.
 
-An artisan requires a workshop that could plausibly build the gear in question.
-This may be nothing more than a sharp knife for a simple device, or a full-fledged alchemy lab for others.
-They also require a plausible source of parts for the device.
-This is usually a given if in a city or other salvage-rich area, but it may not be practical in a wilderness.
+Fabricar el equipo lleva un mes para un vehículo del tamaño de una vagoneta y una semana para una arma, armadura o dispositivo complejo.
+Objetos muy simples se pueden construir más rápido a discreción del GM.
 
-Building gear takes a month for a wagon-sized vehicle or a week for a weapon, suit of armor, or other portable complex device.
-Very simple devices may be built faster at the GM's discretion.
+Los objetos que se fabriquen tienen 3 niveles de calidad.
 
-Crafted gear is made at three levels of quality.
-Jury-rigged gear takes one-half the time to build y costs one-quarter the market cost in parts.
-If scrap salvage is available it can be built at no cost but normal build times.
-As an improvised device, it counts as a mod requiring Craft-0 to keep functional, as explained below in the mod maintenance rules.
-If it goes 24 hours without maintenance, it stops functioning.
-Jury-rigged devices cannot be further modded.
+Los Apaños solo toman la mitad del tiempo y las partes cuestan una cuarta parte de su precio de mercado.
+Si dispones de chatarra, se puede construir sin coste pero con el tiempo habitual.
+Como se trata de un dispositivo improvisado, necesita Fabricar-0 para mantenerlo funcional, como se explica en las reglas de mantenimiento de modificadores.
+Si pasan 24 horas sin mantenimiento, dejarán de funcionar.
+Los apaños no se pueden modificar.
 
-Normal devices cost the same amount in parts as the market cost y take the normal amount of time to build.
-They cannot be built with salvaged parts unless the GM decides the salvage is perfectly suited for it.
-Consumable devices such as torches must be crafted as normal devices rather than jury-rigged or mastercrafted ones.
+Los dispositivos Normales cuestan lo mismo en partes que su coste de mercado y toman el tiempo normal para fabricarse.
+No se pueden construir con chatarra a menos que el GM decida que la chatarra es ideal para hacerlo.
+Objetos consumibles como antorchas deben ser fabricadas en esta calidad.
 
-Mastercrafted devices cost ten times as much in parts as the usual market cost y take twice as long to build.
-They are ideal platforms for an artisan's mods, however, y the first mod their creator installs in them requires no maintenance.
-Mastercrafted weapons grant a +1 to hit.
-Mastercrafted armor counts as 1 fewer point of impedimenta, down to a minimum of 1 point.
-This lightening does not affect the armor's suitability for a user of the Armored Magic Foco.
+Los dispositivos de Calidad Superior cuestan 10 veces su coste de mercado en partes y toman el doble de tiempo para fabricarse.
+Son la opción adecuada para instalar modificaciones porque el primer modificador no requiere mantenimiento.
+Las armas de Calidad Superior otorgan un +1 a impactar.
+Las armaduras de Calidad Superior tienen 1 punto menos de impedimenta (mínimo 1).
+Esta reducción de impedimenta no cambia los efectos de una armadura con respecto al Foco Magia Con Armadura.
 
-### Modifying Gear
+### Modificar Equipo
 
-Crafted or purchased gear can be modified by a skilled artisan.
+El equipo fabricado o comprado puede ser modificado por un artesano.
 
-Crafting mods also requires a minimum Fix habilidad.
-Without this habilidad level the tech cannot install the mod or maintain it afterwards.
+Fabricar modificaciones require un mínimo de la habilidad Fabricar.
+Si no se dispone de la habilidad necesaria, no se podrá mantener ni instalar la modificación.
 
-Crafting y installing mods has a cost in silver y sometimes in arcane salvage.
-The latter consists of rare monster parts, esoteric materials, y exotic components that cannot normally be bought on the open market, but must be acquired by adventuring or in payment from patrons.
-Arcane salvage is generic in nature; a given piece can be used in any mod that requires salvage.
+Fabricar e instalar modificaciones tiene un coste en plata y, a veces, en componentes mágicos.
+Los componentes mágicos se componen de partes de monstruos raros, materiales esotéricos y exóticos que no se pueden comprar en un mercado habitual.
+Estos componentes deben ser adquiridos mediante la aventura o mediante un pago de un patrón.
+Los componentes mágicos son genéricos en el sentido que se pueden usar para cualquier modificador.
 
-It takes one week per minimum habilidad level of the mod to build y install it.
-Thus, if the mod requires Craft-1 habilidad, it takes one week.
-If the artisan has an assistant with at least Craft-0 habilidad, this time is halved.
-If they do nothing but eat, sleep, y work, this time is further halved.
+Las fabricaciones y la instalaciones de modificadores toman 1 semana por nivel de habilidad que requieran.
+Por ejemplo, si el modificador requiere Fabricar-1, fabricarlo toma 1 semana y instalarlo otra.
+Si el artesano tiene un ayudante que disponga de Fabricar-0, reduce el tiempo a la mitad.
+Si no hacen nada salvo comer, dormir y trabajar, se reduce el tiempo a la mitad otra vez.
 
-### Maintaining Mods
+### Mantenimiento de Modificadores
 
-Mods normally require maintenance to keep functioning correctly, y a given artisan can maintain only so many mods at once.
-An artisan can only maintain mods they have the requisite habilidad levels to build.
+Los modificadores necesitan mantenimiento para seguir funcionando.
+Un artesano solo puede mantener un número limitado de modificadores y debe tener habilidad suficiente para hacerlo.
 
-An artisan's maximum maintenance score is equal to the total of their Inteligencia y Constitución modifiers plus three times their Craft habilidad level.
-Thus, a tech with a +1 Inteligencia mod, a -1 Constitución mod y Craft-1 could maintain up to three mods at any one time.
+La cantidad máxima de modificadores que puede mantener es igual a la suma de sus modificadores de Inteligencia y Constitución y 3 veces su nivel de habilidad de Fabricar.
+Por ejemplo, un artesano con modificador de Inteligencia +1, Constitución -1 y Fabricar-1 podría mantener 3 modificadores a la vez.
 
-Maintenance is assumed to take place during downtime y does not require any significantly expensive components.
-If an artisan does nothing but maintain mods, they can double their allowed number.
+El mantenimiento sucede durante el tiempo libre y no requiere de componentes muy caros.
+Si el artesano trabaja 16 horas en los modificadores, puede doblar la cantidad que usualmente podría mantener.
 
-Such work assumes sixteen-hour workdays.
+Si un modificador deja de mantenerse durante 24 horas, deja de funcionar.
+Si no se mantiene durante una semana, el objeto al que está instalado deja de funcionar, es peligroso o no es efectivo.
+Para recuperar el mantenimiento de un modificador desatendido hace falta 1 hora.
 
-If a mod goes without maintenance for 24 hours, it stops working.
-If it goes without maintenance for a week, the item it's attached to stops working, becoming dangerous or ineffective to use.
-A maintenance backlog on an item can be cleared by an hour's work by an artisan capable of maintaining it.
+### Ejemplos de Modificaciones
 
-### Example Modifica tions
+Los modificadores que hay aquí solo son ejemplos de uso de la chatarra ancestral.
+Estos modificadores nunca están a la venta en mercados normales.
+Deberán ser encontrados durante la aventura o como recompensa.
 
-The mods listed here are merely some of the possibilities for using ancient salvage or large amounts of costly mundane materials.
-These mods are almost never available on the open market due to the rarity of usable salvage y the difficulty of maintaining the gear.
-Acquiring the salvage needed to make them usually means finding it as part of an adventure, receiving it in payment from a patron, or setting out on specific expeditions to find it.
+Múltiples modificaciones se pueden apilar pero no pueden bonificar la tirada de impacto, la CA o el daño por encima de +3.
+En el caso de que mejore una habilidad, solo puede hasta +1.
+Las armas y armaduras mágicas se pueden modificar pero no se pueden apilar beneficios superiores a los mencionados.
 
-Multiple modifications can stack, but cannot increase a hit, AC, or damage bonus above +3, or a prueba de habilidad bonus above +1.
-Magical y masterwork weapons y armor can be modified, but mods can't improve them above this cap.
+Tormenta de Proyectiles (Fabricar-2): Un arco u otra arma de proyectiles genera automáticamente la munición (desaparece en una ronda tras dispararse).
+Este modificador no cambia el tiempo de recarga.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Arrow Storm (Craft-2): A bow or other projectile weapon automatically generates its own ammunition, albeit the conjured projectiles vanish a ronda after firing.
-This mod does not increase reload speed.
+Accesorio del Asesino (Fabricar-2): Una arma de una mano se modifica para cambiar su forma a una joya o adorno.
+Se puede convertir en la forma original o viceversa mediante una acción Rápida.
+Coste: 1 chatarra y 1000 piezas de plata.
 
-Cost: One unit of salvage y 5,000 silver pieces.
+Equipo Aumentado (Fabricar-1): Una herramienta, kit de medicina o cualquier equipo se aumenta para un propósito expecífico.
+Las pruebas de habilidad realizadas para ese propósito reciben un +1 en la habilidad.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Assassin's Trinket (Craft-2): A one-handed weapon is modified to adopt the shape of some item of jewelry or adornment.
-It can be shifted to or from this shape by the owner as an Rápida action.
-Cost:
-One unit of salvage y 1,000 silver pieces.
+Recarga Automática (Fabricar-2): Un arcabuz se puede modificar para que se recargue a si mismo mientras haya munición.
+Una vez por escena, el arcabuz se puede recargar usando una Acción Rápida.n.
+Coste: 2 chatarra y 10000 piezas de plata.
 
-Augmented Gear (Craft-1): A tool, medical kit, or other item of equipment is improved for a specific purpose chosen at the time of augmentation.
-pruebas de habilidad made for that purpose gain a +1 habilidad bonus with the item.
-Cost: One unit of salvage y 5,000 silver pieces.
+Personalizada (Fabricar-1): La arma o armadura se personaliza para un usuario concreto.
+Para ese usuario, otorga un +1 a impactar si es una arma o +1 a la Clase de Armadura si es una armadura.
+Los escudos no se pueden personalizar.
+Coste: 1000 piezas de plata.
 
-Automatic Reload (Craft-2): A hurlant can be modified to reload itself, if ammunition is available.
-Once per escena, a man-portable hurlant can be reloaded as an Rápida action.
-Cost: Two units of salvage y 10,000 silver pieces.
+Cuchilla Voladora (Fabricar-1): Una arma arrojadiza se imbuye con materiales esotéricos, permitiéndole volver a la mano del lanzador.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Customized (Craft-1): The weapon or suit of armor has been carefully tailored for a specific user.
-When used by them, they gain a +1 to hit with the weapon or +1 Armor Class with the armor.
-This mod doesn't work with shields.
-Cost: 1,000 silver pieces.
+Aegis Harmonizado (Fabricar-3): Una armadura se altera para harmonizarse con los conjuros de un aliado.
+Si el portador y el aliado tienen 10 minutos para establecer la protección, el portador resulta afectado por los efectos dañinos de los hechizos del aliado.
+Coste: 1 chatarra y 10000 piezas de plata.
 
-Flying Razor (Craft-1): A throwing weapon is imbued with various esoteric materials, allowing it to return to the hand of its thrower after each attack.
-Cost: One unit of salvage y 5,000 silver pieces.
+Largo Alcance (Fabricar-2): Una arma a distancia o arrojadiza se modifica para duplicar su rango normal y máximo.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Harmonized Aegis (Craft-3): A suit of armor is altered to harmonize with the dangerous sorceries of allied casters.
-Provided the wearer y the caster have had ten minutes to coordinate the protection, the wearer is unharmed by the caster's harmful spells for the rest of the day, even if caught in their area of effect.
-Cost: One unit of salvage y 10,000 silver pieces.
+Manifold Mail (Fabricar-2): Una armadura se modifica para permitir tener la apariencia de hasta 6 formas (otras armaduras o vestidos) mediante una Acción Rápida.
+La Impedimenta de la armadura no varía.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Long Arm (Craft-2): A ranged or thrown weapon is modified to double its normal y maximum ranges.
-Cost: One unit of salvage y 5,000 silver pieces.
+Puntería Premonitoria (Fabricar-2): Componentes esotéricos mejoran una arma a distancia o arrojadiza añadiendo un +1 a sus tiradas de impactar.
+Coste: 4000 piezas de plata.
 
-Manifold Mail (Craft-2): A suit of armor is augmented to allow it to shift its appearance to any of five or six pre-set choices, mimicking normal clothing or other armor types as an Rápida action.
-The armor's Impedimenta or other statistics are not altered.
-Cost: One unit of salvage, 5,000 silver pieces.
+Preservación de la Gracia (Fabricar-1): Una ropa o armadura se modifica para preservar a su portador.
+Una vez por semana, cuando el portador sea Herido Mortalmente, se estabiliza automáticamente.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Omened Aim (Craft-2): Occult components improve a ranged or thrown weapon's targeting, adding +1 to hit rolls.
-Cost: 4,000 silver pieces.
+Filo Afilado (Fabricar-2): Se afila una arma o se instala un sistema de pesos que añade +2 al daño y al Shock que produce.
+Coste: 1 chatarra y 5000 piezas de plata.
 
-Preserving Grace (Craft-1): A suit of clothing or armor is specially altered to preserve the wearer.
-Once per week, when the wearer is Herido Mortalmente, they will automatically stabilize.
-Cost: One unit of salvage y 5,000 silver pieces.
+Arnés (Fabricar-2): Una pieza de armadura se ajusta para un portador concreto disminuyendo su impedimenta en 1 cuando la lleva puesta.
+Esto solo disminuye el peso pero no se tiene en cuenta con las penalizaciones de pruebas de habilidad o el Foco Magia Con Armadura.
+Coste: 5000 piezas de plata.
 
-Razor Edge (Craft-2): A weapon has been given an improved edge or shifting weight system, adding +2 to the damage y Shock it does, albeit requiring far more care.
-Cost: One unit of salvage y 5,000 silver pieces.
-
-Tailored Harness (Craft-2): A suit of armor is altered to perfectly fit a single wearer, decreasing its effective Impedimenta by 1 for them only.
-This does not affect prueba de habilidad penalties or the Armored Magic Foco.
-Cost: 5,000 silver pieces.
-
-Thirsting Blade (Craft-3): A weapon is imbued with a fated inclination to harm, adding +1 to hit rolls.
-Cost: Two units of salvage y 10,000 silver pieces.
+Hoja Sedienta (Fabricar-3): La arma se imbuye con el destino de provocar daño añadiendo +1 a las tiradas para impactar.
+Coste: 2 chatarra y 10000 piezas de plata.
 
 ## Impedimenta
 
-Gear has impedimenta, measured in points, as exampled in the table below.
-The more awkward or bulky the object, the greater the impedimenta.
-The GM adjudicates ambiguous objects.
+El equipo tiene un valor de Impedimenta.
+Cuanto más difícil de llevar o más voluminosos sea, el equipo tendrá un valor más alto de Impedimenta.
+El GM puede adjudicar en casos inciertos.
 
-| Gear                                    | Impedimenta                              |
-| --------------------------------------- | ---------------------------------------- |
-| Portable in a small pocket              | 0 (Any reasonable number can be carried) |
-| Portable in one hand                    | 1                                        |
-| Requires two hands to carry or use it   | 2                                        |
-| Requires a whole-body effort to haul it | 5+                                       |
-| Dragging an unconscious teammate        | 12                                       |
+| Equipo                                  | Impedimenta                                        |
+| --------------------------------------- | -------------------------------------------------- |
+| Cabe en un bolsillo pequeño             | 0 (Puede llevarse en cualquier cantidad razonable) |
+| Se puede llevar en una mano             | 1                                                  |
+| Requiere 2 manos para llevarse o usarse | 2                                                  |
+| Requiere todo el cuerpo para cargarlo   | 5+                                                 |
+| Arrastrar un compañero inconsciente     | 12                                                 |
 
-Gear is either Stowed or Readied.
-Stowed gear is packed away carefully in pockets, packs, y harnesses.
-It's easier to carry but harder to quickly access.
-Using Stowed gear requires that the bearer take a Acción Principal to pull it out before using it.
-Readied gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places.
-It can be used as part of an action without any further preparation.
+El equipo puede estar Guardado o Preparado.
+El equipo Guardado está almacenado en bolsillos, bolsas y arneses.
+Así es más fácil llevarlo pero no se puede acceder rápidamente.
+Utilizar un equipo guardado requiere de una Acción Principal para sacarlo antes de usarlo.
+El equipo Preparado se lleva en las manos, cinturones o bolsillos de rápido acceso y puede usarse sin ninguna preparación.
 
-A personaje can carry a total number of Stowed impedimenta points equal to their Fuerza score.
-They can carry a number of Readied points equal to half their Fuerza, rounded down.
-Thus, a PC with a Fuerza score of 11 could carry 11 points of Stowed gear y 5 points of Readied.
+Un personaje puede llevar un total de objetos Guardados cuya impedimenta no supere su puntuación de Fuerza.
+También pueden llevar un total de objetos Preparados cuya impedimenta no supere la mitad (redondeando hacia abajo) de su puntuación de Fuerza.
+Por ejemplo, un PC con puntuación de Fuerza 11 puede llevar 11 puntos de Impedimenta de objetos Guardados y 5 de Preparados.
 
-PJs can haul much heavier objects if necessary.
-If they push their limits for longer terms, they can carry an additional two Ready y four Stowed items.
-The first time they do this, their Move speed is cut by 30%, from 30 feet to 20 feet.
-The second time, it's cut by 50%, from 20 feet to 10 feet.
-More weight than this can't be practically hauled over significant distances.
+Los PJs pueden forzar estos límites cargando con incrementos de Impedimenta (hasta 2 equipos Preparados y 4 Guardados adicionales por cada incremento).
+Por el primer incremento, su movimiento se reduce un 33%.
+Por un segundo incremento, su movimiento se reduce un 66%.
+Más peso que esto no se puede llevar a distancias significativas.
 
-### Bundled Gear
+### Equipo Empaquetado
 
-Small, regularly-shaped objects such as oil flasks, potion bottles, rations, y torches can be wrapped into bundles for easier portability.
+Objetos pequeños y apilables como frascos de aceite, pociones, raciones y antorchas se pueden agrupar en paquetes.
 
-Three such items can be tied into a bundle that only counts as one item of impedimenta.
-Breaking into this bundle takes an extra Acción Principal, however.
+Cada 3 objetos se pueden empaquetar para que cuenten como solo 1 en Impedimenta.
+Desempaquetar los objetos toma una Acción Principal extra.
 
-### Bulk Weights
+### Impedimenta de Peso
 
-Sometimes the PJs need to transport bulk amounts of goods that are measured in pounds.
-When it's necessary to convert these weights into impedimenta points, a GM can just assume that fifty pounds is worth about ten points of impedimenta to a PC hauling a pack out on their back.
+Algunos PJ necesitarán transportar bultos que se miden en libras.
+Cuando sea necesario convertir de peso a Impedimenta, asume que 50 libras equivale a 10 puntos de Impedimenta si se puede llevar en la espalda.
 
-When judging the ability of a vehicle to carry impedimenta points of cargo, it can be assumed that a wagon can carry as much as the PJs need it to carry, within reason.
+En el caso de juzgar si un vehículo puede transportar un peso, se asume que puede mientras sea razonable.
 
-### Games Without Impedimenta
+### Jugar sin Impedimenta
 
-Not all groups like to track impedimenta or deal with the logistics of an adventuring expedition.
-If the GM so elects, then PJs can carry y Ready whatever amount of gear the GM thinks is reasonable.
-In such cases the GM should check over personaje sheets before each adventure to make sure reason is not outraged.
+No todos los grupos disfrutan de respetar la Impedimenta y las logísticas de las expediciones.
+En ese caso, el GM juzga lo que los PJs pueden llevar razonablemente.
 
-## Falling y Other Hazards
+## Caídas y Otros Peligros
 
-Some perils occur with some regularity for adventurers.
-A few of the most common are detailed here.
+Las aventuras no están libres de peligros.
+Algunos de ellos se detallan a continuación.
 
-Falling: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum.
-Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total.
-A creature that intentionally leaps or skids down in a controlled way may make a Des or Fue/Atletismo prueba de habilidad at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+Caer: La mayoría de criaturas reciben 1d6 de daño por cada 10 pies de caída, hasta 20d6.
+Estacas u otro terreno peligros añadirá 1d6 al total.
+Una criatura que sale intencionadamente de forma controlada puede hacer una prueba de Des or Fue/Atletismo con dificultad 7 + 1 por cada 10 pies de caída.
+Si la supera, el daño de caída se calcula con la mitad de la distancia.
 
-Suffocation: Creatures can fight or act normally without air for one ronda per point of Constitución, or 10 rondas for most PNJs.
-If they don't move, they can quadruple this time.
-Once they run out of air, they must make a Física save each ronda or take 1 hit point of damage per HD or level they have.
+Ahogamiento: Las criaturas pueden actuar o pelear sin aire una ronda por cada punto de Constitución.
+La mayoría de aguantan 10 rondas.
+Cuando se quedan sin aire, deben hacer salvaciones Físicas cada ronda o perder 1 punto de golpe por cada DG o nivel. have.
 
-Venenos: Typical dungeon poisons found crusted on needle traps force a Física save or a loss of half the victim's maximum hit points.
+Venenos: Los venenos típicos de mazmorras requieren una tirada de salvación Física o perder la mitad de los puntos de golpe máximos.
 
-Very potent ones might kill a victim outright.
-Those who die due to poison damage usually take at least 1d6 minutes to actually expire, but are helpless in the meanwhile.
-An antidote applied during this time can revive them with 1 hit point.
-A skilled healer can try to counteract the toxin with an Int/Curar prueba de habilidad at a difficult of at least 10 for most poisons, or 12 or more for truly fearsome ones.
+Los venenos muy pontentes pueden matar a la víctima directamente.
+Los que mueren del veneno tienen 1d6 minutos de convalescencia aunque están desprotegidos mientras.
+Un antídoto aplicado durante este tiempo puede resucitar la víctima con 1 punto de golpe.
+Un curandero experto puede intentar contrarestar la toxina mediante una prueba de habilidad Int/Curar con una dificultad de 10 (mayoría) o 12 para las más peligrosas.
 
-Aside from any hit point damage a poison does, many also have lingering side effects, such as penalties to hit rolls or pruebas de habilidad, or the loss of Move acciones for a certain period of time.
-Some also add Estrés Corporal to the victim due to the stress they put on their bodies.
+A parte de los puntos de golpe, el veneno también puede provocar efectos secundarios pasajeros como penalizadores a impactar, pruebas de habilidad o perder las acciones de movimiento.
+Algunos también pueden añadir Estrés Corporal a la víctima.
 
-A victim forced above their maximum Estrés Corporal will collapse y die in minutes if the poison is not neutralized.
+Una víctima que supere el máximo de Estrés Corporal se desmayará y morirá en 10 minutos si no se neutraliza el veneno.
 
-## Overland Travel
+## Viajes
 
-PJs can generally travel for ten hours a day in most seasons, the rest being absorbed in rest, camp construction, y incidental activities.
+Los Pjs pueden viajar durante 10 horas en la mayoría de casos.
+El resto de tiempo duermen, acampan y realizan actividades de mantenimiento.
 
-For each hour of travel they can cross as many miles of a given terrain as listed in the table.
-This travel presumes that the PJs are moving directly toward their destination y not taking any particular time to scout the area for points of interest or investigate their surroundings.
+Por cada hora de viaje pueden moverse tantas millas como las que indica la tabla siguiente.
+Este viaje asume que los PJs están moviéndose directamente a su destino y no toman ningún tiempo para explorar el área o los puntos de interés.
 
-This rate of travel also assumes average walking or wagon speeds;
-horses can be used by their riders for quick bursts of speed to chase or avoid others, but don't increase the average travel rate much.
+La velocidad de viaje asume que los PJs van a pie o en carruajes.
+Los caballos pueden usarse para incrementar la velocidad temporalmente como en las huídas pero no incrementen la velocidad del viaje a gran escala.
 
-For every day of travel y every night of camping outdoors, the GM rolls one die for a wandering encounter check.
-The die used will depend on the terrain, with safer or more peaceful lands using a larger die size.
-On a 1, the PJs come upon creatures or a situation that requires their attention.
+Por cada día de viaje y cada noche de acampada, el GM tira un dado para hacer un chequeo de encuentro errante.
+El dado que se usa depende del terreno.
+Cuanto más pacífica sea la zona, mayor será el dado.
+Si sale un 1, los PJs se encuentran una situación que requiere atención.
 
-Assuming it's not an ambush or a sudden encounter in an obscured area, the groups usually encounter each other at maximum sight range.
-An opposed Sab/Descubrir check can be used to determine who spots who first; PJs who get the edge can usually avoid the other group automatically if they have sufficient cover.
+Excepto cuando no sucede una emboscada en una zona oscura, los grupos se detectan a la máxima distancia visible.
+Se puede usar una prueba opuesta de Sab/Descubrir para decidir quién ve al otro primero.
+El grupo que detecte primero suele tener la posibilidad de evitar el encuentro.
 
-PJs traveling with a caravan or riding a well-stocked travel wagon need not concern themselves with details of food, drink, y shelter, but PJs who plan on making an overland expedition without these ready comforts should consult the rules for overland exploration for details on the supplies y difficulties involved.
+Los PJs que viajen en una caravana bien abastecida no necesitan preocuparse por comida, bebida y cobijo pero los PJs que planean en hacer viajes solos deben consultar las reglas de viajes.
 
-### Sea Travel
+### Viaje Naval
 
-A ship can usually manage about six miles an hour of travel when under sail, y can sail around the clock if far from coasts y other perils.
-Oar-powered galleys average the same speed, but are heedless of the winds.
-An ordinary crew can only row for eight hours a day, however.
+Un barco con velas puede navegar 6 millas por hora mientras evita las costas y otros peligros.
+Una galera con remos puede ir a la misma velocidad pero sin depender del viento pero debe tener en cuenta que la tripulación suele remar unas 8 horas al día.
 
-Encounters at sea are rarer but potentially more hazardous; the GM should roll daily y nightly checks on 1d10 or 1d12.
-On a 1, some creature has come across the ship, a troublesome wind or storm has sprung up, something has been damaged on the ship or gone awry with the crew, or otherwise complicated the vessel's journey.
+Encuentros en el mar son muy raros pero potencialmente letales.
+El GM tira por día y noche 1d10 o 1d12.
+Si sale un 1, algunas criaturas han topado con el barco, un viento o una tormenta acecha, algo se ha roto en el barco o se complica el viaje.
 
-Some such encounters can be overcome with a good plan y a decent Sail prueba de habilidad, while others may require bloodier answers.
+Algunos encuentros se pueden vencer con un buen plan y una prueba de habilidad Surcar mientras que otros requieren respuestas más sangrientas.
 
-| Terrain Type                        | Miles per Hour |
-| ----------------------------------- | -------------- |
-| Plains or savannas                  | 3              |
-| Light forest or desert              | 2              |
-| Dense forest or rugged hills        | 1.5            |
-| Swamp or marsh                      | 1              |
-| Mountains or dire wastelands        | 0.5            |
-| There is a road through the terrain | x2\*           |
-| Foul weather, mud, or heavy rain    | x0.5           |
-| Deep snow on the ground             | x0.1           |
+| Tipo de Terreno                       | Millas por Hora |
+| ------------------------------------- | --------------- |
+| Llanuras o Savanas                    | 3               |
+| Bosque despejado o desierto           | 2               |
+| Bosque denso o Sierras                | 1.5             |
+| Pantano o Marismas                    | 1               |
+| Montañas o Tierras Baldías            | 0.5             |
+| Hay un camino en el terreno           | x2\*            |
+| Mal tiempo, lluvia torrencial o barro | x0.5            |
+| Nieve profunda                        | x0.1            |
 
-\* Good roads cannot increase the party's marching speed above three miles per hour.
+\* Los caminos no pueden incrementar la velocidad a más de 3 millas por hora.

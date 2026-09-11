@@ -81,8 +81,8 @@ Some skills may overlap at points in their application; the personaje may use ei
 - **Convince**: Persuade a listener that something you are saying is true.
   Naturally, the more implausible the claim or more emotionally repugnant it is to them, the more difficult it is to persuade them.
   Furthermore, how they act on their newfound conviction is up to them y their motivations, y may not be perfectly predictable.
-- **Craft**: Craft or repair goods y technology appropriate to the PC's background y society.
-  The Craft habilidad can be used for a wide range of artisan pursuits, though a GM is within their rights to keep the PC from building complex things that are too far away from their past background y experience.
+- **Fabricar**: Fabricar or repair goods y technology appropriate to the PC's background y society.
+  The Fabricar habilidad can be used for a wide range of artisan pursuits, though a GM is within their rights to keep the PC from building complex things that are too far away from their past background y experience.
 - **Atletismo**: Correr, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical fuerza, stamina, y coordination.
   Even a PC with poor physical attributes might have a good Atletismo habilidad reflecting athletic training y expertise in making the most of their available talents.
 - **Curar**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, y otherwise tend to the wounds of body y mind.
@@ -107,7 +107,7 @@ Some skills may overlap at points in their application; the personaje may use ei
   This mode of fighting is inefficient at best without some special Foco to improve it, but it's reliably non-lethal.
 - **Montar**: Montar an animal, drive a cart or carriage, or otherwise deal with land transportation.
   This habilidad also includes competence at mount care y tending, basic cart or carriage repair, judging good horseflesh, y other skills appropriate to a beast-rider of whatever society the PC comes from.
-- **Sail**: Sail or repair a ship, build small craft, navigate by the stars, read sea weather, manage sailors, y otherwise conduct the business of a professional mariner.
+- **Surcar**: Surcar or repair a ship, build small craft, navigate by the stars, read sea weather, manage sailors, y otherwise conduct the business of a professional mariner.
   This habilidad may apply to more esoteric means of vehicular travel in some societies.
 - **Disparar**: Fire a bow or crossbow or throw a hurled weapon.
   Maintain ranged weaponry y fletch arrows.
@@ -151,9 +151,9 @@ If no existing background table fits, they may make a new one with the GM's perm
 The two following backgrounds are examples of those possible for a player, with others to be created as the designer thinks appropriate for their setting.
 The free granted habilidad is listed after each background's name.
 
-### Artisan
+### Artesano
 
-Free habilidad: Craft
+Free habilidad: Fabricar
 
 | d6  | growth         |
 | --- | -------------- |
@@ -207,15 +207,15 @@ PNJs do not normally have classes, though they may have special talentos or pode
 
 ### The Three Base Classes
 
-The three base classes are Expert, Mage, y Warrior.
+The three base classes are Experto, Mago, y Warrior.
 Each of these base classes has its own hit die, attack progression, y Foco advancement.
 PJs use the tables for the class they choose.
 
-### Full y Parciales Classes
+### No Parciales y Parciales Classes
 
-There are two kinds of classes: Full classes y Parciales classes.
-A PC may choose to pick a single Full class, committing completely to that class' profession, or they may choose to become an Adventurer y pick two Parciales classes instead, mixing their talentos.
-The Warrior, Expert, High Mage, Necromancer, Invoker, y Elementalist classes may be taken either as a Full class or as a Parciales class.
+There are two kinds of classes: No Parciales classes y Parciales classes.
+A PC may choose to pick a single No Parciales class, committing completely to that class' profession, or they may choose to become an Adventurer y pick two Parciales classes instead, mixing their talentos.
+The Warrior, Experto, High Mago, Necromancer, Invoker, y Elementalist classes may be taken either as a No Parciales class or as a Parciales class.
 In the former case, the PC gains the full range of poderes granted to the profession.
 If taken as a Parciales class, a more restricted range of talentos are granted.
 The Healer, Vowed, Bard, Thought Noble, Accursed, Wise, Mageslayer, Skinshifter, Duelist, Beastmaster, y Blood Priest can only be taken as Parciales classes.
@@ -224,17 +224,17 @@ These classes are limited in scope, y must be paired with another Parciales clas
 ### The Adventurer Class
 
 The Adventurer is a special class that allows the PC to take two Parciales classes y mix them together.
-These may be Parciales-only classes, such as a Healer/Vowed, or they may be Parciales versions of Warrior, Expert, or Mage classes, such as a Parciales Expert/Thought Noble.
-A dual-specialization spellcaster is also possible by mixing a Parciales High Mage/Parciales Elementalist together, for example.
+These may be Parciales-only classes, such as a Healer/Vowed, or they may be Parciales versions of Warrior, Experto, or Mago classes, such as a Parciales Experto/Thought Noble.
+A dual-specialization spellcaster is also possible by mixing a Parciales High Mago/Parciales Elementalist together, for example.
 
 ### Classes y Effort
 
 Some classes have special talentos that are fueled with magical power, inner focus, or some other reserve of energy.
 This capacity is measured in points of Effort, a resource the PC can commit to activate their talentos.
-Every class that uses Effort has its own unique pool: High Mage Effort, Vowed Effort, Healer Effort, y so forth.
+Every class that uses Effort has its own unique pool: High Mago Effort, Vowed Effort, Healer Effort, y so forth.
 Adventurers with two Parciales classes that use Effort have two separately-tracked pools, one for each class.
 Points of Effort from one class cannot be used to fuel poderes from another.
-The maximum Effort of a Full class is equal to 1 plus a relevant habilidad level y ability modifier given by the class.
+The maximum Effort of a No Parciales class is equal to 1 plus a relevant habilidad level y ability modifier given by the class.
 A Parciales class uses the same formula, but with 1 fewer point of Effort, to a minimum of 1.
 
 ### Committing Effort
@@ -257,7 +257,7 @@ Activating a power only ever requires Committing a single point of Effort, unles
 ## Class List
 
 The classes that follow are flavor-stripped versions of those found in Worlds Without Number y its supplement, The Atlas of the Latter Earth.
-While mainstays such as the Warrior, the Expert, or the High Mage are appropriate to almost any fantasy setting, others may not fit specific campaigns.
+While mainstays such as the Warrior, the Experto, or the High Mago are appropriate to almost any fantasy setting, others may not fit specific campaigns.
 A GM always has the right to omit classes that do not fit the flavor of the game they are running.
 
 ### The Adventurer
@@ -265,66 +265,66 @@ A GM always has the right to omit classes that do not fit the flavor of the game
 Not every hero is perfectly reflected by one of the three principal classes, even with the wide latitude of concepts each one allows.
 For those heroes that straddle the roles, there remains the class of Adventurer.
 An Adventurer picks two classes to reflect their own particular talents.
-A spell-slinging swordsman might choose to be a Parciales Mage/Parciales Warrior, while a stealthy assassin might be a Parciales Expert/Parciales Warrior, y a grifting mountebank-wizard might be a Parciales Expert/Parciales Mage.
+A spell-slinging swordsman might choose to be a Parciales Mago/Parciales Warrior, while a stealthy assassin might be a Parciales Experto/Parciales Warrior, y a grifting mountebank-wizard might be a Parciales Experto/Parciales Mago.
 The player should pick whichever pairing serves best.
 
 The tables below provide the hit dice, attack bonus, y Focos picks gained by each of the three possible pairings.
-Thus, a first level Parciales Expert/Parciales Warrior would roll 1d6+2 for their hit points, have a +1 attack bonus, y pick three Focos: one expert, one warrior, y one free pick.
+Thus, a first level Parciales Experto/Parciales Warrior would roll 1d6+2 for their hit points, have a +1 attack bonus, y pick three Focos: one expert, one warrior, y one free pick.
 
 Adventurers tend to have a wider range of talentos than a more focused PC, y the extra Foco pick can make a significant difference at low levels.
-The absence of the strongest class talentos of Expertos y Warriors make a difference in the longer run, however, y a Parciales Mage will never attain the same magical power in their tradition as a focused specialist.
+The absence of the strongest class talentos of Expertos y Warriors make a difference in the longer run, however, y a Parciales Mago will never attain the same magical power in their tradition as a focused specialist.
 
-#### Parciales Expert
+#### Parciales Experto
 
-A Parciales Expert is treated just as a full Expert, including gaining the benefits of the Aprendiz Rápido ability.
-They do not have the Masterful Expertise ability, however, as they lack the versatility of a full Expert.
+A Parciales Experto is treated just as a full Experto, including gaining the benefits of the Aprendiz Rápido ability.
+They do not have the Masterful Expertise ability, however, as they lack the versatility of a full Experto.
 
-#### Parciales Mage
+#### Parciales Mago
 
-A Parciales Mage is treated as a Mage, y gains the Arcane Tradition ability, allowing them to pick a magical tradition for their poderes.
+A Parciales Mago is treated as a Mago, y gains the Arcane Tradition ability, allowing them to pick a magical tradition for their poderes.
 That tradition's talentos will be more limited for Parciales Mages, however, as described under each of the paths.
 
-It's even possible for a PC to pick the Parciales Mage class twice for two different magical traditions, gaining portions of both arcane poderes.
-They then use the usual full Mage chart for hit dice, attack bonus, y Focos, y the spellcasting table for dual casters if both partial classes cast spells.
+It's even possible for a PC to pick the Parciales Mago class twice for two different magical traditions, gaining portions of both arcane poderes.
+They then use the usual full Mago chart for hit dice, attack bonus, y Focos, y the lanzar conjuros table for dual casters if both partial classes cast spells.
 
-A Parciales Mage must adhere to the restrictions y limits of their magical tradition in order to use its talentos, regardless of whatever other partial class they may have.
+A Parciales Mago must adhere to the restrictions y limits of their magical tradition in order to use its talentos, regardless of whatever other partial class they may have.
 
 #### Parciales Warrior
 
 A Parciales Warrior gains certain of the benefits of a full Warrior, including the improved hit die y a somewhat improved attack bonus.
 They do not have the Suerte del Veterano special ability or the Golpe Mortal power, however, y must trust to their own talents to land blows y crush their enemies.
 
-#### Parciales Expert / Parciales Warrior
+#### Parciales Experto / Parciales Warrior
 
-| Level | Hit Dice | Attack Bonus | Foco Picks                     |
-| ----- | -------- | ------------ | ------------------------------ |
-| 1     | 1d6+2    | +1           | + 1 Expert + 1 Warrior + 1 Any |
-| 2     | 2d6+4    | +2           | + 1 Any                        |
-| 3     | 3d6+6    | +2           |                                |
-| 4     | 4d6+8    | +3           |                                |
-| 5     | 5d6+10   | +4           | +1 Any                         |
-| 6     | 6d6+12   | +5           |                                |
-| 7     | 7d6+14   | +5           | +1 Any                         |
-| 8     | 8d6+16   | +6           |                                |
-| 9     | 9d6+18   | +6           |                                |
-| 10    | 10d6+20  | +7           | +1 Any                         |
+| Level | Hit Dice | Attack Bonus | Foco Picks                      |
+| ----- | -------- | ------------ | ------------------------------- |
+| 1     | 1d6+2    | +1           | + 1 Experto + 1 Warrior + 1 Any |
+| 2     | 2d6+4    | +2           | + 1 Any                         |
+| 3     | 3d6+6    | +2           |                                 |
+| 4     | 4d6+8    | +3           |                                 |
+| 5     | 5d6+10   | +4           | +1 Any                          |
+| 6     | 6d6+12   | +5           |                                 |
+| 7     | 7d6+14   | +5           | +1 Any                          |
+| 8     | 8d6+16   | +6           |                                 |
+| 9     | 9d6+18   | +6           |                                 |
+| 10    | 10d6+20  | +7           | +1 Any                          |
 
-#### Parciales Expert / Parciales Mage
+#### Parciales Experto / Parciales Mago
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Warrior
+#### Parciales Mago / Parciales Warrior
 
 | Level | Hit Dice | Attack Bonus | Foco Picks          |
 | ----- | -------- | ------------ | ------------------- |
@@ -345,20 +345,20 @@ The Accursed are those men y women who have made pacts with otherworldly beings,
 
 #### Benefits of the Accursed
 
-The Accursed is a partial Mage class that must be joined with a second partial class by an Adventurer.
-A Parciales Warrior/Accursed might be a grim demonic warrior, a Parciales Expert/Accursed might be a sinister tempter, while a Parciales Mage/Accursed could be a sorcerer willing to pact with foul creatures for their poderes.
+The Accursed is a partial Mago class that must be joined with a second partial class by an Adventurer.
+A Parciales Warrior/Accursed might be a grim demonic warrior, a Parciales Experto/Accursed might be a sinister tempter, while a Parciales Mago/Accursed could be a sorcerer willing to pact with foul creatures for their poderes.
 
 All Accursed gain Magic-0 during personaje creation.
 Even those who are not spellcasters must understand the ways of eldritch beings y the subtleties of sorcery.
 
-While the arts of Accursed Blade y Accursed Bolt use Magic as their combate habilidad, Focos that normally apply to mundane weapons such as Armsmaster or Deadeye also benefit their relevant melee or ranged attacks.
+While the artes of Accursed Blade y Accursed Bolt use Magic as their combate habilidad, Focos that normally apply to mundane weapons such as Armsmaster or Deadeye also benefit their relevant melee or ranged attacks.
 For these Focos, read "Magic" in place of "Disparar" or "Cortar" when gaining their benefits, including the granted habilidad y the stacking damage bonus that the first level of the Foco may grant.
 
-#### Accursed Arts
+#### Accursed Artes
 
 An Accursed has an Effort score equal to their Magic habilidad level plus their Inteligencia or Carisma modifier, to a minimum of one point.
 Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice.
-Accursed arts may be used in or out of armor.
+Accursed artes may be used in or out of armor.
 
 Accursed Blade: As an Rápida action, manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon.
 Both add your Magic habilidad to the damage roll, have a Shock rating of 2/15, y use Magic as the attack habilidad y the best of Fue, Des, Int, or Cha as its modifying attribute.
@@ -377,7 +377,7 @@ Chosen targets who hear y understand must make a Mental save or perform that act
 Devil's Bargain: As a Acción Principal, consecrate a deal you've made with an uncoerced person.
 If they violate the deal or its spirit, you know instantly y may inflict 1d6 damage per level on them if desired.
 
-Dire Pact: Foes suffer a penalty equal to your Magic habilidad on all saves versus your Accursed arts.
+Dire Pact: Foes suffer a penalty equal to your Magic habilidad on all saves versus your Accursed artes.
 If they succeed, however, you gain one Estrés Corporal.
 
 Lying Face: Commit Effort as a Acción Principal; while it remains Committed, you can disguise yourself as any humanoid of the same general size, including clothing, scent, y voice.
@@ -414,7 +414,7 @@ You heal 1d6 hit points plus your level y lose one accumulated Estrés Corporal.
 Tendrils of Night: Commit Effort as an Rápida action.
 While Committed, you exude numerous tentacles or eldritch arms that can manipulate objects with your fuerza up to 20' away.
 You gain no bonus acciones, but the arms can melee at range.
-These arms have your AC, y you are damaged if they are hurt.
+These arms have your CA, y you are damaged if they are hurt.
 
 Unseen Steps: As an Rápida action, Commit Effort for the day to turn invisible for 1d6 rondas plus your level.
 This invisibility breaks before you attack, cast spells, or perform other vigorous or violent acciones.
@@ -427,22 +427,22 @@ They must make a Física save or suffer 1d6 damage per ronda for one ronda per l
 They cannot heal or regenerate any hit point damage during this effect.
 This art does not stack.
 
-#### Parciales Expert / Parciales Accursed
+#### Parciales Experto / Parciales Accursed
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Accursed
+#### Parciales Mago / Parciales Accursed
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -478,25 +478,25 @@ Bards are those who have an uncanny ability to move others through the power of 
 
 #### Benefits of the Bard
 
-The Bard is a partial Expert class that must be joined with a second partial class by an Adventurer.
-A Parciales Warrior/Bard might be a martial skald, a Parciales Expert/Bard might be a light-fingered troubadour, while a Parciales Mage/Bard might mix true magic in with their artful performances.
+The Bard is a partial Experto class that must be joined with a second partial class by an Adventurer.
+A Parciales Warrior/Bard might be a martial skald, a Parciales Experto/Bard might be a light-fingered troubadour, while a Parciales Mago/Bard might mix true magic in with their artful performances.
 
 All Bards gain Perform-0 during personaje creation.
 Their talentos hinge on their power to move a listener, whether that is by song, musicianship, or stirring oratory.
 
-Unlike the normal Parciales Expert class, Bards do not get a bonus non-combate Foco at first level, nor do they get a Parciales Expert's bonus habilidad point when advancing a personaje level.
-One who takes the standard Parciales Expert for their other class gains these things normally.
+Unlike the normal Parciales Experto class, Bards do not get a bonus non-combate Foco at first level, nor do they get a Parciales Experto's bonus habilidad point when advancing a personaje level.
+One who takes the standard Parciales Experto for their other class gains these things normally.
 
-#### Bard Arts
+#### Bard Artes
 
 A Bard has an Effort score equal to their Perform habilidad level plus their Carisma modifier, to a minimum of one point.
-Bard arts may be used in or out of armor, y do not count as magical effects for the purposes of talentos that counter or detect magic.
+Bard artes may be used in or out of armor, y do not count as magical effects for the purposes of talentos that counter or detect magic.
 Unless specified otherwise, their range is out to normal unaided voice range.
 
 Every Bard gains A Thousand Tongues as a starting art, plus one more of their choice.
-As they advance in levels, they can pick additional arts.
+As they advance in levels, they can pick additional artes.
 
-A Thousand Tongues: Your arts that require communication are intuitively understood by all intelligent creatures, whether or not you speak their language.
+A Thousand Tongues: Your artes that require communication are intuitively understood by all intelligent creatures, whether or not you speak their language.
 You can learn a new language with no more than a week of study with a native speaker.
 
 Battle Cry: Commit Effort for the day as an Rápida action to bolster your allies.
@@ -508,7 +508,7 @@ Your imprecations cause them to falter, inflicting a -1 penalty to their hit, da
 At 4th level this penalty becomes -2, y at 9th it becomes -3.
 
 Deft Fingers: You're accustomed to juggling your belongings while holding an instrument.
-Your maximum Readied item count increases by two.
+Your maximum Preparado item count increases by two.
 
 Entangle Incantation: Commit Effort for the escena as an Instantánea action when an foe within 60' incants a spell.
 Your voice tangles with their words, forcing them to make an opposed Int/Magic vs Cha/Perform prueba de habilidad against you, with a +2 bonus to your roll.
@@ -539,7 +539,7 @@ Soothe the Savage: Commit Effort for the day as a Acción Principal.
 For as long as you keep spending a Acción Principal performing each ronda, animals y other living bestial creatures will not attack you or your allies unless commanded by their masters or threatened by the party.
 This art can't be triggered once actual combate has begun.
 
-Soothing Graces: Your arts restore y hearten those with you.
+Soothing Graces: Your artes restore y hearten those with you.
 You y your allies lose an extra point of Estrés Corporal after each night's comfortable rest.
 This does not stack with similar rest-aiding poderes.
 
@@ -548,22 +548,22 @@ Tell them something in no more than one sentence; unless what you say is physica
 After that, they can judge your words with their normal reason.
 This art can affect a creature only once per escena.
 
-#### Parciales Expert / Parciales Bard
+#### Parciales Experto / Parciales Bard
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Bard
+#### Parciales Mago / Parciales Bard
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -595,7 +595,7 @@ This art can affect a creature only once per escena.
 
 #### Bard Art Progression
 
-| Level | Arts Gained at This Level    |
+| Level | Artes Gained at This Level   |
 | ----- | ---------------------------- |
 | 1     | A Thousand Tongues + Any One |
 | 2     | Any One                      |
@@ -613,15 +613,15 @@ This art can affect a creature only once per escena.
 Beastmasters are those PJs with an unnatural ability to control y influence animals.
 For some, these talentos are the fruit of rigorous magical study, while others obtain them from cultural practices, a feral upbringing, or natural aptitude.
 
-Beastmaster Benefits The Beastmaster exists only as a partial Mage class, meant to be taken by an Adventurer along with another partial class.
-A Parciales Warrior/Beastmaster may be a savage barbarian or wood-wise ranger, while a Parciales Expert/Beastmaster might be a masterful hunter or zoologist.
+Beastmaster Benefits The Beastmaster exists only as a partial Mago class, meant to be taken by an Adventurer along with another partial class.
+A Parciales Warrior/Beastmaster may be a savage barbarian or wood-wise ranger, while a Parciales Experto/Beastmaster might be a masterful hunter or zoologist.
 
 All Beastmasters get Survive as a bonus habilidad at level-0, or at level-1 if they already have it at level-0.
 The amount of time they spend in the wilderness learning of its ways can't help but teach them how to survive in hard conditions y navigate the perils of an untamed land.
 
 #### Beastmaster Companions
 
-Many Beastmaster arts apply to the PC's animal companion.
+Many Beastmaster artes apply to the PC's animal companion.
 There are a few basic guidelines for such companions that a GM should keep in mind during play.
 
 A companion animal cannot have a number of hit dice greater than the Beastmaster's level plus one.
@@ -639,28 +639,28 @@ It will obey commands from the Beastmaster that are not contrary to its own natu
 If the creature is mistreated or used as mere cannon fodder, it can flee or turn on its former master.
 
 A companion animal must be given a name by the Beastmaster.
-Without a name to focus the PC's arts, the creature cannot be controlled.
+Without a name to focus the PC's artes, the creature cannot be controlled.
 
 #### The Chosen Friend
 
 Some Beastmasters form a lifelong bond with a single dear companion.
-If a PC chooses this option, they can only ever Bind one companion, but it gains the benefit of the Shared Vitality y Mind Call arts automatically.
+If a PC chooses this option, they can only ever Bind one companion, but it gains the benefit of the Shared Vitality y Mind Call artes automatically.
 So long as the Beastmaster lives, this chosen friend cannot truly die; if reduced to zero hit points, it disappears, but will manifest again at the Beastmaster's side the following dawn with its full hit points.
 Of course, the master is expected to treat this companion as the beloved friend it is, y not as mere battle-fodder.
 
-#### Beastmaster Arts
+#### Beastmaster Artes
 
 Beastmaster Effort is calculated with Survive, y is equal to the PC's Survive habilidad level plus the higher of their Sabiduría or Carisma modifiers, to a minimum of one point.
 All Beastmasters start play with the Bind Companion art y one more of their choosing.
-They learn additional arts as they gain experience.
-Unlike some Mage traditions, Beastmasters can use their arts normally while armored.
+They learn additional artes as they gain experience.
+Unlike some Mago traditions, Beastmasters can use their artes normally while armored.
 
 Bind Companion: With a day's work in a location you can find y bind a suitable animal companion.
 If looking for a particular type of companion, it must be found in the area y may require a Sab/Survive prueba de habilidad at a difficulty of 10 or more if it's a particularly rare creature.
 If you encounter a suitable animal on an adventure, you may bind it as a Acción Principal, with the creature allowed a Mental tirada de salvación to resist y become impervious to your poderes.
 You may release a companion as a Acción Principal if you no longer wish its service or want to bind a different beast.
 
-#### Other Beastmaster Arts
+#### Other Beastmaster Artes
 
 Beast Ward: Commit Effort as an Rápida action.
 So long as the Effort remains Committed, the Beastmaster will not be attacked by unintelligent beasts unless the beast is commanded to do so by its master, the beast is starving, or the Beastmaster or their allies performs some hostile act against it.
@@ -673,8 +673,8 @@ Neither of you can be surprised unless both are surprised.
 
 Feral Toughness: Your maximum hit point total is increased by the natural, unmodified hit dice of your companion; thus, a 5 hit die companion increases your maximum hit points by 5.
 You are impervious to normal outdoor extremes of heat or cold.
-Your base Armor Class is equal to 13 plus half your level, rounded up.
-This AC can be modified by shields or Destreza modifiers, but not by armor.
+Your base Clase de Armadura is equal to 13 plus half your level, rounded up.
+This CA can be modified by shields or Destreza modifiers, but not by armor.
 
 Howl of Distant Summons: You can call former animal companions to your side by Committing Effort for the day as a Acción Principal.
 The howl extends through time as well as space, y the subject will have received the message in time to reach your side within five minutes after you call for it.
@@ -689,7 +689,7 @@ For the rest of the escena you forge a telepathic bond with your animal companio
 You can give it orders y receive information from the creature, at least insofar as its limited intellect allows.
 
 Natural Weaponry: You may have physically grown fangs y claws, or it may be that you just intuitively absorbed effective unarmed fighting techniques from your animal companions.
-When unarmed, your attacks count as weapons that use either Fue or Des as their modifier, use Golpear or Cortar as the habilidad, do 1d8 damage, y have a Shock value of 2/AC 13.
+When unarmed, your attacks count as weapons that use either Fue or Des as their modifier, use Golpear or Cortar as the habilidad, do 1d8 damage, y have a Shock value of 2/CA 13.
 These unarmed attacks can harm even creatures immune to non-magical weapons.
 The damage y Shock of these weapons gains a +1 bonus at level 3, a +2 bonus at level 6, y a +3 bonus at level 9.
 
@@ -708,22 +708,22 @@ Tongue of the Beasts: Commit Effort as an Rápida action.
 While the Effort remains committed, you can speak with any animal that has fur, feathers, scales, or skin.
 This art allows them to temporarily speak as if they had human intellect, though their interests, knowledge, y desires do not change.
 
-#### Parciales Expert / Parciales Beastmaster
+#### Parciales Experto / Parciales Beastmaster
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Beastmaster
+#### Parciales Mago / Parciales Beastmaster
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -755,18 +755,18 @@ This art allows them to temporarily speak as if they had human intellect, though
 
 #### Beastmaster Art Progression
 
-| Level | Arts Gained at This Level |
-| ----- | ------------------------- |
-| 1     | Bind Companion y Any One  |
-| 2     | Any One                   |
-| 3     |                           |
-| 4     | Any One                   |
-| 5     |                           |
-| 6     | Any One                   |
-| 7     |                           |
-| 8     | Any One                   |
-| 9     |                           |
-| 10    | Any One                   |
+| Level | Artes Gained at This Level |
+| ----- | -------------------------- |
+| 1     | Bind Companion y Any One   |
+| 2     | Any One                    |
+| 3     |                            |
+| 4     | Any One                    |
+| 5     |                            |
+| 6     | Any One                    |
+| 7     |                            |
+| 8     | Any One                    |
+| 9     |                            |
+| 10    | Any One                    |
 
 ### The Blood Priest
 
@@ -774,14 +774,14 @@ As the devotee of a sanguinary god, a blood priest has magical poderes for stren
 
 #### Blood Priest Benefits
 
-The Blood Priest exists only as a partial Mage class, to be taken by an Adventurer alongside another partial class.
+The Blood Priest exists only as a partial Mago class, to be taken by an Adventurer alongside another partial class.
 A Parciales Warrior/Blood Priest might be a crusader for their god, wielding steel y terror against the evils of this world.
-A Parciales Expert/Blood Priest might be an inquisitor, investigating dubious figures y sifting out the truth of mysterious events.
+A Parciales Experto/Blood Priest might be an inquisitor, investigating dubious figures y sifting out the truth of mysterious events.
 
 All Blood Priests gain Pray as a bonus habilidad, acquiring it at level-0, or level-1 if they already have it at level-0.
 Even a "Blood Priest" who has only learned their talentos through study of their scriptures must master a wide variety of ecclesiastical rites y rituals in order to activate their poderes.
 
-#### Blood Priest Arts
+#### Blood Priest Artes
 
 Blood Priest Effort is calculated with Pray, with their total maximum Effort being equal to their Pray habilidad plus the higher of their Sabiduría or Carisma modifiers, to a minimum of one point.
 
@@ -794,8 +794,8 @@ To any listener, it will seem as if you are perfectly fluent in their own langua
 This ability does not allow you to read or write unknown languages.
 
 Armor of God: Commit Effort as an Rápida action.
-While the Effort remains Committed, you have a natural Armor Class of 15 plus half your level, rounded down.
-This AC can be modified by shields or your Destreza modifier, but not by other worn armor.
+While the Effort remains Committed, you have a natural Clase de Armadura of 15 plus half your level, rounded down.
+This CA can be modified by shields or your Destreza modifier, but not by other worn armor.
 
 Divine Guidance: Commit Effort for the day as a Acción Principal y meditate upon a choice or potential action before you.
 The GM will tell you whether the likely outcome of that choice is weal, woe, a mix of both, or nothing significant, using their own best estimation.
@@ -814,7 +814,7 @@ If done in combate or used to revive a Herido Mortalmente subject, the rushed ha
 At fourth level the healing done increases to 2d6+4 y at eighth level it becomes 4d6+8.
 
 Sanctified Ward: Commit Effort as an Rápida action.
-While the Effort is maintained y until you take some hostile action against a creature, you are immune to Shock damage y gain a +4 bonus to your Armor Class y all tiradas de salvación.
+While the Effort is maintained y until you take some hostile action against a creature, you are immune to Shock damage y gain a +4 bonus to your Clase de Armadura y all tiradas de salvación.
 Enemies must pass an Instinct check each ronda to target you with attacks; on a failure, they may take some other action instead.
 Once this art is ended it cannot be reactivated for the rest of the escena.
 Curación y other indirect support of fighting comrades does not count as a hostile action.
@@ -843,22 +843,22 @@ This art can be used only once on any given prueba de habilidad.
 Wrath of the Most High: Commit Effort for the escena as a Acción Principal while you rebuke a visible target.
 The first time the target takes damage before the end of the next ronda, it suffers automatic additional damage equal to 1d8 plus your level.
 
-#### Parciales Expert / Parciales Blood Priest
+#### Parciales Experto / Parciales Blood Priest
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Blood Priest
+#### Parciales Mago / Parciales Blood Priest
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -890,18 +890,18 @@ The first time the target takes damage before the end of the next ronda, it suff
 
 #### Blood Priest Art Progression
 
-| Level | Arts Gained at This Level |
-| ----- | ------------------------- |
-| 1     | Any Two                   |
-| 2     | Any One                   |
-| 3     |                           |
-| 4     | Any One                   |
-| 5     |                           |
-| 6     | Any One                   |
-| 7     |                           |
-| 8     | Any One                   |
-| 9     |                           |
-| 10    | Any One                   |
+| Level | Artes Gained at This Level |
+| ----- | -------------------------- |
+| 1     | Any Two                    |
+| 2     | Any One                    |
+| 3     |                            |
+| 4     | Any One                    |
+| 5     |                            |
+| 6     | Any One                    |
+| 7     |                            |
+| 8     | Any One                    |
+| 9     |                            |
+| 10    | Any One                    |
 
 ### The Duelist
 
@@ -909,9 +909,9 @@ Some warriors indulge in unique training methods that draw on arcane forces to e
 
 #### Duelist Benefits
 
-The Duelist is a partial Mage class, meant to be taken by an Adventurer in conjunction with another partial class.
+The Duelist is a partial Mago class, meant to be taken by an Adventurer in conjunction with another partial class.
 Parciales Warrior/Duelist is the most common pairing, for a skilled light-armor combatant with high mobility y a number of useful combate techniques.
-Parciales Expert/Duelist might represent an assassin who relies on stealth as much as steel, while a rare few Mage/Duelist combinations speak of adventuring wizards who perhaps have more talent for the sword than for the spell.
+Parciales Experto/Duelist might represent an assassin who relies on stealth as much as steel, while a rare few Mago/Duelist combinations speak of adventuring wizards who perhaps have more talent for the sword than for the spell.
 
 All Duelists gain Cortar as a bonus habilidad.
 No Duelist worth the name is entirely incapable of effective use of melee weapons, though the style lends itself heavily to specialization.
@@ -922,22 +922,22 @@ The techniques they use are swift y lethal, but they aren't as generally applica
 As such, Parciales Warriors/Parciales Duelists use 1d6 for their hit dice, rather than the Parciales Warrior's usual 1d6+2.
 Other partial class mixes are unaffected by this flaw.
 
-#### Duelist Arts
+#### Duelist Artes
 
 Duelist Effort is based on Cortar, y is equal to the PC's Cortar habilidad plus the highest of their Destreza or Inteligencia modifiers, to a minimum of one point.
 All Duelists begin with the Favored Weapon art y one more of their choice.
-Additional arts are learned as the PC advances in experience.
+Additional artes are learned as the PC advances in experience.
 
-The arts of the Duelist require agility y free motion.
+The artes of the Duelist require agility y free motion.
 The Duelist cannot benefit from any art of this class while wearing medium or heavy armor or carrying a large shield.
 Dual-wielding is practiced by some Duelists, but most prefer the defensive advantages of a small offhand shield.
 
 Favored Weapon: Choose one specific type of non-unarmed melee weapon.
 You begin play with such a weapon, y when using this type you may use the Favored Weapon attack bonus column on the Duelist table to determine your base hit bonus, unless it's already better for some other reason.
 If your second partial class is Parciales Warrior, your class' base hit bonus with the weapon is instead equal to your level.
-You cannot apply this or other Duelist arts to thrown weapons.
+You cannot apply this or other Duelist artes to thrown weapons.
 
-#### Other Duelist Arts
+#### Other Duelist Artes
 
 Blood for Blood: Commit Effort for the escena as an Instantánea action when an enemy hits you with a physical attack.
 If you attack that enemy with your favored weapon before the end of the next ronda, the first blow hits automatically y can do no less damage than was done to you, up to the weapon's maximum.
@@ -947,7 +947,7 @@ You may move your full normal rango de movimiento as an Rápida action.
 This art can be used only once per ronda.
 
 Code Duello: Commit Effort for the day as an Rápida action when engaged with a single foe.
-So long as no other combatant attacks either your target or you, y you attack no one but your target, you gain a +4 bonus to your Armor Class y can roll your hit rolls twice, taking the better result.
+So long as no other combatant attacks either your target or you, y you attack no one but your target, you gain a +4 bonus to your Clase de Armadura y can roll your hit rolls twice, taking the better result.
 Once the Code Duello has been disrupted or ended, it cannot be invoked again during that escena.
 
 Crushing Superiority: Your favored weapon gains the Less Lethal quality if it doesn't already have it.
@@ -971,14 +971,14 @@ Graceful Leap: Commit Effort for the escena as an Rápida action to immediately 
 You can't use this art more than once per ronda or after you've attacked.
 You are immune to falling damage from plunges of less than 30 feet.
 
-Lightning Draw: Commit Effort for the day as an Instantánea action at the start of hostilities; you win iniciativa against anyone without a similar ability to act first y may ready a Stowed favored weapon Instantly.
+Lightning Draw: Commit Effort for the day as an Instantánea action at the start of hostilities; you win iniciativa against anyone without a similar ability to act first y may ready a Guardado favored weapon Instantly.
 
 Piercing Strike: Commit Effort for the escena as an Rápida action y choose a visible target.
-For the rest of the escena, their AC is treated as 10 for purposes of resisting the Shock of your favored weapon.
+For the rest of the escena, their CA is treated as 10 for purposes of resisting the Shock of your favored weapon.
 
 Spiritual Weapon: You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish.
 Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object's physical form.
-To manifest a template, Commit Effort as an Instantánea action; a ghostly copy of the weapon appears Readied in hand for you until you release the Effort or stop touching the weapon.
+To manifest a template, Commit Effort as an Instantánea action; a ghostly copy of the weapon appears Preparado in hand for you until you release the Effort or stop touching the weapon.
 Dual-wielders can summon the same weapon into both hands with one use of this art.
 
 Unbindable: Commit Effort for the day as an Rápida action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding.
@@ -989,25 +989,25 @@ Unworthy Rabble: Commit Effort for the day as an Rápida action.
 For the rest of the escena, when using your favored weapon, reroll any failed hit roll against foes with one hit die.
 At eighth level, this ability applies to foes with two hit dice.
 
-Whirling Evasion: Your base Armor Class becomes equal to 13 plus half your level, rounded up.
-This AC can be modified by small shields y your Destreza modifier, but not by armor or large shields.
+Whirling Evasion: Your base Clase de Armadura becomes equal to 13 plus half your level, rounded up.
+This CA can be modified by small shields y your Destreza modifier, but not by armor or large shields.
 
-#### Parciales Expert / Parciales Duelist
+#### Parciales Experto / Parciales Duelist
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Duelist
+#### Parciales Mago / Parciales Duelist
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1039,40 +1039,40 @@ This AC can be modified by small shields y your Destreza modifier, but not by ar
 
 #### Duelist Art Progression
 
-| Level | Arts Gained at This Level |
-| ----- | ------------------------- |
-| 1     | Favored Weapon y Any One  |
-| 2     | Any One                   |
-| 3     |                           |
-| 4     | Any One                   |
-| 5     |                           |
-| 6     | Any One                   |
-| 7     |                           |
-| 8     | Any One                   |
-| 9     |                           |
-| 10    | Any One                   |
+| Level | Artes Gained at This Level |
+| ----- | -------------------------- |
+| 1     | Favored Weapon y Any One   |
+| 2     | Any One                    |
+| 3     |                            |
+| 4     | Any One                    |
+| 5     |                            |
+| 6     | Any One                    |
+| 7     |                            |
+| 8     | Any One                    |
+| 9     |                            |
+| 10    | Any One                    |
 
 ### The Elementalist
 
-Elementalists are spellcasting Mages who focus on the manipulation of the material world around them.
-While they are capable of using High Magic, their specialist spells focus chiefly on wielding the classical elements of fire, air, water, y earth.
+Elementalists are lanzar conjuros Mages who focus on the manipulation of the material world around them.
+While they are capable of using Alta Magia, their specialist spells focus chiefly on wielding the classical elements of fire, air, water, y earth.
 
 #### Elementalist Benefits
 
 All Elementalists gain Magic as a bonus habilidad, acquiring it at level-0, or level-1 if was already level-0.
 
-Elementalists can prepare y cast High Magic spells in addition to the spells specific to Elementalists.
-As usual for spellcasters, Elementalists can't cast spells or use arts while armored or holding a shield.
+Elementalists can prepare y cast Alta Magia spells in addition to the spells specific to Elementalists.
+As usual for spellcasters, Elementalists can't cast spells or use artes while armored or holding a shield.
 
-Elementalists are not as talented at general High Magic research as High Mages are, but their studies still bear fruit in time.
-Each time they advance a level, they can pick a new High Magic spell or an Elementalist spell to add to their spellbook.
+Elementalists are not as talented at general Alta Magia research as Altos Magos are, but their studies still bear fruit in time.
+Each time they advance a level, they can pick a new Alta Magia spell or an Elementalist spell to add to their spellbook.
 They must be able to cast the spell to add it to their selection.
 
-Elementalists gain the Elemental Resilience y Elemental Sparks arts as part of their basic training, y may pick one additional art from the list below.
-Further arts are learned as they advance in personaje level, as given in the tables below.
+Elementalists gain the Elemental Resilience y Elemental Sparks artes as part of their basic training, y may pick one additional art from the list below.
+Further artes are learned as they advance in personaje level, as given in the tables below.
 Once chosen, an art cannot be changed.
 
-#### Elementalist Arts
+#### Elementalist Artes
 
 Elementalist Effort is calculated as usual, with each PC's maximum being equal to one plus their Magic habilidad level plus the better of their Inteligencia or Carisma modifiers.
 Parciales Elementalists have a score one point lower than this, albeit not less than one.
@@ -1084,7 +1084,7 @@ Elemental Sparks: You can conjure petty amounts of flame, water, ice, stone, or 
 Conjured substances last no longer than a escena, y conjured water cannot lastingly quench thirst.
 This art cannot actually be useful in solving a problem or overcoming a challenge more than once per game session.
 
-#### Other Elementalist Arts
+#### Other Elementalist Artes
 
 Beckoned Deluge: Commit Effort for the escena as a Acción Principal to conjure a considerable amount of water at a visible point within fifty feet per caster level.
 This water is sufficient to drench one 10-foot cube of matter per personaje level, making non-magical bowstrings useless, extinguishing flames, y inflicting 1d6 damage per caster level on fiery supernatural creatures.
@@ -1104,9 +1104,9 @@ While the Effort remains Committed, you can see thermal gradients sufficient to 
 Optionally, you may cause your own eyes to cast a light sufficient to illuminate your surroundings clearly out to a range of 30 feet.
 
 Pavis of Elements: Commit Effort as an Rápida action to conjure an elemental barrier around yourself.
-The barrier improves your Armor Class by +4 y remains as long as the Effort remains Committed.
+The barrier improves your Clase de Armadura by +4 y remains as long as the Effort remains Committed.
 
-This bonus stacks with other effects, but cannot increase AC above 18, regardless of the combinations.
+This bonus stacks with other effects, but cannot increase CA above 18, regardless of the combinations.
 
 Petrifying Stare: Commit Effort for the day as a Acción Principal y target a visible creature.
 The creature must make a Física save or become partially petrified, losing its Acción de Movimiento for a number of rondas equal to half your caster level, rounded up.
@@ -1132,7 +1132,7 @@ A creature can be targeted only once per escena by this.
 Thermal Shield: Commit Effort for the escena as an Instantánea action to immediately negate one instance of fire or frost damage to any single visible ally or object.
 This defense lasts only long enough to nullify the single instance of damage.
 
-#### Full Elementalist
+#### No Parciales Elementalist
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1147,37 +1147,37 @@ This defense lasts only long enough to nullify the single instance of damage.
 | 9     | 9d6-9    | +1           |            |
 | 10    | 10d6-10  | +2           | +1 Any     |
 
-#### Full Elementalist Arts y Spells
+#### No Parciales Elementalist Artes y Conjuros
 
-| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level                         |
-| ----- | --------------- | ----------- | --------------- | ------------------------------------------------- |
-| 1     | 1               | 1           | 3               | Elemental Resilience, Elemental Sparks, y Any One |
-| 2     | 1               | 1           | 3               | Any One                                           |
-| 3     | 2               | 2           | 4               |                                                   |
-| 4     | 2               | 2           | 5               | Any One                                           |
-| 5     | 3               | 3           | 6               |                                                   |
-| 6     | 3               | 3           | 7               | Any One                                           |
-| 7     | 4               | 4           | 8               |                                                   |
-| 8     | 4               | 4           | 9               | Any One                                           |
-| 9     | 5               | 5           | 10              |                                                   |
-| 10    | 5               | 6           | 12              | Any One                                           |
+| Level | Max Spell Level | Conjuros Cast | Prepared Conjuros | Artes Gained at This Level                        |
+| ----- | --------------- | ------------- | ----------------- | ------------------------------------------------- |
+| 1     | 1               | 1             | 3                 | Elemental Resilience, Elemental Sparks, y Any One |
+| 2     | 1               | 1             | 3                 | Any One                                           |
+| 3     | 2               | 2             | 4                 |                                                   |
+| 4     | 2               | 2             | 5                 | Any One                                           |
+| 5     | 3               | 3             | 6                 |                                                   |
+| 6     | 3               | 3             | 7                 | Any One                                           |
+| 7     | 4               | 4             | 8                 |                                                   |
+| 8     | 4               | 4             | 9                 | Any One                                           |
+| 9     | 5               | 5             | 10                |                                                   |
+| 10    | 5               | 6             | 12                | Any One                                           |
 
-#### Parciales Expert / Parciales Elementalist
+#### Parciales Experto / Parciales Elementalist
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Other Mage / Parciales Elementalist
+#### Parciales Other Mago / Parciales Elementalist
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1207,30 +1207,30 @@ This defense lasts only long enough to nullify the single instance of damage.
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Parciales Elementalist Arts y Spells
+#### Parciales Elementalist Artes y Conjuros
 
-| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level                         |
-| ----- | --------------- | ----------- | --------------- | ------------------------------------------------- |
-| 1     | 1               | 1           | 2               | Elemental Resilience, Elemental Sparks, y Any One |
-| 2     | 1               | 1           | 3               |                                                   |
-| 3     | 1               | 1           | 3               | Any One                                           |
-| 4     | 1               | 2           | 4               |                                                   |
-| 5     | 2               | 2           | 5               |                                                   |
-| 6     | 2               | 3           | 6               | Any One                                           |
-| 7     | 2               | 3           | 7               |                                                   |
-| 8     | 2               | 3           | 7               |                                                   |
-| 9     | 3               | 4           | 8               | Any One                                           |
-| 10    | 3               | 4           | 9               |                                                   |
+| Level | Max Spell Level | Conjuros Cast | Prepared Conjuros | Artes Gained at This Level                        |
+| ----- | --------------- | ------------- | ----------------- | ------------------------------------------------- |
+| 1     | 1               | 1             | 2                 | Elemental Resilience, Elemental Sparks, y Any One |
+| 2     | 1               | 1             | 3                 |                                                   |
+| 3     | 1               | 1             | 3                 | Any One                                           |
+| 4     | 1               | 2             | 4                 |                                                   |
+| 5     | 2               | 2             | 5                 |                                                   |
+| 6     | 2               | 3             | 6                 | Any One                                           |
+| 7     | 2               | 3             | 7                 |                                                   |
+| 8     | 2               | 3             | 7                 |                                                   |
+| 9     | 3               | 4             | 8                 | Any One                                           |
+| 10    | 3               | 4             | 9                 |                                                   |
 
-### The Expert
+### The Experto
 
 Your hero is an expert at some useful habilidad.
-Thieves, diplomats, healers, scholars, explorers, artisans, y other such heroes should pick the Expert class if they wish to focus on developing their special skills y performing tremendous feats of mastery with them.
+Thieves, diplomats, healers, scholars, explorers, artisans, y other such heroes should pick the Experto class if they wish to focus on developing their special skills y performing tremendous feats of mastery with them.
 
 Expertos gain the widest variety of non-combate skills y are the quickest to learn more of them.
 
-An Expert has an uncanny knack for wielding their skills successfully at a crucial moment, whether or not it's a habilidad they've taken for their specialty.
-Once per escena, the Expert can reroll a failed non-combate prueba de habilidad, gaining a second chance to yank victory from the jaws of otherwise certain failure.
+An Experto has an uncanny knack for wielding their skills successfully at a crucial moment, whether or not it's a habilidad they've taken for their specialty.
+Once per escena, the Experto can reroll a failed non-combate prueba de habilidad, gaining a second chance to yank victory from the jaws of otherwise certain failure.
 Their natural focus on personal development y determined refinement of their skills bleeds through even into those talents they don't make their special domain.
 
 Expertos are also capable combatants, fully able to hold their own in the midst of a murderous fray.
@@ -1238,11 +1238,11 @@ It's not unknown for some Expertos to specialize in professions related to marti
 
 #### Class Ability: Masterful Expertise
 
-Once per escena, a Full Expert may reroll any non-combate prueba de habilidad as an Instantánea action.
-This allows the Expert to make a roll y then immediately use this ability if the resulting total isn't good enough to succeed.
+Once per escena, a No Parciales Experto may reroll any non-combate prueba de habilidad as an Instantánea action.
+This allows the Experto to make a roll y then immediately use this ability if the resulting total isn't good enough to succeed.
 In cases where it matters, the better of the two rolls may be used.
 
-Note that the typical ten-minute dungeon exploration turn generally counts as a escena, allowing the Full Expert to use this ability every turn if they so wish.
+Note that the typical ten-minute dungeon exploration turn generally counts as a escena, allowing the No Parciales Experto to use this ability every turn if they so wish.
 
 Parciales Expertos do not receive this ability.
 
@@ -1253,75 +1253,75 @@ You may save this point to spend later if you wish.
 
 Parciales Expertos do receive this ability.
 
-#### Full Expert
+#### No Parciales Experto
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Expert
+#### Parciales Mago / Parciales Experto
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Warrior / Parciales Expert
+#### Parciales Warrior / Parciales Experto
 
-| Level | Hit Dice | Attack Bonus | Foco Picks                   |
-| ----- | -------- | ------------ | ---------------------------- |
-| 1     | 1d6+2    | +1           | + 1 Warrior + Expert + 1 Any |
-| 2     | 2d6+4    | +2           | + 1 Any                      |
-| 3     | 3d6+6    | +2           |                              |
-| 4     | 4d6+8    | +3           |                              |
-| 5     | 5d6+10   | +4           | +1 Any                       |
-| 6     | 6d6+12   | +5           |                              |
-| 7     | 7d6+14   | +5           | +1 Any                       |
-| 8     | 8d6+16   | +6           |                              |
-| 9     | 9d6+18   | +6           |                              |
-| 10    | 10d6+20  | +7           | +1 Any                       |
+| Level | Hit Dice | Attack Bonus | Foco Picks                    |
+| ----- | -------- | ------------ | ----------------------------- |
+| 1     | 1d6+2    | +1           | + 1 Warrior + Experto + 1 Any |
+| 2     | 2d6+4    | +2           | + 1 Any                       |
+| 3     | 3d6+6    | +2           |                               |
+| 4     | 4d6+8    | +3           |                               |
+| 5     | 5d6+10   | +4           | +1 Any                        |
+| 6     | 6d6+12   | +5           |                               |
+| 7     | 7d6+14   | +5           | +1 Any                        |
+| 8     | 8d6+16   | +6           |                               |
+| 9     | 9d6+18   | +6           |                               |
+| 10    | 10d6+20  | +7           | +1 Any                        |
 
 ### The Healer
 
-The Healer is a partial Mage class that does not use spells.
-Instead, they gain specific arts that allow them to mend wounds, cure illnesses, y otherwise sustain their allies.
+The Healer is a partial Mago class that does not use spells.
+Instead, they gain specific artes that allow them to mend wounds, cure illnesses, y otherwise sustain their allies.
 
 #### Healer Benefits
 
-The Healer class exists only as a partial Mage class, to be taken by an Adventurer along with another partial class.
-Thus, a Parciales Warrior/Parciales Healer might be a grizzled combate medic, a Parciales Expert/Parciales Healer might be an erudite physician gifted in both mundane y magical healing methods, y a Parciales Necromancer/Parciales Healer might be an adept of life y death.
+The Healer class exists only as a partial Mago class, to be taken by an Adventurer along with another partial class.
+Thus, a Parciales Warrior/Parciales Healer might be a grizzled combate medic, a Parciales Experto/Parciales Healer might be an erudite physician gifted in both mundane y magical healing methods, y a Parciales Necromancer/Parciales Healer might be an adept of life y death.
 
 All Healers gain Curar as a bonus habilidad, acquiring it at level-0, or level-1 if they already have it at level-0.
-A basic grounding in mundane healing techniques is necessary in order to learn their more sophisticated magical arts.
+A basic grounding in mundane healing techniques is necessary in order to learn their more sophisticated magical artes.
 
 Healers do not learn how to cast spells.
-Instead, they focus on their special arcane healing arts.
-Wielding these arts usually requires nothing more than touching the target y concentrating on the desired effect, y the process is direct y simple enough to perform even when burdened by armor or carrying a shield.
+Instead, they focus on their special arcane healing artes.
+Wielding these artes usually requires nothing more than touching the target y concentrating on the desired effect, y the process is direct y simple enough to perform even when burdened by armor or carrying a shield.
 
-These arts are usually quite subtle, y don't produce visible or audible indications of their use.
+These artes are usually quite subtle, y don't produce visible or audible indications of their use.
 
 At first level, a Healer gains the Curación Touch art y can pick one more of their choice.
-As they advance in levels afterwards, they can learn new arts.
+As they advance in levels afterwards, they can learn new artes.
 Once chosen, an art is permanent y cannot be exchanged.
 
-#### Healer Arts
+#### Healer Artes
 
 Healer Effort is calculated with Curar rather than Magic, with each PC's maximum being equal to their Curar habilidad level plus the better of their Inteligencia or Carisma modifiers, to a minimum of one point.
 
@@ -1330,7 +1330,7 @@ All Healers are trained in the Curación Touch art, but may develop other techni
 Curación Touch: Commit Effort for the escena as an Instantánea action; for the rest of the escena, you may heal 2d6 damage plus your Curar habilidad to a touched ally as a Acción Principal.
 This healing adds 1 Estrés Corporal to the target each time it is applied.
 
-#### Other Healer Arts
+#### Other Healer Artes
 
 Empowered Healer: Your Curación Touch becomes more powerful, adding your level to any healing.
 
@@ -1377,22 +1377,22 @@ Commit Effort for the day as an Instantánea action to negate the damage from an
 Aside from this ability, you automatically stabilize if reduced to zero hit points y awaken ten minutes later with 1 hit point.
 This ability cannot undo damage you intentionally inflict on yourself via some power or magical exchange.
 
-#### Parciales Expert / Parciales Healer
+#### Parciales Experto / Parciales Healer
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Healer
+#### Parciales Mago / Parciales Healer
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1424,48 +1424,48 @@ This ability cannot undo damage you intentionally inflict on yourself via some p
 
 #### Healer Art Progression
 
-| Level | Arts Gained at This Level |
-| ----- | ------------------------- |
-| 1     | Curación Touch y Any One  |
-| 2     | Any One                   |
-| 3     |                           |
-| 4     | Any One                   |
-| 5     | Any One                   |
-| 6     | Any One                   |
-| 7     |                           |
-| 8     | Any One                   |
-| 9     |                           |
-| 10    | Any One                   |
+| Level | Artes Gained at This Level |
+| ----- | -------------------------- |
+| 1     | Curación Touch y Any One   |
+| 2     | Any One                    |
+| 3     |                            |
+| 4     | Any One                    |
+| 5     | Any One                    |
+| 6     | Any One                    |
+| 7     |                            |
+| 8     | Any One                    |
+| 9     |                            |
+| 10    | Any One                    |
 
-### The High Mage
+### The High Mago
 
-High Mages represent the default spellcaster in most campaigns.
+Altos Magos represent the default spellcaster in most campaigns.
 
-Their spells tend to be generalist in nature rather than focusing on particular specific themes, but their arts make them extremely skilled at manipulating y augmenting the magics they use.
+Their spells tend to be generalist in nature rather than focusing on particular specific themes, but their artes make them extremely skilled at manipulating y augmenting the magics they use.
 
-#### High Mage Benefits
+#### High Mago Benefits
 
-All High Mages gain Magic as a bonus habilidad, acquiring it at level-0, or level-1 if was already level-0.
-Every High Mage is well-educated in the principles of magic as understood by the sorcerers of this world.
+All Altos Magos gain Magic as a bonus habilidad, acquiring it at level-0, or level-1 if was already level-0.
+Every High Mago is well-educated in the principles of magic as understood by the sorcerers of this world.
 
-High Mages can prepare y cast High Magic spells, y have a number of arts dedicated to improving their use of these incantations.
+Altos Magos can prepare y cast Alta Magia spells, y have a number of artes dedicated to improving their use of these incantations.
 
-As usual for spellcasters, they cannot wear bulky clothing or armor while casting or using arts, nor use shields.
-Mages who have trained to overcome these limits with the Armored Magic Foco have more latitude.
+As usual for spellcasters, they cannot wear bulky clothing or armor while casting or using artes, nor use shields.
+Mages who have trained to overcome these limits with the Magia Con Armadura Foco have more latitude.
 
-High Mages conduct extensive experimentation y study as part of their daily activities.
-Each time they advance a level, they may pick two High Magic spells from the list in this book to add to their repertoire.
+Altos Magos conduct extensive experimentation y study as part of their daily activities.
+Each time they advance a level, they may pick two Alta Magia spells from the list in this book to add to their repertoire.
 These spells must be of a level they can cast.
 
-High Mages also gain arts specific to their tradition.
-At first level, a full High Mage picks two arts y a partial High Mage picks one.
-As they gain levels y experience, they'll learn additional arts from the adjacent list.
+Altos Magos also gain artes specific to their tradition.
+At first level, a full High Mago picks two artes y a partial High Mago picks one.
+As they gain levels y experience, they'll learn additional artes from the adjacent list.
 Once picked, an art cannot be changed.
 
-#### High Mage Arts
+#### High Mago Artes
 
-High Mage Effort is calculated as usual, with each PC's maximum being equal to one plus their Magic habilidad level plus the better of their Inteligencia or Carisma modifiers.
-Parciales High Mages have a score one point lower than this, albeit not less than one.
+High Mago Effort is calculated as usual, with each PC's maximum being equal to one plus their Magic habilidad level plus the better of their Inteligencia or Carisma modifiers.
+Parciales Altos Magos have a score one point lower than this, albeit not less than one.
 
 Arcane Lexicon: Commit Effort for the escena.
 For the rest of the escena, you can read any script that was not intentionally obfuscated or encoded by its writer.
@@ -1485,7 +1485,7 @@ Damage does not disrupt a hung spell, but no additional spells can be cast until
 Inexorable Effect: Commit Effort for the day as an Instantánea action to force an enemy to re-roll a successful tirada de salvación y take the worse result.
 You may use this art only once per escena.
 
-Iron Resolution: Commit Effort for the day when injured or disturbed in combate; you may make a Física tirada de salvación to resist spell disruption y ignore the damage for purposes of spellcasting.
+Iron Resolution: Commit Effort for the day when injured or disturbed in combate; you may make a Física tirada de salvación to resist spell disruption y ignore the damage for purposes of lanzar conjuros.
 
 Preparatory Countermagic: Commit Effort for the escena when you are affected by a spell you have prepared, including when you are standing in the area of effect of one of your own damaging spells.
 
@@ -1493,7 +1493,7 @@ You are unaffected by the spell's direct effects.
 
 Psychic Conversion: Once per day as an Rápida action, expend one casting slot to remove one point of accrued Estrés Corporal y heal 2 hit points per level.
 
-Restrained Casting: Commit Effort for the day as an Instantánea action when casting a High Magic spell.
+Restrained Casting: Commit Effort for the day as an Instantánea action when casting a Alta Magia spell.
 You may do so in perfect silence y without need for somatic gestures, though damage will still disrupt the casting.
 
 Retain Sorcery: Commit Effort for the day as an Rápida action after casting a spell; it does not count against your casting limits for the day.
@@ -1504,7 +1504,7 @@ The ambient magical energies in most areas allow you to see clearly even in cond
 
 Suppress Magic: Commit Effort for the day as an Rápida action y target a visible or known magical effect within one hundred feet.
 The effect is suppressed as if by the Extirpate Arcana spell for 1d6 rondas plus the caster's personaje level.
-Spells cast by more powerful casters may not be successfully suppressed, as noted in the spell description.
+Conjuros cast by more powerful casters may not be successfully suppressed, as noted in the spell description.
 
 The caster can attempt to suppress an effect only once.
 
@@ -1519,7 +1519,7 @@ As long as it remains Committed, you will not become dirty, sweaty, stained, or 
 Noxious substances will slide off you without staining y you will remain comfortable regardless of your attire in any normal climate.
 You may sleep comfortably without shelter or bedding as per the privation rules.
 
-#### Full High Mage
+#### No Parciales High Mago
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1534,37 +1534,37 @@ You may sleep comfortably without shelter or bedding as per the privation rules.
 | 9     | 9d6-9    | +1           |            |
 | 10    | 10d6-10  | +2           | +1 Any     |
 
-#### Full High Mage Arts y Spells
+#### No Parciales High Mago Artes y Conjuros
 
-| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level |
-| ----- | --------------- | ----------- | --------------- | ------------------------- |
-| 1     | 1               | 1           | 3               | Any Two                   |
-| 2     | 1               | 1           | 3               | Any One                   |
-| 3     | 2               | 2           | 4               |                           |
-| 4     | 2               | 2           | 5               | Any One                   |
-| 5     | 3               | 3           | 6               |                           |
-| 6     | 3               | 3           | 7               | Any One                   |
-| 7     | 4               | 4           | 8               |                           |
-| 8     | 4               | 4           | 9               | Any One                   |
-| 9     | 5               | 5           | 10              |                           |
-| 10    | 5               | 6           | 12              | Any One                   |
+| Level | Max Spell Level | Conjuros Cast | Prepared Conjuros | Artes Gained at This Level |
+| ----- | --------------- | ------------- | ----------------- | -------------------------- |
+| 1     | 1               | 1             | 3                 | Any Two                    |
+| 2     | 1               | 1             | 3                 | Any One                    |
+| 3     | 2               | 2             | 4                 |                            |
+| 4     | 2               | 2             | 5                 | Any One                    |
+| 5     | 3               | 3             | 6                 |                            |
+| 6     | 3               | 3             | 7                 | Any One                    |
+| 7     | 4               | 4             | 8                 |                            |
+| 8     | 4               | 4             | 9                 | Any One                    |
+| 9     | 5               | 5             | 10                |                            |
+| 10    | 5               | 6             | 12                | Any One                    |
 
-#### Parciales Expert / Parciales High Mage
+#### Parciales Experto / Parciales High Mago
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Other Mage / Parciales High Mage
+#### Parciales Other Mago / Parciales High Mago
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1579,7 +1579,7 @@ You may sleep comfortably without shelter or bedding as per the privation rules.
 | 9     | 9d6-9    | +1           |            |
 | 10    | 10d6-10  | +2           | +1 Any     |
 
-#### Parciales Warrior / Parciales High Mage
+#### Parciales Warrior / Parciales High Mago
 
 | Level | Hit Dice | Attack Bonus | Foco Picks          |
 | ----- | -------- | ------------ | ------------------- |
@@ -1594,32 +1594,32 @@ You may sleep comfortably without shelter or bedding as per the privation rules.
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Parciales High Mage Arts y Spells
+#### Parciales High Mago Artes y Conjuros
 
-| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level |
-| ----- | --------------- | ----------- | --------------- | ------------------------- |
-| 1     | 1               | 1           | 2               | Any One                   |
-| 2     | 1               | 1           | 3               | Any One                   |
-| 3     | 1               | 1           | 3               | Any One                   |
-| 4     | 1               | 2           | 4               |                           |
-| 5     | 2               | 2           | 5               |                           |
-| 6     | 2               | 3           | 6               | Any One                   |
-| 7     | 2               | 3           | 7               |                           |
-| 8     | 2               | 3           | 7               |                           |
-| 9     | 3               | 4           | 8               | Any One                   |
-| 10    | 3               | 4           | 9               |                           |
+| Level | Max Spell Level | Conjuros Cast | Prepared Conjuros | Artes Gained at This Level |
+| ----- | --------------- | ------------- | ----------------- | -------------------------- |
+| 1     | 1               | 1             | 2                 | Any One                    |
+| 2     | 1               | 1             | 3                 | Any One                    |
+| 3     | 1               | 1             | 3                 | Any One                    |
+| 4     | 1               | 2             | 4                 |                            |
+| 5     | 2               | 2             | 5                 |                            |
+| 6     | 2               | 3             | 6                 | Any One                    |
+| 7     | 2               | 3             | 7                 |                            |
+| 8     | 2               | 3             | 7                 |                            |
+| 9     | 3               | 4             | 8                 | Any One                    |
+| 10    | 3               | 4             | 9                 |                            |
 
 ### The Invoker
 
-The Invoker is an optional spellcasting Mage class that allows a caster to gain flexibility in casting weaker spells.
-In exchange, an Invoker sacrifices arts y finds more powerful spells to be more draining to cast.
+The Invoker is an optional lanzar conjuros Mago class that allows a caster to gain flexibility in casting weaker spells.
+In exchange, an Invoker sacrifices artes y finds more powerful spells to be more draining to cast.
 
 #### Invoker Benefits
 
-All Invokers gain Magic as a bonus habilidad, acquiring it at level-0, or level-1 if was already level-0.
+All Invocadores gain Magic as a bonus habilidad, acquiring it at level-0, or level-1 if was already level-0.
 Their arcane versatility requires a thorough grounding in theory.
 
-Invokers can learn y prepare spells of the High Magic tradition, y have the same limits on casting in armor as they do.
+Invocadores can learn y prepare spells of the Alta Magia tradition, y have the same limits on casting in armor as they do.
 Each Invoker can prepare a number of known spells as indicated by the table each day, plus their Inteligencia modifier.
 
 Each Invoker has a number of spell points based on their level, to which is added their Inteligencia modifier.
@@ -1627,26 +1627,26 @@ When they cast the spell, they subtract its level from their available spell poi
 So long as they have sufficient spell points left, they can cast the same spell repeatedly.
 Spell points refresh each morning.
 
-Invokers do not normally gain arts; their versatility requires complete focus, barring those who take the Invoker-specific Traditional Education Foco.
-While it's possible to be a Parciales Invoker, this partial class may not be mixed with another partial spellcasting class.
+Invocadores do not normally gain artes; their versatility requires complete focus, barring those who take the Invoker-specific Traditional Education Foco.
+While it's possible to be a Parciales Invoker, this partial class may not be mixed with another partial lanzar conjuros class.
 
-Invokers begin play knowing four first level High Magic spells, or two if a partial class.
+Invocadores begin play knowing four first level Alta Magia spells, or two if a partial class.
 When they advance a level, they learn two more of any level or tradition from which they can cast, or one if a partial Invoker.
 
 #### Foco: Traditional Education
 
-Your Invoker has received a great deal of education in a specialist arcane spellcasting tradition such as High Magic arts, Elementalism or Necromancy.
-Only Invokers can take this Foco, y it can only be taken once.
+Your Invoker has received a great deal of education in a specialist arcane lanzar conjuros tradition such as Alta Magia artes, Elementalism or Necromancy.
+Only Invocadores can take this Foco, y it can only be taken once.
 
-Level 1: You may learn y prepare spells of your chosen tradition as well as those of High Magic.
-You gain arts as if a first level practitioner of that tradition, full or partial based on whether you're a full or partial Invoker, y your maximum Effort score is equal to your Magic habilidad, to a minimum of 1.
-You cannot gain further arts from this tradition.
+Level 1: You may learn y prepare spells of your chosen tradition as well as those of Alta Magia.
+You gain artes as if a first level practitioner of that tradition, full or partial based on whether you're a full or partial Invoker, y your maximum Effort score is equal to your Magic habilidad, to a minimum of 1.
+You cannot gain further artes from this tradition.
 
 #### Parciales Invoker Hit Dice y Attack Bonuses
 
-Parciales Invokers use the High Mage partial-class tables for hit dice y attack bonuses when blending with other classes.
+Parciales Invocadores use the High Mago partial-class tables for hit dice y attack bonuses when blending with other classes.
 
-#### Full Invoker
+#### No Parciales Invoker
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1661,76 +1661,76 @@ Parciales Invokers use the High Mage partial-class tables for hit dice y attack 
 | 9     | 9d6-9    | +1           |            |
 | 10    | 10d6-10  | +2           | +1 Any     |
 
-#### Full Invoker Spells
+#### No Parciales Invoker Conjuros
 
-| Level | Max Spell Level | Spell Points | Prepared Spells |
-| ----- | --------------- | ------------ | --------------- |
-| 1     | 1               | 1 + Int Mod  | 2 + Int Mod     |
-| 2     | 1               | 3 + Int Mod  | 3 + Int Mod     |
-| 3     | 2               | 4 + Int Mod  | 4 + Int Mod     |
-| 4     | 2               | 5 + Int Mod  | 4 + Int Mod     |
-| 5     | 3               | 6 + Int Mod  | 5 + Int Mod     |
-| 6     | 3               | 7 + Int Mod  | 6 + Int Mod     |
-| 7     | 4               | 8 + Int Mod  | 7 + Int Mod     |
-| 8     | 4               | 9 + Int Mod  | 7 + Int Mod     |
-| 9     | 5               | 10 + Int Mod | 8 + Int Mod     |
-| 10    | 5               | 11 + Int Mod | 9 + Int Mod     |
+| Level | Max Spell Level | Spell Points | Prepared Conjuros |
+| ----- | --------------- | ------------ | ----------------- |
+| 1     | 1               | 1 + Int Mod  | 2 + Int Mod       |
+| 2     | 1               | 3 + Int Mod  | 3 + Int Mod       |
+| 3     | 2               | 4 + Int Mod  | 4 + Int Mod       |
+| 4     | 2               | 5 + Int Mod  | 4 + Int Mod       |
+| 5     | 3               | 6 + Int Mod  | 5 + Int Mod       |
+| 6     | 3               | 7 + Int Mod  | 6 + Int Mod       |
+| 7     | 4               | 8 + Int Mod  | 7 + Int Mod       |
+| 8     | 4               | 9 + Int Mod  | 7 + Int Mod       |
+| 9     | 5               | 10 + Int Mod | 8 + Int Mod       |
+| 10    | 5               | 11 + Int Mod | 9 + Int Mod       |
 
-#### Parciales Invoker Spells
+#### Parciales Invoker Conjuros
 
-| Level | Max Spell Level | Spell Points | Prepared Spells |
-| ----- | --------------- | ------------ | --------------- |
-| 1     | 1               | 1 + Int Mod  | 1 + Int Mod     |
-| 2     | 1               | 1 + Int Mod  | 3 + Int Mod     |
-| 3     | 2               | 2 + Int Mod  | 3 + Int Mod     |
-| 4     | 2               | 2 + Int Mod  | 4 + Int Mod     |
-| 5     | 3               | 3 + Int Mod  | 4 + Int Mod     |
-| 6     | 3               | 3 + Int Mod  | 5 + Int Mod     |
-| 7     | 4               | 4 + Int Mod  | 6 + Int Mod     |
-| 8     | 4               | 4 + Int Mod  | 6 + Int Mod     |
-| 9     | 5               | 5 + Int Mod  | 6 + Int Mod     |
-| 10    | 5               | 6 + Int Mod  | 7 + Int Mod     |
+| Level | Max Spell Level | Spell Points | Prepared Conjuros |
+| ----- | --------------- | ------------ | ----------------- |
+| 1     | 1               | 1 + Int Mod  | 1 + Int Mod       |
+| 2     | 1               | 1 + Int Mod  | 3 + Int Mod       |
+| 3     | 2               | 2 + Int Mod  | 3 + Int Mod       |
+| 4     | 2               | 2 + Int Mod  | 4 + Int Mod       |
+| 5     | 3               | 3 + Int Mod  | 4 + Int Mod       |
+| 6     | 3               | 3 + Int Mod  | 5 + Int Mod       |
+| 7     | 4               | 4 + Int Mod  | 6 + Int Mod       |
+| 8     | 4               | 4 + Int Mod  | 6 + Int Mod       |
+| 9     | 5               | 5 + Int Mod  | 6 + Int Mod       |
+| 10    | 5               | 6 + Int Mod  | 7 + Int Mod       |
 
-### The Mage
+### The Mago
 
-The Mage class is a general header under which all heroes with fundamentally supernatural poderes or spellcasting ability are place.
+The Mago class is a general header under which all heroes with fundamentally supernatural poderes or lanzar conjuros ability are place.
 
-Once this class is chosen, the PC must choose a specific arcane tradition to follow; one is a High Mage, or a Vowed, or an Elementalist, for example.
+Once this class is chosen, the PC must choose a specific arcane tradition to follow; one is a High Mago, or a Vowed, or an Elementalist, for example.
 
 Not all magical traditions necessarily involve classical spell-flinging y conjury.
 Some traditions are much more physical in nature, granting the practitioners remarkable bodily prowess or unique magical gifts they can exercise.
-Some Mage traditions involve no spellcasting at all, restricting their focus entirely to the strange arcane gifts their forebears have developed.
+Some Mago traditions involve no lanzar conjuros at all, restricting their focus entirely to the strange arcane gifts their forebears have developed.
 
 While these spells y occult poderes are impressive, they tend to come at a cost.
-A Mage must spend so much time focused on their studies y training that they have little time to master any other art.
+A Mago must spend so much time focused on their studies y training that they have little time to master any other art.
 Most are notably weak combatants with little ability to survive hardships that would merely wound or weary a Warrior.
 
 In addition to this, many traditions have their own specific limits on practitioners.
-Initiates of the High Mage tradition, for example, cannot cast their spells while wearing anything heavier than normal clothing, thus making it impossible for them to wear armor y still wield their spells.
+Initiates of the High Mago tradition, for example, cannot cast their spells while wearing anything heavier than normal clothing, thus making it impossible for them to wear armor y still wield their spells.
 The hindrances of some traditions extend beyond physical limitations to social penalties or difficulties in dealing with mundane humanity; a necromancer may have impressive poderes of magic, but they are often unwelcome in civilized lands y are sometimes subject to the panicked justice of frightened locals y their lords.
 
-The ways of magic tend to be specific to settings in a way that swordplay or skillful arts are not.
-Your GM may disallow certain Mage traditions or partial classes based on the particulars of their own campaign world or the specific sort of game they want to play.
+The ways of magic tend to be specific to settings in a way that swordplay or skillful artes are not.
+Your GM may disallow certain Mago traditions or partial classes based on the particulars of their own campaign world or the specific sort of game they want to play.
 Some campaigns set in historical periods or very low-magic worlds might not include Mages at all, leaving heroes reliant on the fuerza of their own arms y the cunning of their own native wits.
 
-Whatever the setting, Mage heroes need to rely on careful planning y a cooperative party to get the most from their talentos.
+Whatever the setting, Mago heroes need to rely on careful planning y a cooperative party to get the most from their talentos.
 
-While potent, the spells they wield are few in number y usually narrow in effect; even the mightiest sorcerer is just not going to be as effective as their Warrior peers in slaying fearsome enemies or their Expert companions in carrying out the mundane activities of stealth, persuasion, or investigation.
+While potent, the spells they wield are few in number y usually narrow in effect; even the mightiest sorcerer is just not going to be as effective as their Warrior peers in slaying fearsome enemies or their Experto companions in carrying out the mundane activities of stealth, persuasion, or investigation.
 Instead, Mages excel at providing carefully-planned impossibilities, those selective defiances of reality that allow their teammates to pull off incredible schemes or overcome otherwise insurmountable odds.
 
 #### Class Ability: Arcane Tradition
 
-The Mage may pick one magical tradition to represent their occult poderes, as listed in this section.
+The Mago may pick one magical tradition to represent their occult poderes, as listed in this section.
 This tradition may give them a number of additional benefits y restrictions.
 
 ### The Mageslayer
 
-Mageslayers are those specialist combatants who trade a more general proficiency in battle for certain special arts that make them exceptionally lethal against spellcasters.
+Mageslayers are those specialist combatants who trade a more general proficiency in battle for certain special artes that make them exceptionally lethal against spellcasters.
 
 #### Benefits of the Mageslayer
 
 The Mageslayer is a partial Warrior class that must be joined with a second partial class by an Adventurer.
-As no Mage class is allowed to pair with this profession, this usually means a Parciales Warrior/Mageslayer or Parciales Expert/Mageslayer.
+As no Mago class is allowed to pair with this profession, this usually means a Parciales Warrior/Mageslayer or Parciales Experto/Mageslayer.
 
 Unlike the normal Parciales Warrior class, Mageslayers do not get a bonus combate Foco at first level, nor do they grant a Parciales Warrior's +2 hit points per hit die.
 If their other Parciales class is Warrior, they gain these benefits normally.
@@ -1738,29 +1738,29 @@ If their other Parciales class is Warrior, they gain these benefits normally.
 All Mageslayers gain Magic-0 during personaje creation.
 While it cannot be used for item creation or other magical pursuits, it allows them an intellectual understanding of their prey's talentos.
 
-Mageslayers gain special arts at first level y as they advance.
+Mageslayers gain special artes at first level y as they advance.
 
-#### Spellcasters y Spells
+#### Spellcasters y Conjuros
 
-Many of these arts refer to "casters" y "spells".
+Many of these artes refer to "casters" y "spells".
 Each of these terms has a specific definition for Mageslayers.
 
-A "spell" is learned power that a creature casts with the usual spellcasting rules or an art used by a Mage class.
+A "spell" is learned power that a creature casts with the usual lanzar conjuros rules or an art used by a Mago class.
 Magical effects created by portable magic items also count as spells, such as a wand that hurls fiery bolts, or an amulet that conjures impenetrable barriers.
 
 Passive magical qualities, like the hit bonus of a magic sword, do not count as spells, nor do magical effects created by Workings or other large-scale edifices.
 Neither are a magical creature's innate supernatural poderes or magical talentos that mimic specific spells.
 
-A "caster" is any creature that is capable of casting spells using the usual spellcasting rules or triggering Mage class arts, whatever their brand of magic may be.
+A "caster" is any creature that is capable of casting spells using the usual lanzar conjuros rules or triggering Mago class artes, whatever their brand of magic may be.
 
-Potent as the Mageslayer's arts may be, they are not strong enough to negate magic generated by gods, demi-divinities, or other quasi-divine entities.
+Potent as the Mageslayer's artes may be, they are not strong enough to negate magic generated by gods, demi-divinities, or other quasi-divine entities.
 
-#### Mageslayer Arts
+#### Mageslayer Artes
 
 A Mageslayer has an Effort score equal to their Magic habilidad level plus their highest attribute modifier among Inteligencia y Constitución, to a minimum of one point.
-Mageslayer arts may be used in or out of armor, y require no free hands, incantations, or other overt acciones, though some sects have favored prayers or oaths.
+Mageslayer artes may be used in or out of armor, y require no free hands, incantations, or other overt acciones, though some sects have favored prayers or oaths.
 
-A Mageslayer gains their arts at a set rate, beginning with Antimage y Magebane at first level, y acquiring other talents as they gain experience.
+A Mageslayer gains their artes at a set rate, beginning with Antimage y Magebane at first level, y acquiring other talents as they gain experience.
 
 ##### Absolute Negation
 
@@ -1780,8 +1780,8 @@ This art can only be applied to creatures, not objects, y can be applied to your
 ##### Disrupt Sorcery
 
 As an Rápida action, Commit Effort for the escena.
-The next attack you make that ronda will leave the target unable to cast spells or trigger Mage arts for the rest of the ronda, even if the attack misses.
-Currently-active arts are not disrupted.
+The next attack you make that ronda will leave the target unable to cast spells or trigger Mago artes for the rest of the ronda, even if the attack misses.
+Currently-active artes are not disrupted.
 If the attack is successfully Screened by an ally, however, the target is unaffected.
 
 ##### Immaculate Body
@@ -1819,27 +1819,27 @@ When a spell inflicts hit point damage on you, it's automatically halved, rounde
 
 As an Instantánea action, Commit Effort for the escena when an ally within thirty feet is affected by a spell; you are affected by the spell in place of your ally.
 If you are both in the same area of effect, the spell hits you twice.
-Any defenses or arts you have against sorcery may be applied as usual to this transferred effect.
+Any defenses or artes you have against sorcery may be applied as usual to this transferred effect.
 
 ##### Witchfinder
 
 As a Acción Principal, Commit Effort for the escena.
 For the rest of the escena, you gain the benefits of the Apprehend the Arcane Form spell, except for the spell's dark-vision ability.
 
-#### Parciales Expert / Parciales Mageslayer
+#### Parciales Experto / Parciales Mageslayer
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +1           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +2           | + 1 Any            |
-| 3     | 3d6      | +2           |                    |
-| 4     | 4d6      | +3           |                    |
-| 5     | 5d6      | +4           | +1 Any             |
-| 6     | 6d6      | +5           |                    |
-| 7     | 7d6      | +5           | +1 Any             |
-| 8     | 8d6      | +6           |                    |
-| 9     | 9d6      | +6           |                    |
-| 10    | 10d6     | +7           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +1           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +2           | + 1 Any             |
+| 3     | 3d6      | +2           |                     |
+| 4     | 4d6      | +3           |                     |
+| 5     | 5d6      | +4           | +1 Any              |
+| 6     | 6d6      | +5           |                     |
+| 7     | 7d6      | +5           | +1 Any              |
+| 8     | 8d6      | +6           |                     |
+| 9     | 9d6      | +6           |                     |
+| 10    | 10d6     | +7           | +1 Any              |
 
 #### Parciales Warrior / Parciales Mageslayer
 
@@ -1858,7 +1858,7 @@ For the rest of the escena, you gain the benefits of the Apprehend the Arcane Fo
 
 #### Mageslayer Art Progression
 
-| Level | Arts Gained at this level                    |
+| Level | Artes Gained at this level                   |
 | ----- | -------------------------------------------- |
 | 1     | [Antimage](#antimage), [Magebane](#magebane) |
 | 2     | Witchfinder, Spellshield                     |
@@ -1873,26 +1873,26 @@ For the rest of the escena, you gain the benefits of the Apprehend the Arcane Fo
 
 ### The Necromancer
 
-Necromancers are those spellcasting Mages who deal with the energies of life y death.
+Necromancers are those lanzar conjuros Mages who deal with the energies of life y death.
 
 #### Necromancer Benefits
 
 All Necromancers gain Magic as a bonus habilidad, acquiring it at level-0, or level-1 if was already level-0.
 
-Necromancers can prepare y cast High Magic spells in addition to the spells specific to Necromancers.
+Necromancers can prepare y cast Alta Magia spells in addition to the spells specific to Necromancers.
 Some of the latter are given on the following pages, but others doubtless exist.
-As usual for spellcasters, Necromancers can't cast spells or use arts while armored or holding a shield.
+As usual for spellcasters, Necromancers can't cast spells or use artes while armored or holding a shield.
 
-Necromancers are not as talented at general High Magic research as High Mages are, but their studies still bear fruit in time.
+Necromancers are not as talented at general Alta Magia research as Altos Magos are, but their studies still bear fruit in time.
 
-Each time they advance a level, they can pick a new High Magic spell or a Necromancer spell to add to their spellbook.
+Each time they advance a level, they can pick a new Alta Magia spell or a Necromancer spell to add to their spellbook.
 They must be able to cast the spell to add it to their selection.
 
 Necromancers can pick an art specific to their tradition from the adjacent list.
-Further arts are learned as they advance in personaje level, as given in the tables below.
+Further artes are learned as they advance in personaje level, as given in the tables below.
 Once chosen, an art cannot be changed.
 
-#### Necromancer Arts
+#### Necromancer Artes
 
 Necromancer Effort is calculated as usual, with each PC's maximum being equal to one plus their Magic habilidad level plus the better of their Inteligencia or Carisma modifiers.
 Parciales Necromancers have a score one point lower than this, albeit not less than one.
@@ -1904,7 +1904,7 @@ Unintelligent undead will not attack you or your companions unless specifically 
 Even intelligent undead will generally pause at least for an initial parley before attacking.
 
 Cold Flesh: You no longer require sleep y feel pain only in an abstract sense.
-You can suffer no more than 2 points of damage from any given instance of Shock y you have a natural Armor Class equal to 12 plus half your level, rounded down.
+You can suffer no more than 2 points of damage from any given instance of Shock y you have a natural Clase de Armadura equal to 12 plus half your level, rounded down.
 
 Consume Life Energy: By making a Golpear attack or using a melee weapon you have spent at least an hour properly consecrating, you can absorb a portion of the damage you inflict on others as healing to yourself.
 For each successful attack you make with such implements, you heal 1d6 damage, up to a maximum of the damage done by the attack.
@@ -1950,7 +1950,7 @@ Unliving Persistence: Commit Effort for the day as an Rápida action to automati
 You may use this ability to benefit others if you are able to touch them.
 This ability cannot save a subject that has experienced dismemberment or other extremely final deaths.
 
-#### Full Necromancer
+#### No Parciales Necromancer
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -1965,37 +1965,37 @@ This ability cannot save a subject that has experienced dismemberment or other e
 | 9     | 9d6-9    | +1           |            |
 | 10    | 10d6-10  | +2           | +1 Any     |
 
-#### Full Necromancer Arts y Spells
+#### No Parciales Necromancer Artes y Conjuros
 
-| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level |
-| ----- | --------------- | ----------- | --------------- | ------------------------- |
-| 1     | 1               | 1           | 3               | Any Two                   |
-| 2     | 1               | 1           | 3               | Any One                   |
-| 3     | 2               | 2           | 4               |                           |
-| 4     | 2               | 2           | 5               | Any One                   |
-| 5     | 3               | 3           | 6               |                           |
-| 6     | 3               | 3           | 7               | Any One                   |
-| 7     | 4               | 4           | 8               |                           |
-| 8     | 4               | 4           | 9               | Any One                   |
-| 9     | 5               | 5           | 10              |                           |
-| 10    | 5               | 6           | 12              | Any One                   |
+| Level | Max Spell Level | Conjuros Cast | Prepared Conjuros | Artes Gained at This Level |
+| ----- | --------------- | ------------- | ----------------- | -------------------------- |
+| 1     | 1               | 1             | 3                 | Any Two                    |
+| 2     | 1               | 1             | 3                 | Any One                    |
+| 3     | 2               | 2             | 4                 |                            |
+| 4     | 2               | 2             | 5                 | Any One                    |
+| 5     | 3               | 3             | 6                 |                            |
+| 6     | 3               | 3             | 7                 | Any One                    |
+| 7     | 4               | 4             | 8                 |                            |
+| 8     | 4               | 4             | 9                 | Any One                    |
+| 9     | 5               | 5             | 10                |                            |
+| 10    | 5               | 6             | 12                | Any One                    |
 
-#### Parciales Expert / Parciales Necromancer
+#### Parciales Experto / Parciales Necromancer
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Necromancer
+#### Parciales Mago / Parciales Necromancer
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -2025,35 +2025,35 @@ This ability cannot save a subject that has experienced dismemberment or other e
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Parciales Necromancer Arts y Spells
+#### Parciales Necromancer Artes y Conjuros
 
-| Level | Max Spell Level | Spells Cast | Prepared Spells | Arts Gained at This Level |
-| ----- | --------------- | ----------- | --------------- | ------------------------- |
-| 1     | 1               | 1           | 2               | Any One                   |
-| 2     | 1               | 1           | 3               |                           |
-| 3     | 1               | 1           | 3               | Any One                   |
-| 4     | 1               | 2           | 4               |                           |
-| 5     | 2               | 2           | 5               |                           |
-| 6     | 2               | 3           | 6               | Any One                   |
-| 7     | 2               | 3           | 7               |                           |
-| 8     | 2               | 3           | 7               |                           |
-| 9     | 3               | 4           | 8               | Any One                   |
-| 10    | 3               | 4           | 9               |                           |
+| Level | Max Spell Level | Conjuros Cast | Prepared Conjuros | Artes Gained at This Level |
+| ----- | --------------- | ------------- | ----------------- | -------------------------- |
+| 1     | 1               | 1             | 2                 | Any One                    |
+| 2     | 1               | 1             | 3                 |                            |
+| 3     | 1               | 1             | 3                 | Any One                    |
+| 4     | 1               | 2             | 4                 |                            |
+| 5     | 2               | 2             | 5                 |                            |
+| 6     | 2               | 3             | 6                 | Any One                    |
+| 7     | 2               | 3             | 7                 |                            |
+| 8     | 2               | 3             | 7                 |                            |
+| 9     | 3               | 4             | 8                 | Any One                    |
+| 10    | 3               | 4             | 9                 |                            |
 
 ### The Skinshifter
 
-The Skinshifter is a partial Mage class that grants the user shapeshifting talentos, whether to adopt the form of beasts or configurations of their own devising.
+The Skinshifter is a partial Mago class that grants the user shapeshifting talentos, whether to adopt the form of beasts or configurations of their own devising.
 
 #### Skinshifter Benefits
 
-Skinshifter is a partial Mage class, meant to be taken by an Adventurer in conjunction with another partial class.
-A Parciales Warrior/Skinshifter might be a shapeshifting assassin or feral savage warrior, while a Parciales Expert/Skinshifter could be an undetectable impostor or con artist.
+Skinshifter is a partial Mago class, meant to be taken by an Adventurer in conjunction with another partial class.
+A Parciales Warrior/Skinshifter might be a shapeshifting assassin or feral savage warrior, while a Parciales Experto/Skinshifter could be an undetectable impostor or con artist.
 
 All Skinshifters gain Survive-0 as a bonus habilidad, or Survive-1 if they already have Survive-0 as a habilidad.
 
 #### Skinshifter Forms
 
-The arts of a Skinshifter revolve around improving or adjusting their alternate forms.
+The artes of a Skinshifter revolve around improving or adjusting their alternate forms.
 These alternate forms have a few basic rules that apply to all their permutations.
 
 A Skinshifter can master one alternate form per personaje level.
@@ -2061,27 +2061,27 @@ A Skinshifter can master one alternate form per personaje level.
 A Skinshifter who wants to change a form selection can do so with a day of careful practice y adjustment.
 Skinshifter PJs should note down the special poderes or traits of their alternate forms y keep in mind which of them they have available at any one time.
 
-A Skinshifter's alternate forms use the same hit points, personaje attributes, y movement speed as their normal form, unless modified by particular arts.
+A Skinshifter's alternate forms use the same hit points, personaje attributes, y movement speed as their normal form, unless modified by particular artes.
 Thus, a Skinshifter shifted into a wolf's shape would do no more damage with its bite than the human's unarmed attack would do without some augmenting art.
 Alternate forms do grant a minimum level of combate competence, however, y so the "Form Bonus" hit bonus is used in place of the PC's basic class hit bonus when in a non-humanoid shape, assuming they don't already have a better basic bonus from their other partial class.
 
-Arts that improve the alternate forms can apply their benefits even if the creature's natural shape wouldn't normally grant it.
+Artes that improve the alternate forms can apply their benefits even if the creature's natural shape wouldn't normally grant it.
 Thus, a Skinshifter with the Manifest Wings art could have a wolf-form that had wings y a flying speed if they wished.
-A given form can have no more than three arts applied to it.
+A given form can have no more than three artes applied to it.
 
 A Skinshifter's alternate forms can be any size between a horse y a kitten, barring modification by some art.
 They do not need to emulate a specific type of creature; a Skinshifter could have a clawed y winged humanoid form as an alternate shape, or a dog with the head of a man, or a cat with razor-sharp mandibles.
 
-The belongings carried by a Skinshifter meld into any new form unless the PC decides otherwise, granting any benefit to Armor Class or other worn advantage they may normally give.
+The belongings carried by a Skinshifter meld into any new form unless the PC decides otherwise, granting any benefit to Clase de Armadura or other worn advantage they may normally give.
 Melded objects can be manifested y dropped as an Rápida action, but cannot be re-melded again unless the PC changes form with them again.
 
 Skinshifter forms cannot perfectly duplicate another individual creature without an appropriate art.
 
-#### Skinshifter Arts
+#### Skinshifter Artes
 
 Skinshifter Effort is based on Survive, y is equal to the PC's Survive habilidad level plus the highest of their Constitución or Carisma modifiers, to a minimum of one point.
 All Skinshifters begin play with the Change Form art y one more of their choice.
-Additional arts are learned as the PC advances in experience.
+Additional artes are learned as the PC advances in experience.
 
 Change Form: Commit Effort for the day as a Acción Principal to transform into an available Alternate form.
 This shift persists until you die, shift to a new form, or end the transformation as an Rápida action.
@@ -2089,7 +2089,7 @@ This shift persists until you die, shift to a new form, or end the transformatio
 Your hit points, Estrés Corporal, y other scores remain the same in any new form, but in a non-humanoid form your class' base attack bonus can be no worse than the one listed on the table.
 If your shape is quadrupedal, its Move is 10' faster than your base.
 
-#### Other Skinshifter Arts
+#### Other Skinshifter Artes
 
 Eyes of the Hawk: This shape has remarkably acute senses.
 You can scent trails y objects like a dog, hear very faint noises, see objects clearly enough to identify faces at a thousand feet of distance, y see clearly in anything short of complete darkness.
@@ -2106,15 +2106,15 @@ These alterations are obvious y extreme; it is impossible to masquerade as a nor
 Hit points gained from Con improvements are lost when shifting back.
 
 Intrinsic Armor: This shape has tough scales, hide, shell, or other defensive integuments.
-Your base Armor Class is 14 plus half your personaje level, rounded down.
-This AC can be modified by your Destreza modifier, y by shields if the shape can hold one.
+Your base Clase de Armadura is 14 plus half your personaje level, rounded down.
+This CA can be modified by your Destreza modifier, y by shields if the shape can hold one.
 
 Manifest Wings: This shape can form usable wings.
 You can't effectively attack while concentrating on remaining aloft, but you can fly at your normal rango de movimiento +10' per action.
 If unhindered y flying overland you can travel up to ten miles an hour y fly up to five hours a day.
 
 Octopus' Embrace: This shape can have more than four usable limbs.
-These additional tentacles, arms, legs, or grippers can hold y manipulate things; up to four Stowed objects can be held Ready by these limbs without counting against your Readied Impedimenta limit.
+These additional tentacles, arms, legs, or grippers can hold y manipulate things; up to four Guardado objects can be held Ready by these limbs without counting against your Preparado Impedimenta limit.
 
 These extra limbs cannot effectively employ extra shields, perform additional attacks or acciones, or do other things that require significant focus beyond your current action.
 
@@ -2125,10 +2125,10 @@ Pliant Flesh: You've mastered your shapeshifting skills, y Change Form can be us
 
 Alternately, it can take as long as a minute but cost no Effort.
 Whenever you spend Effort to shift shape, you heal lost hit points equal to 1d6 plus your level; this does not apply when merely reverting a form's change.
-This art is intrinsic to you, y doesn't count against the total number of arts allowed to apply to a form.
+This art is intrinsic to you, y doesn't count against the total number of artes allowed to apply to a form.
 
 Savage Talons: This shape has extremely dangerous claws, fangs, pincers, or other body weapons.
-At first level these weapons do 1d8 damage, use either Fue or Des as the modifying attribute, Golpear as the combate habilidad, y have a Shock value of 2/AC 13.
+At first level these weapons do 1d8 damage, use either Fue or Des as the modifying attribute, Golpear as the combate habilidad, y have a Shock value of 2/CA 13.
 At level 3 the damage y Shock increase by +1, at level 6 they increase to +2, y at level 9 they increase to +3.
 These weapons can harm even creatures immune to non-magical weaponry.
 
@@ -2151,22 +2151,22 @@ This shape is blatantly martial in appearance, however, y cannot pass as anythin
 Sabiduría of Fin y Scale: This shape can breathe water, swim at double your usual Move rate, y is impervious to any normal climatic extreme of cold or undersea pressure.
 It can see up to sixty feet while underwater even in the absence of normal light.
 
-#### Parciales Expert / Parciales Skinshifter
+#### Parciales Experto / Parciales Skinshifter
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Other Mage / Parciales Skinshifter
+#### Parciales Other Mago / Parciales Skinshifter
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -2196,30 +2196,30 @@ It can see up to sixty feet while underwater even in the absence of normal light
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Skinshifter Arts y Form Bonus
+#### Skinshifter Artes y Form Bonus
 
-| Level | Form Bonus | Arts Gained at This Level |
-| ----- | ---------- | ------------------------- |
-| 1     | +1         | Change Form y Any One     |
-| 2     | +1         | Any One                   |
-| 3     | +2         |                           |
-| 4     | +2         | Any One                   |
-| 5     | +3         | Any One                   |
-| 6     | +3         | Any One                   |
-| 7     | +4         |                           |
-| 8     | +4         | Any One                   |
-| 9     | +5         |                           |
-| 10    | +6         | Any One                   |
+| Level | Form Bonus | Artes Gained at This Level |
+| ----- | ---------- | -------------------------- |
+| 1     | +1         | Change Form y Any One      |
+| 2     | +1         | Any One                    |
+| 3     | +2         |                            |
+| 4     | +2         | Any One                    |
+| 5     | +3         | Any One                    |
+| 6     | +3         | Any One                    |
+| 7     | +4         |                            |
+| 8     | +4         | Any One                    |
+| 9     | +5         |                            |
+| 10    | +6         | Any One                    |
 
 ### The Thought Noble
 
-This partial Mage class allows a PC to subtly manipulate the thoughts of others y control their own mind y body's operation.
+This partial Mago class allows a PC to subtly manipulate the thoughts of others y control their own mind y body's operation.
 
 #### Thought Noble Benefits
 
-A Thought Noble exists only as a partial Mage class, to be taken by an Adventurer alongside another partial class.
-A Parciales Warrior/Thought Noble might be a cunning duelist who chooses his enemies with uncanny foreknowledge, while a Parciales High Mage/
-Thought Noble might be an arcanist who has managed to unearth the secrets of these psychic arts in the course of their own studies.
+A Thought Noble exists only as a partial Mago class, to be taken by an Adventurer alongside another partial class.
+A Parciales Warrior/Thought Noble might be a cunning duelist who chooses his enemies with uncanny foreknowledge, while a Parciales High Mago/
+Thought Noble might be an arcanist who has managed to unearth the secrets of these psychic artes in the course of their own studies.
 
 All Thought Nobles gain Descubrir as a bonus habilidad, acquiring it at level-0, or level-1 if they already have it at level-0.
 An ability to clearly sense perceptual inputs is fundamental to a Thought Noble's training, y it is all but impossible to make sense of foreign mental inputs without a disciplined y trained sensorium.
@@ -2227,19 +2227,19 @@ An ability to clearly sense perceptual inputs is fundamental to a Thought Noble'
 Thought Nobles do not cast spells.
 Instead, they develop various cognitive y telepathic talentos based on the focus of their studies.
 
-#### Thought Noble Arts
+#### Thought Noble Artes
 
 Thought Noble Effort is calculated with Descubrir rather than Magic, with each PC's maximum being equal to their Descubrir habilidad level plus the better of their Inteligencia or Sabiduría modifiers, to a minimum of one point.
 
 All Thought Nobles are trained in the Open Mind art, but may develop other techniques with time.
 If an art allows a tirada de salvación to resist it, success renders the target immune to that art for the rest of the escena.
-Thought Noble arts are all entirely invisible to any but magical senses y provide no hint as to who is using them, even on a successful Mental tirada de salvación.
+Thought Noble artes are all entirely invisible to any but magical senses y provide no hint as to who is using them, even on a successful Mental tirada de salvación.
 
 Open Mind: Commit Effort as an Rápida action.
 While Effort remains Committed, you may detect the current emotional state of a visible living creature as a Acción Principal.
 This discernment isn't fine enough to identify the object of their emotions unless it's obvious from the context.
 
-#### Other Thought Noble Arts
+#### Other Thought Noble Artes
 
 Block Memory: Target a visible living creature y Commit Effort for the day as a Acción Principal while specifying a particular event or situation that didn't extend longer than a escena.
 The target gets a Mental tirada de salvación; on a failure, they simply cannot remember the event y will construct a plausible false memory to paper over the gap.
@@ -2316,22 +2316,22 @@ Unthinkable Thought: Target a visible living creature y Commit Effort for the da
 The target may make a Mental save to resist; on a failure, they simply cannot consciously acknowledge the existence of the subject or its acciones unless ignoring it would obviously put their life at risk.
 This forced ignorance lasts for up to a escena; at its end, the target will have no memory of the subject.
 
-#### Parciales Expert / Parciales Thought Noble
+#### Parciales Experto / Parciales Thought Noble
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Thought Noble
+#### Parciales Mago / Parciales Thought Noble
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -2361,29 +2361,29 @@ This forced ignorance lasts for up to a escena; at its end, the target will have
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Thought Noble Arts
+#### Thought Noble Artes
 
-| Level | Arts Gained at This Level |
-| ----- | ------------------------- |
-| 1     | Open Mind y Any One       |
-| 2     | Any One                   |
-| 3     | Any One                   |
-| 4     | Any One                   |
-| 5     | Any One                   |
-| 6     | Any One                   |
-| 7     | Any One                   |
-| 8     | Any One                   |
-| 9     | Any One                   |
-| 10    | Any One                   |
+| Level | Artes Gained at This Level |
+| ----- | -------------------------- |
+| 1     | Open Mind y Any One        |
+| 2     | Any One                    |
+| 3     | Any One                    |
+| 4     | Any One                    |
+| 5     | Any One                    |
+| 6     | Any One                    |
+| 7     | Any One                    |
+| 8     | Any One                    |
+| 9     | Any One                    |
+| 10    | Any One                    |
 
 ### The Vowed
 
-Adepts of fist y bodily discipline, the Vowed are a partial Mage class dedicated to unarmed combate, physical training, y mental discipline.
+Adepts of fist y bodily discipline, the Vowed are a partial Mago class dedicated to unarmed combate, physical training, y mental discipline.
 
 #### Vowed Benefits
 
-The Vowed class exists only as a partial Mage class, to be taken by an Adventurer along with another partial class.
-Thus, a Parciales Warrior/Parciales Vowed might be a hardened temple warrior-monk, a Parciales Expert/Parciales Vowed might be a sage teacher of religious or philosophical truths, y a Parciales Elementalist/Parciales Vowed might be a mountain sage who wields the elemental forces of nature.
+The Vowed class exists only as a partial Mago class, to be taken by an Adventurer along with another partial class.
+Thus, a Parciales Warrior/Parciales Vowed might be a hardened temple warrior-monk, a Parciales Experto/Parciales Vowed might be a sage teacher of religious or philosophical truths, y a Parciales Elementalist/Parciales Vowed might be a mountain sage who wields the elemental forces of nature.
 
 Regardless of classes, a Vowed's hit dice can't be worse than 1d6 per level thanks to Martial Style.
 
@@ -2393,29 +2393,29 @@ You may pick whatever non-combate habilidad suits your order, assuming the GM fi
 
 Vowed do not learn how to cast spells.
 Instead, they refine their inner poderes y physical capabilities.
-These arts are too precise y delicate to bear the impedimenta of heavy clothing, armor, or shields, y cannot be used when so burdened.
-The Armored Magic Foco can mitigate this, but Vowed are all trained in effective unarmored defense techniques.
+These artes are too precise y delicate to bear the impedimenta of heavy clothing, armor, or shields, y cannot be used when so burdened.
+The Magia Con Armadura Foco can mitigate this, but Vowed are all trained in effective unarmored defense techniques.
 
-At first level, a Vowed gains the Martial Style, Unarmed Might, y Unarmored Defense arts, in addition to one more art of their choice as given on the adjacent list.
-Further advancement will grant additional arts.
+At first level, a Vowed gains the Martial Style, Unarmed Might, y Unarmored Defense artes, in addition to one more art of their choice as given on the adjacent list.
+Further advancement will grant additional artes.
 
-#### Vowed Arts
+#### Vowed Artes
 
 Vowed Effort is based on the habilidad they chose to represent their order's principal focus of study, whether Atletismo, Know, Magic, Pray, or some more esoteric habilidad.
 
 Their maximum Vowed Effort is equal to this habilidad level plus their best attribute modifier, whatever it may be, to a minimum of one point.
-All Vowed automatically gain the Martial Style, Unarmed Might, y Unarmored Defense arts as part of their training.
+All Vowed automatically gain the Martial Style, Unarmed Might, y Unarmored Defense artes as part of their training.
 
 Martial Style: Regardless of class, your hit die can't be worse than 1d6 per level.
-When attacking with the Golpear habilidad, your class hit bonus can be no worse than that of an Expert of your same personaje level.
+When attacking with the Golpear habilidad, your class hit bonus can be no worse than that of an Experto of your same personaje level.
 At third level, any attack using the Golpear habilidad counts as a magic weapon.
 
 Unarmed Might: Your unarmed attack damage increases as you gain levels, as noted on the chart.
 You may add your Golpear habilidad to the damage done by these attacks as usual, but Focos such as Unarmed Combatant that replace or improve your usual Golpear damage do not apply to you.
 
-Unarmored Defense: When not wearing armor or using a shield, your base Armor Class is equal to 13 plus half your personaje level, rounded down.
+Unarmored Defense: When not wearing armor or using a shield, your base Clase de Armadura is equal to 13 plus half your personaje level, rounded down.
 
-#### Other Vowed Arts
+#### Other Vowed Artes
 
 Brutal Counter: Commit Effort for the escena as an Instantánea action after resolving an enemy melee attack against you, whether it hits or misses.
 You may make a free physical attack against your assailant, using either a normal attack or some other offensive ability that takes no more than one Acción Principal to execute.
@@ -2439,7 +2439,7 @@ You regain two lost hit points per hour due to your natural restorative poderes.
 
 Mob Justice: As an Instantánea action, Commit Effort for the day to become impervious to the Make a Ataque Conjunto maneuver.
 Your assailants cannot use this maneuver against you for the rest of the escena, y you become immune to Shock as long as you remain in melee with at least two foes.
-Making use of this benefit disrupts any spellcasting you may attempt, however, due to the violent motion required.
+Making use of this benefit disrupts any lanzar conjuros you may attempt, however, due to the violent motion required.
 
 Nimble Ascent: Commit Effort for the escena as an Rápida action.
 
@@ -2466,22 +2466,22 @@ Unobtrusive Step: You not only possess a considerable habilidad for disguise y o
 
 Once per escena, you may Commit Effort for the day as an Instantánea action to reroll a failed Sigilo prueba de habilidad or prueba de habilidad related to impersonating someone else.
 
-#### Parciales Expert / Parciales Vowed
+#### Parciales Experto / Parciales Vowed
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Vowed
+#### Parciales Mago / Parciales Vowed
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -2511,9 +2511,9 @@ Once per escena, you may Commit Effort for the day as an Instantánea action to 
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Vowed Arts y Unarmed Abilities
+#### Vowed Artes y Unarmed Abilities
 
-| Level | Golpear Hit Bonus | Golpear Damage | Golpear Shock | Arts Gained at This Level                               |
+| Level | Golpear Hit Bonus | Golpear Damage | Golpear Shock | Artes Gained at This Level                              |
 | ----- | ----------------- | -------------- | ------------- | ------------------------------------------------------- |
 | 1     | +0                | 1d6            | 1/15          | Martial Style, Unarmed Might, Unarmed Defense y Any One |
 | 2     | +1                | 1d6            | 2/15          | Any One                                                 |
@@ -2537,7 +2537,7 @@ It's possible that their very talent for killing was what forced them out of the
 
 Warriors have more hit points than heroes of other class, y are capable of surviving wounds y hardships that would kill an ordinary man.
 They're also gifted with a superior attack bonus, y a native ability to inflict more damage than other PJs.
-Full Warriors even have the ability to ensure a hit or force a miss by an enemy once per escena, making them lethal foes to common combatants.
+No Parciales Warriors even have the ability to ensure a hit or force a miss by an enemy once per escena, making them lethal foes to common combatants.
 
 #### Class Ability: Golpe Mortal
 
@@ -2562,7 +2562,7 @@ This ability cannot be used to negate environmental damage or damage done to a v
 
 Parciales Warriors do not get this ability.
 
-#### Full Warrior
+#### No Parciales Warrior
 
 | Level | Hit Dice | Attack Bonus | Foco Picks          |
 | ----- | -------- | ------------ | ------------------- |
@@ -2577,7 +2577,7 @@ Parciales Warriors do not get this ability.
 | 9     | 9d6+18   | +9           |                     |
 | 10    | 10d6+20  | +10          | +1 Any              |
 
-#### Parciales Mage / Parciales Warrior
+#### Parciales Mago / Parciales Warrior
 
 | Level | Hit Dice | Attack Bonus | Foco Picks          |
 | ----- | -------- | ------------ | ------------------- |
@@ -2592,20 +2592,20 @@ Parciales Warriors do not get this ability.
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Parciales Warrior / Parciales Expert
+#### Parciales Warrior / Parciales Experto
 
-| Level | Hit Dice | Attack Bonus | Foco Picks                     |
-| ----- | -------- | ------------ | ------------------------------ |
-| 1     | 1d6+2    | +1           | + 1 Warrior + 1 Any + 1 Expert |
-| 2     | 2d6+4    | +2           | + 1 Any                        |
-| 3     | 3d6+6    | +2           |                                |
-| 4     | 4d6+8    | +3           |                                |
-| 5     | 5d6+10   | +4           | +1 Any                         |
-| 6     | 6d6+12   | +5           |                                |
-| 7     | 7d6+14   | +5           | +1 Any                         |
-| 8     | 8d6+16   | +6           |                                |
-| 9     | 9d6+18   | +6           |                                |
-| 10    | 10d6+20  | +7           | +1 Any                         |
+| Level | Hit Dice | Attack Bonus | Foco Picks                      |
+| ----- | -------- | ------------ | ------------------------------- |
+| 1     | 1d6+2    | +1           | + 1 Warrior + 1 Any + 1 Experto |
+| 2     | 2d6+4    | +2           | + 1 Any                         |
+| 3     | 3d6+6    | +2           |                                 |
+| 4     | 4d6+8    | +3           |                                 |
+| 5     | 5d6+10   | +4           | +1 Any                          |
+| 6     | 6d6+12   | +5           |                                 |
+| 7     | 7d6+14   | +5           | +1 Any                          |
+| 8     | 8d6+16   | +6           |                                 |
+| 9     | 9d6+18   | +6           |                                 |
+| 10    | 10d6+20  | +7           | +1 Any                          |
 
 ### The Wise
 
@@ -2618,27 +2618,27 @@ Some of these Wise may have very minor or subtle magical poderes suitable to a l
 In general, the Wise class is usually only viable in a low- or no-magic setting where their limited poderes are still more than almost anyone else has access to.
 If standard magic exists in your campaign the Wise may not offer enough to appeal to players.
 
-Benefits of the Wise The Wise is a partial Expert class that must be taken by an Adventurer with another partial class.
+Benefits of the Wise The Wise is a partial Experto class that must be taken by an Adventurer with another partial class.
 It's generally suited for low-magic campaigns, but strictly mundane versions of it may pass muster for a no-magic setting.
 
-While the Wise count as a partial Expert class for other purposes, they do not gain the advantage of the partial Expert's Aprendiz Rápido rasgo de clase or the bonus non-combate Foco that a partial Expert normally gets at first level.
-An Adventurer who is a standard partial Expert/partial Wise does get these perks, however.
+While the Wise count as a partial Experto class for other purposes, they do not gain the advantage of the partial Experto's Aprendiz Rápido rasgo de clase or the bonus non-combate Foco that a partial Experto normally gets at first level.
+An Adventurer who is a standard partial Experto/partial Wise does get these perks, however.
 
 All Wise gain level-0 in a bonus habilidad appropriate to their concept, be it Pray, Know, Magic, Survive, or some other habilidad that makes sense to the GM.
 
 The Wise do not use Effort.
-All of their arts are either constantly in effect or can be used under particular circumstances or a particular number of times each day.
+All of their artes are either constantly in effect or can be used under particular circumstances or a particular number of times each day.
 
-The arts the Wise learn are generally fixed by their concept y role.
-A mundane priest will learn certain arts as they advance in level, while a witch or an oracular seer will learn others.
-At some levels, the Wise might have a choice; they can pick whichever art they wish, but most arts can be taken only once.
+The artes the Wise learn are generally fixed by their concept y role.
+A mundane priest will learn certain artes as they advance in level, while a witch or an oracular seer will learn others.
+At some levels, the Wise might have a choice; they can pick whichever art they wish, but most artes can be taken only once.
 
 The example tables here provide progression patterns for a non-magical priest of a faith, a witch with minor magical poderes of cursing y foresight, y an oracle with limited poderes of divination.
 For GMs that wish to allow player-made concepts, the Esoteric column can be used, or a specific progression can be worked up in cooperation with the player.
 
-#### Wise Arts
+#### Wise Artes
 
-##### General Arts
+##### General Artes
 
 Dread Awe: Your kind are figures of fear y mistrust.
 Gain a +1 bonus on all pruebas de habilidad related to intimidation or threat.
@@ -2669,7 +2669,7 @@ Hostile groups will hesitate to attack your companions unless provoked.
 Skilled: Gain three habilidad points to spend on any non-combate skills, up to the maximum habilidad level allowed by your personaje level.
 This art may be taken more than once.
 
-##### Divination Arts
+##### Divination Artes
 
 Compel Truth: The diviner compels a person to drink a particular brew, participate in a specific ritual, or otherwise undergo a scenelong ordeal.
 Afterwards, the diviner may ask the target a single question y the GM secretly rolls a Cha/Magic prueba de habilidad against a difficulty of the target's Moral+1, or level+6 for PJs.
@@ -2707,15 +2707,15 @@ The same course of action cannot be divined more than once a month.
 ##### Curses y Blessings
 
 The bringing of fortune or ill fate is not a trivial thing.
-A given creature can be cursed or blessed by one of these arts only once a day.
+A given creature can be cursed or blessed by one of these artes only once a day.
 
 Auspicious Undertaking: As a Acción Principal, bless a particular plan or undertaking currently sought by the target.
 During the plan's execution or while seeking the desired end, the blessed subject can reroll one failed prueba de habilidad or one missed hit roll.
 The blessing lasts until it is used, the plan is finished, or one day per caster level has passed.
 Only one plan can be blessed at a time.
 
-Evil Eye: This art improves your curse y blessing arts.
-You can now use these arts as an Instantánea action, albeit still only one such art per ronda, y you need do no more than look at the target rather than vocalizing any particular curse or blessing.
+Evil Eye: This art improves your curse y blessing artes.
+You can now use these artes as an Instantánea action, albeit still only one such art per ronda, y you need do no more than look at the target rather than vocalizing any particular curse or blessing.
 
 Ill Fate: As a Acción Principal, curse a visible target.
 You may specify a particular kind of undertaking or apply the curse to anything they may do.
@@ -2733,22 +2733,22 @@ They suffer a -2 penalty to hit rolls, damage rolls, y Shock damage for the rest
 If they miss an attack with a raw to-hit die roll less than the Wise's Magic habilidad, they accidentally hurt themselves for normal damage.
 Only one war curse can be applied at a time.
 
-#### Parciales Expert / Parciales Wise
+#### Parciales Experto / Parciales Wise
 
-| Level | Hit Dice | Attack Bonus | Foco Picks         |
-| ----- | -------- | ------------ | ------------------ |
-| 1     | 1d6      | +0           | + 1 Expert + 1 Any |
-| 2     | 2d6      | +1           | + 1 Any            |
-| 3     | 3d6      | +1           |                    |
-| 4     | 4d6      | +2           |                    |
-| 5     | 5d6      | +2           | +1 Any             |
-| 6     | 6d6      | +3           |                    |
-| 7     | 7d6      | +3           | +1 Any             |
-| 8     | 8d6      | +4           |                    |
-| 9     | 9d6      | +4           |                    |
-| 10    | 10d6     | +5           | +1 Any             |
+| Level | Hit Dice | Attack Bonus | Foco Picks          |
+| ----- | -------- | ------------ | ------------------- |
+| 1     | 1d6      | +0           | + 1 Experto + 1 Any |
+| 2     | 2d6      | +1           | + 1 Any             |
+| 3     | 3d6      | +1           |                     |
+| 4     | 4d6      | +2           |                     |
+| 5     | 5d6      | +2           | +1 Any              |
+| 6     | 6d6      | +3           |                     |
+| 7     | 7d6      | +3           | +1 Any              |
+| 8     | 8d6      | +4           |                     |
+| 9     | 9d6      | +4           |                     |
+| 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mage / Parciales Wise
+#### Parciales Mago / Parciales Wise
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -2824,11 +2824,11 @@ If you roll iniciativa individually, you can roll it twice y take the better res
 
 Level 2: You always act first in a combate ronda unless someone else involved is also this Alert.
 
-#### Armored Magic
+#### Magia Con Armadura
 
-Usable only by Mage heroes who would otherwise be prevented from casting spells or using arts while armored, this Foco reflects special training in channeling magic through the hindering materials of conventional armor.
+Usable only by Mago heroes who would otherwise be prevented from casting spells or using artes while armored, this Foco reflects special training in channeling magic through the hindering materials of conventional armor.
 
-Level 1: You can cast spells or use arts while wearing armor that has an Impedimenta value of no more than two.
+Level 1: You can cast spells or use artes while wearing armor that has an Impedimenta value of no more than two.
 You can use a shield while casting, provided your other hand is empty for gesturing.
 
 Level 2: You can cast spells while wearing armor of any Impedimenta.
@@ -2841,21 +2841,21 @@ This Foco' benefits do not apply to unarmed attacks or nonthrown projectile weap
 This Foco' bonuses also don't stack with Deadeye or other Focos that add a habilidad's level to your damage or Shock.
 
 Level 1: Gain Cortar as a bonus habilidad.
-You can Ready a Stowed melee or thrown weapon as an Instantánea action.
+You can Ready a Guardado melee or thrown weapon as an Instantánea action.
 You may add your Cortar habilidad level to a melee or thrown weapon's damage roll or Shock damage, assuming it has any to begin with.
 
-Level 2: The Shock from your melee attacks always treats the target as if they have AC 10.
+Level 2: The Shock from your melee attacks always treats the target as if they have CA 10.
 Gain a +1 bonus to hit with all thrown or melee attacks.
 
-#### Artisan
+#### Artesano
 
 You have remarkable gifts as a crafter y can often improvise techniques even in fields unrelated to your usual background.
-You are able to create mods for equipment even if you are not an Expert.
+You are able to create mods for equipment even if you are not an Experto.
 
-Level 1: Gain Craft as a bonus habilidad.
-Your Craft habilidad is treated as one level higher, up to a maximum of 5, for purposes of crafting y maintaining mods.
+Level 1: Gain Fabricar as a bonus habilidad.
+Your Fabricar habilidad is treated as one level higher, up to a maximum of 5, for purposes of crafting y maintaining mods.
 Mods you build require one fewer unit of arcane salvage, down to a minimum of one.
-Your Craft habilidad is applicable to any normal crafting profession's work, allowing you to fashion their wares without penalty.
+Your Fabricar habilidad is applicable to any normal crafting profession's work, allowing you to fashion their wares without penalty.
 
 Level 2: The first mod you add to an item requires no Maintenance y only half the silver piece cost usually required.
 This benefit is in addition to the benefits of installing a mod in masterwork gear you build.
@@ -2895,9 +2895,9 @@ You're extremely skilled at avoiding injury in melee combate, y at level 2 you c
 
 Level 1: Gain any combate habilidad as a bonus habilidad.
 You can use knifesized thrown weapons in melee without suffering penalties for the proximity of melee attackers.
-You ignore Shock damage from melee assailants, even if you're unarmored at the time, but invoking this benefit disrupts any spellcasting you might do that ronda due to the need for violently active evasion.
+You ignore Shock damage from melee assailants, even if you're unarmored at the time, but invoking this benefit disrupts any lanzar conjuros you might do that ronda due to the need for violently active evasion.
 
-Level 2: The Shock damage from your melee attacks treats all targets as if they were AC 10.
+Level 2: The Shock damage from your melee attacks treats all targets as if they were CA 10.
 The Retirada de Combate combate action is treated as an Rápida action for you y can be performed freely.
 
 #### Connected
@@ -2943,7 +2943,7 @@ While this talent most commonly applies to bows, it is also applicable to thrown
 For thrown weapons, you can't use the benefits of the Armsmaster Foco at the same time as Deadeye.
 
 Level 1: Gain Disparar as a bonus habilidad.
-You can Ready a Stowed ranged weapon as an Instantánea action.
+You can Ready a Guardado ranged weapon as an Instantánea action.
 You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty.
 You may add your Disparar habilidad level to a ranged weapon's damage roll.
 
@@ -2967,7 +2967,7 @@ If it's at all plausible for it to make such terms, it will do so for a price or
 
 Your hero has a remarkable degree of development to one or more of their attributes.
 This may be derived from an eldritch bloodline, native brilliance, or sheer, stubborn determination.
-This Foco cannot be taken by heroes with the Mage or Parciales Mage classes.
+This Foco cannot be taken by heroes with the Mago or Parciales Mago classes.
 
 Level 1: Choose an attribute; its modifier is increased by +1, up to a maximum of +3.
 The actual score does not change, but the modifier increases, y may increase again if later advancement improves the attribute enough.
@@ -3016,7 +3016,7 @@ You can have one henchmen at a time for every three personaje levels you have, r
 You can release henchmen with no hard feelings at any plausible time y pick them back up later should you be without a current henchman.
 
 Level 2: Your henchmen are remarkably loyal y determined, y will fight for you against anything but clearly overwhelming odds.
-Whether through natural competence or their devotion to you, they're treated as 2 HD combatants from their culture.
+Whether through natural competence or their devotion to you, they're treated as 2 DG combatants from their culture.
 You can make faithful henchmen out of skilled y highly-capable PNJs, but this requires that you actually have done them some favor or help that would reasonably earn such fierce loyalty.
 
 #### Impervious Defense
@@ -3024,7 +3024,7 @@ You can make faithful henchmen out of skilled y highly-capable PNJs, but this re
 Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor.
 The benefits of this Foco don't stack with armor, though Destreza or shield modifiers apply.
 
-Level 1: You have an innate Armor Class of 15 plus half your personaje level, rounded up.
+Level 1: You have an innate Clase de Armadura of 15 plus half your personaje level, rounded up.
 
 Level 2: Once per day, as an Instantánea action, you can shrug off any single weapon attack or physical trauma inflicted by a foe.
 Environmental damage, falling damage, or other harm that couldn't be forfended by strong armor cannot be resisted this way.
@@ -3102,7 +3102,7 @@ Anyone with any level of Montar habilidad can fight competently on horseback or 
 You have an almost supernatural bond with your steeds, however, y can push them beyond normal limits.
 
 Level 1: Gain Montar as a bonus habilidad.
-Your steeds all count as Moral 12 in battle, use your AC if it's higher than theirs, y can travel 50% further in a day than normal for their kind.
+Your steeds all count as Moral 12 in battle, use your CA if it's higher than theirs, y can travel 50% further in a day than normal for their kind.
 You can intuitively communicate with riding beasts, gaining as much information from it as its intellect can convey.
 
 Level 2: Once per escena, negate a successful attack against your steed as an Instantánea action.
@@ -3116,7 +3116,7 @@ You're extremely dangerous to enemies around you.
 The ferocity of your melee attacks stresses y distracts enemies even when your blows don't draw blood.
 
 Level 1: Gain Golpear or Cortar as a bonus habilidad.
-The Shock damage of your weapon treats all targets as if they were AC 10, assuming your weapon is capable of harming the target in the first place y the target is not immune to Shock.
+The Shock damage of your weapon treats all targets as if they were CA 10, assuming your weapon is capable of harming the target in the first place y the target is not immune to Shock.
 
 Level 2: In addition, you gain a +2 bonus to the Shock damage rating of all melee weapons y unarmed attacks that do Shock.
 As usual, regular hits never do less damage than this Shock would do on a miss.
@@ -3124,7 +3124,7 @@ As usual, regular hits never do less damage than this Shock would do on a miss.
 #### Sniper's Eye
 
 You are an expert at placing a thrown knife or arrow on an unsuspecting target.
-These special benefits only apply when making an Execution Attack with a bow, hurlant, or thrown weapon.
+These special benefits only apply when making an Execution Attack with a bow, arcabuz, or thrown weapon.
 
 Level 1: Gain Disparar as a bonus habilidad.
 When making a prueba de habilidad for a ranged Execution Attack or target shooting, roll 3d6 y drop the lowest die.
@@ -3185,7 +3185,7 @@ Only one such improvised trap can be maintained at a time.
 More fearsome traps may be laid with congenial circumstances y the GM's permission.
 
 Level 2: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them.
-Once per escena, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant prueba de habilidad being Int/Descubrir or Des/Descubrir.
+Once per escena, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mago of twice your level, with any relevant prueba de habilidad being Int/Descubrir or Des/Descubrir.
 This ability can be used against any stationary magical effect that's susceptible to being dispelled by Extirpate Arcana.
 
 #### Unarmed Combatant
@@ -3198,7 +3198,7 @@ Your unarmed attacks become more dangerous as your Golpear habilidad increases.
 At level-0, they do 1d6 damage.
 At level-1, they do 1d8 damage.
 At level-2 they do 1d10, level-3 does 1d12, y level-4 does 1d12+1.
-At Golpear-1 or better, they have the Shock quality equal to your Golpear habilidad against AC 15 or less.
+At Golpear-1 or better, they have the Shock quality equal to your Golpear habilidad against CA 15 or less.
 
 Level 2: Even on a miss with a Golpear attack, you do an unmodified 1d6 damage, plus any Shock that the blow might inflict on the target.
 
@@ -3258,7 +3258,7 @@ Once per ronda, you can Screen Ally against even intangible spells or magical at
 Such attempts require the usual successful opposing prueba de habilidad, with the assailant using their Magic habilidad.
 
 Level 2: The first Screen Ally prueba de habilidad you make in a ronda is always successful.
-Gain +2 AC while screening someone.
+Gain +2 CA while screening someone.
 You can screen against foes as large as ogres or oxen.
 
 ## Final Character Creation Steps
@@ -3281,7 +3281,7 @@ A personaje gains hit points as they advance in personaje level, rerolling their
 Your personaje has a certain degree of basic combate competence based on their class.
 This bonus increases as you advance in personaje levels y is added to your attack roll.
 
-A new personaje's attack bonus is usually +0, though Full Warriors start with a +1 base attack bonus.
+A new personaje's attack bonus is usually +0, though No Parciales Warriors start with a +1 base attack bonus.
 
 ### Record Tiradas de Salvación
 
@@ -3309,12 +3309,12 @@ You can pick any one habilidad of your choice.
 This habilidad pick is gained at level-0, or level-1 if it's already level-0.
 You cannot pick a habilidad that is already at level-1.
 
-### Mages Choose Starting Spells
+### Mages Choose Starting Conjuros
 
 Spellcasting full Mages begin play knowing four first-level spells y partial Mages begin play knowing two.
-Adventurers with two partial spellcasting Mage classes, such as a partial Necromancer/partial High Mage know four.
+Adventurers with two partial lanzar conjuros Mago classes, such as a partial Necromancer/partial High Mago know four.
 These spells may be chosen from any spell list available to them.
-A novice High Mage, for example, would pick first-level spells from the High Magic spell list, while a new Elementalist could pick them from either the High Magic or Elementalist spells.
+A novice High Mago, for example, would pick first-level spells from the Alta Magia spell list, while a new Elementalist could pick them from either the Alta Magia or Elementalist spells.
 
 ### Choose Starting Languages
 
@@ -3326,9 +3326,9 @@ Thus, a PC with both Know-1 y Connect-1 skills could pick four additional langua
 PJs can learn additional languages to a conversational level by spending a few months immersed in it or studying it diligently during downtime.
 Obtaining native fluency is at the GM's discretion.
 
-### Choose Starting Gear
+### Choose Starting Equipo
 
-You can either pick a starting equipment package provided by your GM, or roll 3d6 x 10 to find out your starting silver pieces to spend on gear or keep in your pocket.
+You can either pick a starting equipment package provided by your GM, or roll 3d6 x 10 to find out your starting piezas de plata to spend on gear or keep in your pocket.
 The starting packages will generally give you more equipment than the random roll would, but items can be swapped at the GM's discretion.
 
 ### Record Weapon y Armor Statistics
@@ -3342,9 +3342,9 @@ For each weapon's damage y Shock, note down the information from the table.
 You add your attribute modifier to both damage rolls y Shock.
 Golpear weapons or unarmed attacks can also add your Golpear habilidad.
 
-For your PC's Armor Class, record the AC of the armor you usually wear.
-Unarmored humans have an AC of 10.
-Armor Class is modified by your Destreza modifier.
+For your PC's Clase de Armadura, record the CA of the armor you usually wear.
+Unarmored humans have an CA of 10.
+Clase de Armadura is modified by your Destreza modifier.
 
 ### Choose a Name y Goal
 

@@ -301,7 +301,7 @@ On a failure, no Counterattack damage is taken.
 
 Dancing Girls: Dancing Girls or other charming distractions are immune to Attack or Counterattack damage from Force Assets, but they cannot be used to defend against Attacks from Force Assets.
 
-Expert Treachery: On a successful Attack by Expert Treachery, this Asset is lost, 5 Treasure is gained by its owning faction, y the Asset that Expert Treachery targeted switches sides.
+Experto Treachery: On a successful Attack by Experto Treachery, this Asset is lost, 5 Treasure is gained by its owning faction, y the Asset that Experto Treachery targeted switches sides.
 This conversion happens even if their new owners lack the attributes usually necessary to maintain their new Asset.
 
 Hired Friends: As a free action, once per turn, the faction may spend 1 Treasure y grant a Wealth Asset within one turn's movement range the Subtle quality.
@@ -403,11 +403,11 @@ On a success, the intruding Asset loses its Stealth after it completes the move.
 | Prophet               | 20   | 10  | None  | C v. C/2d8 damage | 1d8 damage | Subtle          |
 | Underground Roads     | 18   | 15  | None  | None              | None       | Subtle, Special |
 
-| Cunning 7 Asset  | Cost | HP  | Magic  | Attack            | Counter    | Qualities       |
-| ---------------- | ---- | --- | ------ | ----------------- | ---------- | --------------- |
-| Expert Treachery | 10   | 5   | None   | C v. C/Special    | None       | Subtle          |
-| Mindbenders      | 20   | 10  | Medium | None              | 2d8 damage | Subtle          |
-| Popular Movement | 25   | 16  | None   | C v. C/2d6 damage | 1d6 damage | Subtle, Special |
+| Cunning 7 Asset   | Cost | HP  | Magic  | Attack            | Counter    | Qualities       |
+| ----------------- | ---- | --- | ------ | ----------------- | ---------- | --------------- |
+| Experto Treachery | 10   | 5   | None   | C v. C/Special    | None       | Subtle          |
+| Mindbenders       | 20   | 10  | Medium | None              | 2d8 damage | Subtle          |
+| Popular Movement  | 25   | 16  | None   | C v. C/2d6 damage | 1d6 damage | Subtle, Special |
 
 | Cunning 8 Asset  | Cost | HP  | Magic | Attack | Counter     | Qualities       |
 | ---------------- | ---- | --- | ----- | ------ | ----------- | --------------- |

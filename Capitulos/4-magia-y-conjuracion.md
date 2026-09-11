@@ -1,28 +1,28 @@
 # Magic y Spellcasting
 
-High Mages, Necromancers, Elementalists, y Invokers are all capable of casting spells.
-In addition, PNJ wizards may also have access to spellcasting, though PNJs seldom have classes as PJs do.
+Altos Magos, Necromancers, Elementalists, y Invocadores are all capable of casting spells.
+In addition, PNJ wizards may also have access to lanzar conjuros, though PNJs seldom have classes as PJs do.
 
 This section of the rules describes such sorcerous matters.
 
-## Spells y Arts
+## Conjuros y Artes
 
 Magical invocations are known conventionally as spells, each one ranked in power from level one, the relatively weakest, to level five, the most potent.
 
-The common corpus of ancient spells is known as High Magic.
+The common corpus of ancient spells is known as Alta Magia.
 
-These spells are the common heritage of all spellcasting mages, y any spellcasting mage can learn y use them.
+These spells are the common heritage of all lanzar conjuros mages, y any lanzar conjuros mage can learn y use them.
 
 Specific arcane traditions such as Elementalists or Necromancers also have bodies of spells specific to their tradition.
 Only they can learn or cast these enchantments.
 
-In addition to spells, mages commonly have access to arts, magical techniques that allow them to produce certain effects quickly y easily.
-Most mages learn one or two arts as an apprentice y gradually master more as they advance in habilidad.
+In addition to spells, mages commonly have access to artes, magical techniques that allow them to produce certain effects quickly y easily.
+Most mages learn one or two artes as an apprentice y gradually master more as they advance in habilidad.
 
-Every tradition has its own body of arts, y only members of that tradition can ever learn them.
-Adventurers who take dual Mage classes can learn arts from both, but each class must choose its arts individually; a Parciales High Mage/Parciales Healer couldn't use his High Mage art picks to choose Healer arts, or vice-versa.
+Every tradition has its own body of artes, y only members of that tradition can ever learn them.
+Adventurers who take dual Mago classes can learn artes from both, but each class must choose its artes individually; a Parciales High Mago/Parciales Healer couldn't use his High Mago art picks to choose Healer artes, or vice-versa.
 
-## Preparing y Casting Spells
+## Preparing y Casting Conjuros
 
 Each spellcaster must first learn a spell before they can cast it.
 They may be taught by a mage who already knows the spell, even if they're from a different tradition, or they must find a grimoire laying out the fine details of the incantation.
@@ -54,7 +54,7 @@ The mage may prepare any spell they have in their spellbook; there's no obligati
 Preparing a new set of spells takes an hour, y can only be done after a good night's rest, when the mage's mind is most fresh y malleable.
 Once spells have been prepared they remain so indefinitely until replaced with a different set of magics.
 
-### Casting Prepared Spells
+### Casting Prepared Conjuros
 
 Once a set of spells is prepared, the mage may then cast them at their leisure.
 Casting a spell usually requires a Acción Principal y at least one free hand, along with vocalizations at least as loud as clear normal conversation.
@@ -64,9 +64,9 @@ Casting a spell requires focus y undisturbed concentration.
 If a mage has taken hit point damage or has been severely jostled in a ronda, they cannot cast magic that ronda.
 Thus, a mage who acts late in a ronda runs the risk of being hurt y having their concentration spoiled, thus forcing them to do something other than cast a spell when their turn comes around.
 
-Spells cannot normally be cast while wearing armor or restrictive clothing.
+Conjuros cannot normally be cast while wearing armor or restrictive clothing.
 The profane materials, restrictive fit, y unsalutary occult configurations of armor spoil the necessary flow of energy, as does the bulk y clumsiness of a shield.
-The same hindrances usually also spoil the use of any arts the tradition may teach, y not just spellcasting itself.
+The same hindrances usually also spoil the use of any artes the tradition may teach, y not just lanzar conjuros itself.
 
 A mage can cast only so many spells each day before needing a full night's rest to recover.
 Novices can cast only one spell, while masters can manage six.
@@ -74,9 +74,9 @@ The spell to be cast may be selected from any prepared by the mage; the same pow
 
 The same spell may be cast more than once, if the mage has multiple castings left for the day.
 
-Adventurers who take the Parciales Mage class are more limited than more focused specialists.
-They are able to cast fewer spells each day y the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage.
-The total spells they can prepare for the day are also often somewhat fewer than that of a full Mage.
+Adventurers who take the Parciales Mago class are more limited than more focused specialists.
+They are able to cast fewer spells each day y the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mago.
+The total spells they can prepare for the day are also often somewhat fewer than that of a full Mago.
 When they cast the spells, however, any level-based effects also use their full level, so a third-level Parciales Necromancer's invocation of The Coruscating Coffin does 3d8 damage, just as a full Necromancer would.
 
 ### Creatures, Targets, y Visibility
@@ -94,28 +94,28 @@ If a maximum range isn't given, assume it's can be no more than a bowshot away f
 
 ## Dual Parciales Spellcasters
 
-Adventurers who take two different Parciales Mage spellcaster classes use the table below to determine how many spells they can prepare y cast each day.
-A dual Parciales Mage can prepare y cast spells from either of their traditions.
+Adventurers who take two different Parciales Mago spellcaster classes use the table below to determine how many spells they can prepare y cast each day.
+A dual Parciales Mago can prepare y cast spells from either of their traditions.
 PJs who pick one spellcaster partial y one non-spellcaster, like a Necromancer/Healer, do not use this table, but instead use the usual partial spellcaster table for their class.
 
 ### PJs with Dual Spellcasting Traditions
 
-| Level | Max Level | Spells Cast | Spells Prepared | Arts Gained                                                           |
-| ----- | --------- | ----------- | --------------- | --------------------------------------------------------------------- |
-| 1     | 1         | 1           | 3               | As per both partial classes, gaining each level's art picks as usual. |
-| 2     | 1         | 1           | 4               |                                                                       |
-| 3     | 1         | 2           | 5               |                                                                       |
-| 4     | 2         | 2           | 6               |                                                                       |
-| 5     | 2         | 2           | 8               |                                                                       |
-| 6     | 2         | 3           | 9               |                                                                       |
-| 7     | 3         | 3           | 10              |                                                                       |
-| 8     | 3         | 4           | 12              |                                                                       |
-| 9     | 3         | 4           | 13              |                                                                       |
-| 10    | 4         | 5           | 15              |                                                                       |
+| Level | Max Level | Conjuros Cast | Conjuros Prepared | Artes Gained                                                          |
+| ----- | --------- | ------------- | ----------------- | --------------------------------------------------------------------- |
+| 1     | 1         | 1             | 3                 | As per both partial classes, gaining each level's art picks as usual. |
+| 2     | 1         | 1             | 4                 |                                                                       |
+| 3     | 1         | 2             | 5                 |                                                                       |
+| 4     | 2         | 2             | 6                 |                                                                       |
+| 5     | 2         | 2             | 8                 |                                                                       |
+| 6     | 2         | 3             | 9                 |                                                                       |
+| 7     | 3         | 3             | 10                |                                                                       |
+| 8     | 3         | 4             | 12                |                                                                       |
+| 9     | 3         | 4             | 13                |                                                                       |
+| 10    | 4         | 5             | 15                |                                                                       |
 
-## High Magic Spells
+## Alta Magia Conjuros
 
-Any spellcaster can learn y cast High Magic spells, albeit High Mages tend to have the arts best suited for enhancing y manipulating these sorceries.
+Any spellcaster can learn y cast Alta Magia spells, albeit Altos Magos tend to have the artes best suited for enhancing y manipulating these sorceries.
 
 ### Abdication of Temporal Presence Level 5
 
@@ -155,7 +155,7 @@ Dead or escaped creatures appear in the nearest clear space to their original de
 
 ### Calculation of the Evoked Servitor Level 2
 
-This spell conjures up an intelligent familiar for the caster, one with one hit point per caster level, an AC of 14, a ground rango de movimiento of 30' per action, tiradas de salvación the same as the caster, a +0 habilidad modifier, y no effective attack.
+This spell conjures up an intelligent familiar for the caster, one with one hit point per caster level, an CA of 14, a ground rango de movimiento of 30' per action, tiradas de salvación the same as the caster, a +0 habilidad modifier, y no effective attack.
 The familiar always adopts the same shape for the same caster, though the initial casting can set this to any shape the caster wishes provided it's no larger than a small human.
 The familiar retains a telepathic connection with its creator y will obey any command it is given, including suicidal ones.
 It can perform any action that a competent human servant could.
@@ -166,7 +166,7 @@ The familiar remains in existence until dawn following the spell's casting or un
 ### Calculation of the Phantasmal Eidolon Level 4
 
 The caster conjures up a semi-real phantasmal creature in any shape or appearance they desire, provided it is no larger than an ox.
-The servitor is as intelligent as a human y will obey the caster with fearless y suicidal devotion, having 4 effective hit dice, 20 hit points, AC 15, a rango de movimiento of 30' per action, a +1 habilidad modifier, saves of 13+, y a +6/1d8 damage melee attack with 2/AC 15 Shock.
+The servitor is as intelligent as a human y will obey the caster with fearless y suicidal devotion, having 4 effective hit dice, 20 hit points, CA 15, a rango de movimiento of 30' per action, a +1 habilidad modifier, saves of 13+, y a +6/1d8 damage melee attack with 2/CA 15 Shock.
 
 As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 hit point.
 The caster may pick one special quality for the creature when it is summoned: the ability to fly at a rate of 30'/
@@ -444,7 +444,7 @@ The mage creates a phantasmal seeming at a visible location within 100 feet per 
 The illusion can occupy a number of 10-foot cubes equal to the caster's level y can include visual, audible, olfactory, y even tactile elements.
 If onlookers have no reason to believe the illusion is false, they will unconsciously move y perceive so as to conform to its apparent physical qualities, halting before walls, reeling from imagined blows, y seeing their clothing burnt by phantasmal flames.
 The illusion will behave y act on its own in accordance with the caster's intentions for it, but it cannot go more than a hundred feet from where it was conjured.
-Phantasmal monsters fight with the caster's hit bonus, do 1d8 damage, have AC 10, y vanish if struck.
+Phantasmal monsters fight with the caster's hit bonus, do 1d8 damage, have CA 10, y vanish if struck.
 There can be no more than one active illusionary attacker per two caster levels.
 Foes brought to zero hit points fall unconscious y wake up ten minutes later with 1 hit point.
 
@@ -483,7 +483,7 @@ Creatures partially in a rift when it closes are spat out on the far side.
 The caster imbues one visible ally per caster level with a burst of tremendous speed as their localized time begins to flow more rapidly.
 
 For 1d4+1 rondas, all subjects get an extra Acción Principal during their turn.
-This Acción Principal may not be used to cast spells or use arts.
+This Acción Principal may not be used to cast spells or use artes.
 This spell severely taxes those who take advantage of it, adding 1 Estrés Corporal for each ronda in which the recipient takes the bonus action.
 
 ### Scorn the Fetters of Earth Level 3
@@ -574,9 +574,9 @@ All such targets with 4 or fewer hit dice within that area fall unconscious inst
 If not roused, they revive at the end of the escena.
 Entities that do not sleep are immune to this spell.
 
-## Elementalist Spells
+## Elementalist Conjuros
 
-Only Full or Parciales Elementalists can learn or cast these spells.
+Only No Parciales or Parciales Elementalists can learn or cast these spells.
 
 ### Aqueous Harmony Level 1
 
@@ -623,7 +623,7 @@ A sample of flame no larger than the caster is made effectively eternal.
 
 It no longer consumes the object it burns, though it can still be used to burn or heat other things, y it resists all extinguishing save being buried or wholly immersed in water.
 The elementalist can temporarily extinguish it at will.
-A number of such flames can be created equal to the elementalist's level; beyond that, special ingredients y fuels are needed that cost 500 silver pieces per flame.
+A number of such flames can be created equal to the elementalist's level; beyond that, special ingredients y fuels are needed that cost 500 piezas de plata per flame.
 If used as a weapon, it adds +2 damage to a successful hit, albeit nothing to Shock.
 The flame lasts until dispelled, extinguished, or the elementalist releases it.
 
@@ -652,7 +652,7 @@ In all cases, they need not breathe y become immune to poisons y diseases not al
 If stone, they automatically stabilize at zero hit points y ignore the first three points of damage from any source of harm.
 
 If water, they can pass through any aperture a mouse could get through.
-If air, they can fly at their usual rango de movimiento y gain a +4 Armor Class bonus against ranged attacks.
+If air, they can fly at their usual rango de movimiento y gain a +4 Clase de Armadura bonus against ranged attacks.
 If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each ronda y become immune to heat damage.
 
 ### Wind Walking Level 3
@@ -676,10 +676,10 @@ If the Física tirada de salvación is made successfully by a creature, the targ
 
 The elementalist imbues a human-sized mass of earth, water, fire, or air with a crude awareness y an eagerness to defend them.
 
-Whatever the substance used, it now has 4 HD, AC 15, a Move of 40'/action, a +1 habilidad bonus, saves of 13+, Instinct 0, Moral 12, y a melee attack of +6/1d10 with no Shock.
+Whatever the substance used, it now has 4 DG, CA 15, a Move of 40'/action, a +1 habilidad bonus, saves of 13+, Instinct 0, Moral 12, y a melee attack of +6/1d10 with no Shock.
 If called from earth, it has 6 hit dice, albeit its other stats don't change.
 If called from fire, it does 5/- Shock damage.
-If summoned from water, it has an AC of 18, y if called from air, it can fly at its usual rango de movimiento.
+If summoned from water, it has an CA of 18, y if called from air, it can fly at its usual rango de movimiento.
 It has a human degree of inteligencia, can communicate with others y manipulate objects, y serves with suicidal devotion.
 Only one elemental guardian can be summoned at any one time, y if destroyed, a new one cannot be called that same escena.
 A guardian persists until destroyed or until the dawn after they have been summoned.
@@ -698,9 +698,9 @@ The elementalist calls up a deep, rolling tremor from within the earth, centerin
 This spell's effects build slowly, requiring five minutes to fully manifest, but they can successfully topple or destroy any structures, tunnels, or caves within the affected area unless such structures are magically reinforced.
 The effects are negated if the spell is dispelled within a minute after it was cast; after that, it's too late to stop the effect.
 
-## Necromancer Spells
+## Necromancer Conjuros
 
-Only Full y Parciales Necromancers have the necessary background to learn or cast these spells.
+Only No Parciales y Parciales Necromancers have the necessary background to learn or cast these spells.
 
 ### Command the Dead Level 1
 
@@ -758,7 +758,7 @@ After each failed instance of healing, a target can make a Física save to throw
 ### Raise Corpse Level 2
 
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
-Whatever the creature's attributes were in life, it now has 1 HD, an AC of 13, a Move of 30'/ronda, a +0 habilidad bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, y a Moral of 12.
+Whatever the creature's attributes were in life, it now has 1 DG, an CA of 13, a Move of 30'/ronda, a +0 habilidad bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, y a Moral of 12.
 Such corpses may be equipped with weapons or armor.
 Its decay or dissolution immediately ceases, y it becomes suicidally loyal to its creator.
 The corpse has no natural volition, but will obey commands with a human degree of inteligencia.
@@ -815,7 +815,7 @@ This spell lasts until the necromancer lifts it or it is dispelled.
 ### Raise Grave Knight Level 4
 
 The corpse used for this spell must be of a relatively powerful creature with at least four hit dice or levels.
-The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40'/action, a +1 habilidad bonus, saves of 13+, Instinct 0, Moral of 12, y a melee attack of +6/1d10, assuming it doesn't use a normal weapon.
+The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 DG, CA 15, a Move of 40'/action, a +1 habilidad bonus, saves of 13+, Instinct 0, Moral of 12, y a melee attack of +6/1d10, assuming it doesn't use a normal weapon.
 It is fully intelligent y self-willed, albeit utterly devoted to its creator, y it remembers a significant amount about its prior life.
 A grave knight regains all lost hit points at dusk each day, assuming it's not destroyed.
 A caster may have only one grave knight active at a time.
@@ -837,7 +837,7 @@ For the next five rondas, no affected ally can be reduced below 1 hit point, reg
 At the end of the spell's effect, the caster's own life energy is exhausted, leaving them with only 1 hit point.
 A creature can benefit from this spell no more than once per day.
 
-## Developing New Spells
+## Developing New Conjuros
 
 To research a new spell, the wizard's player first writes up the spell they want to develop.
 The GM then judges its appropriateness for the campaign.
@@ -881,7 +881,7 @@ Special resources or uniquely apposite grimoires gathered on an adventure might 
 If the roll is successful, the spell is perfected y added to the caster's grimoire.
 They can teach it to other wizards if they wish, or keep it to themselves.
 Specialist magic can only be learned by wizards of the same tradition; if they took the spell research prueba de habilidad bonus, it's a specialist spell.
-Spells devised by High Mages are almost inevitably rediscovered High Magic y can be learned by any mage capable of casting such.
+Conjuros devised by Altos Magos are almost inevitably rediscovered Alta Magia y can be learned by any mage capable of casting such.
 
 If the roll is a failure, the wizard has a choice.
 They can abandon their research y start over from scratch, expending new resources y time, or they can roll on the formula flaw table.
@@ -920,8 +920,8 @@ Details can vary based on the arcane suitability of the landscape or especially 
 
 ### Designing the Working
 
-To create the Working, the architect must first be a spellcaster of at least 6th level, whether a full Mage or a Parciales Mage.
-Mage classes that do not cast spells cannot normally create Workings, as their magic is insufficiently flexible.
+To create the Working, the architect must first be a spellcaster of at least 6th level, whether a full Mago or a Parciales Mago.
+Mago classes that do not cast spells cannot normally create Workings, as their magic is insufficiently flexible.
 Less-accomplished spellcasters also lack the practical experience necessary to mold the poderes.
 
 The architect then decides what exactly the Working should do.
@@ -943,14 +943,14 @@ The difficulty total is multiplied by the given multiplier of the biggest area a
 
 The architect must then demonstrate that they can actually design such a Working.
 A given designer multiplies their personaje level by their Magic habilidad level times two.
-Thus, a 6th level High Mage with Magic-3 habilidad would have a total of 36.
+Thus, a 6th level High Mago with Magic-3 habilidad would have a total of 36.
 If this total is equal or greater than the Working's difficulty, they can establish it alone.
 If it's at least half the difficulty, they can build it if they can find other mages to help them y make up the missing points.
 If it's less than half the difficulty, the whole enterprise is too difficult for them to envision.
 
 ### Building the Working
 
-If the Working is designed properly y enough help is had, it can be constructed at a cost of 1,000 silver pieces per point of difficulty y a time cost of one month, plus one week per five points of difficulty or fraction thereof.
+If the Working is designed properly y enough help is had, it can be constructed at a cost of 1,000 piezas de plata per point of difficulty y a time cost of one month, plus one week per five points of difficulty or fraction thereof.
 If the cost is doubled, the work can be done in half this time.
 Note that this construction only applies to the magical components of the Working; if the mage means to enchant a wall, the wall must already be built.
 A mage can generally adventure y do other things while completing a Working, but if they are taken away from the site for too long, the work may halt in their absence.
@@ -999,7 +999,7 @@ While a scroll takes only a week to inscribe, the process is exhausting, y a wiz
 ### Potions
 
 Some magical effects can be contained in an ounce or two of liquid, oil, incense, or other consumable substance.
-Using a potion requires that it be Readied y a Acción Principal be used to consume it.
+Using a potion requires that it be Preparado y a Acción Principal be used to consume it.
 
 Apprehending the Arcane Form can give a one-sentence description of the potion's intended effect.
 Touching a single drop of the fluid against a user's tongue can sometimes give a hint as well, with a tiny flicker of its effect impressed on the user.
@@ -1011,7 +1011,7 @@ Wizards can create potions as single-use magic items, with the base cost y diffi
 ### Magic Weapons y Armor
 
 Magical weapons y armor have a bonus, usually +1, but sometimes as great as +3.
-This bonus adds directly to the hit roll, damage roll, y Shock of weapons, while it adds to the base Armor Class of armor.
+This bonus adds directly to the hit roll, damage roll, y Shock of weapons, while it adds to the base Clase de Armadura of armor.
 Some weapons y armor have additional special talentos.
 
 Magical shields with special poderes do exist, but shields do not get numeric bonuses as armor does.

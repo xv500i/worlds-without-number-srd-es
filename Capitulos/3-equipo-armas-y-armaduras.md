@@ -8,7 +8,7 @@ The GM is naturally expected to add other items that might suit their particular
 The game assumes copper, silver, y gold coins in general circulation, with ten coppers to a silver y ten silvers to a gold piece.
 Silver is the base currency; one silver piece is a typical laborer's daily wage.
 
-## Adventuring Gear
+## Adventuring Equipo
 
 | Item                          | Cost   | Enc |
 | ----------------------------- | ------ | --- |
@@ -68,7 +68,7 @@ Silver is the base currency; one silver piece is a typical laborer's daily wage.
 | Merchant ship                  | 5,000 sp  |
 | War galleon                    | 50,000 sp |
 
-### Gear Bundles
+### Equipo Bundles
 
 Depending on the tastes of the group, some parties might enjoy tracking every torch y carefully weighing their resource expenditures on perilous expeditions.
 Others prefer to gloss over the details.
@@ -76,14 +76,14 @@ The "gear bundle" options below cover all the non-weapon, non-armor gear expecte
 The specific contents of each bundle are as broad as the GM finds reasonable for the role.
 A GM who prefers exact accounting can disallow bundles.
 
-| Item                   | Cost     | Enc |
-| ---------------------- | -------- | --- |
-| Artisan's Equipment    | 50 sp    | 5   |
-| Criminal Tools         | 100 sp   | 3   |
-| Dungeoneering Kit      | 200 sp   | 6   |
-| Noble Courtier Outfit  | 1,000 sp | 2   |
-| Performer's Implements | 100 sp   | 3   |
-| Wilderness Travel Gear | 100 sp   | 5   |
+| Item                     | Cost     | Enc |
+| ------------------------ | -------- | --- |
+| Artesano's Equipment     | 50 sp    | 5   |
+| Criminal Tools           | 100 sp   | 3   |
+| Dungeoneering Kit        | 200 sp   | 6   |
+| Noble Courtier Outfit    | 1,000 sp | 2   |
+| Performer's Implements   | 100 sp   | 3   |
+| Wilderness Travel Equipo | 100 sp   | 5   |
 
 ## Hirelings y Services
 
@@ -93,7 +93,7 @@ Adventuring hirelings will demand at least a half-share of treasure in addition 
 Their combate statistics will be as normal for their type, usually equal to a common human soldier for most.
 After a particularly dangerous adventure, the hireling must make a Moral check; on a failure, they decide the adventuring life is too risky y leave the group.
 
-On the rare occasions that a mage can be found willing to hire out their services, their skills almost never exceed those of a first or second level Mage.
+On the rare occasions that a mage can be found willing to hire out their services, their skills almost never exceed those of a first or second level Mago.
 
 Most communities have a limited number of men y women willing to risk an awful doom while adventuring.
 If the party makes a habit of returning without their employees, others may refuse to join.
@@ -113,7 +113,7 @@ Where it matters, common hirelings can be assumed to have a total +1 bonus on re
 | Guard, ordinary                       | 2 sp     |
 | Guard, sergeant, for every ten guards | 10 sp    |
 | Lawyer or Pleader                     | 10 sp    |
-| Mage of Minor Abilities               | 200 sp   |
+| Mago of Minor Abilities               | 200 sp   |
 | Mundane Physician                     | 10 sp    |
 | Porter willing to go into the wilds   | 5 sp     |
 | Porter only for relatively safe roads | 1 sp     |
@@ -121,7 +121,7 @@ Where it matters, common hirelings can be assumed to have a total +1 bonus on re
 | Sage, per question answered           | 200 sp   |
 | Sailor                                | 1 sp     |
 | Scribe or Clerk                       | 3 sp     |
-| Skilled Artisan                       | 5 sp     |
+| Skilled Artesano                      | 5 sp     |
 | Unskilled Laborer                     | 1 sp     |
 | Veteran Sellsword                     | 10 sp    |
 | Wilderness Guide                      | 10 sp    |
@@ -167,14 +167,14 @@ Aside from these weekly lifestyle costs, some other services often required by a
 
 While some martial adepts or tradition-bound sorcerers shun armor, most adventurers find it necessary to put something solid between them y their enemies.
 
-Armor must be worn as a Readied item, counting against the hero's impedimenta limit.
-Each type of armor grants a different base Armor Class to the wearer, making it more difficult for enemies to land a telling blow.
-This Armor Class is modified by the wearer's Destreza modifier y by any shield they might carry, as described below.
+Armor must be worn as a Preparado item, counting against the hero's impedimenta limit.
+Each type of armor grants a different base Clase de Armadura to the wearer, making it more difficult for enemies to land a telling blow.
+This Clase de Armadura is modified by the wearer's Destreza modifier y by any shield they might carry, as described below.
 
 Multiple suits of armor do not stack; only one can usefully benefit a wearer.
 
-A hero wearing no armor at all has a base Armor Class of 10, modified by their Destreza modifier.
-If they pick up a shield they can improve this to either AC 13 or AC 14, depending on the size of the shield.
+A hero wearing no armor at all has a base Clase de Armadura of 10, modified by their Destreza modifier.
+If they pick up a shield they can improve this to either CA 13 or CA 14, depending on the size of the shield.
 
 ### Light, Medium, y Heavy Armor
 
@@ -189,8 +189,8 @@ Shields come in two general varieties.
 Small ones, often made of costlier metal, can be strapped to the wearer's arm y allow them to hold y manipulate objects with that hand, albeit not wield a weapon with it.
 Larger shields are of cheaper wood y require a good grip.
 
-A small shield user has a base AC of 13, while a large shield user has a base AC of 14.
-Unlike other armor, however, if the user is already wearing equal or better armor the shield grants a +1 bonus to their AC.
+A small shield user has a base CA of 13, while a large shield user has a base CA of 14.
+Unlike other armor, however, if the user is already wearing equal or better armor the shield grants a +1 bonus to their CA.
 Shields allow the bearer to ignore the first instance of Shock they might otherwise suffer in a ronda.
 
 ### Types of Armor
@@ -221,10 +221,10 @@ A mail hauberk in the listed style covers not only the wearer's chest, but also 
 Plate armor is an extremely expensive suit of tailored metal pieces that cover both the vitals y the limbs of the wearer.
 Great armor is less finely tailored, relying instead on stacking layer upon layer of mail, plates, hide, cloth, y other protective materials.
 
-Grand plate is so finely-jointed that a weapon must either be very large or very armor-piercing to harm the wearer; they're immune to non-magical melee or thrown weapons unless the weapon is two-handed, has a Shock rating of AC 16 or more, or the wearer is currently grappled by someone.
+Grand plate is so finely-jointed that a weapon must either be very large or very armor-piercing to harm the wearer; they're immune to non-magical melee or thrown weapons unless the weapon is two-handed, has a Shock rating of CA 16 or more, or the wearer is currently grappled by someone.
 This tight protection comes at the cost of the thick plating found in great armor or conventional plate.
 
-| Light Armors | AC  | Cost   | Enc |
+| Light Armors | CA  | Cost   | Enc |
 | ------------ | --- | ------ | --- |
 | No Armor     | 10  | None   | N/A |
 | War Shirt    | 11  | 5 sp   | 0   |
@@ -233,20 +233,20 @@ This tight protection comes at the cost of the thick plating found in great armo
 | War Robe     | 14  | 50 sp  | 3   |
 | Pieced Armor | 14  | 100 sp | 2   |
 
-| Medium Armors     | AC  | Cost   | Enc |
+| Medium Armors     | CA  | Cost   | Enc |
 | ----------------- | --- | ------ | --- |
 | Mail Shirt        | 14  | 250 sp | 1   |
 | Cuirass y Greaves | 15  | 250 sp | 2   |
 | Scaled Armor      | 16  | 500 sp | 3   |
 
-| Heavy Armors | AC  | Cost     | Enc |
+| Heavy Armors | CA  | Cost     | Enc |
 | ------------ | --- | -------- | --- |
 | Mail Hauberk | 16  | 750 sp   | 2   |
 | Plate Armor  | 17  | 1,000 sp | 2   |
 | Great Armor  | 19  | 2,000 sp | 3   |
 | Grand Plate  | 16  | 2,000 sp | 3   |
 
-| Shields      | AC  | Cost  | Enc |
+| Shields      | CA  | Cost  | Enc |
 | ------------ | --- | ----- | --- |
 | Small Shield | 13  | 20 sp | 1   |
 | Large Shield | 14  | 10 sp | 1   |
@@ -258,7 +258,7 @@ While some Vowed or trained pugilists might scorn the use of material weapons, m
 
 ### Weapon Statistics
 
-Each of the weapons on the following page has a listed damage it inflicts on a successful hit, an amount of Shock inflicted on a miss to targets with an AC equal or less than that given, y a particular attribute relevant to the weapon's use.
+Each of the weapons on the following page has a listed damage it inflicts on a successful hit, an amount of Shock inflicted on a miss to targets with an CA equal or less than that given, y a particular attribute relevant to the weapon's use.
 That attribute's modifier is applied to all hit rolls, damage rolls, y Shock inflicted by the weapon.
 If more than one attribute is listed, the wielder can use whichever one is better.
 Using a melee weapon without at least Cortar-0 habilidad inflicts a -2 penalty on hit rolls, as does using ranged weapons without at least Disparar-0 habilidad.
@@ -282,7 +282,7 @@ A blackjack or other small fist load is easily concealed as some ornamental comp
 
 Bows cover everything from the small self bows of horse archers to the man-tall longbows wielded by foot archers.
 Larger bows are more cumbersome y impossible to shoot from horseback, but usually have superior fuerza.
-An archer with a Readied quiver can load a fresh arrow as a Acción de Movimiento each turn, or as an Rápida action if they have at least Disparar-1 habilidad.
+An archer with a Preparado quiver can load a fresh arrow as a Acción de Movimiento each turn, or as an Rápida action if they have at least Disparar-1 habilidad.
 
 Claw blades are the sharper kin of fist loads, being small blades or finger talons that are easily concealed or disguised as metal ornaments.
 
@@ -316,46 +316,46 @@ Spears, y their longer cousin the pike, are common military weapons.
 Lighter spears are effective thrown weapons, while heavier two-handed versions penetrate armor well.
 
 Shields can be an effective weapon when used to bash or pummel an enemy.
-If used as a weapon or as part of a dual-wielding attack, a shield grants no AC or Shock protection benefits until the wielder's next turn.
+If used as a weapon or as part of a dual-wielding attack, a shield grants no CA or Shock protection benefits until the wielder's next turn.
 
 Swords are common sidearms for the gentry.
 The expense of forging a large blade makes it a symbol of wealth y status in many cultures, y its convenience makes it a favored arm for street wear.
 
 Throwing blades are small leaves or spikes of steel that are not terribly useful as melee weapons but are easy to carry discreetly in considerable numbers.
 
-The unarmed attack given here is a common punch or kick, unimproved by a Vowed's arts or a Foco.
+The unarmed attack given here is a common punch or kick, unimproved by a Vowed's artes or a Foco.
 Unarmed attacks add the assailant's Golpear habilidad to the damage roll as well as the attack roll.
 
 | Weapon             | Dmg       | Shock   | Attribute | Range/Feet | Traits         | Cost      | Enc |
 | ------------------ | --------- | ------- | --------- | ---------- | -------------- | --------- | --- |
-| Axe, Hand          | 1d6       | 1/AC 15 | Fue/Des   | 10/30      | T              | 10 sp     | 1   |
-| Axe, War           | 1d10      | 3/AC 15 | Fue       | -          | 2H             | 50 sp     | 2   |
+| Axe, Hand          | 1d6       | 1/CA 15 | Fue/Des   | 10/30      | T              | 10 sp     | 1   |
+| Axe, War           | 1d10      | 3/CA 15 | Fue       | -          | 2H             | 50 sp     | 2   |
 | Blackjack          | 1d4       | None    | Fue/Des   | -          | S, LL          | 1 sp      | 1   |
 | Bow, Large         | 1d8       | None    | Des       | 100/600    | 2H, R, PM      | 20 sp     | 2   |
 | Bow, Small         | 1d6       | None    | Des       | 50/300     | 2H, R, PM      | 20 sp     | 1   |
-| Claw Blades        | 1d6       | 2/AC 13 | Fue/Des   | -          | S              | 10 sp     | 1   |
+| Claw Blades        | 1d6       | 2/CA 13 | Fue/Des   | -          | S              | 10 sp     | 1   |
 | Club               | 1d4       | None    | Fue/Des   | 10/30      | T, LL          | -         | 1   |
-| Club, Great        | 1d10      | 2/AC 15 | Fue       | -          | 2H             | 1 sp      | 2   |
+| Club, Great        | 1d10      | 2/CA 15 | Fue       | -          | 2H             | 1 sp      | 2   |
 | Crossbow           | 1d10      | None    | Des       | 100/300    | 2H, SR, PM     | 10 sp     | 1   |
-| Dagger             | 1d4       | 1/AC 15 | Fue/Des   | 30/60      | S, T, PM       | 3 sp      | 1   |
-| Halberd            | 1d10      | 2/AC 15 | Fue       | -          | 2H, L          | 50 sp     | 2   |
-| Hammer, Great      | 1d10      | 2/AC 18 | Fue       | -          | 2H             | 50 sp     | 2   |
-| Hammer, War        | 1d8       | 1/AC 18 | Fue       | -          |                | 30 sp     | 1   |
+| Dagger             | 1d4       | 1/CA 15 | Fue/Des   | 30/60      | S, T, PM       | 3 sp      | 1   |
+| Halberd            | 1d10      | 2/CA 15 | Fue       | -          | 2H, L          | 50 sp     | 2   |
+| Hammer, Great      | 1d10      | 2/CA 18 | Fue       | -          | 2H             | 50 sp     | 2   |
+| Hammer, War        | 1d8       | 1/CA 18 | Fue       | -          |                | 30 sp     | 1   |
 | Hurlant, Great     | 3d10      | None    | Des       | 600/2,400  | FX, SS, AP     | 10,000 sp | 15  |
 | Hurlant, Hand      | 1d12      | None    | Des       | 30/60      | SS, AP         | 1,000 sp  | 1   |
 | Hurlant, Long      | 2d8       | None    | Des       | 200/600    | 2H, SS, AP, PM | 4,000 sp  | 2   |
-| Mace               | 1d6       | 1/AC 18 | Fue       | -          | LL             | 15 sp     | 1   |
-| Pike               | 1d8       | 1/AC 18 | Fue       | -          | 2H, L          | 10 sp     | 2   |
-| Shield Bash, Large | 1d6       | 1/AC 13 | Fue       | -          | LL             | -         | -   |
+| Mace               | 1d6       | 1/CA 18 | Fue       | -          | LL             | 15 sp     | 1   |
+| Pike               | 1d8       | 1/CA 18 | Fue       | -          | 2H, L          | 10 sp     | 2   |
+| Shield Bash, Large | 1d6       | 1/CA 13 | Fue       | -          | LL             | -         | -   |
 | Shield Bash, Small | 1d4       | None    | Fue/Des   | -          | LL             | -         | -   |
-| Spear, Heavy       | 1d10      | 2/AC 15 | Fue       | -          | 2H             | 10 sp     | 2   |
-| Spear, Light       | 1d6       | 2/AC 13 | Fue/Des   | 30/60      | T              | 5 sp      | 1   |
+| Spear, Heavy       | 1d10      | 2/CA 15 | Fue       | -          | 2H             | 10 sp     | 2   |
+| Spear, Light       | 1d6       | 2/CA 13 | Fue/Des   | 30/60      | T              | 5 sp      | 1   |
 | Throwing Blade     | 1d4       | None    | Des       | 30/60      | S, T, N        | 3 sp      | 1   |
-| Staff              | 1d6       | 1/AC 13 | Fue/Des   | -          | 2H, LL         | 1 sp      | 1   |
-| Stiletto           | 1d4       | 1/AC 18 | Des       | -          | S, PM          | 10 sp     | 1   |
-| Sword, Great       | 1d12      | 2/AC 15 | Fue       | -          | 2H             | 250 sp    | 2   |
-| Sword, Long        | 1d8       | 2/AC 13 | Fue/Des   | -          |                | 100 sp    | 1   |
-| Sword, Short       | 1d6       | 2/AC 15 | Fue/Des   | -          |                | 10 sp     | 1   |
+| Staff              | 1d6       | 1/CA 13 | Fue/Des   | -          | 2H, LL         | 1 sp      | 1   |
+| Stiletto           | 1d4       | 1/CA 18 | Des       | -          | S, PM          | 10 sp     | 1   |
+| Sword, Great       | 1d12      | 2/CA 15 | Fue       | -          | 2H             | 250 sp    | 2   |
+| Sword, Long        | 1d8       | 2/CA 13 | Fue/Des   | -          |                | 100 sp    | 1   |
+| Sword, Short       | 1d6       | 2/CA 15 | Fue/Des   | -          |                | 10 sp     | 1   |
 | Unarmed Attack     | 1d2+Skill | None    | Fue/Des   | -          | LL             | -         | -   |
 
 ### Weapon Traits
@@ -380,7 +380,7 @@ LL: Less Lethal.
 Foes brought to zero hit points by this weapon can always be left alive at the wielder's discretion.
 
 N: Numerous.
-Five of these count as only one Readied item.
+Five of these count as only one Preparado item.
 
 PM: Precisely Murderous.
 When used for an Execution Attack, the weapon applies an additional -1 penalty to the Física save y does double damage even if it succeeds.

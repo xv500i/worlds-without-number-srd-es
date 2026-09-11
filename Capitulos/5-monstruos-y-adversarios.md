@@ -18,11 +18,11 @@ Hit dice are a measure of the creature's general power, not unlike a level ratin
 For each hit die a creature has, it rolls 1d8 for its hit points.
 Most ordinary humans have only one hit die, while veterans of bloody struggle or ruthless court intrigue might have two, or three, or even more for the most heroic among them.
 
-AC is for the creature's Armor Class.
+CA is for the creature's Clase de Armadura.
 The higher this number, the harder it is to meaningfully hurt the thing.
-Monsters y wild beasts have an Armor Class appropriate to their agility y the toughness of their hide; 12 or 13 for quick things with leathery skins, up to 15 for very well-armored beasts, or even up to 20 for things with supernatural hardihood.
-Humans y other sentients usually have whatever Armor Class is granted by the armor they wear.
-Some creatures have an "a" annotation with their AC; this just means that the creature wears armor y the AC given is what their usual armor is worth.
+Monsters y wild beasts have an Clase de Armadura appropriate to their agility y the toughness of their hide; 12 or 13 for quick things with leathery skins, up to 15 for very well-armored beasts, or even up to 20 for things with supernatural hardihood.
+Humans y other sentients usually have whatever Clase de Armadura is granted by the armor they wear.
+Some creatures have an "a" annotation with their CA; this just means that the creature wears armor y the CA given is what their usual armor is worth.
 
 Atk is the creature's usual total attack bonus for its hit rolls in combate.
 For most creatures, this is equal to its hit dice, possibly with a bonus if it's well-trained, exceptionally vicious, or supernaturally powerful.
@@ -33,10 +33,10 @@ Dmg is the damage done by a successful hit by the creature.
 If the listing says "Wpn", then it does whatever damage is usual for the weapon that it's wielding.
 A creature will never do less damage on a hit than it would do with its Shock score, if Shock would apply to the target.
 
-Shock is the Shock damage inflicted by the creature y the maximum AC it affects.
-Thus, "3/13" means that the creature inflicts a minimum of 3 points of Shock damage on a miss to any foe with an AC of 13 or less.
+Shock is the Shock damage inflicted by the creature y the maximum CA it affects.
+Thus, "3/13" means that the creature inflicts a minimum of 3 points of Shock damage on a miss to any foe with an CA of 13 or less.
 "Wpn" means the usual Shock damage of the weapon being used is applied.
-Exceptionally powerful or savage creatures might automatically apply Shock regardless of the AC of the foe; such creatures have a dash listed for the maximum AC, such as "3/-".
+Exceptionally powerful or savage creatures might automatically apply Shock regardless of the CA of the foe; such creatures have a dash listed for the maximum CA, such as "3/-".
 Such damage is always applied unless the foe is immune to Shock.
 
 Move is the distance the creature can move with a single Acción de Movimiento.

@@ -1,54 +1,47 @@
-# An Introduction
+# Introducción
 
-The document that follows is intended as a reference for game designers who wish to produce role-playing games using the mechanics of the Worlds Without Number fantasy RPG.
-It is not intended to substitute for the free PDF version of the game as a player resource or other reference, so the text included here is largely devoid of examples or other instructional text and it is not written to be convenient as a table reference.
+Este documento se diseñó como referencia para diseñadores que quieren producir juegos de rol utilizando las mecánicas de Worlds Without Number fantasy RPG.
+No está pensado para sustituir la versión gratuíta en PDF del juego como si fuera un recurso del jugador o una referencia.
+Por eso, el texto incluído no contiene muchos ejemplos u otro texto complementario ya que no se ha escrito para ser útil en ese sentido.
 
-Instead, it is meant to give other RPG designers an explicit document showing exactly what I consider to be freely-usable game mechanics or trivially implemented descriptive text.
+En cambio, el documento muestra a los diseñadores lo que considero que se puede usar libremente del juego.
 
-Regarding this document, its copyright and related rights are waived via CC0, with a summary of the waiver at https://creativecommons.org/publicdomain/zero/1.0/ and the legal text itself at https://creativecommons.org/publicdomain/zero/1.0/legalcode.
+El copyright de este documento y los derechos asociados se renuncian mediante CC0 (https://creativecommons.org/publicdomain/zero/1.0/) y su texto legal (https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
-While I cannot offer legal advice to the reader, I am providing this introduction as a plain English description of my position.
+Ya que no puedo dar apoyo legal al lector, explico en la introducción cual es mi posición en el asunto.
 
-## The Reason for the Document
+## La Razón del Documento
 
-To my understanding, the only right that the following document confers that a user did not already have is the right to use its text verbatim in a commercial product.
-As game mechanics cannot be copyrighted, I have always felt it fair and reasonable for other designers to duplicate the mechanics of my games for their own ends, and the following document simply specifies clearly what I consider to be those unprotected mechanics.
+A mi entender, el único derecho que confiere este documento que no se hubiera dado ya es el derecho de usar el texto literal en un producto comercial.
+Ya que las mecánicas no pueden tener copyright, creo que es justo que los diseñadores las puedan copiar.
+En este documento señalo claramente qué mecánicas considero que entran en esta categoría.
 
-Along with these mechanics, trivially-derived ideas such as the damage dice of weapons, the particular layout of tables, and other details of implementation are laid out so as to make clear that I claim no legal or moral right to restrict their use.
+A parte de las mecánicas, ideas derivadas como el daño de las armas, la estructura de las tablas y otros detalles de implementación se reproducen para dejar claro que no reclamo derechos legales o morales sobre su uso.
 
-Certain content such as specific spell or art names might arguably be said to be too unique in implementation to be freely copyable.
-As I have no desire to compel other designers to rework dozens of spells and abilities simply to avoid a name, I have intentionally placed these spell names and other specific text into this document.
+Contenidos específicos como nombres de hechizos o artes podrían estar considerados demasiado específicos como para copiarse libremente.
+Como no tengo el deseo de hacer que otros diseñadores cambien docenas de nombres de hechizos y artes, añado estos nombres explícitamente en el documento.
 
-## A Note On Approvals
+## Clarificaciones para Aprovaciones
 
-As the following document is affirmed under CC0 terms, I have absolutely no right to edit, approve, police, or restrict materials created with it.
-While I might have personal opinions regarding products derived from the document, their existence may in no way be represented as official or approved Sine Nomine Publishing products, nor should my endorsement be assumed for anything created.
-Designers may create what they wish, and I neither have nor desire any ability to control that.
+Como el documento está bajo los términos de CC0, no tengo derecho a editar, aprovar, aplicar políticas o restringir los materiales creados a partir de el.
+Aunque pueda tener opiniones personales de los productos que se deriven del documento, no se pueden considerar oficiales o aprovados por Sine Nomine Publishing products ni tampoco puedo revisar todo lo que se cree.
+Los diseñadores pueden crear lo que quieran y no tengo el derecho ni lo deseo de controlar eso.
 
-## What You Can Do
+## Que puedes hacer
 
-While certain uses are implicit in a CC0 affirmation, I list some of them out here in plain English for the sake of clarity.
-These uses apply to both personal and commercial uses of the following document, whether for tabletop RPGs, VTTs, online utilities, computer games, or any other work.
+Mientras algunos usos están implicitos en el CC0, listo algunos aquí para aclararlos.
+Estos usos pueden ser personales y comerciales, ya sean juegos de rol, VTTs, utilidades online, juegos de ordenador o cualquier otro producto.
 
-- You may copy verbatim any text in the following document
-  for your own products, including tables and their contents.
-- You may copy, derive, modify, or expand any content in
-  the following document in your own products.
-- You may publish products derived from the following document
-  without crediting either me or this document, as I waive all
-  moral rights to it to the extent permissible by law.
-- You do not need to release your products under a CC0
-  affirmation or any other license.
-- You may explicitly advertise your products as being compatible
-  with Worlds Without Number or other Sine Nomine
-  RPGs if, in your opinion, the product is compatible.
-- You may not represent your products as "official" Sine
-  Nomine offerings or as otherwise licensed, produced, associated
-  with, or approved by Sine Nomine Publishing.
-- You may not replicate text or setting material included in the Worlds Without Number free or deluxe game but not included in the following document.
-  Setting details such as the default setting, the Latter Earth as described, or particular PNJs, places, or events are reserved as intellectual property and have been intentionally omitted from the following text, as have the bulk of the GM tools and other non-trivial creative content.
-  These elements are actual creative works, and so I do not consider them free for common public use.
-  Note that this does not apply to the basic concepts involved in the GM tools; while I keep my world tag text to myself, for example, I have no objection to someone else writing their own tags with the same enemy/friend/complication/thing/place structure, or creating one-roll tables with their own text.
+- Puedes copiar literalmente cualquier texto del documento para tus productos, incluyendo tablas y su contenido.
+- Puedes copiar, derivar, modificar o expandir el contenido en tus productos.
+- Puedes publicar productos derivados del documento sin darme crédito o referenciar el documento, ya que rechazo todos los derechos legales.
+- No es necesario que publiques tus productos con CC0 o ninguna otra licencia.
+- Puedes publicitar productos diciendo que son compatibles con Worlds Without Number u otros juegos de rol de Sine Nomine RPGs si, según tu juicio, el producto lo es.
+- No puedes representar en tus productos como oficiales, licenciados, producidos, asociados, aprovados de de Sine Nomine Publishing.
+- No puedes replicar texto o material de ambientación incluído en las versiones gratuítas o deluxe de Worlds Without Number que no estén incluídas en el documento.
+  Los detalles de la ambientación de Latter Earch como se describe, PNJs particulares, lugares o eventos son propiedad intelectual y se han omitido explícitamente del texto, al igual que las herramientas del GM y otro contenido creativo no trivial.
+  Esos elementos son trabajo creativo y no los considero de uso libre.
+  Esto no aplica a los conceptos básicos de las herramientas del GM; mientras que reservo el derecho a mis etiquetas de mundo, por ejemplo, no tengo ningúna objeción a que alguien pueda escribir sus propias etiquetas con la misma estructura enemigo/amigo/complicación/cosa/lugar o crear tablas con su propio texto.
 
 Kevin Crawford
 

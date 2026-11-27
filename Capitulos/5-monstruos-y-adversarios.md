@@ -29,7 +29,7 @@ For most creatures, this is equal to its hit dice, possibly with a bonus if it's
 Some creatures have more than one attack, indicated by an "x2" or "x3" notation.
 This means the creature can attack two or three times with a single Acción Principal, directing them all at a single creature or splitting them up among nearby foes within reach.
 
-Dmg is the damage done by a successful hit by the creature.
+Daño is the damage done by a successful hit by the creature.
 If the listing says "Wpn", then it does whatever damage is usual for the weapon that it's wielding.
 A creature will never do less damage on a hit than it would do with its Shock score, if Shock would apply to the target.
 

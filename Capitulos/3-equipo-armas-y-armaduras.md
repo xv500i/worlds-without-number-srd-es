@@ -1,403 +1,390 @@
-# Equipment, Armor y Weapons
+# Equipo, Armadura y Armas
 
-This section provides a selection of example gear appropriate to most fantasy campaigns.
-The GM is naturally expected to add other items that might suit their particular world.
+Esta sección tiene ejemplos de equipo apropiado para la mayoría de campañas de fantasía.
+Se espera que el GM añada otros objetos que formen parte de su mundo.
 
-## Money y Currency
+## Dinero y Monedas
 
-The game assumes copper, silver, y gold coins in general circulation, with ten coppers to a silver y ten silvers to a gold piece.
-Silver is the base currency; one silver piece is a typical laborer's daily wage.
+Se asume que existen monedas de cobre, plata y oro. 10 monedas de cobre equivalen a 1 de plata y 10 monedas de plata equivale a 1 de oro.
+Las monedas de plata son el dinero por defecto. Un trabajador típico cobra 1 plata por día.
 
-## Adventuring Equipo
+## Equipo de Aventura
 
-| Item                          | Cost   | Enc |
-| ----------------------------- | ------ | --- |
-| Arrows, 20                    | 2 sp   | 1   |
-| Backpack                      | 2 sp   | 1§  |
-| Boots                         | 2 sp   | 1§  |
-| Candle                        | 1 cp   | \*  |
-| Cart, one-horse               | 50 sp  | N/A |
-| Clothes, common               | 25 sp  | 1§  |
-| Clothes, fine                 | 100 sp | 1§  |
-| Clothes, noble                | 500 sp | 2§  |
-| Cooking utensils              | 4 sp   | 1   |
-| Crowbar                       | 4 sp   | 1   |
-| Firewood, one night's fire    | 2 cp   | 4   |
-| Flask, metal, one pint        | 3 sp   | 1   |
-| Grappling hook                | 5 sp   | 1   |
-| Hammer or small tool          | 2 sp   | 1   |
-| Healer's pouch                | 5 sp   | 1   |
-| Hurlant bolts, 20             | 20 sp  | 1   |
-| Iron spikes, 10               | 1 sp   | 1   |
-| Lantern                       | 10 sp  | 1   |
-| Mirror, hand                  | 10 sp  | \*  |
-| Oil, one pint                 | 1 sp   | 1#  |
-| Paper, 10 sheets              | 1 sp   | \*  |
-| Rations, one week             | 5 sp   | 4   |
-| Rope, 50'                     | 2 sp   | 2   |
-| Sack                          | 1 sp   | 1   |
-| Shovel, pick, or similar tool | 4 sp   | 2   |
-| Tinder box                    | 1 sp   | \*  |
-| Torch                         | 2 cp   | 1#  |
-| Waterskin, one gallon         | 1 sp   | 1   |
-| Writing kit                   | 3 sp   | 1   |
+| Objeto                           | Coste  | Impedimenta |
+| -------------------------------- | ------ | ----------- |
+| Aceite (0.5L)                    | 1 pp   | 1#          |
+| Antorcha                         | 2 pc   | 1#          |
+| Botas                            | 2 pp   | 1§          |
+| Carro para un caballo            | 50 pp  | N/A         |
+| Cuerda, 15m                      | 2 pp   | 2           |
+| Espejo de mano                   | 10 pp  | \*          |
+| Flechas, 20                      | 2 pp   | 1           |
+| Frasco de metal (0.5L)           | 3 pp   | 1           |
+| Gancho de escalada               | 5 pp   | 1           |
+| Kit de curandero                 | 5 pp   | 1           |
+| kit de escritura                 | 3 pp   | 1           |
+| Leña para 1 noche                | 2 pc   | 4           |
+| Linterna                         | 10 pp  | 1           |
+| Martillo o herramienta pequeña   | 2 pp   | 1           |
+| Mochila                          | 2 pp   | 1§          |
+| Odre, (4L)                       | 1 pp   | 1           |
+| Palanca                          | 4 pp   | 1           |
+| Pala, pico o herramienta similar | 4 pp   | 2           |
+| Papel, 10 hojas                  | 1 pp   | \*          |
+| Puntas de hierro, 10             | 1 pp   | 1           |
+| Raciones, 1 semana               | 5 pp   | 4           |
+| Ropa, simple                     | 25 pp  | 1§          |
+| Ropa, buena                      | 100 pp | 1§          |
+| Ropa, nobleza                    | 500 pp | 2§          |
+| Saco                             | 1 pp   | 1           |
+| Utensilios de cocina             | 4 pp   | 1           |
+| Vela                             | 1 pc   | \*          |
+| Virotes, 20                      | 20 pp  | 1           |
+| Yesca                            | 1 pp   | \*          |
 
-- \* the item is effectively weightless in modest numbers
-- § the item doesn't count for impedimenta purposes while being worn
-- \# can be bundled in units of three for the same impedimenta, with a Acción Principal to break open a bundle to get at the contents
+- \* el objeto no pesa en cantidades modestas
+- § el objeto no tiene impedimenta si se lleva puesto
+- \# se pueden agrupar en un pack de 3 que tiene la impedimenta de un objeto individual. Se necesita una acción principal para abrir el pack.
 
-### Beasts y Transport
+### Animales y Transporte
 
-| Item                           | Cost      |
-| ------------------------------ | --------- |
-| Horse, riding                  | 200 sp    |
-| Horse, draft                   | 150 sp    |
-| Horse, battle-trained          | 2,000 sp  |
-| Mule                           | 30 sp     |
-| Cow                            | 10 sp     |
-| Ox, plow-trained               | 15 sp     |
-| Chicken                        | 5 cp      |
-| Pig                            | 3 sp      |
-| Dog, working                   | 20 sp     |
-| Sheep or goat                  | 5 sp      |
-| River ferry, per passenger     | 5 cp      |
-| Ship passage, per expected day | 2 sp      |
-| Carriage travel, per mile      | 2 cp      |
-| Rowboat                        | 30 sp     |
-| Small fishing boat             | 200 sp    |
-| Merchant ship                  | 5,000 sp  |
-| War galleon                    | 50,000 sp |
+| Objeto                               | Coste     |
+| ------------------------------------ | --------- |
+| Barca de pesca                       | 200 pp    |
+| Barco mercante                       | 5.000 pp  |
+| Bote de remos                        | 30 pp     |
+| Buey entrenado para granja           | 15 pp     |
+| Caballo de monta                     | 200 pp    |
+| Caballo de tiro                      | 150 pp    |
+| Caballo de batalla                   | 2.000 pp  |
+| Cerdo                                | 3 pp      |
+| Galeón de guerra                     | 50.000 pp |
+| Mula                                 | 30 pp     |
+| Oveja o cabra                        | 5 pp      |
+| Perro de trabajo                     | 20 pp     |
+| Pollo                                | 5 pc      |
+| Vaca                                 | 10 pp     |
+| Viaje por un río, por pasajero       | 5 pc      |
+| Viaje por el mar, por día y pasajero | 2 pp      |
+| Viaje en carro, por milla            | 2 pc      |
 
-### Equipo Bundles
+### Kits de Equipo
 
-Depending on the tastes of the group, some parties might enjoy tracking every torch y carefully weighing their resource expenditures on perilous expeditions.
-Others prefer to gloss over the details.
-The "gear bundle" options below cover all the non-weapon, non-armor gear expected of a particular role y the usual impedimenta weight of it all.
-The specific contents of each bundle are as broad as the GM finds reasonable for the role.
-A GM who prefers exact accounting can disallow bundles.
+Dependiendo de los gustos del grupo, algunos jugadores prefieren hacer el seguimiento de cada antorcha y calcular el peso de cada recurso durante sus expediciones.
+Otros prefieren abstraerse de los detalles.
+Las opciones de kits cubren todo el equipo que puede necesitar un rol en particular.
+El contenido específico de cada kit depende del GM.
+Si el GM prefiere el detalle de los objetos, puede vetar los kits.
 
-| Item                     | Cost     | Enc |
-| ------------------------ | -------- | --- |
-| Artesano's Equipment     | 50 sp    | 5   |
-| Criminal Tools           | 100 sp   | 3   |
-| Dungeoneering Kit        | 200 sp   | 6   |
-| Noble Courtier Outfit    | 1,000 sp | 2   |
-| Performer's Implements   | 100 sp   | 3   |
-| Wilderness Travel Equipo | 100 sp   | 5   |
+| Objeto                  | Coste    | Impedimenta |
+| ----------------------- | -------- | ----------- |
+| Kit de artesano         | 50 pp    | 5           |
+| Kit de criminal         | 100 pp   | 3           |
+| Kit de mazmorreo        | 200 pp   | 6           |
+| Kit de viaje            | 100 pp   | 5           |
+| Vestido de alta nobleza | 1.000 pp | 2           |
+| Utensilios de artista   | 100 pp   | 3           |
 
-## Hirelings y Services
+## Empleados y Servicios
 
-The party may find it useful to employ temporary labor in their adventures, either for extra warm bodies in combate or for the special talents they possess.
+El grupo puede necesitar empleados en sus aventuras, ya sea para tener más combatientes o para usar conocimientos específicos.
 
-Adventuring hirelings will demand at least a half-share of treasure in addition to their daily pay y will undertake no risks that their employers don't share.
-Their combate statistics will be as normal for their type, usually equal to a common human soldier for most.
-After a particularly dangerous adventure, the hireling must make a Moral check; on a failure, they decide the adventuring life is too risky y leave the group.
+Los empleados piden al menos la mitad del reparto de tesoro además de su pago diario y no tomarán riesgos que sus empleadores no compartan.
+Sus estadísticas de combate serán las habituales según su tipo, usualmente equivalentes a un soldado humano.
+Después de una aventura particularmente peligrosa, el mercenario hace una prueba de Moral.
+Si falla, decide que la vida aventurera es demasiado peligrosa y dejará el grupo.
 
-On the rare occasions that a mage can be found willing to hire out their services, their skills almost never exceed those of a first or second level Mago.
+En el extraño caso de que un mago quiera ofrecer sus servicios, sus estadísticas y habilidades raramente superarán las de un Mago de nivel 2.
 
-Most communities have a limited number of men y women willing to risk an awful doom while adventuring.
-If the party makes a habit of returning without their employees, others may refuse to join.
+Muchas comunidades tienen un número limitado de personas que quieren arriesgarse a un terrible destino.
+Si el grupo tiene el hábito de volver sin sus empleados, los otros rechazarán unirse a sus aventuras.
 
-Non-adventuring hirelings who are employed to guard the party's residence, haul their equipment on expeditions, work on their behalf, y otherwise conduct normal business will require no more than their daily wage.
-If they can't go home at the end of the day, food y fit lodgings must be provided as well.
+Los empleados que no participen en la aventura se pueden usar para vigilar sus bases, cargar su equipo, trabajar en general.
+En el caso de que los empleados no puedan volver a casa al final del día, se debe proporcionar su comida, bebida y lugar de descanso.
 
-Where it matters, common hirelings can be assumed to have a total +1 bonus on relevant pruebas de habilidad.
+Se puede considerar que un empleado tiene un +1 en las pruebas de habilidad donde sean competentes.
 
-| Item                                  | Cost/day |
-| ------------------------------------- | -------- |
-| Bard of Small Repute                  | 2 sp     |
-| Common Prostitute                     | 2 sp     |
-| Dragoman or Skilled Interpreter       | 10 sp    |
-| Elite Courtesan                       | 100 sp   |
-| Farmer                                | 1 sp     |
-| Guard, ordinary                       | 2 sp     |
-| Guard, sergeant, for every ten guards | 10 sp    |
-| Lawyer or Pleader                     | 10 sp    |
-| Mago of Minor Abilities               | 200 sp   |
-| Mundane Physician                     | 10 sp    |
-| Porter willing to go into the wilds   | 5 sp     |
-| Porter only for relatively safe roads | 1 sp     |
-| Navigator                             | 5 sp     |
-| Sage, per question answered           | 200 sp   |
-| Sailor                                | 1 sp     |
-| Scribe or Clerk                       | 3 sp     |
-| Skilled Artesano                      | 5 sp     |
-| Unskilled Laborer                     | 1 sp     |
-| Veteran Sellsword                     | 10 sp    |
-| Wilderness Guide                      | 10 sp    |
+| Empleado                          | Coste/día |
+| --------------------------------- | --------- |
+| Abogado                           | 10 pp     |
+| Artesano competente               | 5 pp      |
+| Bardo de poca reputación          | 2 pp      |
+| Cortesano                         | 100 pp    |
+| Escriba                           | 3 pp      |
+| Granjero                          | 1 pp      |
+| Guardia                           | 2 pp      |
+| Guía de viajes                    | 10 pp     |
+| Intérprete                        | 10 pp     |
+| Mago                              | 200 pp    |
+| Marinero                          | 1 pp      |
+| Médico                            | 10 pp     |
+| Mercenario veterano               | 10 pp     |
+| Navegante                         | 5 pp      |
+| Sabio (por pregunta)              | 200 pp    |
+| Sargento (cada 10 guardias)       | 10 pp     |
+| Trabajador común                  | 1 pp      |
+| Trabajador sexual                 | 2 pp      |
+| Transportista para expediciones   | 5 pp      |
+| Transportista por caminos seguros | 1 pp      |
 
-### Services y Living Expenses
+### Servicios y Coste de la Vida
 
-Heroes who are sufficiently established as to have their own homes or businesses can live comfortably on their own resources.
-Other PJs, however, must pay for their keep when not out adventuring.
+Los héroes que se hayan establecido en sus casas o negocios pueden vivir confortablemente con sus recursos.
+Otros PJ deben pagar por el coste de la vida cuando no están de aventura.
 
-Impoverished lifestyle costs cover only the bare minimum of food y a mostly-dry squat to sleep in.
-Heroes who can afford nothing better suffer a -1 penalty to all social pruebas de habilidad due to their unkempt state y must make a Física tirada de salvación each night to benefit from the usual decrease in Estrés Corporal.
+El estilo de vida pobre consta de lo mínimo para comida y una cama andrajosa.
+Los PJ que no puedan pagar nada mejor sufren un penalizador de -1 en todas las pruebas de habilidad sociales debido a su estado deplorable.
+También deben hacer una tirada de salvación física cada noche si quieren disminuir su Estrés Corporal.
 
-Common lifestyle fees for an adventurer usually cover adequate food y a shabby private inn room.
-No penalties or benefits are granted by living this way.
+El estilo de vida común asume una comida adecuada y una habitación privada en una posada.
 
-Rich lifestyle costs generally include a rented townhouse, a small staff of servants, y social entree into high society circles that are forgiving of the nouveau riche… at least, as long as their coin remains good.
+El estilo de vida rico incluye un alquiler de una casa, sirvientes y contactos entre la alta sociedad.
 
-Noble lifestyles provide the very best the community can offer in fine lodging, luxuriant food, sycophantic servants, y the provisional friendship of useful parasites.
-Once per game session, the PC can ask a favor of a hanger-on in their retinue, who will perform it if it is not more than mildly humiliating, dangerous or illegal.
+El estilo de vida noble incluye el mejor hogar que pueda ofrecer la comunidad, comida lujosa, sirvientes y la amistad de algunos parásitos útiles.
+Una vez por sesión, un PC puede pedir un favor a un parásito que lo cumplirá a no ser que se humillante, peligroso o ilegal.
 
-Aside from these weekly lifestyle costs, some other services often required by adventurers are listed.
+A parte de los costes semanales de los estilos de vida, se añaden otros servicios que frecuentemente necesitan los aventureros.
 
-| Item                               | Cost       |
+| Concepto                           | Coste      |
 | ---------------------------------- | ---------- |
-| Impoverished lifestyle, per week   | 5 sp       |
-| Common lifestyle, per week         | 20 sp      |
-| Rich lifestyle, per week           | 200 sp     |
-| Noble lifestyle, per week          | 1,000 sp   |
-| Magical healing of wounds          | 10 sp/hp\* |
-| Magical curing of a disease        | 500 sp\*   |
-| Lifting a curse or undoing magic   | 1,000 sp\* |
-| Casting a minor spell              | 250 sp\*   |
-| Bribe to overlook a minor crime    | 10 sp      |
-| Bribe to overlook a major crime    | 500 sp     |
-| Bribe to overlook a capital crime  | 10,000 sp  |
-| Hire someone for a minor crime     | 50 sp      |
-| Hire someone for a major crime     | 1,000 sp   |
-| Hire someone for an infamous crime | 25,000 sp  |
+| Estilo de vida pobre (semanal)     | 5 pp       |
+| Estilo de vida común (semanal)     | 20 pp      |
+| Estilo de vida rico (semanal)      | 200 pp     |
+| Estilo de vida noble (semanal)     | 1.000 pp   |
+| Curación mágica de heridas         | 10 pp/pg\* |
+| Curación mágica de enfermedades    | 500 pp\*   |
+| Levantar maldición o efecto mágico | 1.000 pp\* |
+| Lanzamiento de conjuro menor       | 250 pp\*   |
+| Soborno de un crimer menor         | 10 pp      |
+| Soborno de un crimer mayor         | 500 pp     |
+| Soborno de un crimer capital       | 10.000 pp  |
+| Encargar un crimen menor           | 50 pp      |
+| Encargar un crimer mayor           | 1.000 pp   |
+| Encargar un crimen capital         | 25.000 pp  |
 
-\* These services are rarely available without personal connections or doing special favors, y many communities may lack them entirely.
+\* Estos servicios solo están disponibles a través de conexiones personales o favores.
 
-### Armor
+### Armadura
 
-While some martial adepts or tradition-bound sorcerers shun armor, most adventurers find it necessary to put something solid between them y their enemies.
+Mientras que algunos adeptos marciales y hechiceros renuncian a las armaduras, la mayoría de aventureros se refugian en ellas para interponer algo sólido entre ellos y sus enemigos.
 
-Armor must be worn as a Preparado item, counting against the hero's impedimenta limit.
-Each type of armor grants a different base Clase de Armadura to the wearer, making it more difficult for enemies to land a telling blow.
-This Clase de Armadura is modified by the wearer's Destreza modifier y by any shield they might carry, as described below.
+La armadura debe ser equipara como un objeto Preparado que cuenta para el límite de impedimenta.
+Cada tipo de armadura ofrece una base para la Clase de Armadura.
+El modificador de Destreza se suma a la Clase de Armadura base junto con el escudo como se describe abajo.
 
-Multiple suits of armor do not stack; only one can usefully benefit a wearer.
+No se pueden apilar los efectos de múltiples armaduras.
 
-A hero wearing no armor at all has a base Clase de Armadura of 10, modified by their Destreza modifier.
-If they pick up a shield they can improve this to either CA 13 or CA 14, depending on the size of the shield.
+Un PJ que no lleve armadura tiene una base de Clase de Armadura de 10.
+Si llevan un escudo, su Clase de Armadura base es 13 o 14.
 
-### Light, Medium, y Heavy Armor
+### Armadura Ligera, Media y Pesada
 
-Light armor may be decidedly heavy, but it is loose y flexible enough to offer minimal hindrance to the wearer's acciones.
-Some varieties are also discreet enough to be worn politely in common society.
-Medium armor is significantly noisier y more overt; it cannot be worn discreetly y applies its impedimenta as a penalty to any physical Sigilo rolls made by the wearer.
-Heavy armor is the thickest, toughest panoply available on the market, y its bulk y noise make its impedimenta apply as a penalty to Sigilo or Atletismo checks made by the wearer.
+La armadura ligera puede pesar, pero es flexible y ofrece poco estorbo.
+Algunas versiones pueden ser suficientemente discretas como para ser aceptadas socialmente.
 
-### Shields
+La armadura media es ruidosa y evidente. Aplica un penalizador a las pruebas de Sigilo igual a su impedimenta.
 
-Shields come in two general varieties.
-Small ones, often made of costlier metal, can be strapped to the wearer's arm y allow them to hold y manipulate objects with that hand, albeit not wield a weapon with it.
-Larger shields are of cheaper wood y require a good grip.
+La armadura pesada es la más gruesa y dura disponible. Aplica un penalizador a las pruebas de Sigilo y Atletismo igual a su impedimenta.
 
-A small shield user has a base CA of 13, while a large shield user has a base CA of 14.
-Unlike other armor, however, if the user is already wearing equal or better armor the shield grants a +1 bonus to their CA.
-Shields allow the bearer to ignore the first instance of Shock they might otherwise suffer in a ronda.
+### Escudos
 
-### Types of Armor
+Los escudos pueden ser de 2 tipos.
 
-War shirts are nothing more than blessed shirts, lucky cloaks, auspicious warpaint, or whatever tokens of martial victory are favored by the poor y humble of a given culture.
-While they may look like nothing but normal clothing, their war-luck is still sufficient to interfere with a spellcaster's talentos.
+Los escudos pequeños suelen ser metálicos, se pueden llevar en el brazo y permiten agarrar y manipular objetos con la mano (aunque no una arma).
+Los escudos grandes suelen ser de madera y requieren un buen agarre.
 
-Buff coats are long coats of thick, supple hide, sometimes worn to cushion the bite of heavier armor y sometimes sported as ornamented street clothing for the gentry who can afford such luxuries.
+Un escudo pequeño da una base de Clase de Armadura de 13, mientras que uno grande da 14.
+En el caso de que el portador lleve una armadura que confiera una base igual o superior, el escudo confiere un +1 a su Clase de Armadura.
 
-Linothorax armor is a stiffer armor of glued, layered cloth.
+### Tipos de Armadura
 
-A war robe is a catchall term for various outfits involving layers of reinforced cloth or leather.
-Bits of metal, layers of thick hide, or weaves of tough cordage might all go into the various layers of the suit, making it a very heavy, if effective, piece of equipment.
+Las camisas de batalla no son más que camisas bendecidas, capas de la suerte, pintura de guerra o cualquier símbolo marcial.
+Aunque puede parecer ropa normal, su intención marcial es suficiente para intervenir con los talentos de conjuros.
 
-Pieced armor is assembled of a thicker or more durable chestpiece y piecework limb armor.
-While less effective than a proper cuirass y greaves, it's often the best that poor adventurers can get.
+Las casacas de cuero están hechas con cuero endurecido. Usualmente se usan para amortiguar los golpes en armaduras más pesadas o para ropa ornamental.
 
-Mail shirts are usually of iron or steel wire, though bronze y other more exotic materials are not unknown.
-Such shirts cover only the vitals of the wearer, but are less burdensome than a full hauberk.
+El linotórax es una armadura más rígida que consta de capas de tela pegada.
 
-Cuirass y greave armor reflects those different designs that rely on solid metal plating over the wearer's vitals along with lighter limb armor.
-Scaled armor includes both armor of metal scales on a flexible backing, brigandine, jacks of plate, y other armor made up of small, connected plates that cover most of the wearer's body.
+La ropa de guerra es un término que se usa para la ropa o cuero reforzado.
+Trozos de metal, capas de cuero gruesas o vueltas de cuerdas que lo hacen muy pesado.
 
-Most are noisy, heavy suits.
+Las armaduras de piezas se parecen a una versión gruesa y durable de una pechera y protecciones para las extremidades.
+Aunque es menos efectiva que una coraza y brebas, suele ser la opción de los PJ que no la pueden comprar.
 
-A mail hauberk in the listed style covers not only the wearer's chest, but also their arms, with a long skirt extended to the knee.
+La camisa de malla está formada por hilos de hierro o acero.
+Estas camisas sólo cubren las partes vitales del portador, pero pesan menos que una cota de malla.
 
-Plate armor is an extremely expensive suit of tailored metal pieces that cover both the vitals y the limbs of the wearer.
-Great armor is less finely tailored, relying instead on stacking layer upon layer of mail, plates, hide, cloth, y other protective materials.
+La coraza y grebas cubre tus partes vitales con un metal sólido y deja una protección más ligera para las extremidades.
 
-Grand plate is so finely-jointed that a weapon must either be very large or very armor-piercing to harm the wearer; they're immune to non-magical melee or thrown weapons unless the weapon is two-handed, has a Shock rating of CA 16 or more, or the wearer is currently grappled by someone.
-This tight protection comes at the cost of the thick plating found in great armor or conventional plate.
+La armadura de escamas incluye lo mejor de las escamas de metal para las zonas flexibles y placas para la mayoría del cuerpo.
 
-| Light Armors | CA  | Cost   | Enc |
-| ------------ | --- | ------ | --- |
-| No Armor     | 10  | None   | N/A |
-| War Shirt    | 11  | 5 sp   | 0   |
-| Buff Coat    | 12  | 50 sp  | 0   |
-| Linothorax   | 13  | 20 sp  | 1   |
-| War Robe     | 14  | 50 sp  | 3   |
-| Pieced Armor | 14  | 100 sp | 2   |
+La cota de malla cubre todo el cuerpo superior hasta una falda que llega hasta la rodilla.
 
-| Medium Armors     | CA  | Cost   | Enc |
-| ----------------- | --- | ------ | --- |
-| Mail Shirt        | 14  | 250 sp | 1   |
-| Cuirass y Greaves | 15  | 250 sp | 2   |
-| Scaled Armor      | 16  | 500 sp | 3   |
+La armadura de placas es una carísima protección hecha a medida con placas de metal que cubren tanto partes vitales como extremidades.
 
-| Heavy Armors | CA  | Cost     | Enc |
-| ------------ | --- | -------- | --- |
-| Mail Hauberk | 16  | 750 sp   | 2   |
-| Plate Armor  | 17  | 1,000 sp | 2   |
-| Great Armor  | 19  | 2,000 sp | 3   |
-| Grand Plate  | 16  | 2,000 sp | 3   |
+La gran armadura es una obra de arte que combina capas de malla, placas, cuero, ropa y otras protecciones en el lugar ideal.
 
-| Shields      | CA  | Cost  | Enc |
-| ------------ | --- | ----- | --- |
-| Small Shield | 13  | 20 sp | 1   |
-| Large Shield | 14  | 10 sp | 1   |
+La armadura de placas completa está tan fínamente ajustada que no hay espacio ni en las articulaciones.
+Para penetrarla se deben usar grandes armas.
+El portador es inmune a todo daño no mágico de armas cuerpo a cuerpo o arrojadizas a no ser que se usen a dos manos o tengan un Shock de CA 16+ o que el portador esté inmobilizado.
 
-## Weapons
+| Armaduras Ligeras  | CA  | Coste   | Impedimenta |
+| ------------------ | --- | ------- | ----------- |
+| Sin armadura       | 10  | Ninguno | N/A         |
+| Camisas de batalla | 11  | 5 pp    | 0           |
+| Casaca de cuero    | 12  | 50 pp   | 0           |
+| Linotórax          | 13  | 20 pp   | 1           |
+| Ropa de guerra     | 14  | 50 pp   | 3           |
+| Armadura de piezas | 14  | 100 pp  | 2           |
 
-The tools of a bloody trade are familiar to most adventurers.
-While some Vowed or trained pugilists might scorn the use of material weapons, most sentient combatants must rely on something better than their natural gifts.
+| Armaduras Medias    | CA  | Coste  | Impedimenta |
+| ------------------- | --- | ------ | ----------- |
+| Camisa de malla     | 14  | 250 pp | 1           |
+| Coraza y grebas     | 15  | 250 pp | 2           |
+| Armadura de escamas | 16  | 500 pp | 3           |
 
-### Weapon Statistics
+| Armaduras Pesadas           | CA  | Coste    | Impedimenta |
+| --------------------------- | --- | -------- | ----------- |
+| Cota de Malla               | 16  | 750 pp   | 2           |
+| Armadura de placas          | 17  | 1.000 pp | 2           |
+| Gran armadura               | 19  | 2.000 pp | 3           |
+| Armadura de placas completa | 16  | 2.000 pp | 3           |
 
-Each of the weapons on the following page has a listed damage it inflicts on a successful hit, an amount of Shock inflicted on a miss to targets with an CA equal or less than that given, y a particular attribute relevant to the weapon's use.
-That attribute's modifier is applied to all hit rolls, damage rolls, y Shock inflicted by the weapon.
-If more than one attribute is listed, the wielder can use whichever one is better.
-Using a melee weapon without at least Cortar-0 habilidad inflicts a -2 penalty on hit rolls, as does using ranged weapons without at least Disparar-0 habilidad.
-Thrown weapons can be used with either.
+| Escudos        | CA  | Coste | Impedimenta |
+| -------------- | --- | ----- | ----------- |
+| Escudo pequeño | 13  | 20 pp | 1           |
+| Escudo grande  | 14  | 10 pp | 1           |
 
-Ranged weapons have both short y long ranges listed in feet.
+## Armas
 
-Attacking a target within short range may be done at no penalty, while hitting a target at long range is done with a-2 penalty to the hit roll.
-Two-handed ranged weapons cannot be used while an enemy is locked in melee with the wielder, y even one-handed or thrown weapons suffer a -4 penalty to hit in such circumstances.
+La mayoría de aventureros usan estas herramientas aunque algunos pugilistas o juramentados las rechazan.
 
-Some weapons have additional unique traits, perhaps being particularly slow to reload, or requiring two hands to wield correctly, or being easily hidden in common clothing.
-The GM might choose to apply these traits to improvised weapons snatched up by the PJs if any of them seem appropriate.
+### Estadísticas de las Armas
 
-### Types of Weapons
+Las armas definen el daño que inflijen con cada golpe exitoso, la cantidad de Shock que inflijen con cada folpe fallado (si su CA es igual o menor que la del Shock) y el atributo relevante para su uso.
 
-Axes given here are those fashioned for war; lighter y more agile than their working cousins, though still capable of hacking through a door or hewing a cable if needed.
-War axes are big enough to demand two hands for their use.
+El modificador del atributo se aplica tanto a las pruebas para impactar, las tiradas de daño y el Shock infijido por el arma.
+Si se lista más de un atributo, se usa el mejor.
 
-Blackjacks include not only obvious weapons loaded with sand or iron shot, but any small, stunning fist load.
-A blackjack or other small fist load is easily concealed as some ornamental component of ordinary clothing.
+Si usas una arma cuerpo a cuerpo sin tener al menos Cortar-0, sufres un penalizador de -2 a la tirada para impactar. De forma similar, el uso de armas a distancia sin al menos Disparar-0 implica el mismo penalizador.
 
-Bows cover everything from the small self bows of horse archers to the man-tall longbows wielded by foot archers.
-Larger bows are more cumbersome y impossible to shoot from horseback, but usually have superior fuerza.
-An archer with a Preparado quiver can load a fresh arrow as a Acción de Movimiento each turn, or as an Rápida action if they have at least Disparar-1 habilidad.
+Atacar a un objetivo a rango largo implica un penalizador de -2 a la tirada para impactar.
+Las armas a una mano a distancia se pueden usar mientras estés trabado cuerpo a cuerpo con un penalizador de -4 a la tirada para impactar.
 
-Claw blades are the sharper kin of fist loads, being small blades or finger talons that are easily concealed or disguised as metal ornaments.
+### Tipos de Armas
 
-While they are vicious weapons, they can't be usefully thrown.
+Las hachas que se muestran son las adecuadas para la guerra.
+Estas versiones son más ligeras aunque capaces de atravesar una puerta.
 
-Clubs, staves, y maces are of much the same genus, though the latter is usually made of metal.
-While fully capable of killing a man, a careful user can usually avoid inflicting lethal injury.
+Los arcos cubren desde un pequeño arco hasta los que son tal grandes como una persona.
+Los arcos largos no se pueden usar montado pero tienen más fuerza.
 
-Crossbows come in heavier varieties than the one listed, but such slow, bulky arbalests are rarely in the hands of adventurers.
+Las garras son accesorios de metal afilados que se instalan en la mano.
 
-Reloading a crossbow of this size takes a full Acción Principal, but due to the simplicity of their operation, someone without Disparar-0 can still use them at no unskilled hit penalty.
+Las mazas, bastones y porras son muy similares aunque las primeras suelen ser de metal.
+Son armas capaces de matar a una persona pero un usuario cauteloso las puede usar para evitar heridas letales.
 
-Daggers come in ten thousand varieties, but the listed kind is a common fighting dirk, big enough to push through light armor while remaining small enough to be discreetly hidden.
-Stilettos y similar armor-piercing daggers aren't usually effective as thrown weapons.
+Las ballestas existen en variedades más pesadas que las que se listan pero usualmente no las llevará un aventurero.
+Las ballestas son relativamente fáciles de manejar y se pueden usar sin penalizador para impactar aunque no dispongas de Disparar-0.
 
-Halberds y other polearms can be somewhat awkward in narrow spaces, but remain popular military weapons in some armies.
+Las dagas son armas punzantes suficientemente largas como para atravesar armadura ligera y a la vez esconderse fácilmente.
 
-The statistics given here can also be used for fauchards, bills, voulges, spetums, bardiches, glaives, guisarmes, guisarme-glaives, glaive-guisarme- glaives, y similar weapons.
+Las alabardas y otras armas de asta son difíciles de usar en espacios angostos pero son populares armas militares.
 
-Hammers listed here are the fighting variety, narrow-headed y made for penetrating or shocking heavy plates of armor.
+Los martillos listados son los diseñados para el combate contra armaduras rígidas de metal.
 
-Hurlants statistics are provided as analogs to magically-powered firearms, if the GM's campaign includes such things.
+Las lanzas y picas son armas militares.
+Las lanzas ligeras se pueden arrojar mientras que las pesadas pueden penetrar la armadura.
 
-Hand hurlants are usually pistol-sized, most often carried by the wealthy as a single-shot opener at the start of hostilities.
-Long hurlants are rifle-sized weapons favored by elite snipers y assassins who don't expect a need for a second shot.
-Great hurlants are usually eight feet long y hundreds of pounds in weight, y launch tremendous bolts that can transfix even monstrous targets.
+Los escudos pueden ser una arma efectiva para golpear un enemigo.
+Si se usan como parte de un ataque, el escudo no aplica su CA o protección contra el Shock hasta el siguiente turno del portador.
 
-Those able to afford their use generally mount them on ships, gun carriages, or on important fortifications.
+Las espadas son las armas más comunes.
+Las espadas largas son un símbolo de riqueza y estatus en muchas culturas y se suelen permitir como vestimenta de calle.
 
-Spears, y their longer cousin the pike, are common military weapons.
-Lighter spears are effective thrown weapons, while heavier two-handed versions penetrate armor well.
+Las hojas arrojadizas son pequeños metales afilados que se pueden llevar escondidos en grandes cantidades.
 
-Shields can be an effective weapon when used to bash or pummel an enemy.
-If used as a weapon or as part of a dual-wielding attack, a shield grants no CA or Shock protection benefits until the wielder's next turn.
+Un ataque desarmado incluye un puñetazo o una patada y añaden la habilidad de Golpear del usuario a la tirada de daño.
+Los ataques mejorados de los juramentados funcionan según sus artes y focos.
 
-Swords are common sidearms for the gentry.
-The expense of forging a large blade makes it a symbol of wealth y status in many cultures, y its convenience makes it a favored arm for street wear.
+| Arma                    | Daño      | Shock   | Atributo | Rango (pies) | Características                       | Coste  | Impedimenta |
+| ----------------------- | --------- | ------- | -------- | ------------ | ------------------------------------- | ------ | ----------- |
+| Alabarda                | 1d10      | 2/CA 15 | Fue      | -            | A Dos Manos, Larga                    | 50 pp  | 2           |
+| Arco corto              | 1d6       | Ninguno | Des      | 50/300       | A Dos Manos, Recarga, Ejecutora       | 20 pp  | 1           |
+| Arco largo              | 1d8       | Ninguno | Des      | 100/600      | A Dos Manos, Recarga, Ejecutora       | 20 pp  | 2           |
+| Ataque desarmado        | 1d2+Skill | Ninguno | Fue/Des  | -            | Menos Letal                           | -      | -           |
+| Ballesta                | 1d10      | Ninguno | Des      | 100/300      | A Dos Manos, Recarga Lenta, Ejecutora | 10 pp  | 1           |
+| Bastón                  | 1d6       | 1/CA 13 | Fue/Des  | -            | A Dos Manos, Menos Letal              | 1 pp   | 1           |
+| Daga                    | 1d4       | 1/CA 15 | Fue/Des  | 30/60        | Sutil, Arrojadiza, Ejecutora          | 3 pp   | 1           |
+| Espada corta            | 1d6       | 2/CA 15 | Fue/Des  | -            |                                       | 10 pp  | 1           |
+| Espada larga            | 1d8       | 2/CA 13 | Fue/Des  | -            |                                       | 100 pp | 1           |
+| Garras                  | 1d6       | 2/CA 13 | Fue/Des  | -            | Sutil                                 | 10 pp  | 1           |
+| Golpe de escudo grande  | 1d6       | 1/CA 13 | Fue      | -            | Menos Letal                           | -      | -           |
+| Golpe de escudo pequeño | 1d4       | Ninguno | Fue/Des  | -            | Menos Letal                           | -      | -           |
+| Hacha de mano           | 1d6       | 1/CA 15 | Fue/Des  | 10/30        | Arrojadiza                            | 10 pp  | 1           |
+| Hacha de guerra         | 1d10      | 3/CA 15 | Fue      | -            | A Dos Manos                           | 50 pp  | 2           |
+| Hoja arrojadiza         | 1d4       | Ninguno | Des      | 30/60        | Sutil, Arrojadiza, Agrupable          | 3 pp   | 1           |
+| Lanza ligera            | 1d6       | 2/CA 13 | Fue/Des  | 30/60        | Arrojadiza                            | 5 pp   | 1           |
+| Lanza pesada            | 1d10      | 2/CA 15 | Fue      | -            | A Dos Manos                           | 10 pp  | 2           |
+| Manodoble               | 1d12      | 2/CA 15 | Fue      | -            | A Dos Manos                           | 250 pp | 2           |
+| Martillo de guerra      | 1d8       | 1/CA 18 | Fue      | -            |                                       | 30 pp  | 1           |
+| Martillo grande         | 1d10      | 2/CA 18 | Fue      | -            | A Dos Manos                           | 50 pp  | 2           |
+| Maza                    | 1d6       | 1/CA 18 | Fue      | -            | Menos Letal                           | 15 pp  | 1           |
+| Porra                   | 1d4       | Ninguno | Fue/Des  | 10/30        | Arrojadiza, Menos Letal               | -      | 1           |
+| Porra grande            | 1d10      | 2/CA 15 | Fue      | -            | A Dos Manos                           | 1 pp   | 2           |
+| Pica                    | 1d8       | 1/CA 18 | Fue      | -            | A Dos Manos, Larga                    | 10 pp  | 2           |
+| Stiletto                | 1d4       | 1/CA 18 | Des      | -            | Sutil, Ejecutora                      | 10 pp  | 1           |
 
-Throwing blades are small leaves or spikes of steel that are not terribly useful as melee weapons but are easy to carry discreetly in considerable numbers.
+### Características de las Armas
 
-The unarmed attack given here is a common punch or kick, unimproved by a Vowed's artes or a Foco.
-Unarmed attacks add the assailant's Golpear habilidad to the damage roll as well as the attack roll.
+#### A Dos Manos
 
-| Weapon             | Dmg       | Shock   | Attribute | Range/Feet | Traits         | Cost      | Enc |
-| ------------------ | --------- | ------- | --------- | ---------- | -------------- | --------- | --- |
-| Axe, Hand          | 1d6       | 1/CA 15 | Fue/Des   | 10/30      | T              | 10 sp     | 1   |
-| Axe, War           | 1d10      | 3/CA 15 | Fue       | -          | 2H             | 50 sp     | 2   |
-| Blackjack          | 1d4       | None    | Fue/Des   | -          | S, LL          | 1 sp      | 1   |
-| Bow, Large         | 1d8       | None    | Des       | 100/600    | 2H, R, PM      | 20 sp     | 2   |
-| Bow, Small         | 1d6       | None    | Des       | 50/300     | 2H, R, PM      | 20 sp     | 1   |
-| Claw Blades        | 1d6       | 2/CA 13 | Fue/Des   | -          | S              | 10 sp     | 1   |
-| Club               | 1d4       | None    | Fue/Des   | 10/30      | T, LL          | -         | 1   |
-| Club, Great        | 1d10      | 2/CA 15 | Fue       | -          | 2H             | 1 sp      | 2   |
-| Crossbow           | 1d10      | None    | Des       | 100/300    | 2H, SR, PM     | 10 sp     | 1   |
-| Dagger             | 1d4       | 1/CA 15 | Fue/Des   | 30/60      | S, T, PM       | 3 sp      | 1   |
-| Halberd            | 1d10      | 2/CA 15 | Fue       | -          | 2H, L          | 50 sp     | 2   |
-| Hammer, Great      | 1d10      | 2/CA 18 | Fue       | -          | 2H             | 50 sp     | 2   |
-| Hammer, War        | 1d8       | 1/CA 18 | Fue       | -          |                | 30 sp     | 1   |
-| Hurlant, Great     | 3d10      | None    | Des       | 600/2,400  | FX, SS, AP     | 10,000 sp | 15  |
-| Hurlant, Hand      | 1d12      | None    | Des       | 30/60      | SS, AP         | 1,000 sp  | 1   |
-| Hurlant, Long      | 2d8       | None    | Des       | 200/600    | 2H, SS, AP, PM | 4,000 sp  | 2   |
-| Mace               | 1d6       | 1/CA 18 | Fue       | -          | LL             | 15 sp     | 1   |
-| Pike               | 1d8       | 1/CA 18 | Fue       | -          | 2H, L          | 10 sp     | 2   |
-| Shield Bash, Large | 1d6       | 1/CA 13 | Fue       | -          | LL             | -         | -   |
-| Shield Bash, Small | 1d4       | None    | Fue/Des   | -          | LL             | -         | -   |
-| Spear, Heavy       | 1d10      | 2/CA 15 | Fue       | -          | 2H             | 10 sp     | 2   |
-| Spear, Light       | 1d6       | 2/CA 13 | Fue/Des   | 30/60      | T              | 5 sp      | 1   |
-| Throwing Blade     | 1d4       | None    | Des       | 30/60      | S, T, N        | 3 sp      | 1   |
-| Staff              | 1d6       | 1/CA 13 | Fue/Des   | -          | 2H, LL         | 1 sp      | 1   |
-| Stiletto           | 1d4       | 1/CA 18 | Des       | -          | S, PM          | 10 sp     | 1   |
-| Sword, Great       | 1d12      | 2/CA 15 | Fue       | -          | 2H             | 250 sp    | 2   |
-| Sword, Long        | 1d8       | 2/CA 13 | Fue/Des   | -          |                | 100 sp    | 1   |
-| Sword, Short       | 1d6       | 2/CA 15 | Fue/Des   | -          |                | 10 sp     | 1   |
-| Unarmed Attack     | 1d2+Skill | None    | Fue/Des   | -          | LL             | -         | -   |
+La arma necesita ser usada con 2 manos.
 
-### Weapon Traits
+Las armas a dos manos a distancia no se pueden usar si estás trabado cuerpo a cuerpo.
 
-2H: Two Handed.
-The weapon requires two hands to use in combate.
+#### Penetración de Armadura
 
-Ranged two-handed weapons cannot be fired effectively while an enemy is within melee range.
+Esta arma ignora la armadura, escudos y armadura natural no mágicos.
 
-AP: Armor Piercing.
-This weapon ignores non-magical hides, armor y shields for purposes of its hit rolls.
+#### Preparación
 
-FX: Fixed.
-The weapon is too heavy y clumsy to use without a fixed position y at least five minutes to entrench it.
+Esta arma necesita preparase y fijarse durante 5 minutos antes de ser usada.
 
-L: Long.
-The weapon is unusually long, allowing melee attacks to be made at targets up to 10 feet distant, even if an ally is in the way.
+#### Larga
 
-Even so, the wielder still needs to be within five feet of a foe to count as being in melee with them for purposes of forcing Fighting Withdrawals, disrupting large ranged weapons, or similar maneuvers.
+Permite atacar cuerpo a cuerpo a una distancia de 10 pies, incluso si hay un aliado entre medio.
 
-LL: Less Lethal.
-Foes brought to zero hit points by this weapon can always be left alive at the wielder's discretion.
+El usuario necesita estar a 5 pies para considerarse cuerpo a cuerpo.
 
-N: Numerous.
-Five of these count as only one Preparado item.
+#### Menos Letal
 
-PM: Precisely Murderous.
-When used for an Execution Attack, the weapon applies an additional -1 penalty to the Física save y does double damage even if it succeeds.
+Los enemigos que reduzcan sus puntos de golpe a 0 con esta arma se pueden dejar vivos a discreción del portador.
 
-R: Reload.
-The weapon takes a Acción de Movimiento to reload.
-If the user has at least Disparar-1 habilidad, they can reload as an Rápida action instead.
+#### Agrupable
 
-S: Subtle.
-Can be easily hidden in clothing or jewelry.
+Cada 5 objetos cuentan como 1 objeto Preparado.
 
-SR: Slow Reload.
-It takes a Acción Principal to reload this weapon.
+#### Ejecutora
 
-SS: Single Shot.
-This weapon takes ten rondas to reload, y the reloading effort is spoiled if an enemy melees the wielder.
+Cuando se usa un Ataque de Ejecución, el arma aplica un penalizador de -1 a la salvación física y dobla el daño aunque se supere.
 
-T: Throwable.
-While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case.
-Throwing a weapon while in melee applies a -4 penalty to the hit roll.
+#### Recarga
+
+Esta arma necesita una acción de movimiento para recargar.
+Si es portador tiene Disparar-1 o mejor, puede usar una acción rápida en vez de la de movimiento.
+
+#### Sutil
+
+Se puede esconder en la ropa o la joyería.
+
+#### Recarga Lenta
+
+Esta arma necesita una acción principal para recargarse.
+
+#### Arrojadiza
+
+Aunque se puede usar cuerpo a cuerpo, esta arma se puede arrojar hasta la distancia especificada.
+Cuando se arroja, el arma no provoca Shock.
+
+Arrojar una arma mientras estés cuerpo a cuerpo implica un penalizador de -4 a la tirada para impactar.

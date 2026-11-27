@@ -30,7 +30,7 @@ Specialist spells specific to a tradition cannot be learned by mages outside tha
 
 ### Learning a Spell
 
-Learning a spell requires one week per spell level, less one week per level of the learner's Magic habilidad, down to a minimum of one day.
+Learning a spell requires one week per spell level, less one week per level of the learner's Magic habilidad, down to a minimum of one día.
 At the end of this time the student will either have mastered the contents of a written copy of the spell or created such a copy from their master's tutelage.
 They must continue to retain access to this written document if they are to prepare the spell later, as it is an actual thaumaturgically- attuned artifact in itself.
 Without its formulas, attunement tables, y enchanted diagrams the mage will be unable to prepare the spell for later use.
@@ -68,15 +68,15 @@ Conjuros cannot normally be cast while wearing armor or restrictive clothing.
 The profane materials, restrictive fit, y unsalutary occult configurations of armor spoil the necessary flow of energy, as does the bulk y clumsiness of a shield.
 The same hindrances usually also spoil the use of any artes the tradition may teach, y not just lanzar conjuros itself.
 
-A mage can cast only so many spells each day before needing a full night's rest to recover.
+A mage can cast only so many spells each día before needing a full night's rest to recover.
 Novices can cast only one spell, while masters can manage six.
 The spell to be cast may be selected from any prepared by the mage; the same power can be used to invoke a mighty fifth-level spell or a relatively modest first-level incantation.
 
-The same spell may be cast more than once, if the mage has multiple castings left for the day.
+The same spell may be cast more than once, if the mage has multiple castings left for the día.
 
 Adventurers who take the Parciales Mago class are more limited than more focused specialists.
-They are able to cast fewer spells each day y the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mago.
-The total spells they can prepare for the day are also often somewhat fewer than that of a full Mago.
+They are able to cast fewer spells each día y the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mago.
+The total spells they can prepare for the día are also often somewhat fewer than that of a full Mago.
 When they cast the spells, however, any level-based effects also use their full level, so a third-level Parciales Necromancer's invocation of The Coruscating Coffin does 3d8 damage, just as a full Necromancer would.
 
 ### Creatures, Targets, y Visibility
@@ -94,7 +94,7 @@ If a maximum range isn't given, assume it's can be no more than a bowshot away f
 
 ## Dual Parciales Spellcasters
 
-Adventurers who take two different Parciales Mago spellcaster classes use the table below to determine how many spells they can prepare y cast each day.
+Adventurers who take two different Parciales Mago spellcaster classes use the table below to determine how many spells they can prepare y cast each día.
 A dual Parciales Mago can prepare y cast spells from either of their traditions.
 PJs who pick one spellcaster partial y one non-spellcaster, like a Necromancer/Healer, do not use this table, but instead use the usual partial spellcaster table for their class.
 
@@ -129,7 +129,7 @@ A brief incantation transforms one visible, willing target per caster level into
 
 No special talentos are granted by this transformation, but the target will perfectly resemble a chosen individual, including in voice y scent.
 Their non-magical clothing will transform to whatever clothing is appropriate to the target, y they will gain an intuitive ability to speak y understand the target's native tongue.
-The spell lasts until dawn of the day after casting it, whereupon the targets y any transformed clothing revert back to their original seeming.
+The spell lasts until dawn of the día after casting it, whereupon the targets y any transformed clothing revert back to their original seeming.
 
 ### Apprehending the Arcane Form Level 1
 
@@ -337,7 +337,7 @@ If they again begin complying with the geas afterwards or if the curse is lifted
 An active target can make a Mental save to resist this spell, but they cannot if they are restrained, unconscious, or otherwise subdued.
 The curse lasts until dispelled or the caster lifts it.
 
-### The Howl of Light Level 3
+### The Howl of Ligera Level 3
 
 A flattened disc of tremendous heat, sound, y shock is triggered at a visible point within fifty feet per caster level, erupting in a twenty- foot radius eight feet in height.
 Everything within the area suffers 1d8 damage from flame, concussion, y sonic shock per caster level, with an Evasion save for half.
@@ -361,7 +361,7 @@ The caster cannot order the creature to answer questions or perform acts that re
 Enchanted victims appear torpid y dazed, y will act only to defend themselves or satisfy their needs.
 The spell lasts until dispelled, or until the caster dies or releases them.
 Every time this spell is cast, however, all prior subjects get an immediate unmodified Mental tirada de salvación to throw it off.
-If the creature has more hit dice than the caster, it gets an unmodified tirada de salvación to end the effect the first time each day it's ordered to do something it finds strongly objectionable.
+If the creature has more hit dice than the caster, it gets an unmodified tirada de salvación to end the effect the first time each día it's ordered to do something it finds strongly objectionable.
 
 ### The Inexorable Imputation Level 2
 
@@ -398,7 +398,7 @@ The subject is shifted out of the flow of conventional time, freezing y being li
 
 They y all their carried possessions are rendered impervious to all non-magical harm y are frozen in temporal stasis until the spell ends or is dispelled.
 Enchanted creatures are quite light, counting as only four items of Impedimenta due to their unwieldiness.
-The spell ends when the mage releases it, or up to a maximum of one day per caster level.
+The spell ends when the mage releases it, or up to a maximum of one día per caster level.
 If cast on himself, the mage cannot end it before the full duration expires.
 
 ### Mantle of Disjecting Dissection Level 2
@@ -427,7 +427,7 @@ The second casting will immediately switch the caster y all creatures y objects 
 The caster may refrain from swapping certain targets as they wish.
 Only portable objects are swapped; any object too heavy for the caster to lift or secured in place remains unmoved.
 Unwilling targets get no tirada de salvación if they have four or less hit dice; others can make a Mental save.
-Unused sigils dissipate in a day.
+Unused sigils dissipate in a día.
 
 ### Open the High Road Level 5
 
@@ -498,7 +498,7 @@ For the rest of the escena, such creatures remain grounded y unable to fly.
 
 A fierce gust of wind may be conjured in a line a hundred feet long y thirty feet wide.
 All creatures of man-size or smaller must make Salvaciones físicas or be bowled over y blown back thirty feet, losing their next ronda's Acción Principal y suffering 1d6 damage.
-Light wooden constructions or similar structures are flattened by the wind.
+Ligera wooden constructions or similar structures are flattened by the wind.
 
 If used outdoors, the spell can instead control the local weather, transforming the quarter-mile around the caster into any climate found normally at that location at any point during the year.
 The spell cannot summon a tornado or other extreme weather, but it can call rain y conventional storms sufficient to cause flooding in areas prone to it.
@@ -600,7 +600,7 @@ If its new shape is one that is stable without magical help, it can be told to r
 ### Elemental Spy Level 1
 
 The elementalist enchants a stone, ounce of liquid, flame no smaller than a candleflame, or a particular plume of smoke or incense.
-For one day per level, so long as the charmed object is not destroyed, dispersed, or consumed, they can as a Acción Principal see y listen to anything around the object as if they were standing there.
+For one día per level, so long as the charmed object is not destroyed, dispersed, or consumed, they can as a Acción Principal see y listen to anything around the object as if they were standing there.
 
 ### Boreal Wings Level 2
 
@@ -690,7 +690,7 @@ A combination of molten rock, searing pyroclastic winds, y superheated steam eru
 The cataclysmic ruin smites everything within thirty feet of the target point for 10d6 damage, destroying all conventional structures.
 The zone of devastation then moves 1d6x10 feet in a random direction at the start of the next ronda, blasting everything in its path.
 The zone will continue to wander in this fashion for 1d6 rondas in total before dying out.
-The molten remnants of the spell remain after this duration, a hazard for whomever enters the area for the rest of the day.
+The molten remnants of the spell remain after this duration, a hazard for whomever enters the area for the rest of the día.
 
 ### Tremors of the Depths Level 5
 
@@ -715,7 +715,7 @@ Regardless of how often the caster uses this spell, they may have no more than t
 
 This spell requires a corpse with largely-intact organs of communication.
 
-The corpse cannot have been dead for more than one day per caster level.
+The corpse cannot have been dead for more than one día per caster level.
 Once sorceled, the corpse will answer up to one question per caster level, with the caster understanding the answers regardless of the creature's natural language.
 Corpses are laconic, y generally answer in no more than one or two sentences; their replies will be truthful, but tend to be literal y they have no power to hypothesize or make judgments.
 This spell may not be used twice on the same corpse.
@@ -726,7 +726,7 @@ The necromancer conjures a blast of dispelling force at a point within one hundr
 All hostile undead within that area immediately suffer 1d10 damage per caster level.
 Undead with hit dice equal or less than the caster's level must make a Física save or be destroyed outright.
 
-The necromancer may Commit Effort for the day immediately before casting this spell; if so, its casting does not count against the Necromancer's available spell slots for the day.
+The necromancer may Commit Effort for the día immediately before casting this spell; if so, its casting does not count against the Necromancer's available spell slots for the día.
 
 ### Terrible Liveliness Level 1
 
@@ -817,7 +817,7 @@ This spell lasts until the necromancer lifts it or it is dispelled.
 The corpse used for this spell must be of a relatively powerful creature with at least four hit dice or levels.
 The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 DG, CA 15, a Move of 40'/action, a +1 habilidad bonus, saves of 13+, Instinct 0, Moral of 12, y a melee attack of +6/1d10, assuming it doesn't use a normal weapon.
 It is fully intelligent y self-willed, albeit utterly devoted to its creator, y it remembers a significant amount about its prior life.
-A grave knight regains all lost hit points at dusk each day, assuming it's not destroyed.
+A grave knight regains all lost hit points at dusk each día, assuming it's not destroyed.
 A caster may have only one grave knight active at a time.
 One that has been reduced to zero hit points is destroyed y can only be rebuilt with a month of painstaking repair y re-enchantment.
 
@@ -835,7 +835,7 @@ Any special defenses they may have against mundane weapons or certain types of i
 The spell may be triggered as an Instantánea action by the caster, imparting a burst of unquenchable life force to all allied creatures within 50 feet.
 For the next five rondas, no affected ally can be reduced below 1 hit point, regardless of the damage inflicted upon them.
 At the end of the spell's effect, the caster's own life energy is exhausted, leaving them with only 1 hit point.
-A creature can benefit from this spell no more than once per day.
+A creature can benefit from this spell no more than once per día.
 
 ## Developing New Conjuros
 
@@ -852,7 +852,7 @@ The cost for the lab is given on the adjacent table; this does not include the p
 The necessary materials for a lab can generally be acquired in any major city, provided it's not hostile to sorcerers.
 
 The raw materials must also be purchased in a city or gathered from ransacked lairs by adventurers.
-They include occult materials, esoteric creature body parts, specialized lab equipment, y obscure monographs y grimoires.
+They include occult materials, esoteric creature body parts, specialized lab equipo, y obscure monographs y grimoires.
 These materials are used up in the process of research.
 
 The time required for researching a spell varies with its complexity, as given on the table.
@@ -863,13 +863,13 @@ Wizards kept entirely away from their labs for weeks or months at a time might s
 
 #### Spell Research
 
-| Spell Level | Lab Cost     | Materials Cost | Time Needed |
-| ----------- | ------------ | -------------- | ----------- |
-| 1           | 50,000 sp    | 25,000 sp      | 1 month     |
-| 2           | 125,000 sp   | 50,000 sp      | 2 months    |
-| 3           | 250,000 sp   | 100,000 sp     | 4 months    |
-| 4           | 500,000 sp   | 200,000 sp     | 8 months    |
-| 5           | 1,000,000 sp | 400,000 sp     | 2 years     |
+| Spell Level | Lab Coste    | Materials Coste | Time Needed |
+| ----------- | ------------ | --------------- | ----------- |
+| 1           | 50,000 pp    | 25,000 pp       | 1 month     |
+| 2           | 125,000 pp   | 50,000 pp       | 2 months    |
+| 3           | 250,000 pp   | 100,000 pp      | 4 months    |
+| 4           | 500,000 pp   | 200,000 pp      | 8 months    |
+| 5           | 1,000,000 pp | 400,000 pp      | 2 years     |
 
 ### The Development prueba de habilidad
 
@@ -900,7 +900,7 @@ It may be so gnarled by flaws as to be scarcely recognizable as their original i
 | 3   | Your prior work is mistaken; the formula is not changed, but you don't get the cumulative +1 bonus on the research roll for this or prior research continuations.                                                                        |
 | 4   | The spell can only target people other than the caster.                                                                                                                                                                                  |
 | 5   | The spell is unusually slow, taking at least a Acción Principal to cast, or two Principal Actions over the course of two consecutive rondas if it already takes a Acción Principal to cast.                                              |
-| 6   | The spell is very draining, exhausting two spells worth of energy for the day instead of one.                                                                                                                                            |
+| 6   | The spell is very draining, exhausting two spells worth of energy for the día instead of one.                                                                                                                                            |
 | 7   | The spell inflicts a severe backlash on the caster, adding 1d4 Estrés Corporal to them. If this maximizes their Estrés Corporal, they fall unconscious for ten minutes y can't cast this spell again until some Estrés Corporal is lost. |
 | 8   | The spell is more difficult than it seems, being one level higher than expected. This doesn't increase the research costs or time, but if you can't cast a spell of that level, the entire project fails.                                |
 | 9   | The spell is simply unreliable in its effects; whenever it's cast, roll 1d6. On a 1, the spell fizzles uselessly y the casting slot is wasted.                                                                                           |
@@ -1003,12 +1003,12 @@ Using a potion requires that it be Preparado y a Acción Principal be used to co
 
 Apprehending the Arcane Form can give a one-sentence description of the potion's intended effect.
 Touching a single drop of the fluid against a user's tongue can sometimes give a hint as well, with a tiny flicker of its effect impressed on the user.
-Aside from these, someone with the Magic habilidad can spend a full day in careful analysis of the potion, rolling Sab/Magic or Int/Magic against the potion's creation difficulty to identify its purpose.
+Aside from these, someone with the Magic habilidad can spend a full día in careful analysis of the potion, rolling Sab/Magic or Int/Magic against the potion's creation difficulty to identify its purpose.
 A given investigator can make only one attempt to identify it.
 
 Wizards can create potions as single-use magic items, with the base cost y difficulty varying depending on the nature of the potion's effect.
 
-### Magic Weapons y Armor
+### Magic Armas y Armadura
 
 Magical weapons y armor have a bonus, usually +1, but sometimes as great as +3.
 This bonus adds directly to the hit roll, damage roll, y Shock of weapons, while it adds to the base Clase de Armadura of armor.
@@ -1036,7 +1036,7 @@ Magical items are also complex y difficult to create.
 A novice mage cannot fashion them y even an expert might find it difficult to get an item to come out just right.
 Flaws can creep into the construction process, forcing the PC to either start over or cope with an item that isn't exactly what was intended.
 
-### Designing the Item
+### Designing the Objeto
 
 To build a magic item, the player first describes what it is that the item is supposed to do.
 It's up to the GM to decide whether or not the item fits with their campaign y is an acceptable introduction.
@@ -1053,7 +1053,7 @@ There's a reason that most veteran Warriors are eager to find a magical weapon; 
 If other items exist that simply increase critical numbers, then the other players will feel obligated to hunt them down.
 
 If the item's concept passes muster, the GM should compare it to the adjacent table to see what kind of price y minimum difficulty level should be required to make it.
-Spellcasting wizards can generally make any kind of magic item, while non-casters such as Vowed or Healers are usually restricted to making items appropriate to their particular concepts, whether those are magical scriptures or healing elixirs.
+Spellcasting wizards can generally make any kind of magic item, while non-casters such as Juramentado or Healers are usually restricted to making items appropriate to their particular concepts, whether those are magical scriptures or healing elixirs.
 A GM should always feel free to adjust prices y difficulties to reflect their own sense of what's appropriate for their campaign.
 
 In addition to the minimum level y money involved, permanent magic items always require at least one adventure to acquire the necessary components.
@@ -1062,7 +1062,7 @@ Very capable underlings or hired adventurers might be able to fetch the required
 
 From a GM's perspective, this required adventure is to ensure that a wizard who makes a permanent magic item provides at least one session worth of adventure grist in exchange for the new gear, y it also ensures that not too many permanent magic items will be made unless the party agrees to constantly be out adventuring for parts.
 
-### Creating the Item
+### Creating the Objeto
 
 If the creator is capable, the coin is at hand, y any adventuring components have been fetched, the mage can attempt to make the item.
 They spend the time given on the adjacent table y then make an Int/Magic prueba de habilidad against the appropriate difficulty.
@@ -1081,12 +1081,12 @@ A mage can generally keep adventuring while crafting a magic item, as the work d
 Particularly massive or powerful magic items might require the use of a dedicated laboratory, forcing the wizard to remain there while the work is underway lest the process be spoiled.
 Any special tools or resources such a laboratory requires are assumed to be part of the item's creation cost.
 
-#### Magic Item Creation Costs
+#### Magic Objeto Creation Costs
 
-| Type of Item                                                         | Creation Difficulty | Creation Cost in SP | Creation Time |
-| -------------------------------------------------------------------- | ------------------- | ------------------- | ------------- |
-| A single-use item, such as a potion or scroll                        | 8–10                | 250–2,500           | 1 week        |
-| A multi-use item that still contains limited charges, such as a wand | 9–11                | 5,000–25,000        | 1 month       |
-| A low-powered but permanent magic item, such as a Sword +1           | 10                  | 12,500              | 1 month       |
-| A significant item that creates a situation-changing effect          | 12                  | 50,000              | 3 months      |
-| A powerful item or one with multiple significant talentos            | 14                  | 250,000             | 6 months      |
+| Type of Objeto                                                       | Creation Difficulty | Creation Coste in SP | Creation Time |
+| -------------------------------------------------------------------- | ------------------- | -------------------- | ------------- |
+| A single-use item, such as a potion or scroll                        | 8–10                | 250–2,500            | 1 week        |
+| A multi-use item that still contains limited charges, such as a wand | 9–11                | 5,000–25,000         | 1 month       |
+| A low-powered but permanent magic item, such as a Sword +1           | 10                  | 12,500               | 1 month       |
+| A significant item that creates a situation-changing effect          | 12                  | 50,000               | 3 months      |
+| A powerful item or one with multiple significant talentos            | 14                  | 250,000              | 6 months      |

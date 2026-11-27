@@ -26,7 +26,7 @@ At any point before section 1.5.0 in personaje creation the player may substitut
 Optionally, a player may choose to assign their stats from the following array of numbers: 14, 12, 11, 10, 9, y 7, divided up as desired among the attributes.
 If an array is used a score may not be substituted with a 14 later.
 
-### Attribute Modifiers
+### Atributo Modifiers
 
 Each attribute has a modifier, usually ranging from -2 to +2.
 This modifier is added to pruebas de habilidad, attack rolls, damage rolls, Shock damage, y the relevant tirada de salvación targets.
@@ -218,20 +218,20 @@ A PC may choose to pick a single No Parciales class, committing completely to th
 The Warrior, Experto, High Mago, Necromancer, Invoker, y Elementalist classes may be taken either as a No Parciales class or as a Parciales class.
 In the former case, the PC gains the full range of poderes granted to the profession.
 If taken as a Parciales class, a more restricted range of talentos are granted.
-The Healer, Vowed, Bard, Thought Noble, Accursed, Wise, Mageslayer, Skinshifter, Duelist, Beastmaster, y Blood Priest can only be taken as Parciales classes.
+The Healer, Juramentado, Bard, Thought Noble, Accursed, Wise, Mageslayer, Skinshifter, Duelist, Beastmaster, y Blood Priest can only be taken as Parciales classes.
 These classes are limited in scope, y must be paired with another Parciales class.
 
 ### The Adventurer Class
 
 The Adventurer is a special class that allows the PC to take two Parciales classes y mix them together.
-These may be Parciales-only classes, such as a Healer/Vowed, or they may be Parciales versions of Warrior, Experto, or Mago classes, such as a Parciales Experto/Thought Noble.
+These may be Parciales-only classes, such as a Healer/Juramentado, or they may be Parciales versions of Warrior, Experto, or Mago classes, such as a Parciales Experto/Thought Noble.
 A dual-specialization spellcaster is also possible by mixing a Parciales High Mago/Parciales Elementalist together, for example.
 
 ### Classes y Effort
 
 Some classes have special talentos that are fueled with magical power, inner focus, or some other reserve of energy.
 This capacity is measured in points of Effort, a resource the PC can commit to activate their talentos.
-Every class that uses Effort has its own unique pool: High Mago Effort, Vowed Effort, Healer Effort, y so forth.
+Every class that uses Effort has its own unique pool: High Mago Effort, Juramentado Effort, Healer Effort, y so forth.
 Adventurers with two Parciales classes that use Effort have two separately-tracked pools, one for each class.
 Points of Effort from one class cannot be used to fuel poderes from another.
 The maximum Effort of a No Parciales class is equal to 1 plus a relevant habilidad level y ability modifier given by the class.
@@ -249,7 +249,7 @@ The Effort remains Committed until the end of the escena, after which it returns
 It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action.
 A escena usually amounts to a single fight, event, or dungeon turn, almost never lasting more than fifteen minutes.
 Further specifics are provided in the time section of the game rules.
-Some poderes Commit Effort for the day.
+Some poderes Commit Effort for the día.
 Once Committed, this Effort can be recovered only after a comfortable night's rest.
 If the PC is hungry, cold, sick, or sleeping without the benefits of a bedroll or other basic comforts, this Effort cannot be recovered.
 Activating a power only ever requires Committing a single point of Effort, unless the power itself says otherwise.
@@ -367,11 +367,11 @@ Accursed Bolt: As Accursed Blade, but you launch blasts of occult force instead 
 Their damage is 1d8 plus your Magic habilidad, their range is 200', y the bolts can be thrown in melee at a -4 penalty to hit.
 These bolts need both hands free to hurl them.
 
-Bewitching Distraction: Commit Effort for the day as a Acción Principal when talking to an intelligent target when not in combate.
+Bewitching Distraction: Commit Effort for the día as a Acción Principal when talking to an intelligent target when not in combate.
 They must make a Mental save or become dazed, oblivious to their surroundings y forgetting you y all else that happened in that escena.
 Danger ends the daze but not the forgetting.
 
-Compelling Shriek: Once per escena, Commit Effort for the day as a Acción Principal y shout a command of no more than seven words.
+Compelling Shriek: Once per escena, Commit Effort for the día as a Acción Principal y shout a command of no more than seven words.
 Chosen targets who hear y understand must make a Mental save or perform that action for one ronda, provided it is not totally contrary to their personaje.
 
 Devil's Bargain: As a Acción Principal, consecrate a deal you've made with an uncoerced person.
@@ -399,15 +399,15 @@ Only one such curse can be active at a given time.
 Shadowed Steps: As a Acción de Movimiento, Commit Effort for the escena y teleport up to your Move distance.
 You cannot bypass walls or physical obstacles, but you can teleport vertically or into high places.
 
-Snaring Speech: Once per ronda as an Instantánea action, Commit Effort for the day when failing a prueba de habilidad to persuade or tempt someone.
+Snaring Speech: Once per ronda as an Instantánea action, Commit Effort for the día when failing a prueba de habilidad to persuade or tempt someone.
 They must make a Mental save or agree with your proposal if it's something they would normally consider doing.
 Gain one Estrés Corporal when using this art.
 
-Sorcerous Battery: Once per day, as an Rápida action, Commit Effort for the day.
+Sorcerous Battery: Once per día, as an Rápida action, Commit Effort for the día.
 You or a visible ally refresh the spell slot of a spell that has been cast since the start of the prior ronda.
 Gain one Estrés Corporal.
 
-Soul Consumption: As an Instantánea action, Commit Effort for the day when you fell an intelligent target with Accursed Bolt or Accursed Blade.
+Soul Consumption: As an Instantánea action, Commit Effort for the día when you fell an intelligent target with Accursed Bolt or Accursed Blade.
 They die instantly.
 You heal 1d6 hit points plus your level y lose one accumulated Estrés Corporal.
 
@@ -416,10 +416,10 @@ While Committed, you exude numerous tentacles or eldritch arms that can manipula
 You gain no bonus acciones, but the arms can melee at range.
 These arms have your CA, y you are damaged if they are hurt.
 
-Unseen Steps: As an Rápida action, Commit Effort for the day to turn invisible for 1d6 rondas plus your level.
+Unseen Steps: As an Rápida action, Commit Effort for the día to turn invisible for 1d6 rondas plus your level.
 This invisibility breaks before you attack, cast spells, or perform other vigorous or violent acciones.
 
-Weight of Sin: As a Acción Principal, Commit Effort for the day y target a visible foe.
+Weight of Sin: As a Acción Principal, Commit Effort for the día y target a visible foe.
 They must make a Física save or lose their Acción de Movimiento for 1d6 rondas plus your level.
 
 Weeping Wounds: Once per ronda, Commit Effort for the escena as an Instantánea action when a visible enemy takes damage.
@@ -499,7 +499,7 @@ As they advance in levels, they can pick additional artes.
 A Thousand Tongues: Your artes that require communication are intuitively understood by all intelligent creatures, whether or not you speak their language.
 You can learn a new language with no more than a week of study with a native speaker.
 
-Battle Cry: Commit Effort for the day as an Rápida action to bolster your allies.
+Battle Cry: Commit Effort for the día as an Rápida action to bolster your allies.
 They gain +1 to hit, tiradas de salvación, y damage, including Shock, for one ronda per level.
 At 4th level this bonus increases to +2, y at 9th, to +3.
 
@@ -515,12 +515,12 @@ Your voice tangles with their words, forcing them to make an opposed Int/Magic v
 If you tie or succeed, the spell fizzles y is wasted.
 This art can be used only once per ronda.
 
-Evoke Emotion: Commit Effort for the day as a Acción Principal while performing.
+Evoke Emotion: Commit Effort for the día as a Acción Principal while performing.
 You evoke a desired emotion in listeners, whether intelligent or animal, granting a +1 bonus to relevant social pruebas de habilidad for the escena for you y your allies.
 If desired, you can force a new Reaction Roll, taking it if it's more favorable than the original.
 This art does not work in combate y can be used only once per escena.
 
-Inspire Dread: Commit Effort for the day as an Instantánea action when your enemies are forced to make a Moral check.
+Inspire Dread: Commit Effort for the día as an Instantánea action when your enemies are forced to make a Moral check.
 You goad their fears, forcing them to make two Moral checks instead of one.
 Those who succeed on both must still make an Instinct check immediately after.
 
@@ -532,10 +532,10 @@ Liberating Song: You are immune to mind- or emotion-controlling effects.
 You can Commit Effort for the escena as an Instantánea action to grant any ally in range a Mental tirada de salvación to throw off such effects, assuming they allowed a save to begin with.
 If the second save is failed, this art cannot help them.
 
-Rally: Commit Effort for the day as a Acción Principal to exhort a wounded or fallen ally, removing any Frailty.
+Rally: Commit Effort for the día as a Acción Principal to exhort a wounded or fallen ally, removing any Frailty.
 The target regains 2d6 plus your level in hit points, but you incur one Estrés Corporal.
 
-Soothe the Savage: Commit Effort for the day as a Acción Principal.
+Soothe the Savage: Commit Effort for the día as a Acción Principal.
 For as long as you keep spending a Acción Principal performing each ronda, animals y other living bestial creatures will not attack you or your allies unless commanded by their masters or threatened by the party.
 This art can't be triggered once actual combate has begun.
 
@@ -655,7 +655,7 @@ All Beastmasters start play with the Bind Companion art y one more of their choo
 They learn additional artes as they gain experience.
 Unlike some Mago traditions, Beastmasters can use their artes normally while armored.
 
-Bind Companion: With a day's work in a location you can find y bind a suitable animal companion.
+Bind Companion: With a día's work in a location you can find y bind a suitable animal companion.
 If looking for a particular type of companion, it must be found in the area y may require a Sab/Survive prueba de habilidad at a difficulty of 10 or more if it's a particularly rare creature.
 If you encounter a suitable animal on an adventure, you may bind it as a Acción Principal, with the creature allowed a Mental tirada de salvación to resist y become impervious to your poderes.
 You may release a companion as a Acción Principal if you no longer wish its service or want to bind a different beast.
@@ -676,7 +676,7 @@ You are impervious to normal outdoor extremes of heat or cold.
 Your base Clase de Armadura is equal to 13 plus half your level, rounded up.
 This CA can be modified by shields or Destreza modifiers, but not by armor.
 
-Howl of Distant Summons: You can call former animal companions to your side by Committing Effort for the day as a Acción Principal.
+Howl of Distant Summons: You can call former animal companions to your side by Committing Effort for the día as a Acción Principal.
 The howl extends through time as well as space, y the subject will have received the message in time to reach your side within five minutes after you call for it.
 Once summoned, you may bind it again if you have no current companion.
 If the journey is exceptionally dangerous, difficult, or long, you'll need to make a Cha/Survive prueba de habilidad against a difficulty of 10 or more; on a failure, the beast could not make the journey y cannot be called by this power for another week.
@@ -701,10 +701,10 @@ Thus, a 2 hit die beast bound by a 7th level Beastmaster would have 7 hit dice w
 Its hit bonus can't be less than half its hit dice, rounded up.
 A Beastmaster can stabilize a Herido Mortalmente companion by Committing Effort for the escena as an Instantánea action.
 
-Swift Curación: Commit Effort for the day as a Acción Principal to heal 1d6 damage per personaje level to a wounded companion.
+Swift Curación: Commit Effort for the día as a Acción Principal to heal 1d6 damage per personaje level to a wounded companion.
 This healing can be extended only once per escena or fifteen minutes.
 
-Tongue of the Beasts: Commit Effort as an Rápida action.
+Tongue of the Animales: Commit Effort as an Rápida action.
 While the Effort remains committed, you can speak with any animal that has fur, feathers, scales, or skin.
 This art allows them to temporarily speak as if they had human intellect, though their interests, knowledge, y desires do not change.
 
@@ -793,22 +793,22 @@ A Thousand Tongues: Commit Effort as an Rápida action; while it remains Committ
 To any listener, it will seem as if you are perfectly fluent in their own language, even as you speak in your own native tongue.
 This ability does not allow you to read or write unknown languages.
 
-Armor of God: Commit Effort as an Rápida action.
+Armadura of God: Commit Effort as an Rápida action.
 While the Effort remains Committed, you have a natural Clase de Armadura of 15 plus half your level, rounded down.
 This CA can be modified by shields or your Destreza modifier, but not by other worn armor.
 
-Divine Guidance: Commit Effort for the day as a Acción Principal y meditate upon a choice or potential action before you.
+Divine Guidance: Commit Effort for the día as a Acción Principal y meditate upon a choice or potential action before you.
 The GM will tell you whether the likely outcome of that choice is weal, woe, a mix of both, or nothing significant, using their own best estimation.
 This insight cannot perceive likely outcomes more than an hour or so into the future.
 
-Fear No Flame: Commit Effort for the day as an Rápida action while nominating a visible target.
+Fear No Flame: Commit Effort for the día as an Rápida action while nominating a visible target.
 For the rest of the escena, they are immune to non-magical flame, smoke, or explosive damage, y decrease any sources of such magical damage they take by five points per level of Pray you have.
 
-God Wills It: Commit Effort for the day as an Instantánea action y loudly call down your god's blessing on your comrades.
+God Wills It: Commit Effort for the día as an Instantánea action y loudly call down your god's blessing on your comrades.
 For the rest of the escena, up to six allies per personaje level in earshot gain an effective Moral of 12 y a +1 bonus to hit y damage rolls, including any Shock that may be inflicted.
 At fifth level this becomes a +2 bonus, y at tenth level it becomes a +3 bonus.
 
-Merciful Curación: Commit Effort for the day as a Acción Principal y touch a target within melee range.
+Merciful Curación: Commit Effort for the día as a Acción Principal y touch a target within melee range.
 The target receives 1d6+2 points of magical healing.
 If done in combate or used to revive a Herido Mortalmente subject, the rushed haste of the healing adds 1 Estrés Corporal to the target, but no Estrés Corporal is added if it is applied outside of combate.
 At fourth level the healing done increases to 2d6+4 y at eighth level it becomes 4d6+8.
@@ -819,25 +819,25 @@ Enemies must pass an Instinct check each ronda to target you with attacks; on a 
 Once this art is ended it cannot be reactivated for the rest of the escena.
 Curación y other indirect support of fighting comrades does not count as a hostile action.
 
-Smite the Wicked: Commit Effort for the day as a Rápida action whenever you attack or take some damaging action toward a single target.
+Smite the Wicked: Commit Effort for the día as a Rápida action whenever you attack or take some damaging action toward a single target.
 You gain a +4 bonus to any hit roll, you inflict your personaje level as automatic damage, y you can roll any damage dice twice y take the higher result.
 This ability can only be used once per escena on a given target.
 
-The Light of Faith: Commit Effort as an Rápida action; while it remains Committed, you can cast a clear, bright radiance that extends up to thirty feet away from you.
+The Ligera of Faith: Commit Effort as an Rápida action; while it remains Committed, you can cast a clear, bright radiance that extends up to thirty feet away from you.
 At your discretion, this light is visible only to you y your comrades, including up to a dozen allies.
 
-Transubstantiation: Commit Effort for the day as a Acción Principal to transform up to a gallon of any liquid into sacred blood.
-A draught of this holy liquid is sufficient to sustain a drinker for a day without further food or drink y will heal 1d6 plus the user's Pray habilidad in lost hit points.
+Transubstantiation: Commit Effort for the día as a Acción Principal to transform up to a gallon of any liquid into sacred blood.
+A draught of this holy liquid is sufficient to sustain a drinker for a día without further food or drink y will heal 1d6 plus the user's Pray habilidad in lost hit points.
 A gallon of blood is sufficient to help a half-dozen people.
-The benefits of this art can be enjoyed only once per day, y any undrunk blood sublimates away within a minute.
+The benefits of this art can be enjoyed only once per día, y any undrunk blood sublimates away within a minute.
 
-Turn False Life: Commit Effort for the day as a Acción Principal y make the sign of your god before one or more visible targets within sixty feet.
+Turn False Life: Commit Effort for the día as a Acción Principal y make the sign of your god before one or more visible targets within sixty feet.
 Roll 2d6 y add your personaje level; that many hit dice of undead, automatons, or other synthetic, extraplanar, or unnatural life forms must make Mental tiradas de salvación or cower for the rest of the escena or until they or their comrades are attacked.
 Cowering enemies will take no hostile action y may flee unless bound to their location.
 This power does not affect foes with twice as many hit dice as the blood priest has levels.
 If the rolled hit die total isn't enough to fully affect a creature, it is unaffected.
 
-Words of Mercy: Commit Effort for the day as an Instantánea action to reroll any failed social prueba de habilidad related to maintaining peace, granting help, or encouraging virtuous acts of compassion, mercy, or truthfulness.
+Words of Mercy: Commit Effort for the día as an Instantánea action to reroll any failed social prueba de habilidad related to maintaining peace, granting help, or encouraging virtuous acts of compassion, mercy, or truthfulness.
 This art can be used only once on any given prueba de habilidad.
 
 Wrath of the Most High: Commit Effort for the escena as a Acción Principal while you rebuke a visible target.
@@ -925,15 +925,15 @@ Other partial class mixes are unaffected by this flaw.
 #### Duelist Artes
 
 Duelist Effort is based on Cortar, y is equal to the PC's Cortar habilidad plus the highest of their Destreza or Inteligencia modifiers, to a minimum of one point.
-All Duelists begin with the Favored Weapon art y one more of their choice.
+All Duelists begin with the Favored Arma art y one more of their choice.
 Additional artes are learned as the PC advances in experience.
 
 The artes of the Duelist require agility y free motion.
 The Duelist cannot benefit from any art of this class while wearing medium or heavy armor or carrying a large shield.
 Dual-wielding is practiced by some Duelists, but most prefer the defensive advantages of a small offhand shield.
 
-Favored Weapon: Choose one specific type of non-unarmed melee weapon.
-You begin play with such a weapon, y when using this type you may use the Favored Weapon attack bonus column on the Duelist table to determine your base hit bonus, unless it's already better for some other reason.
+Favored Arma: Choose one specific type of non-unarmed melee weapon.
+You begin play with such a weapon, y when using this type you may use the Favored Arma attack bonus column on the Duelist table to determine your base hit bonus, unless it's already better for some other reason.
 If your second partial class is Parciales Warrior, your class' base hit bonus with the weapon is instead equal to your level.
 You cannot apply this or other Duelist artes to thrown weapons.
 
@@ -942,11 +942,11 @@ You cannot apply this or other Duelist artes to thrown weapons.
 Blood for Blood: Commit Effort for the escena as an Instantánea action when an enemy hits you with a physical attack.
 If you attack that enemy with your favored weapon before the end of the next ronda, the first blow hits automatically y can do no less damage than was done to you, up to the weapon's maximum.
 
-Burst of Speed: Commit Effort for the day as an Rápida action.
+Burst of Speed: Commit Effort for the día as an Rápida action.
 You may move your full normal rango de movimiento as an Rápida action.
 This art can be used only once per ronda.
 
-Code Duello: Commit Effort for the day as an Rápida action when engaged with a single foe.
+Code Duello: Commit Effort for the día as an Rápida action when engaged with a single foe.
 So long as no other combatant attacks either your target or you, y you attack no one but your target, you gain a +4 bonus to your Clase de Armadura y can roll your hit rolls twice, taking the better result.
 Once the Code Duello has been disrupted or ended, it cannot be invoked again during that escena.
 
@@ -957,7 +957,7 @@ This ability can be used only once per escena on any given target.
 Dauntless Step: Commit Effort for the escena as an Rápida action.
 The Move acciones you make for the rest of the ronda can cross vertical surfaces or difficult terrain at your full normal rango de movimiento, provided you end the ronda standing upright on a surface that can bear your weight.
 
-Dodge Doom: Commit Effort for the day as an Instantánea action when caught in some explosion or other burst effect.
+Dodge Doom: Commit Effort for the día as an Instantánea action when caught in some explosion or other burst effect.
 You take half damage, or no damage if the effect allows a save y you succeed at it.
 You can move yourself up to ten feet away from your original location, provided the new location is behind cover or away from the blast's point of origin.
 
@@ -971,21 +971,21 @@ Graceful Leap: Commit Effort for the escena as an Rápida action to immediately 
 You can't use this art more than once per ronda or after you've attacked.
 You are immune to falling damage from plunges of less than 30 feet.
 
-Lightning Draw: Commit Effort for the day as an Instantánea action at the start of hostilities; you win iniciativa against anyone without a similar ability to act first y may ready a Guardado favored weapon Instantly.
+Lightning Draw: Commit Effort for the día as an Instantánea action at the start of hostilities; you win iniciativa against anyone without a similar ability to act first y may ready a Guardado favored weapon Instantly.
 
 Piercing Strike: Commit Effort for the escena as an Rápida action y choose a visible target.
 For the rest of the escena, their CA is treated as 10 for purposes of resisting the Shock of your favored weapon.
 
-Spiritual Weapon: You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish.
+Spiritual Arma: You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish.
 Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object's physical form.
 To manifest a template, Commit Effort as an Instantánea action; a ghostly copy of the weapon appears Preparado in hand for you until you release the Effort or stop touching the weapon.
 Dual-wielders can summon the same weapon into both hands with one use of this art.
 
-Unbindable: Commit Effort for the day as an Rápida action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding.
+Unbindable: Commit Effort for the día as an Rápida action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding.
 You automatically wriggle free from mundane restraints y gain an Evasion tirada de salvación to instantly end a physical magical binding of some sort.
 You can use this art only once per ronda.
 
-Unworthy Rabble: Commit Effort for the day as an Rápida action.
+Unworthy Rabble: Commit Effort for the día as an Rápida action.
 For the rest of the escena, when using your favored weapon, reroll any failed hit roll against foes with one hit die.
 At eighth level, this ability applies to foes with two hit dice.
 
@@ -1041,7 +1041,7 @@ This CA can be modified by small shields y your Destreza modifier, but not by ar
 
 | Level | Artes Gained at This Level |
 | ----- | -------------------------- |
-| 1     | Favored Weapon y Any One   |
+| 1     | Favored Arma y Any One     |
 | 2     | Any One                    |
 | 3     |                            |
 | 4     | Any One                    |
@@ -1108,11 +1108,11 @@ The barrier improves your Clase de Armadura by +4 y remains as long as the Effor
 
 This bonus stacks with other effects, but cannot increase CA above 18, regardless of the combinations.
 
-Petrifying Stare: Commit Effort for the day as a Acción Principal y target a visible creature.
+Petrifying Stare: Commit Effort for the día as a Acción Principal y target a visible creature.
 The creature must make a Física save or become partially petrified, losing its Acción de Movimiento for a number of rondas equal to half your caster level, rounded up.
 Flying creatures are forced to land by this art y swimming creatures will inevitably sink to the bottom.
 
-Rune of Destruction: Commit Effort for the day as a Acción Principal y target an adjacent solid surface.
+Rune of Destruction: Commit Effort for the día as a Acción Principal y target an adjacent solid surface.
 A glowing rune the size of a handprint forms on the surface y persists for one hour per caster level.
 Any creature who gets within two feet of the rune will trigger it, causing it to explode in a five-foot radius with an elemental force of your choice y suffering 2d6 damage plus your caster level.
 
@@ -1123,13 +1123,13 @@ Steps of Air: Commit Effort for the escena as an Rápida action y target a visib
 If the art ends while they are still in the air, they descend harmlessly to the ground.
 This art may also be used as an Instantánea action to negate falling damage for any single target.
 
-Stunning Shock: Commit Effort for the day as a Acción Principal y target a visible creature within fifty feet per caster level.
+Stunning Shock: Commit Effort for the día as a Acción Principal y target a visible creature within fifty feet per caster level.
 The target creature must be wearing or holding at least a pound worth of conductive metal or be considerably dampened.
 An electrical bolt leaps from the caster to stun the target, causing them to lose their next Acción Principal.
 A Física tirada de salvación can mitigate the effect, causing the target to lose their Acción de Movimiento instead of their Principal.
 A creature can be targeted only once per escena by this.
 
-Thermal Shield: Commit Effort for the escena as an Instantánea action to immediately negate one instance of fire or frost damage to any single visible ally or object.
+Thermal Escudo: Commit Effort for the escena as an Instantánea action to immediately negate one instance of fire or frost damage to any single visible ally or object.
 This defense lasts only long enough to nullify the single instance of damage.
 
 #### No Parciales Elementalist
@@ -1338,7 +1338,7 @@ Facile Healer: Your Curación Touch ability is improved;, y you no longer need t
 
 Far Healer: Your Curación Touch ability is improved, y may be used on a visible target within ten feet per personaje level.
 
-Final Repose: Target a visible living creature y Commit Effort for the day as an Instantánea action.
+Final Repose: Target a visible living creature y Commit Effort for the día as an Instantánea action.
 For the rest of the escena, they take a Física tirada de salvación penalty equal to your Curar habilidad.
 If they are reduced to zero hit points before the end of the escena, they die with no chance for stabilization or revival.
 
@@ -1346,10 +1346,10 @@ Healer's Eye: Commit Effort as an Rápida action; while the Effort remains commi
 As a side effect, you can detect living creatures by sight regardless of available light or obscuring mists.
 
 Limb Restoration: Only expert healers can master this art, which cannot be learned earlier than 8th level.
-You must Commit all remaining Effort for the day, a minimum of one point, to regenerate a missing limb or organ for a target you are touching, or efface some dramatic scar or other physical debility.
+You must Commit all remaining Effort for the día, a minimum of one point, to regenerate a missing limb or organ for a target you are touching, or efface some dramatic scar or other physical debility.
 The target's Estrés Corporal is automatically maximized.
 
-Purge Ailment: Commit Effort for the day as a Acción Principal.
+Purge Ailment: Commit Effort for the día as a Acción Principal.
 An ally you are touching is cured of one poison or disease.
 Creatures killed by poison can be revived by this art if it is used within six minutes of death.
 Magical poisons y diseases may require a Sab/Curar or Cha/Curar prueba de habilidad against a difficulty of 8 or more.
@@ -1358,11 +1358,11 @@ At seventh level, you need only Commit Effort for the escena to use this ability
 Refined Restoration: You y up to a dozen allies you tend before they sleep will all lose 2 Estrés Corporal from a good night's rest instead of 1.
 
 Revive the Fallen: Only expert healers are capable of mastering this art, which cannot be learned earlier than 8th level.
-Commit Effort for the day as a Acción Principal to revive a recently-slain living creature that you are touching.
+Commit Effort for the día as a Acción Principal to revive a recently-slain living creature that you are touching.
 This ability must be used on a target within one minute per caster level of their death, y will not work on a corpse that has been dismembered, incinerated, or otherwise disjected.
 The target's Estrés Corporal is automatically maximized y they'll be unconscious for twenty-four hours after their restoration before awakening with 1 hit point.
 
-Swift Healer: Your Curación Touch ability is improved, y may be used as an Rápida action once per day per personaje level, though not more than once per ronda on any given target.
+Swift Healer: Your Curación Touch ability is improved, y may be used as an Rápida action once per día per personaje level, though not more than once per ronda on any given target.
 
 The Healer's Knife: Your Curación Touch ability is altered, y may be used to inflict damage to a living target instead of healing it.
 The damage done is equivalent to the healing that would normally be done, albeit you receive 1 Estrés Corporal instead of the target.
@@ -1373,7 +1373,7 @@ Tireless Vigor: Commit Effort; while it remains Committed your need to eat, drin
 You may exert yourself tirelessly y regenerate 1 lost hit point per hour.
 
 Vital Furnace: Your tremendous life energy can be used to instantly regenerate any non-mortal wound you have received.
-Commit Effort for the day as an Instantánea action to negate the damage from an injury you just received that did not reduce you to zero hit points.
+Commit Effort for the día as an Instantánea action to negate the damage from an injury you just received that did not reduce you to zero hit points.
 Aside from this ability, you automatically stabilize if reduced to zero hit points y awaken ten minutes later with 1 hit point.
 This ability cannot undo damage you intentionally inflict on yourself via some power or magical exchange.
 
@@ -1471,47 +1471,47 @@ Arcane Lexicon: Commit Effort for the escena.
 For the rest of the escena, you can read any script that was not intentionally obfuscated or encoded by its writer.
 Extremely esoteric or nonhuman scripts may not be comprehensible this way; the "plain meaning" of the text might be utterly foreign to human logic.
 
-Counter Magic: Commit Effort for the day as an Instantánea action when a visible enemy mage casts a spell.
+Counter Magic: Commit Effort for the día as an Instantánea action when a visible enemy mage casts a spell.
 Both of you make opposed Int/Magic or Cha/Magic pruebas de habilidad; if you win, their spell fizzles y is wasted.
 This art only works on actual spellcasters y not creatures that merely activate magical poderes.
 You can use this art no more than once per ronda.
 
-Empowered Sorcery: Commit Effort for the day as an Instantánea action to re-roll any variable die roll associated with a spell's effects, such as a damage roll; take the roll you prefer.
+Empowered Sorcery: Commit Effort for the día as an Instantánea action to re-roll any variable die roll associated with a spell's effects, such as a damage roll; take the roll you prefer.
 
 Hang Sorcery: Commit Effort for the escena as an Instantánea action when casting a spell.
 The spell does not go off, but remains "hung" y waiting to be triggered as an Rápida action, with details of targeting y effect determined at that time.
 Damage does not disrupt a hung spell, but no additional spells can be cast until the hung spell is released or allowed to dissipate.
 
-Inexorable Effect: Commit Effort for the day as an Instantánea action to force an enemy to re-roll a successful tirada de salvación y take the worse result.
+Inexorable Effect: Commit Effort for the día as an Instantánea action to force an enemy to re-roll a successful tirada de salvación y take the worse result.
 You may use this art only once per escena.
 
-Iron Resolution: Commit Effort for the day when injured or disturbed in combate; you may make a Física tirada de salvación to resist spell disruption y ignore the damage for purposes of lanzar conjuros.
+Iron Resolution: Commit Effort for the día when injured or disturbed in combate; you may make a Física tirada de salvación to resist spell disruption y ignore the damage for purposes of lanzar conjuros.
 
 Preparatory Countermagic: Commit Effort for the escena when you are affected by a spell you have prepared, including when you are standing in the area of effect of one of your own damaging spells.
 
 You are unaffected by the spell's direct effects.
 
-Psychic Conversion: Once per day as an Rápida action, expend one casting slot to remove one point of accrued Estrés Corporal y heal 2 hit points per level.
+Psychic Conversion: Once per día as an Rápida action, expend one casting slot to remove one point of accrued Estrés Corporal y heal 2 hit points per level.
 
-Restrained Casting: Commit Effort for the day as an Instantánea action when casting a Alta Magia spell.
+Restrained Casting: Commit Effort for the día as an Instantánea action when casting a Alta Magia spell.
 You may do so in perfect silence y without need for somatic gestures, though damage will still disrupt the casting.
 
-Retain Sorcery: Commit Effort for the day as an Rápida action after casting a spell; it does not count against your casting limits for the day.
-You can use this art no more than once per day, y the stress of using it prevents you from casting another spell before the end of your next turn.
+Retain Sorcery: Commit Effort for the día as an Rápida action after casting a spell; it does not count against your casting limits for the día.
+You can use this art no more than once per día, y the stress of using it prevents you from casting another spell before the end of your next turn.
 
 Sense Magic: Commit Effort as an Instantánea action; while it remains committed, you can visually perceive magical energy y get a one-sentence description of the effect of any standing magics or magical items you inspect.
 The ambient magical energies in most areas allow you to see clearly even in conditions of perfect darkness.
 
-Suppress Magic: Commit Effort for the day as an Rápida action y target a visible or known magical effect within one hundred feet.
+Suppress Magic: Commit Effort for the día as an Rápida action y target a visible or known magical effect within one hundred feet.
 The effect is suppressed as if by the Extirpate Arcana spell for 1d6 rondas plus the caster's personaje level.
 Conjuros cast by more powerful casters may not be successfully suppressed, as noted in the spell description.
 
 The caster can attempt to suppress an effect only once.
 
-Swift Casting: Once per escena, you may Commit Effort for the day to turn a spell that normally requires a Acción Principal to cast into an Rápida action.
+Swift Casting: Once per escena, you may Commit Effort for the día to turn a spell that normally requires a Acción Principal to cast into an Rápida action.
 You can cast no other spell this ronda y you can't use this art if you've already cast a spell this ronda or been injured or otherwise disqualified from casting.
 
-Ward Allies: Commit Effort for the day as an Instantánea action to omit up to six allies from the effects of an area-effect spell you cast, allowing them to avoid any damage or other negative effect that would be directly produced by the spell.
+Ward Allies: Commit Effort for the día as an Instantánea action to omit up to six allies from the effects of an area-effect spell you cast, allowing them to avoid any damage or other negative effect that would be directly produced by the spell.
 This does not protect them from indirect consequences, however, such as destroying the building they are standing in.
 
 Wizard's Grandeur: Commit Effort as an Rápida action.
@@ -1620,10 +1620,10 @@ All Invocadores gain Magic as a bonus habilidad, acquiring it at level-0, or lev
 Their arcane versatility requires a thorough grounding in theory.
 
 Invocadores can learn y prepare spells of the Alta Magia tradition, y have the same limits on casting in armor as they do.
-Each Invoker can prepare a number of known spells as indicated by the table each day, plus their Inteligencia modifier.
+Each Invoker can prepare a number of known spells as indicated by the table each día, plus their Inteligencia modifier.
 
 Each Invoker has a number of spell points based on their level, to which is added their Inteligencia modifier.
-When they cast the spell, they subtract its level from their available spell points for the day.
+When they cast the spell, they subtract its level from their available spell points for the día.
 So long as they have sufficient spell points left, they can cast the same spell repeatedly.
 Spell points refresh each morning.
 
@@ -1695,7 +1695,7 @@ Parciales Invocadores use the High Mago partial-class tables for hit dice y atta
 
 The Mago class is a general header under which all heroes with fundamentally supernatural poderes or lanzar conjuros ability are place.
 
-Once this class is chosen, the PC must choose a specific arcane tradition to follow; one is a High Mago, or a Vowed, or an Elementalist, for example.
+Once this class is chosen, the PC must choose a specific arcane tradition to follow; one is a High Mago, or a Juramentado, or an Elementalist, for example.
 
 Not all magical traditions necessarily involve classical spell-flinging y conjury.
 Some traditions are much more physical in nature, granting the practitioners remarkable bodily prowess or unique magical gifts they can exercise.
@@ -1764,7 +1764,7 @@ A Mageslayer gains their artes at a set rate, beginning with Antimage y Magebane
 
 ##### Absolute Negation
 
-As an Instantánea action, Commit Effort for the day when you are about to be affected or impeded by an unwanted spell or a standing magical effect created by a spell.
+As an Instantánea action, Commit Effort for the día when you are about to be affected or impeded by an unwanted spell or a standing magical effect created by a spell.
 You may ignore the magic.
 
 ##### Antimage
@@ -1773,9 +1773,9 @@ Get one level of the Nullifier Foco for free, or a free Foco if you somehow have
 
 ##### Dispel Enchantment
 
-As a Acción Principal, touch an ally y Commit Effort for the day.
+As a Acción Principal, touch an ally y Commit Effort for the día.
 Your touch acts as an Extirpate Arcana spell.
-This art can only be applied to creatures, not objects, y can be applied to yourself or a given target only once per day.
+This art can only be applied to creatures, not objects, y can be applied to yourself or a given target only once per día.
 
 ##### Disrupt Sorcery
 
@@ -1807,7 +1807,7 @@ This does not stack with a Warrior's Golpe Mortal rasgo de clase.
 
 ##### Share the Pain
 
-As an Instantánea action, Commit Effort for the day when you are targeted by a hostile spell or are in its area of effect.
+As an Instantánea action, Commit Effort for the día when you are targeted by a hostile spell or are in its area of effect.
 Make a Mental tirada de salvación; on a success, the spell's caster is treated as also having affected by the spell that just targeted you.
 This art can be used only once per ronda.
 
@@ -1913,18 +1913,18 @@ You cannot drain more life than the target has remaining hit points.
 False Death: Commit Effort as an Instantánea action; while it remains Committed you appear dead to all mundane examination.
 You lose your Principal Actions while "dead", but can move y perceive normally y do not need to eat, drink, breathe, or perform other bodily functions.
 Venenos y diseases do not progress in you while you are "dead".
-You can maintain this state of death for up to one day per level before needing at least an hour to recover.
+You can maintain this state of death for up to one día per level before needing at least an hour to recover.
 
 Gravesight: Commit Effort as an Rápida action; while it remains Committed, you can see the life energies of living creatures around you as various glowing patterns, regardless of the mundane illumination available.
 You can perceive sicknesses, poisons, y other physical qualities on sight.
 As a side effect of this ability, you can see normally even in perfect blackness.
 
 Keeper of the Gate: At your discretion, creatures within twenty feet of you per personaje level that are Herido Mortalmente will die instantly y cannot be revived by magic or medicine.
-Conversely, you can Commit Effort for the day to automatically stabilize any or all within that range, increasing their Estrés Corporal by 1 point.
+Conversely, you can Commit Effort for the día to automatically stabilize any or all within that range, increasing their Estrés Corporal by 1 point.
 This benefit cannot aid creatures that have been dismembered, shredded, or otherwise suffered unsurvivable injuries.
 
 Life Bridge: You can transfer life force between willing or helpless participants.
-Commit Effort for the day; for the rest of the escena, you can shift hit points from one willing or helpless target no smaller than a dog to another as a Acción Principal, provided you are touching both.
+Commit Effort for the día; for the rest of the escena, you can shift hit points from one willing or helpless target no smaller than a dog to another as a Acción Principal, provided you are touching both.
 
 You can shift enough hit points to Mortally Wound a donor, but you can't give more to the recipient than would refresh their maximum allowed hit points.
 
@@ -1933,7 +1933,7 @@ You may Commit Effort for the escena as an Instantánea action to negate any sin
 Undead with more than twice as many hit dice as you have levels cannot be foiled this way.
 
 Red Harvest: You are empowered by death.
-As an Instantánea action, whenever an intelligent living creature with at least one hit die perishes within fifty feet of you, Commit Effort for the day to either heal 1d6 plus your level in lost hit points or gain a +4 bonus on your next hit roll this escena.
+As an Instantánea action, whenever an intelligent living creature with at least one hit die perishes within fifty feet of you, Commit Effort for the día to either heal 1d6 plus your level in lost hit points or gain a +4 bonus on your next hit roll this escena.
 This art cannot be stacked, y it can be used only once per ronda.
 
 Unaging: You no longer naturally age, y will remain perfectly hale y vigorous up to your species' natural maximum age plus 20% per personaje level, after which you will collapse into dust y decay.
@@ -1946,7 +1946,7 @@ Predators find it nauseating y will not bite you unless provoked.
 Unintelligent predators will not consider you edible.
 This ichor is reluctant to leave your body, y stabbing or puncture injuries can Mortally Wound you but cannot result in your death unless you are entirely pincushioned by your foes or suffer catastrophic physical damage.
 
-Unliving Persistence: Commit Effort for the day as an Rápida action to automatically stabilize when Herido Mortalmente.
+Unliving Persistence: Commit Effort for the día as an Rápida action to automatically stabilize when Herido Mortalmente.
 You may use this ability to benefit others if you are able to touch them.
 This ability cannot save a subject that has experienced dismemberment or other extremely final deaths.
 
@@ -2058,7 +2058,7 @@ These alternate forms have a few basic rules that apply to all their permutation
 
 A Skinshifter can master one alternate form per personaje level.
 
-A Skinshifter who wants to change a form selection can do so with a day of careful practice y adjustment.
+A Skinshifter who wants to change a form selection can do so with a día of careful practice y adjustment.
 Skinshifter PJs should note down the special poderes or traits of their alternate forms y keep in mind which of them they have available at any one time.
 
 A Skinshifter's alternate forms use the same hit points, personaje attributes, y movement speed as their normal form, unless modified by particular artes.
@@ -2083,7 +2083,7 @@ Skinshifter Effort is based on Survive, y is equal to the PC's Survive habilidad
 All Skinshifters begin play with the Change Form art y one more of their choice.
 Additional artes are learned as the PC advances in experience.
 
-Change Form: Commit Effort for the day as a Acción Principal to transform into an available Alternate form.
+Change Form: Commit Effort for the día as a Acción Principal to transform into an available Alternate form.
 This shift persists until you die, shift to a new form, or end the transformation as an Rápida action.
 
 Your hit points, Estrés Corporal, y other scores remain the same in any new form, but in a non-humanoid form your class' base attack bonus can be no worse than the one listed on the table.
@@ -2105,13 +2105,13 @@ These alterations are obvious y extreme; it is impossible to masquerade as a nor
 
 Hit points gained from Con improvements are lost when shifting back.
 
-Intrinsic Armor: This shape has tough scales, hide, shell, or other defensive integuments.
+Intrinsic Armadura: This shape has tough scales, hide, shell, or other defensive integuments.
 Your base Clase de Armadura is 14 plus half your personaje level, rounded down.
 This CA can be modified by your Destreza modifier, y by shields if the shape can hold one.
 
 Manifest Wings: This shape can form usable wings.
 You can't effectively attack while concentrating on remaining aloft, but you can fly at your normal rango de movimiento +10' per action.
-If unhindered y flying overland you can travel up to ten miles an hour y fly up to five hours a day.
+If unhindered y flying overland you can travel up to ten miles an hour y fly up to five hours a día.
 
 Octopus' Embrace: This shape can have more than four usable limbs.
 These additional tentacles, arms, legs, or grippers can hold y manipulate things; up to four Guardado objects can be held Ready by these limbs without counting against your Preparado Impedimenta limit.
@@ -2241,13 +2241,13 @@ This discernment isn't fine enough to identify the object of their emotions unle
 
 #### Other Thought Noble Artes
 
-Block Memory: Target a visible living creature y Commit Effort for the day as a Acción Principal while specifying a particular event or situation that didn't extend longer than a escena.
+Block Memory: Target a visible living creature y Commit Effort for the día as a Acción Principal while specifying a particular event or situation that didn't extend longer than a escena.
 The target gets a Mental tirada de salvación; on a failure, they simply cannot remember the event y will construct a plausible false memory to paper over the gap.
 The memory can be restored by use of this power once more or a magical dispelling ability, but detecting the alteration is difficult;
 any power that detects enchantments on a target does so with a +2 difficulty penalty to any prueba de habilidad made to discern the ban.
 
 Elicitation of Truth: This art can only be taken by those who have mastered Surface Apprehension.
-It can only be used on a helpless or cooperative target; the Thought Noble may Commit Effort for the day y ask the target a question that takes no more than two sentences to ask.
+It can only be used on a helpless or cooperative target; the Thought Noble may Commit Effort for the día y ask the target a question that takes no more than two sentences to ask.
 If the target fails a Mental tirada de salvación, they must fully y completely answer the question.
 They need not exercise any personal judgment or speculation, but they must answer directly y without conscious deception.
 
@@ -2263,7 +2263,7 @@ While linked with someone, both of you may reroll failed Mental tiradas de salva
 
 Hypercognition: You can drive your mind to tremendous feats of calculation, estimation, y recall.
 You have an eidetic memory y can perform extremely advanced calculations in your head.
-As an Instantánea action, Commit Effort for the day y reroll any failed Int-based prueba de habilidad.
+As an Instantánea action, Commit Effort for the día y reroll any failed Int-based prueba de habilidad.
 This ability can be used only once on any given check.
 
 Iconograph: Commit Effort for the escena as a Acción Principal y target a visible written text, piece of sculpture, iconographic symbol, or other visible artifact.
@@ -2271,24 +2271,24 @@ You receive a short description of the message or idea the maker was trying to c
 Optionally, you may use this art when making a sigil, art object, or text of your own; any valid target will automatically understand your intended message when they see the item.
 You may restrict your audience to particular people or types if you wish.
 
-Impress Imperative: Commit Effort for the day as a Acción Principal while targeting a visible living creature.
+Impress Imperative: Commit Effort for the día as a Acción Principal while targeting a visible living creature.
 You may give it an overwhelming urge to perform some action that takes no longer than a ronda y is not completely contrary to its nature or wishes.
 It can make a Mental save to resist, but on a failure it spends its next action carrying out the imperative.
 
-Mind Light: Your Open Mind art is enhanced.
+Mind Ligera: Your Open Mind art is enhanced.
 While active, you become aware of the location of all living minds within sixty feet of you provided there isn't a physical barrier between you y the subject y they are not actively hiding from you.
 You can identify the species of these minds, if the species is known to you, any strong emotional states, y can recognize known individuals.
 While Open Mind is active you cannot be surprised by a living creature.
 
 Mind Over Matter: Your mental control over your physical processes is considerable.
-Commit Effort for the day as an Instantánea action to gain one of the following benefits: automatically stabilize if Herido Mortalmente, go without sleep for twenty-four hours, heal 1d6 hit points of damage you've suffered, or completely ignore normal climatic extremes of heat or cold for one day.
+Commit Effort for the día as an Instantánea action to gain one of the following benefits: automatically stabilize if Herido Mortalmente, go without sleep for twenty-four hours, heal 1d6 hit points of damage you've suffered, or completely ignore normal climatic extremes of heat or cold for one día.
 Similar tricks of bodily control may be allowed at the GM's discretion.
 
 Mirror Mask: You become instantly aware of any mind-affecting power directed at you y can identify the user if they're within your current sensory range.
 You may reroll any Mental tirada de salvación the attacking ability allows you; if it doesn't allow a save, you get a single Mental save to resist anyway.
-If you succeed, you may Commit Effort for the day as an Instantánea action to give the power false information of your choice or a false impression of success.
+If you succeed, you may Commit Effort for the día as an Instantánea action to give the power false information of your choice or a false impression of success.
 
-Positive Association: As a Acción Principal, Commit Effort for the day y target a visible sentient creature.
+Positive Association: As a Acción Principal, Commit Effort for the día y target a visible sentient creature.
 It gets a Mental tirada de salvación to resist; on a failure, any thought of you or your acciones is suffused by a glow of benign happiness y admiration.
 They will treat you as an admired friend y find all your acciones to be eminently reasonable y wise until you or your allies attack them, bring harm to something they love, or leave their presence for more than an hour.
 Affected creatures that were not misused are unlikely to think themselves bespelled when this power ends unless given reason to.
@@ -2305,13 +2305,13 @@ Surface Apprehension: Commit Effort for the escena as a Acción Principal while 
 If it fails a Mental tirada de salvación, you become aware of its immediate surface thoughts for the rest of the ronda.
 If you ask specific questions of the creature during this ronda it will instinctively think of the answers, though the detail of these surface thoughts is generally limited to one or two sentences of information.
 
-Thoughts Like Razors: As a Acción Principal, Commit Effort for the day to launch a psychic assault on any visible living creature within sixty feet.
+Thoughts Like Razors: As a Acción Principal, Commit Effort for the día to launch a psychic assault on any visible living creature within sixty feet.
 The target gets a Mental tirada de salvación to resist; on a failure, it takes 1d8 damage per level of the Thought Noble.
 The damage can knock it unconscious but cannot kill.
 On a successful save, the Thought Noble is stunned by the backlash, taking one quarter of the damage, rounded down, y losing their next turn's acciones.
 This ability can be used only once per escena.
 
-Unthinkable Thought: Target a visible living creature y Commit Effort for the day as a Acción Principal while specifying a particular person, object, or situation that is currently ongoing in their presence.
+Unthinkable Thought: Target a visible living creature y Commit Effort for the día as a Acción Principal while specifying a particular person, object, or situation that is currently ongoing in their presence.
 
 The target may make a Mental save to resist; on a failure, they simply cannot consciously acknowledge the existence of the subject or its acciones unless ignoring it would obviously put their life at risk.
 This forced ignorance lasts for up to a escena; at its end, the target will have no memory of the subject.
@@ -2376,35 +2376,35 @@ This forced ignorance lasts for up to a escena; at its end, the target will have
 | 9     | Any One                    |
 | 10    | Any One                    |
 
-### The Vowed
+### The Juramentado
 
-Adepts of fist y bodily discipline, the Vowed are a partial Mago class dedicated to unarmed combate, physical training, y mental discipline.
+Adepts of fist y bodily discipline, the Juramentado are a partial Mago class dedicated to unarmed combate, physical training, y mental discipline.
 
-#### Vowed Benefits
+#### Juramentado Benefits
 
-The Vowed class exists only as a partial Mago class, to be taken by an Adventurer along with another partial class.
-Thus, a Parciales Warrior/Parciales Vowed might be a hardened temple warrior-monk, a Parciales Experto/Parciales Vowed might be a sage teacher of religious or philosophical truths, y a Parciales Elementalist/Parciales Vowed might be a mountain sage who wields the elemental forces of nature.
+The Juramentado class exists only as a partial Mago class, to be taken by an Adventurer along with another partial class.
+Thus, a Parciales Warrior/Parciales Juramentado might be a hardened temple warrior-monk, a Parciales Experto/Parciales Juramentado might be a sage teacher of religious or philosophical truths, y a Parciales Elementalist/Parciales Juramentado might be a mountain sage who wields the elemental forces of nature.
 
-Regardless of classes, a Vowed's hit dice can't be worse than 1d6 per level thanks to Martial Style.
+Regardless of classes, a Juramentado's hit dice can't be worse than 1d6 per level thanks to Martial Style.
 
-All Vowed gain a non-combate bonus habilidad appropriate to their order, acquiring it at level-0, or level-1 if they already have it at level-0.
+All Juramentado gain a non-combate bonus habilidad appropriate to their order, acquiring it at level-0, or level-1 if they already have it at level-0.
 Orders that focus on physical training might grant Atletismo, while scholarly ones might give Know, religious ones Pray, or occult sects grant Magic.
 You may pick whatever non-combate habilidad suits your order, assuming the GM finds it reasonable.
 
-Vowed do not learn how to cast spells.
+Juramentado do not learn how to cast spells.
 Instead, they refine their inner poderes y physical capabilities.
 These artes are too precise y delicate to bear the impedimenta of heavy clothing, armor, or shields, y cannot be used when so burdened.
-The Magia Con Armadura Foco can mitigate this, but Vowed are all trained in effective unarmored defense techniques.
+The Magia Con Armadura Foco can mitigate this, but Juramentado are all trained in effective unarmored defense techniques.
 
-At first level, a Vowed gains the Martial Style, Unarmed Might, y Unarmored Defense artes, in addition to one more art of their choice as given on the adjacent list.
+At first level, a Juramentado gains the Martial Style, Unarmed Might, y Unarmored Defense artes, in addition to one more art of their choice as given on the adjacent list.
 Further advancement will grant additional artes.
 
-#### Vowed Artes
+#### Juramentado Artes
 
-Vowed Effort is based on the habilidad they chose to represent their order's principal focus of study, whether Atletismo, Know, Magic, Pray, or some more esoteric habilidad.
+Juramentado Effort is based on the habilidad they chose to represent their order's principal focus of study, whether Atletismo, Know, Magic, Pray, or some more esoteric habilidad.
 
-Their maximum Vowed Effort is equal to this habilidad level plus their best attribute modifier, whatever it may be, to a minimum of one point.
-All Vowed automatically gain the Martial Style, Unarmed Might, y Unarmored Defense artes as part of their training.
+Their maximum Juramentado Effort is equal to this habilidad level plus their best attribute modifier, whatever it may be, to a minimum of one point.
+All Juramentado automatically gain the Martial Style, Unarmed Might, y Unarmored Defense artes as part of their training.
 
 Martial Style: Regardless of class, your hit die can't be worse than 1d6 per level.
 When attacking with the Golpear habilidad, your class hit bonus can be no worse than that of an Experto of your same personaje level.
@@ -2415,7 +2415,7 @@ You may add your Golpear habilidad to the damage done by these attacks as usual,
 
 Unarmored Defense: When not wearing armor or using a shield, your base Clase de Armadura is equal to 13 plus half your personaje level, rounded down.
 
-#### Other Vowed Artes
+#### Other Juramentado Artes
 
 Brutal Counter: Commit Effort for the escena as an Instantánea action after resolving an enemy melee attack against you, whether it hits or misses.
 You may make a free physical attack against your assailant, using either a normal attack or some other offensive ability that takes no more than one Acción Principal to execute.
@@ -2437,7 +2437,7 @@ You may also Commit Effort for the escena as an Instantánea action to negate fa
 Master's Vigor: Your body retains its vigor y youthful vitality to the full normal span of your life.
 You regain two lost hit points per hour due to your natural restorative poderes.
 
-Mob Justice: As an Instantánea action, Commit Effort for the day to become impervious to the Make a Ataque Conjunto maneuver.
+Mob Justice: As an Instantánea action, Commit Effort for the día to become impervious to the Make a Ataque Conjunto maneuver.
 Your assailants cannot use this maneuver against you for the rest of the escena, y you become immune to Shock as long as you remain in melee with at least two foes.
 Making use of this benefit disrupts any lanzar conjuros you may attempt, however, due to the violent motion required.
 
@@ -2446,14 +2446,14 @@ Nimble Ascent: Commit Effort for the escena as an Rápida action.
 For the remainder of the escena you may move up vertical y overhanging surfaces y across difficult terrain at your full rango de movimiento with no chance of slipping or falling, provided the surface is not glass-smooth or enchanted.
 You require only one free hand to cling to a wall or ceiling.
 
-Purified Body: You may Commit Effort for the day as an Instantánea action to cure any disease or poison currently affecting you, or instead to negate any need for sleep, food, water, or air for the next 24 hours.
+Purified Body: You may Commit Effort for the día as an Instantánea action to cure any disease or poison currently affecting you, or instead to negate any need for sleep, food, water, or air for the next 24 hours.
 
-Revivifying Breath: Commit Effort for the day as an Rápida action to heal yourself for 1d6 hit points plus your level.
+Revivifying Breath: Commit Effort for the día as an Rápida action to heal yourself for 1d6 hit points plus your level.
 This healing does not increase Estrés Corporal.
-This ability may be used on your turn even when you are at zero hit points, but in such a case it Commits all your remaining Effort for the day.
+This ability may be used on your turn even when you are at zero hit points, but in such a case it Commits all your remaining Effort for the día.
 This art can be used once per escena.
 
-Shattering Strike: Commit Effort for the day y take a full ronda of motionlessness to prepare.
+Shattering Strike: Commit Effort for the día y take a full ronda of motionlessness to prepare.
 On the next ronda, as a Acción Principal, your unarmed attack can shatter a wooden door, wooden wall, or other similar object up to a depth of one foot per level y a width sufficient to allow a man-sized creature to pass through.
 At fourth level this ability improves to affect even a stone wall y at seventh it can affect even a metal wall or solid iron door.
 The blow is useless against a target that can move, but against an immobilized creature the attack does 1d12 damage per personaje level.
@@ -2464,9 +2464,9 @@ Your Golpear habilidad does not add to the damage done by these weapons, however
 
 Unobtrusive Step: You not only possess a considerable habilidad for disguise y obfuscation, you can become extremely hard to detect.
 
-Once per escena, you may Commit Effort for the day as an Instantánea action to reroll a failed Sigilo prueba de habilidad or prueba de habilidad related to impersonating someone else.
+Once per escena, you may Commit Effort for the día as an Instantánea action to reroll a failed Sigilo prueba de habilidad or prueba de habilidad related to impersonating someone else.
 
-#### Parciales Experto / Parciales Vowed
+#### Parciales Experto / Parciales Juramentado
 
 | Level | Hit Dice | Attack Bonus | Foco Picks          |
 | ----- | -------- | ------------ | ------------------- |
@@ -2481,7 +2481,7 @@ Once per escena, you may Commit Effort for the day as an Instantánea action to 
 | 9     | 9d6      | +4           |                     |
 | 10    | 10d6     | +5           | +1 Any              |
 
-#### Parciales Mago / Parciales Vowed
+#### Parciales Mago / Parciales Juramentado
 
 | Level | Hit Dice | Attack Bonus | Foco Picks |
 | ----- | -------- | ------------ | ---------- |
@@ -2496,7 +2496,7 @@ Once per escena, you may Commit Effort for the day as an Instantánea action to 
 | 9     | 9d6-9    | +1           |            |
 | 10    | 10d6-10  | +2           | +1 Any     |
 
-#### Parciales Warrior / Parciales Vowed
+#### Parciales Warrior / Parciales Juramentado
 
 | Level | Hit Dice | Attack Bonus | Foco Picks          |
 | ----- | -------- | ------------ | ------------------- |
@@ -2511,7 +2511,7 @@ Once per escena, you may Commit Effort for the day as an Instantánea action to 
 | 9     | 9d6+18   | +6           |                     |
 | 10    | 10d6+20  | +7           | +1 Any              |
 
-#### Vowed Artes y Unarmed Abilities
+#### Juramentado Artes y Unarmed Abilities
 
 | Level | Golpear Hit Bonus | Golpear Damage | Golpear Shock | Artes Gained at This Level                              |
 | ----- | ----------------- | -------------- | ------------- | ------------------------------------------------------- |
@@ -2627,7 +2627,7 @@ An Adventurer who is a standard partial Experto/partial Wise does get these perk
 All Wise gain level-0 in a bonus habilidad appropriate to their concept, be it Pray, Know, Magic, Survive, or some other habilidad that makes sense to the GM.
 
 The Wise do not use Effort.
-All of their artes are either constantly in effect or can be used under particular circumstances or a particular number of times each day.
+All of their artes are either constantly in effect or can be used under particular circumstances or a particular number of times each día.
 
 The artes the Wise learn are generally fixed by their concept y role.
 A mundane priest will learn certain artes as they advance in level, while a witch or an oracular seer will learn others.
@@ -2650,13 +2650,13 @@ You can get audiences with them with minimal effort.
 Once per game session, get a favor from them that would not particularly inconvenience them to grant.
 
 Erudite: You are uncommonly learned.
-Once per day, reroll a failed prueba de habilidad related to intellectual pursuits or things a scholar would know about.
+Once per día, reroll a failed prueba de habilidad related to intellectual pursuits or things a scholar would know about.
 
 Folk-Friend: Commoners y other lower-class natives consider you a useful healer y helper.
-Once per day, get a modest favor from a commoner who doesn't hate you in exchange for a blessing or bit of advice.
+Once per día, get a modest favor from a commoner who doesn't hate you in exchange for a blessing or bit of advice.
 
 Healer: You are a trained y capable healer.
-Gain a +1 on all Curar pruebas de habilidad; once per day, as an Rápida action, automatically succeed at a prueba de habilidad to stabilize a Herido Mortalmente subject.
+Gain a +1 on all Curar pruebas de habilidad; once per día, as an Rápida action, automatically succeed at a prueba de habilidad to stabilize a Herido Mortalmente subject.
 
 Holy Sanctity: You are honored y respected by most in this region.
 
@@ -2678,7 +2678,7 @@ On a failure, they may give any answer they wish.
 The same or substantially same question may not be asked twice with this art.
 
 Deliver Oracle: A petitioner asks about the outcome of a particular course of action.
-The diviner then spends a day in various rituals, seeking an oracular answer.
+The diviner then spends a día in various rituals, seeking an oracular answer.
 At the end, the GM makes a secret Sab/
 Magic prueba de habilidad.
 If the prueba de habilidad beats difficulty 8, an oracular sentence with some truth in it is produced.
@@ -2693,25 +2693,25 @@ The GM makes a secret Sab/Magic prueba de habilidad against a difficulty of 8 to
 something in the same village is 8, something a mile or more away is 11, y something more than five miles away is undetectable.
 If the check is successful, the diviner gets an impression of the direction the object is in.
 On a failure, roll 1d12 y use it as a clock face to give a random direction.
-This art can be used once per day.
+This art can be used once per día.
 
 Read Omens: A petitioner proposes a course of action to the PC.
 
-After a escena-long ritual involving at least 10 sp worth of livestock or sacrificial material, the GM makes a secret Sab/Magic prueba de habilidad against difficulty 10.
+After a escena-long ritual involving at least 10 pp worth of livestock or sacrificial material, the GM makes a secret Sab/Magic prueba de habilidad against difficulty 10.
 On a success, the PC gets an impression of whether the course of action will lead to success or failure, as the GM thinks most likely.
 On a failure, the GM gives a random result.
 
-Multiplying the ritual costs by 10 adds +1 to the prueba de habilidad, thus, a sacrifice of 1,000 sp worth of livestock gets a +2 on the check.
+Multiplying the ritual costs by 10 adds +1 to the prueba de habilidad, thus, a sacrifice of 1,000 pp worth of livestock gets a +2 on the check.
 The same course of action cannot be divined more than once a month.
 
 ##### Curses y Blessings
 
 The bringing of fortune or ill fate is not a trivial thing.
-A given creature can be cursed or blessed by one of these artes only once a day.
+A given creature can be cursed or blessed by one of these artes only once a día.
 
 Auspicious Undertaking: As a Acción Principal, bless a particular plan or undertaking currently sought by the target.
 During the plan's execution or while seeking the desired end, the blessed subject can reroll one failed prueba de habilidad or one missed hit roll.
-The blessing lasts until it is used, the plan is finished, or one day per caster level has passed.
+The blessing lasts until it is used, the plan is finished, or one día per caster level has passed.
 Only one plan can be blessed at a time.
 
 Evil Eye: This art improves your curse y blessing artes.
@@ -2725,7 +2725,7 @@ The curse lasts until the next relevant prueba de habilidad.
 
 Luck Blessing: As a Acción Principal, confer a blessing on a visible target.
 
-The next prueba de habilidad they make that day will have a +1 bonus.
+The next prueba de habilidad they make that día will have a +1 bonus.
 Only one luck blessing can be in place for a creature at a time.
 
 War Curse: As a Acción Principal, curse a visible enemy.
@@ -2818,7 +2818,7 @@ Others might be added to support particular campaigns.
 You are keenly aware of your surroundings y virtually impossible to take unaware.
 
 Level 1: Gain Descubrir as a bonus habilidad.
-You cannot be surprised, nor can others use the Execution Attack option on you.
+You cannot be surprised, nor can others use the Ataque de Ejecución option on you.
 If the GM rolls iniciativa by sides, you can add a +1 bonus to your side's iniciativa roll, though multiple Alert PJs don't stack this bonus.
 If you roll iniciativa individually, you can roll it twice y take the better result.
 
@@ -2850,7 +2850,7 @@ Gain a +1 bonus to hit with all thrown or melee attacks.
 #### Artesano
 
 You have remarkable gifts as a crafter y can often improvise techniques even in fields unrelated to your usual background.
-You are able to create mods for equipment even if you are not an Experto.
+You are able to create mods for equipo even if you are not an Experto.
 
 Level 1: Gain Fabricar as a bonus habilidad.
 Your Fabricar habilidad is treated as one level higher, up to a maximum of 5, for purposes of crafting y maintaining mods.
@@ -2863,14 +2863,14 @@ You automatically succeed at any attempt to build masterwork gear, y once per mo
 
 #### Assassin
 
-You are practiced at sudden murder, y have certain advantages in carrying out an Execution Attack.
+You are practiced at sudden murder, y have certain advantages in carrying out an Ataque de Ejecución.
 
 Level 1: Gain Sigilo as a bonus habilidad.
 You can conceal an object no larger than a knife from anything less invasive than a strip search.
 You can draw or produce this object as an Rápida action, y your point-blank thrown or melee attacks made during a sorpresa ronda with it cannot miss the target.
 
-Level 2: You can take a Acción de Movimiento on the same ronda as you make an Execution Attack, closing rapidly with a target before you attack.
-You may split this Acción de Movimiento when making an Execution Attack, taking part of it before you murder your target y part of it afterwards.
+Level 2: You can take a Acción de Movimiento on the same ronda as you make an Ataque de Ejecución, closing rapidly with a target before you attack.
+You may split this Acción de Movimiento when making an Ataque de Ejecución, taking part of it before you murder your target y part of it afterwards.
 This movement happens too quickly to alert a victim or to be hindered by bodyguards.
 
 #### Authority
@@ -2881,7 +2881,7 @@ Where this Foco refers to followers, it means PNJs who have voluntarily chosen t
 PJs never count as followers.
 
 Level 1: Gain Lead as a bonus habilidad.
-Once per day, you can make a request from an PNJ who is not openly hostile to you, rolling a Cha/Lead prueba de habilidad at a difficulty of the PNJ's Moral score.
+Once per día, you can make a request from an PNJ who is not openly hostile to you, rolling a Cha/Lead prueba de habilidad at a difficulty of the PNJ's Moral score.
 If you succeed, they will comply with the request, provided it is not significantly harmful or extremely uncharacteristic.
 
 Level 2: Those who follow you are fired with confidence.
@@ -2907,7 +2907,7 @@ Wherever you go, you always seem to know somebody useful to your ends.
 
 Level 1: Gain Connect as a bonus habilidad.
 If you've spent at least a week in a not-entirely-hostile location, you'll have built a web of contacts willing to do favors for you that are no more than mildly illegal.
-You can call on one favor per game day y the GM decides how far they'll go for you.
+You can call on one favor per game día y the GM decides how far they'll go for you.
 
 Level 2: Once per game session, if it's not entirely implausible, you meet someone you know who is willing to do modest favors for you.
 You can decide when y where you want to meet this person, but the GM decides who they are y what they can do for you.
@@ -2920,7 +2920,7 @@ You know what to do y say to impress others with the reasonableness of your wish
 Level 1: Gain Connect as a bonus habilidad.
 You can fluently speak all the common languages of your native region y convey at least basic information in the uncommon or esoteric ones.
 You can learn a new language with only a week's practice with a native speaker.
-Once per game day, your polished ways automatically gain a minor favor from an PNJ that would not put them to significant expense or risk, assuming the PNJ isn't hostile to you.
+Once per game día, your polished ways automatically gain a minor favor from an PNJ that would not put them to significant expense or risk, assuming the PNJ isn't hostile to you.
 
 Level 2: Once per game session, reroll a failed social prueba de habilidad as you use your cultural knowledge to push your interlocutor toward the desired result.
 
@@ -2933,7 +2933,7 @@ Level 1: You gain an extra 2 maximum hit points per level.
 This bonus applies retroactively if you take this Foco after first level.
 You automatically stabilize if Herido Mortalmente, provided you have not been incinerated, dismembered, or otherwise torn apart.
 
-Level 2: The first time each day that you are reduced to zero hit points by an injury, you instead survive with one hit point remaining.
+Level 2: The first time each día that you are reduced to zero hit points by an injury, you instead survive with one hit point remaining.
 This ability can't save you from large-scale, instantly-lethal trauma.
 
 #### Deadeye
@@ -2963,7 +2963,7 @@ Finding a marginally possible service, like an assassin willing y able to target
 Level 2: Once per session, target a sentient who is not just then trying to kill you or your allies y make a request of it that it can comprehend.
 If it's at all plausible for it to make such terms, it will do so for a price or favor it thinks you can grant, though the price for significant favors might be dear.
 
-#### Developed Attribute
+#### Developed Atributo
 
 Your hero has a remarkable degree of development to one or more of their attributes.
 This may be derived from an eldritch bloodline, native brilliance, or sheer, stubborn determination.
@@ -2982,7 +2982,7 @@ Level 1: Gain Convince as a bonus habilidad.
 You speak all the languages common to your region of the world y can learn new ones to a workable level in a week, becoming fluent in a month.
 Reroll 1s on any prueba de habilidad dice related to negotiation or diplomacy.
 
-Level 2: Once per day, silently consecrate a bargain; the target must make a Mental save to break the deal unless their life or something they love as much is imperiled by it.
+Level 2: Once per día, silently consecrate a bargain; the target must make a Mental save to break the deal unless their life or something they love as much is imperiled by it.
 Most PNJs won't even try to break it.
 The deal must be for something specific y time-limited, y not an open-ended bargain.
 
@@ -3026,7 +3026,7 @@ The benefits of this Foco don't stack with armor, though Destreza or shield modi
 
 Level 1: You have an innate Clase de Armadura of 15 plus half your personaje level, rounded up.
 
-Level 2: Once per day, as an Instantánea action, you can shrug off any single weapon attack or physical trauma inflicted by a foe.
+Level 2: Once per día, as an Instantánea action, you can shrug off any single weapon attack or physical trauma inflicted by a foe.
 Environmental damage, falling damage, or other harm that couldn't be forfended by strong armor cannot be resisted this way.
 
 #### Impostor
@@ -3040,7 +3040,7 @@ Create one false identity of no great social importance; you can flawlessly pret
 You can change this identity with a week's worth of effort in building a new one.
 
 Level 2: You can alter your clothing y armor such that a single Acción Principal lets you swap between any of three chosen appearances.
-In addition to your original false identity, you can establish a new false identity in each city or significant community you spend at least a day in.
+In addition to your original false identity, you can establish a new false identity in each city or significant community you spend at least a día in.
 
 #### Lucky
 
@@ -3062,9 +3062,9 @@ This Foco cannot be taken by Mages or Parciales Mages.
 
 Level 1: You y all allies within twenty feet gain a +2 bonus to all tiradas de salvación against magical effects.
 As an Rápida action, you can feel the presence or use of magic within twenty feet of you, though you can't discern details about it or the specific source.
-The first failed tirada de salvación against a magical effect you suffer in a day is turned into a success.
+The first failed tirada de salvación against a magical effect you suffer in a día is turned into a success.
 
-Level 2: Once per day, as an Instantánea action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn't normally allow a tirada de salvación.
+Level 2: Once per día, as an Instantánea action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn't normally allow a tirada de salvación.
 Immunity to a persistent effect lasts for the rest of the escena.
 
 #### Poisoner
@@ -3082,7 +3082,7 @@ Your incapacitating or hallucinogenic toxins do the same, but those reduced to z
 
 Level 2: You are immune to poison y can apply a universal antidote to any poisoned ally as a Acción Principal.
 Any attempt to detect or save against your poisons takes a penalty equal to your Curar habilidad.
-Your ingested poisons count as an Execution Attack against unsuspecting targets, with Curar used for the Física tirada de salvación penalty y 1d6 damage per level done on a success.
+Your ingested poisons count as an Ataque de Ejecución against unsuspecting targets, with Curar used for the Física tirada de salvación penalty y 1d6 damage per level done on a success.
 Such poisons can be non-lethal at your discretion.
 
 #### Polymath
@@ -3102,7 +3102,7 @@ Anyone with any level of Montar habilidad can fight competently on horseback or 
 You have an almost supernatural bond with your steeds, however, y can push them beyond normal limits.
 
 Level 1: Gain Montar as a bonus habilidad.
-Your steeds all count as Moral 12 in battle, use your CA if it's higher than theirs, y can travel 50% further in a day than normal for their kind.
+Your steeds all count as Moral 12 in battle, use your CA if it's higher than theirs, y can travel 50% further in a día than normal for their kind.
 You can intuitively communicate with riding beasts, gaining as much information from it as its intellect can convey.
 
 Level 2: Once per escena, negate a successful attack against your steed as an Instantánea action.
@@ -3124,10 +3124,10 @@ As usual, regular hits never do less damage than this Shock would do on a miss.
 #### Sniper's Eye
 
 You are an expert at placing a thrown knife or arrow on an unsuspecting target.
-These special benefits only apply when making an Execution Attack with a bow, arcabuz, or thrown weapon.
+These special benefits only apply when making an Ataque de Ejecución with a bow, arcabuz, or thrown weapon.
 
 Level 1: Gain Disparar as a bonus habilidad.
-When making a prueba de habilidad for a ranged Execution Attack or target shooting, roll 3d6 y drop the lowest die.
+When making a prueba de habilidad for a ranged Ataque de Ejecución or target shooting, roll 3d6 y drop the lowest die.
 
 Level 2: You don't miss ranged Execution Attacks.
 A target hit by one takes a -4 penalty on the Física tirada de salvación to avoid immediate mortal injury.
@@ -3165,7 +3165,7 @@ It has the traits y talentos of an entity created by Calculation of the Evoked S
 It cannot carry objects with it during its vanishment aside from the clothing natural to its shape.
 It has no need for food, water, or sleep.
 If killed, it vanishes y cannot be re-summoned for 24 hours.
-Once per day, it can refresh one point of Committed Effort for you.
+Once per día, it can refresh one point of Committed Effort for you.
 
 Level 2: Pick two benefits from the list below for your familiar.
 This level may be taken more than once, adding two additional options each time.
@@ -3328,10 +3328,10 @@ Obtaining native fluency is at the GM's discretion.
 
 ### Choose Starting Equipo
 
-You can either pick a starting equipment package provided by your GM, or roll 3d6 x 10 to find out your starting piezas de plata to spend on gear or keep in your pocket.
-The starting packages will generally give you more equipment than the random roll would, but items can be swapped at the GM's discretion.
+You can either pick a starting equipo package provided by your GM, or roll 3d6 x 10 to find out your starting piezas de plata to spend on gear or keep in your pocket.
+The starting packages will generally give you more equipo than the random roll would, but items can be swapped at the GM's discretion.
 
-### Record Weapon y Armor Statistics
+### Record Arma y Armadura Statistics
 
 Now that you know what kind of weaponry or armor your hero has, take a moment to record the total hit bonus for your weaponry.
 This is equal to your base attack bonus plus your relevant Cortar, Disparar, or Golpear habilidad, y the relevant attribute modifier for the weapon given on the weapon table.

@@ -143,7 +143,7 @@ The party can use some or all of these techniques for making their ambition more
 
 They can spend money.
 Sometimes a problem can be solved by throwing enough money at it, either by paying off troublesome opponents, constructing useful facilities or installations, or hiring enough help to push the cause through.
-Money is often useful, but it eventually begets diminishing returns; once everything useful has been bought, additional coinage brings little result.
+Dinero is often useful, but it eventually begets diminishing returns; once everything useful has been bought, additional coinage brings little result.
 
 The adjacent table shows how much a point of Renown dedicated to the project costs.
 The first few points come relatively cheaply, but after that the price increases rapidly.
@@ -176,21 +176,21 @@ This bonus is determined by the GM.
 The easiest way for the GM to pick the proper amount for the award is to privately estimate how many such adventures their goal is worth y then award Renown accordingly.
 Thus, if the GM thinks that three adventures like this one is as much focus y effort as the group should have to spend toward accomplishing their aim, then each adventure will decrease the goal's difficulty by one-third.
 
-Adventuring is by far the most efficient way to accomplish a group's goals, assuming they can come up with adventures that are relevant.
+Aventura is by far the most efficient way to accomplish a group's goals, assuming they can come up with adventures that are relevant.
 This is intentional; a goal that gives the GM an easy supply of adventuring grist is a genuine contribution to the game.
 The more adventures that a GM gets out of PC ambitions, the easier it will be to prepare for the game y ensure the players are involved in the campaign.
 
-| Renown Bought    | Cost in Silver Pieces per Point |
-| ---------------- | ------------------------------- |
-| First 1-4 points | 500 per point                   |
-| Next 4 points    | 2,000 per point                 |
-| Next 8 points    | 4,000 per point                 |
-| Next 16 points   | 8,000 per point                 |
-| Next 32 points   | 16,000 per point                |
-| Next 64 points   | 32,000 per point                |
-| Further points   | Prohibitively expensive         |
+| Renown Bought    | Coste in Silver Pieces per Point |
+| ---------------- | -------------------------------- |
+| First 1-4 points | 500 per point                    |
+| Next 4 points    | 2,000 per point                  |
+| Next 8 points    | 4,000 per point                  |
+| Next 16 points   | 8,000 per point                  |
+| Next 32 points   | 16,000 per point                 |
+| Next 64 points   | 32,000 per point                 |
+| Further points   | Prohibitively expensive          |
 
-For example, purchasing 14 points of Renown would cost 2,000 for the first four, 8,000 for the next four, y 24,000 for the next six, for 34,000 sp total.
+For example, purchasing 14 points of Renown would cost 2,000 for the first four, 8,000 for the next four, y 24,000 for the next six, for 34,000 pp total.
 
 ## Achieving the Goal
 
@@ -212,7 +212,7 @@ The kingdom might outlaw slavery, but if not all the opposition was defeated the
 Solving these remnant problems might require their own projects or adventures.
 
 For magical, impossible, or truly epic changes, the GM might oblige the PJs to face some culminating adventure or challenge before their ambition becomes real.
-They might've marshaled enough force y enough allies to depose the wicked king, but now the day of reckoning has come y they must face the tyrant y his elite guard in a pitched battle within the capital city.
+They might've marshaled enough force y enough allies to depose the wicked king, but now the día of reckoning has come y they must face the tyrant y his elite guard in a pitched battle within the capital city.
 Some heroic changes might require several such adventures, with failure meaning that their efforts somehow fall short of complete success.
 If the tyrant is not slain, he might escape into exile to foment further trouble, or he might flee to a province he still can control.
 

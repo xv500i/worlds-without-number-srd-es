@@ -15,9 +15,9 @@ Wealth is measured from 1 to 8 y shows the faction's general prosperity, materia
 Low Wealth means the faction is poor, disinterested in material goods, or spendthrift with what they have, while high Wealth factions are rich y familiar with using money y goods as tools for success.
 
 Magic measures the amount of magical resources available to the faction.
-"None" is for factions that have no meaningful access to magic.
+"Ninguno" is for factions that have no meaningful access to magic.
 "Low" is for those factions that have at best a few trained mages or small stores of magical goods.
-"Medium" is for a faction where there is an established source of magical power for the faction, either as a sub-group of cooperative mages, a magical academy, a tradition of sorcery in the faction, or some other institutionalized aid.
+"Media" is for a faction where there is an established source of magical power for the faction, either as a sub-group of cooperative mages, a magical academy, a tradition of sorcery in the faction, or some other institutionalized aid.
 
 "High" magic is reserved for those factions that have a strong focus on wielding magical power, most fitting for a faction that represents a magical order.
 
@@ -87,7 +87,7 @@ Assets with the Stealth quality are also not limited by this, y can move freely 
 Stealthed Assets cannot be Attacked by other Assets until they lose the Stealth quality.
 This happens when they are discovered by certain special Assets or when the Stealthed Asset Attacks something.
 
-## Attribute Checks
+## Atributo Checks
 
 Some acciones, such as Attack, require an attribute check between factions, such as Force versus Cunning, or Wealth versus Force.
 Other special Asset talentos sometimes call for attribute checks as well.
@@ -104,7 +104,7 @@ In this case, the dice are rolled y the highest of them are used.
 These are merely some possibilities.
 The GM may devise others to suit their needs.
 
-Antimagical: Assets that require Medium or higher Magic to purchase roll all attribute checks twice against this faction during an Attack y take the worst roll.
+Antimagical: Assets that require Media or higher Magic to purchase roll all attribute checks twice against this faction during an Attack y take the worst roll.
 
 Concealed: All Assets the faction purchases enter play with the Stealth quality.
 
@@ -210,7 +210,7 @@ The faction's Magic rating is whatever the GM thinks suitable.
 
 For a small faction, give them a 3 or 4 in their best attribute, a 2 or 3 in their second-best, y a 1 or 2 in their worst quality.
 
-Medium factions should assign 5 or 6 to their best attribute, 4 or 5 to their second-best, y 2 or 3 to their worst.
+Media factions should assign 5 or 6 to their best attribute, 4 or 5 to their second-best, y 2 or 3 to their worst.
 They should have two Assets in their primary attribute y two others among the other two.
 
 Large factions should assign 7 or 8 to their strongest attribute, 6 or 7 to their second-best attribute, y 3 or 4 to their worst quality.
@@ -218,16 +218,16 @@ Large factions should assign 7 or 8 to their strongest attribute, 6 or 7 to thei
 They should have four Assets in their primary attribute, y four others spread among the other two.
 Their Magic rating will depend on whatever you think is appropriate for their scale, but remember that it's harder to concentrate effective magical resources when dealing with a whole province or nation than it is to enchant a single city-state or magical institution.
 
-| Attribute Rating | Faction XP Cost to Purchase | Hit Point Value |
-| ---------------- | --------------------------- | --------------- |
-| 1                | -                           | 1               |
-| 2                | 2                           | 2               |
-| 3                | 4                           | 4               |
-| 4                | 6                           | 6               |
-| 5                | 9                           | 9               |
-| 6                | 12                          | 12              |
-| 7                | 16                          | 16              |
-| 8                | 20                          | 20              |
+| Atributo Rating | Faction XP Coste to Purchase | Hit Point Value |
+| --------------- | ---------------------------- | --------------- |
+| 1               | -                            | 1               |
+| 2               | 2                            | 2               |
+| 3               | 4                            | 4               |
+| 4               | 6                            | 6               |
+| 5               | 9                            | 9               |
+| 6               | 12                           | 12              |
+| 7               | 16                           | 16              |
+| 8               | 20                           | 20              |
 
 To determine a faction's maximum hit points, use the adjacent table.
 Thus, one with a Force of 3, a Wealth of 5, y a Cunning of 2 would have hit points equal to 4 plus 9 plus 2, or 15 total.
@@ -291,7 +291,7 @@ Blackmail: When a Blackmail asset is in a location, hostile factions can't roll 
 Court Patronage: Powerful nobles or officials are appointing their agents to useful posts of profit.
 A Court Patronage Asset automatically grants 1 Treasure to its owning faction each turn.
 
-Covert Transport: As a free action once per turn, the faction can pay 1 Treasure y move any Cunning or Wealth Asset at the same location as the Covert Transport.
+Covert Transporte: As a free action once per turn, the faction can pay 1 Treasure y move any Cunning or Wealth Asset at the same location as the Covert Transporte.
 The transported Asset gains the Stealth quality until it performs some action or is otherwise utilized by the faction.
 
 Cryptomancers: In place of an Attack action, they can make a Cunning vs.
@@ -353,7 +353,7 @@ Spymaster: A veteran operative runs a counterintelligence bureau in the area.
 Underground Roads: A well-established network of secret transit extends far around this Asset.
 As a free action, the faction may pay 1 Treasure y move any friendly Asset from a location within one ronda's move of the Underground Roads to a destination within one ronda of the Roads.
 
-Useful Idiots: Hirelings, catspaws, foolish idealists, y other disposable minions are gathered together in this Asset.
+Useful Idiots: Mercenarios, catspaws, foolish idealists, y other disposable minions are gathered together in this Asset.
 If another Asset within one turn's move of the Useful Idiots is struck by an Attack, the faction can instead sacrifice the Useful Idiots to negate the attack.
 
 Only one band of Useful Idiots can be sacrificed on any one turn.
@@ -363,56 +363,56 @@ Whenever another faction moves a Stealthed asset into a location within one move
 Cunning attack against the owning faction.
 On a success, the intruding Asset loses its Stealth after it completes the move.
 
-| Cunning 1 Asset | Cost | HP  | Magic  | Attack            | Counter    | Qualities       |
-| --------------- | ---- | --- | ------ | ----------------- | ---------- | --------------- |
-| Informers       | 2    | 3   | None   | C v. C/Special    | None       | Subtle, Special |
-| Petty Seers     | 2    | 2   | Medium | None              | 1d6 damage | Subtle          |
-| Smugglers       | 2    | 4   | None   | C v. W/1d4 damage | None       | Subtle, Action  |
-| Useful Idiots   | 1    | 2   | None   | None              | None       | Subtle, Special |
+| Cunning 1 Asset | Coste | HP  | Magic   | Attack            | Counter    | Qualities       |
+| --------------- | ----- | --- | ------- | ----------------- | ---------- | --------------- |
+| Informers       | 2     | 3   | Ninguno | C v. C/Special    | Ninguno    | Subtle, Special |
+| Petty Seers     | 2     | 2   | Media   | Ninguno           | 1d6 damage | Subtle          |
+| Smugglers       | 2     | 4   | Ninguno | C v. W/1d4 damage | Ninguno    | Subtle, Action  |
+| Useful Idiots   | 1     | 2   | Ninguno | Ninguno           | Ninguno    | Subtle, Special |
 
-| Cunning 2 Asset | Cost | HP  | Magic | Attack            | Counter | Qualities       |
-| --------------- | ---- | --- | ----- | ----------------- | ------- | --------------- |
-| Blackmail       | 4    | 4   | None  | C v. C/1d4 damage | None    | Subtle, Special |
-| Dancing Girls   | 4    | 3   | None  | C v. W/2d4 damage | None    | Subtle, Special |
-| Hired Friends   | 4    | 4   | None  | C v. C/1d6 damage | None    | Subtle, Special |
-| Saboteurs       | 5    | 6   | None  | C v. W/2d4 damage | None    | Subtle, Special |
+| Cunning 2 Asset | Coste | HP  | Magic   | Attack            | Counter | Qualities       |
+| --------------- | ----- | --- | ------- | ----------------- | ------- | --------------- |
+| Blackmail       | 4     | 4   | Ninguno | C v. C/1d4 damage | Ninguno | Subtle, Special |
+| Dancing Girls   | 4     | 3   | Ninguno | C v. W/2d4 damage | Ninguno | Subtle, Special |
+| Hired Friends   | 4     | 4   | Ninguno | C v. C/1d6 damage | Ninguno | Subtle, Special |
+| Saboteurs       | 5     | 6   | Ninguno | C v. W/2d4 damage | Ninguno | Subtle, Special |
 
-| Cunning 3 Asset     | Cost | HP  | Magic  | Attack            | Counter    | Qualities       |
-| ------------------- | ---- | --- | ------ | ----------------- | ---------- | --------------- |
-| Bewitching Charmer  | 6    | 4   | Low    | C v. C/Special    | None       | Subtle, Special |
-| Covert Transport    | 8    | 4   | None   | None              | None       | Subtle, Special |
-| Occult Infiltrators | 6    | 4   | Medium | C v. C/2d6 damage | None       | Subtle, Special |
-| Spymaster           | 8    | 4   | None   | C v. C/1d6 damage | 2d6 damage | Subtle          |
+| Cunning 3 Asset     | Coste | HP  | Magic   | Attack            | Counter    | Qualities       |
+| ------------------- | ----- | --- | ------- | ----------------- | ---------- | --------------- |
+| Bewitching Charmer  | 6     | 4   | Low     | C v. C/Special    | Ninguno    | Subtle, Special |
+| Covert Transporte   | 8     | 4   | Ninguno | Ninguno           | Ninguno    | Subtle, Special |
+| Occult Infiltrators | 6     | 4   | Media   | C v. C/2d6 damage | Ninguno    | Subtle, Special |
+| Spymaster           | 8     | 4   | Ninguno | C v. C/1d6 damage | 2d6 damage | Subtle          |
 
-| Cunning 4 Asset  | Cost | HP  | Magic | Attack            | Counter    | Qualities       |
-| ---------------- | ---- | --- | ----- | ----------------- | ---------- | --------------- |
-| Court Patronage  | 8    | 8   | None  | C v. C/1d6 damage | 1d6 damage | Subtle, Special |
-| Idealistic Thugs | 8    | 12  | None  | C v. F/1d6 damage | 1d6 damage | Subtle          |
-| Seditionists     | 12   | 8   | None  | Special           | None       | Subtle          |
-| Vigilant Agents  | 12   | 8   | None  | None              | 1d4 damage | Subtle, Special |
+| Cunning 4 Asset  | Coste | HP  | Magic   | Attack            | Counter    | Qualities       |
+| ---------------- | ----- | --- | ------- | ----------------- | ---------- | --------------- |
+| Court Patronage  | 8     | 8   | Ninguno | C v. C/1d6 damage | 1d6 damage | Subtle, Special |
+| Idealistic Thugs | 8     | 12  | Ninguno | C v. F/1d6 damage | 1d6 damage | Subtle          |
+| Seditionists     | 12    | 8   | Ninguno | Special           | Ninguno    | Subtle          |
+| Vigilant Agents  | 12    | 8   | Ninguno | Ninguno           | 1d4 damage | Subtle, Special |
 
-| Cunning 5 Asset    | Cost | HP  | Magic  | Attack            | Counter | Qualities       |
-| ------------------ | ---- | --- | ------ | ----------------- | ------- | --------------- |
-| Cryptomancers      | 14   | 6   | Low    | C v. C/Special    | None    | Subtle          |
-| Organization Moles | 8    | 10  | None   | C v. C/2d6 damage | None    | Subtle          |
-| Shapeshifters      | 14   | 8   | Medium | C v. C/2d6 damage | None    | Subtle, Special |
+| Cunning 5 Asset    | Coste | HP  | Magic   | Attack            | Counter | Qualities       |
+| ------------------ | ----- | --- | ------- | ----------------- | ------- | --------------- |
+| Cryptomancers      | 14    | 6   | Low     | C v. C/Special    | Ninguno | Subtle          |
+| Organization Moles | 8     | 10  | Ninguno | C v. C/2d6 damage | Ninguno | Subtle          |
+| Shapeshifters      | 14    | 8   | Media   | C v. C/2d6 damage | Ninguno | Subtle, Special |
 
-| Cunning 6 Asset       | Cost | HP  | Magic | Attack            | Counter    | Qualities       |
-| --------------------- | ---- | --- | ----- | ----------------- | ---------- | --------------- |
-| Interrupted Logistics | 20   | 10  | None  | None              | None       | Subtle, Special |
-| Prophet               | 20   | 10  | None  | C v. C/2d8 damage | 1d8 damage | Subtle          |
-| Underground Roads     | 18   | 15  | None  | None              | None       | Subtle, Special |
+| Cunning 6 Asset       | Coste | HP  | Magic   | Attack            | Counter    | Qualities       |
+| --------------------- | ----- | --- | ------- | ----------------- | ---------- | --------------- |
+| Interrupted Logistics | 20    | 10  | Ninguno | Ninguno           | Ninguno    | Subtle, Special |
+| Prophet               | 20    | 10  | Ninguno | C v. C/2d8 damage | 1d8 damage | Subtle          |
+| Underground Roads     | 18    | 15  | Ninguno | Ninguno           | Ninguno    | Subtle, Special |
 
-| Cunning 7 Asset   | Cost | HP  | Magic  | Attack            | Counter    | Qualities       |
-| ----------------- | ---- | --- | ------ | ----------------- | ---------- | --------------- |
-| Experto Treachery | 10   | 5   | None   | C v. C/Special    | None       | Subtle          |
-| Mindbenders       | 20   | 10  | Medium | None              | 2d8 damage | Subtle          |
-| Popular Movement  | 25   | 16  | None   | C v. C/2d6 damage | 1d6 damage | Subtle, Special |
+| Cunning 7 Asset   | Coste | HP  | Magic   | Attack            | Counter    | Qualities       |
+| ----------------- | ----- | --- | ------- | ----------------- | ---------- | --------------- |
+| Experto Treachery | 10    | 5   | Ninguno | C v. C/Special    | Ninguno    | Subtle          |
+| Mindbenders       | 20    | 10  | Media   | Ninguno           | 2d8 damage | Subtle          |
+| Popular Movement  | 25    | 16  | Ninguno | C v. C/2d6 damage | 1d6 damage | Subtle, Special |
 
-| Cunning 8 Asset  | Cost | HP  | Magic | Attack | Counter     | Qualities       |
-| ---------------- | ---- | --- | ----- | ------ | ----------- | --------------- |
-| Just As Planned  | 40   | 15  | None  | None   | 1d10 damage | Subtle, Special |
-| Omniscient Seers | 30   | 10  | High  | None   | 1d8 damage  | Subtle, Special |
+| Cunning 8 Asset  | Coste | HP  | Magic   | Attack  | Counter     | Qualities       |
+| ---------------- | ----- | --- | ------- | ------- | ----------- | --------------- |
+| Just As Planned  | 40    | 15  | Ninguno | Ninguno | 1d10 damage | Subtle, Special |
+| Omniscient Seers | 30    | 10  | High    | Ninguno | 1d8 damage  | Subtle, Special |
 
 ## Force Assets
 
@@ -455,9 +455,9 @@ Once per faction turn, as a free action, the Asset can repair 2 hit points of da
 Military Roads: The faction has established a network of roads with a logistical stockpile at this Asset's location.
 As a consequence, once per faction turn, the faction can move any one Asset from any location within its reach to any other location within its reach at a cost of 1 Treasure.
 
-Military Transport: A branch of skilled teamsters, transport ships, road-building crews, or other logistical facilitators is in service to the faction.
+Military Transporte: A branch of skilled teamsters, transport ships, road-building crews, or other logistical facilitators is in service to the faction.
 As a free action once per faction turn, it can bring an allied Asset to its location, provided they're within one turn's movement range, or move an allied Asset from its own location to a target also within a turn's move.
-Multiple Military Transport assets can chain this movement over long distances.
+Multiple Military Transporte assets can chain this movement over long distances.
 
 Purity Rites: A rigorous program of regular mental inspection y counterintelligence measures has been undertaken by the faction.
 
@@ -493,56 +493,56 @@ Such forces are few y elusive enough to evade easy detection.
 
 Witch Hunters: Certain personnel are trained in sniffing out traitors y spies in the organization, along with the presence of hostile magic or hidden spellcraft.
 
-| Force 1 Asset        | Cost | HP  | Magic  | Attack              | Counter      | Qualities |
-| -------------------- | ---- | --- | ------ | ------------------- | ------------ | --------- |
-| Fearful Intimidation | 2    | 4   | None   | None                | 1d4 damage   |           |
-| Local Guard          | 3    | 4   | None   | F v. F/1d3+1 damage | 1d4+1 damage |           |
-| Summoned Hunter      | 4    | 4   | Medium | C v. F/1d6 damage   | None         | Subtle    |
-| Thugs                | 2    | 1   | None   | F v. C/1d6 damage   | None         | Subtle    |
+| Force 1 Asset        | Coste | HP  | Magic   | Attack              | Counter      | Qualities |
+| -------------------- | ----- | --- | ------- | ------------------- | ------------ | --------- |
+| Fearful Intimidation | 2     | 4   | Ninguno | Ninguno             | 1d4 damage   |           |
+| Local Guard          | 3     | 4   | Ninguno | F v. F/1d3+1 damage | 1d4+1 damage |           |
+| Summoned Hunter      | 4     | 4   | Media   | C v. F/1d6 damage   | Ninguno      | Subtle    |
+| Thugs                | 2     | 1   | Ninguno | F v. C/1d6 damage   | Ninguno      | Subtle    |
 
-| Force 2 Asset      | Cost | HP  | Magic | Attack              | Counter      | Qualities |
-| ------------------ | ---- | --- | ----- | ------------------- | ------------ | --------- |
-| Guerrilla Populace | 6    | 4   | None  | F v. F/1d4+1 damage | None         |           |
-| Military Transport | 4    | 6   | None  | None                | None         | Action    |
-| Reserve Corps      | 4    | 4   | None  | F v. F/1d6 damage   | 1d6 damage   |           |
-| Scouts             | 5    | 5   | None  | F v. F/2d4 damage   | 1d4+1 damage | Subtle    |
+| Force 2 Asset       | Coste | HP  | Magic   | Attack              | Counter      | Qualities |
+| ------------------- | ----- | --- | ------- | ------------------- | ------------ | --------- |
+| Guerrilla Populace  | 6     | 4   | Ninguno | F v. F/1d4+1 damage | Ninguno      |           |
+| Military Transporte | 4     | 6   | Ninguno | Ninguno             | Ninguno      | Action    |
+| Reserve Corps       | 4     | 4   | Ninguno | F v. F/1d6 damage   | 1d6 damage   |           |
+| Scouts              | 5     | 5   | Ninguno | F v. F/2d4 damage   | 1d4+1 damage | Subtle    |
 
-| Force 3 Asset    | Cost | HP  | Magic  | Attack              | Counter    | Qualities |
-| ---------------- | ---- | --- | ------ | ------------------- | ---------- | --------- |
-| Enchanted Elites | 8    | 6   | Medium | F v. F/1d10 damage  | 1d6 damage | Subtle    |
-| Infantry         | 6    | 6   | None   | F v. F/1d8 damage   | 1d6 damage |           |
-| Temple Fanatics  | 4    | 6   | None   | F v. F/2d6 damage   | 2d6 damage | Special   |
-| Witch Hunters    | 6    | 4   | Low    | C v. C/1d4+1 damage | 1d6 damage |           |
+| Force 3 Asset    | Coste | HP  | Magic   | Attack              | Counter    | Qualities |
+| ---------------- | ----- | --- | ------- | ------------------- | ---------- | --------- |
+| Enchanted Elites | 8     | 6   | Media   | F v. F/1d10 damage  | 1d6 damage | Subtle    |
+| Infantry         | 6     | 6   | Ninguno | F v. F/1d8 damage   | 1d6 damage |           |
+| Temple Fanatics  | 4     | 6   | Ninguno | F v. F/2d6 damage   | 2d6 damage | Special   |
+| Witch Hunters    | 6     | 4   | Low     | C v. C/1d4+1 damage | 1d6 damage |           |
 
-| Force 4 Asset  | Cost | HP  | Magic | Attack            | Counter    | Qualities |
-| -------------- | ---- | --- | ----- | ----------------- | ---------- | --------- |
-| Cavalry        | 8    | 12  | None  | F v. F/2d6 damage | 1d4 damage |           |
-| Military Roads | 10   | 10  | None  | None              | None       | Action    |
-| Vanguard Unit  | 10   | 10  | None  | None              | 1d6 damage | Action    |
-| War Fleet      | 12   | 8   | None  | F v. F/2d6 damage | 1d8 damage | Action    |
+| Force 4 Asset  | Coste | HP  | Magic   | Attack            | Counter    | Qualities |
+| -------------- | ----- | --- | ------- | ----------------- | ---------- | --------- |
+| Cavalry        | 8     | 12  | Ninguno | F v. F/2d6 damage | 1d4 damage |           |
+| Military Roads | 10    | 10  | Ninguno | Ninguno           | Ninguno    | Action    |
+| Vanguard Unit  | 10    | 10  | Ninguno | Ninguno           | 1d6 damage | Action    |
+| War Fleet      | 12    | 8   | Ninguno | F v. F/2d6 damage | 1d8 damage | Action    |
 
-| Force 5 Asset     | Cost | HP  | Magic  | Attack              | Counter    | Qualities       |
-| ----------------- | ---- | --- | ------ | ------------------- | ---------- | --------------- |
-| Demonic Slayer    | 12   | 4   | High   | C v. C/2d6+2 damage | None       | Subtle, Special |
-| Magical Logistics | 14   | 6   | Medium | None                | None       | Special         |
-| Siege Expertos    | 10   | 8   | None   | F v. W/1d6 damage   | 1d6 damage |                 |
+| Force 5 Asset     | Coste | HP  | Magic   | Attack              | Counter    | Qualities       |
+| ----------------- | ----- | --- | ------- | ------------------- | ---------- | --------------- |
+| Demonic Slayer    | 12    | 4   | High    | C v. C/2d6+2 damage | Ninguno    | Subtle, Special |
+| Magical Logistics | 14    | 6   | Media   | Ninguno             | Ninguno    | Special         |
+| Siege Expertos    | 10    | 8   | Ninguno | F v. W/1d6 damage   | 1d6 damage |                 |
 
-| Force 6 Asset         | Cost | HP  | Magic  | Attack               | Counter     | Qualities |
-| --------------------- | ---- | --- | ------ | -------------------- | ----------- | --------- |
-| Fortification Program | 20   | 18  | None   | None                 | 2d6 damage  | Action    |
-| Knights               | 18   | 16  | None   | F v. F/2d8 damage    | 2d6 damage  |           |
-| War Machines          | 25   | 14  | Medium | F v. F/2d10+4 damage | 1d10 damage |           |
+| Force 6 Asset         | Coste | HP  | Magic   | Attack               | Counter     | Qualities |
+| --------------------- | ----- | --- | ------- | -------------------- | ----------- | --------- |
+| Fortification Program | 20    | 18  | Ninguno | Ninguno              | 2d6 damage  | Action    |
+| Knights               | 18    | 16  | Ninguno | F v. F/2d8 damage    | 2d6 damage  |           |
+| War Machines          | 25    | 14  | Media   | F v. F/2d10+4 damage | 1d10 damage |           |
 
-| Force 7 Asset     | Cost | HP  | Magic | Attack              | Counter      | Qualities       |
-| ----------------- | ---- | --- | ----- | ------------------- | ------------ | --------------- |
-| Brilliant General | 25   | 8   | None  | C v. F/1d8 damage   | None         | Subtle, Special |
-| Purity Rites      | 20   | 10  | Low   | None                | 2d8+2 damage | Special         |
-| Warshaped         | 30   | 16  | High  | F v. F/2d8+2 damage | 2d8 damage   | Subtle          |
+| Force 7 Asset     | Coste | HP  | Magic   | Attack              | Counter      | Qualities       |
+| ----------------- | ----- | --- | ------- | ------------------- | ------------ | --------------- |
+| Brilliant General | 25    | 8   | Ninguno | C v. F/1d8 damage   | Ninguno      | Subtle, Special |
+| Purity Rites      | 20    | 10  | Low     | Ninguno             | 2d8+2 damage | Special         |
+| Warshaped         | 30    | 16  | High    | F v. F/2d8+2 damage | 2d8 damage   | Subtle          |
 
-| Force 8 Asset     | Cost | HP  | Magic  | Attack               | Counter       | Qualities |
-| ----------------- | ---- | --- | ------ | -------------------- | ------------- | --------- |
-| Apocalypse Engine | 35   | 20  | Medium | F v. F/3d10+4 damage | None          |           |
-| Invincible Legion | 40   | 30  | None   | F v. F/2d10+4 damage | 2d10+4 damage | Special   |
+| Force 8 Asset     | Coste | HP  | Magic   | Attack               | Counter       | Qualities |
+| ----------------- | ----- | --- | ------- | -------------------- | ------------- | --------- |
+| Apocalypse Engine | 35    | 20  | Media   | F v. F/3d10+4 damage | Ninguno       |           |
+| Invincible Legion | 40    | 30  | Ninguno | F v. F/2d10+4 damage | 2d10+4 damage | Special   |
 
 ## Wealth Assets
 
@@ -619,8 +619,8 @@ On a success, the owning faction must sacrifice Treasure equal to half the targe
 Trade Company: Bold traders undertake potentially lucrative- or catastrophic- new business opportunities.
 As a free action, once per turn, the owner of the Asset may roll accept 1d4 damage done to the Asset in exchange for earning 1d6-1 Treasure points.
 
-Transport Network: A vast array of carters, ships, smugglers, y official caravans are under the faction's control.
-As a free action the Transport Network can spend 1 Treasure to move any friendly Asset within two moves to any location within one move of either the target or the Transport Network.
+Transporte Network: A vast array of carters, ships, smugglers, y official caravans are under the faction's control.
+As a free action the Transporte Network can spend 1 Treasure to move any friendly Asset within two moves to any location within one move of either the target or the Transporte Network.
 
 Usurers: Moneylenders y other proto-bankers ply their trade for the faction.
 For each unit of Usurers owned by a faction, the Treasure cost of buying Assets may be decreased by 2 Treasure, to a minimum of half its cost.
@@ -628,53 +628,53 @@ Each time the Usurers are used for this benefit, they suffer 1d4 damage from pop
 
 Worker Mob: The roughest, most brutal laborers in service with the faction have been quietly organized to sternly discipline the enemies of the group.
 
-| Wealth 1 Asset         | Cost | HP  | Magic | Attack              | Counter      | Qualities       |
-| ---------------------- | ---- | --- | ----- | ------------------- | ------------ | --------------- |
-| Armed Guards           | 1    | 3   | None  | W v. F/1d3 damage   | 1d4 damage   |                 |
-| Cooperative Businesses | 1    | 2   | None  | W v. W/1d4-1 damage | None         | Subtle, Special |
-| Farmers                | 2    | 4   | None  | None                | 1d4 damage   | Action          |
-| Front Merchant         | 2    | 3   | None  | W v. W/1d4 damage   | 1d4-1 damage | Subtle          |
+| Wealth 1 Asset         | Coste | HP  | Magic   | Attack              | Counter      | Qualities       |
+| ---------------------- | ----- | --- | ------- | ------------------- | ------------ | --------------- |
+| Armed Guards           | 1     | 3   | Ninguno | W v. F/1d3 damage   | 1d4 damage   |                 |
+| Cooperative Businesses | 1     | 2   | Ninguno | W v. W/1d4-1 damage | Ninguno      | Subtle, Special |
+| Farmers                | 2     | 4   | Ninguno | Ninguno             | 1d4 damage   | Action          |
+| Front Merchant         | 2     | 3   | Ninguno | W v. W/1d4 damage   | 1d4-1 damage | Subtle          |
 
-| Wealth 2 Asset | Cost | HP  | Magic | Attack              | Counter    | Qualities       |
-| -------------- | ---- | --- | ----- | ------------------- | ---------- | --------------- |
-| Caravan        | 5    | 4   | None  | W v. W/1d4 damage   | None       | Action          |
-| Dragomans      | 4    | 4   | None  | None                | 1d4 damage | Subtle, Special |
-| Pleaders       | 6    | 4   | None  | C v. W/2d4 damage   | 1d6 damage | Special         |
-| Worker Mob     | 4    | 6   | None  | W v. F/1d4+1 damage | 1d4 damage |                 |
+| Wealth 2 Asset | Coste | HP  | Magic   | Attack              | Counter    | Qualities       |
+| -------------- | ----- | --- | ------- | ------------------- | ---------- | --------------- |
+| Caravan        | 5     | 4   | Ninguno | W v. W/1d4 damage   | Ninguno    | Action          |
+| Dragomans      | 4     | 4   | Ninguno | Ninguno             | 1d4 damage | Subtle, Special |
+| Pleaders       | 6     | 4   | Ninguno | C v. W/2d4 damage   | 1d6 damage | Special         |
+| Worker Mob     | 4     | 6   | Ninguno | W v. F/1d4+1 damage | 1d4 damage |                 |
 
-| Wealth 3 Asset     | Cost | HP  | Magic  | Attack              | Counter    | Qualities       |
-| ------------------ | ---- | --- | ------ | ------------------- | ---------- | --------------- |
-| Ancient Mechanisms | 8    | 4   | Medium | None                | None       | Special         |
-| Arcane Laboratory  | 6    | 4   | None   | None                | None       | Special         |
-| Free Company       | 8    | 6   | None   | W v. F/2d4+2 damage | 1d6 damage | Action, Special |
-| Manufactory        | 8    | 4   | None   | None                | 1d4 damage | Action          |
+| Wealth 3 Asset     | Coste | HP  | Magic   | Attack              | Counter    | Qualities       |
+| ------------------ | ----- | --- | ------- | ------------------- | ---------- | --------------- |
+| Ancient Mechanisms | 8     | 4   | Media   | Ninguno             | Ninguno    | Special         |
+| Arcane Laboratory  | 6     | 4   | Ninguno | Ninguno             | Ninguno    | Special         |
+| Free Company       | 8     | 6   | Ninguno | W v. F/2d4+2 damage | 1d6 damage | Action, Special |
+| Manufactory        | 8     | 4   | Ninguno | Ninguno             | 1d4 damage | Action          |
 
-| Wealth 4 Asset         | Cost | HP  | Magic | Attack             | Counter     | Qualities |
-| ---------------------- | ---- | --- | ----- | ------------------ | ----------- | --------- |
-| Healers                | 12   | 8   | None  | None               | None        | Action    |
-| Monopoly               | 8    | 12  | None  | W v. W/1d6 damage  | 1d6 damage  | Action    |
-| Occult Countermeasures | 10   | 8   | Low   | W v. C/2d10 damage | 1d10 damage | Special   |
-| Usurers                | 12   | 8   | None  | W v. W/1d10 damage | None        | Action    |
+| Wealth 4 Asset         | Coste | HP  | Magic   | Attack             | Counter     | Qualities |
+| ---------------------- | ----- | --- | ------- | ------------------ | ----------- | --------- |
+| Healers                | 12    | 8   | Ninguno | Ninguno            | Ninguno     | Action    |
+| Monopoly               | 8     | 12  | Ninguno | W v. W/1d6 damage  | 1d6 damage  | Action    |
+| Occult Countermeasures | 10    | 8   | Low     | W v. C/2d10 damage | 1d10 damage | Special   |
+| Usurers                | 12    | 8   | Ninguno | W v. W/1d10 damage | Ninguno     | Action    |
 
-| Wealth 5 Asset      | Cost | HP  | Magic | Attack            | Counter | Qualities      |
-| ------------------- | ---- | --- | ----- | ----------------- | ------- | -------------- |
-| Mad Genius          | 6    | 2   | None  | W v. C/1d6 damage | None    | Action         |
-| Smuggling Fleet     | 12   | 6   | None  | W v. F/2d6 damage | None    | Subtle, Action |
-| Supply Interruption | 10   | 8   | None  | C v. W/1d6 damage | None    | Subtle, Action |
+| Wealth 5 Asset      | Coste | HP  | Magic   | Attack            | Counter | Qualities      |
+| ------------------- | ----- | --- | ------- | ----------------- | ------- | -------------- |
+| Mad Genius          | 6     | 2   | Ninguno | W v. C/1d6 damage | Ninguno | Action         |
+| Smuggling Fleet     | 12    | 6   | Ninguno | W v. F/2d6 damage | Ninguno | Subtle, Action |
+| Supply Interruption | 10    | 8   | Ninguno | C v. W/1d6 damage | Ninguno | Subtle, Action |
 
-| Wealth 6 Asset      | Cost | HP  | Magic | Attack            | Counter    | Qualities      |
-| ------------------- | ---- | --- | ----- | ----------------- | ---------- | -------------- |
-| Economic Disruption | 25   | 10  | None  | W v. W/2d6 damage | None       | Subtle, Action |
-| Merchant Prince     | 20   | 10  | None  | W v. W/2d8 damage | 1d8 damage | Action         |
-| Trade Company       | 15   | 10  | None  | W v. W/2d6 damage | 1d6 damage | Action         |
+| Wealth 6 Asset      | Coste | HP  | Magic   | Attack            | Counter    | Qualities      |
+| ------------------- | ----- | --- | ------- | ----------------- | ---------- | -------------- |
+| Economic Disruption | 25    | 10  | Ninguno | W v. W/2d6 damage | Ninguno    | Subtle, Action |
+| Merchant Prince     | 20    | 10  | Ninguno | W v. W/2d8 damage | 1d8 damage | Action         |
+| Trade Company       | 15    | 10  | Ninguno | W v. W/2d6 damage | 1d6 damage | Action         |
 
-| Wealth 7 Asset    | Cost | HP  | Magic  | Attack             | Counter    | Qualities |
-| ----------------- | ---- | --- | ------ | ------------------ | ---------- | --------- |
-| Ancient Workshop  | 25   | 16  | Medium | None               | None       |           |
-| Lead or Silver    | 20   | 10  | None   | W v. W/2d10 damage | 2d8 damage |           |
-| Transport Network | 15   | 5   | None   | W v. W/1d12 damage | None       | Action    |
+| Wealth 7 Asset     | Coste | HP  | Magic   | Attack             | Counter    | Qualities |
+| ------------------ | ----- | --- | ------- | ------------------ | ---------- | --------- |
+| Ancient Workshop   | 25    | 16  | Media   | Ninguno            | Ninguno    |           |
+| Lead or Silver     | 20    | 10  | Ninguno | W v. W/2d10 damage | 2d8 damage |           |
+| Transporte Network | 15    | 5   | Ninguno | W v. W/1d12 damage | Ninguno    | Action    |
 
-| Wealth 8 Asset    | Cost | HP  | Magic  | Attack              | Counter     | Qualities |
-| ----------------- | ---- | --- | ------ | ------------------- | ----------- | --------- |
-| Golden Prosperity | 40   | 30  | Medium | None                | 2d10 damage |           |
-| Hired Legion      | 30   | 20  | None   | W v F/2d10+4 damage | 2d10 damage | Action    |
+| Wealth 8 Asset    | Coste | HP  | Magic   | Attack              | Counter     | Qualities |
+| ----------------- | ----- | --- | ------- | ------------------- | ----------- | --------- |
+| Golden Prosperity | 40    | 30  | Media   | Ninguno             | 2d10 damage |           |
+| Hired Legion      | 30    | 20  | Ninguno | W v F/2d10+4 damage | 2d10 damage | Action    |

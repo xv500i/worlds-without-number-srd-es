@@ -175,7 +175,7 @@ Hay algunos Focos o Talentos que impiden que un combatiente quede sorprendido o 
 En ese caso, actúan primero durante la ronda de combate, aunque el resto de su bando actue luego.
 Si hay más de un combatiente con estos poderes, tiran iniciativa entre ellos para ver quien actua primero.
 
-### Combate Action Types
+### Tipos de Acción de Combate
 
 Los ataques, el movimiento, el lanzamiento de hechizos y otras actividades del combate requiren de uno o más tipos acciones.
 
@@ -413,7 +413,7 @@ Algunas Heridas pueden durar más que otras.
 ### Heridas Mortales y Estabilización
 
 Cuando un PC pierde todos los puntos de vida debido a un ataque letal, pasan a estar Herido Mortalmente.
-El PC morirá al final de la 6a ronda después de que lo incapaciten a menos que lo estabilice un aliado o efecto.ial ability.
+El PC morirá al final de la 6a ronda después de que lo incapaciten a menos que lo estabilice un aliado o el efecto especial.
 
 Un personaje Herido Mortalmente está indefenso y no puede realizar acciones ni hacer nada útil.
 
@@ -517,7 +517,7 @@ Si no, el grupo que huye escapa.
 | Los que huyen tienen una ronda de ventaja             | +1          |
 | Los que huyen tienen menos de un minuto de ventaja    | +0          |
 | Los que huyen tienen más de un minuto de ventaja      | -2          |
-| Quién conoce mejor el terreno por el que se corre?    | -2 to +2    |
+| Quién conoce mejor el terreno por el que se corre?    | -2 a +2     |
 | Los perseguidores no tienen muchas ganas de perseguir | -1          |
 | Los perseguidores están enfadados o buscan venganza   | +1          |
 
@@ -538,7 +538,7 @@ Los perseguidores sin montura generalmente no tienen opción de perseguir person
 | Los perseguidores vuelan y los perseguidos no               | +3          |
 | Los perseguidos vuelan pero los perseguidores no            | -3          |
 | Un explorador está revelando la posición de los perseguidos | +1          |
-| Quién conoce mejor el terreno?                              | -2 to +2    |
+| Quién conoce mejor el terreno?                              | -2 a +2     |
 | Los perseguidores no tienen muchas ganas de perseguir       | -1          |
 | Los perseguidores están enfadados o buscan venganza         | +1          |
 
@@ -603,13 +603,13 @@ Un PJ debe respetar el requisito de nivel mínimo antes de subir la habilidad.
 
 Un PJ no puede desarollar habilidades por encima de Nivel-4.
 
-| Nivel de Habilidad | Cost de Puntos | Nivel Mínimo del PJ |
-| ------------------ | -------------- | ------------------- |
-| 0                  | 1              | 1                   |
-| 1                  | 2              | 1                   |
-| 2                  | 3              | 3                   |
-| 3                  | 4              | 6                   |
-| 4                  | 5              | 9                   |
+| Nivel de Habilidad | Coste de Puntos | Nivel Mínimo del PJ |
+| ------------------ | --------------- | ------------------- |
+| 0                  | 1               | 1                   |
+| 1                  | 2               | 1                   |
+| 2                  | 3               | 3                   |
+| 3                  | 4               | 6                   |
+| 4                  | 5               | 9                   |
 
 #### Mejora de Atributos
 
